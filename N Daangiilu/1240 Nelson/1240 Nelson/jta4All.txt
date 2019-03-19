@@ -1,0 +1,39 @@
+Primary = M0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Nelson	E200200-A	(Temperate)Planetoid belt	Y-100187-5
+1 = World  (Inferno)	Y-1B0000-0
+2 = World  (RadWorld)	Y-155000-0
+	  Ring @ Orbit ?
+3 = 
+4 = Planetoid belt	F-100161-9
+5 = 
+6 = 
+7 = 
+8 = 
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = World  (Inferno)	Y-1B0000-0
+	  StormWorld	  	Y-102000-0 @ Orbit G
+	  Worldlet	  	Y-177185-6 @ Orbit T
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 15
+W = 6
+syscount = 1
+min = 0
+count = 5

@@ -1,0 +1,83 @@
+Primary = K0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (Hospitable)	Y596326-7World  (Worldlet)	F22379D-7World  (Worldlet)	Y330352-7
+1 = Mainworld	Bakor	B878869-8	(Hot)
+	Orbits LGG (50,000 mi dia.)	S=23 @ orbit R
+	  RadWorld	  	Y641000-0 @ Orbit I
+	  StormWorld	  	HC003CG-4 @ Orbit SWorld  (BigWorld)	HE55120-J
+	  StormWorld	  	H42328A-2 @ Orbit R
+	  Hospitable	  	Y578533-5 @ Orbit S
+	  Worldlet	  	G177524-6 @ Orbit T
+	  BigWorld	  	HC30643-7 @ Orbit W
+	  RadWorld	  	YBB6000-0 @ Orbit X
+2 = Planetoid belt	G0007A7-5World  (Worldlet)	F0207CC-7
+	  Ring @ Orbit ?
+3 = World  (Worldlet)	Y322303-7
+	  Ring @ Orbit ?World  (BigWorld)	YC207BC-H
+	  IceWorld	  	Y200476-4 @ Orbit W
+4 = World  (Inferno)	Y4B0000-0
+	  OuterWorld	  	Y110530-7 @ Orbit I
+	  Worldlet	  	H010787-5 @ Orbit T
+5 = World  (StormWorld)	Y722000-0
+6 = World  (Hospitable)	G130647-7
+	  StormWorld	  	FC10156-6 @ Orbit V
+7 = World  (Hospitable)	F310221-7
+	  RadWorld	  	Y936000-0 @ Orbit J
+	  Worldlet	  	G020667-7 @ Orbit R
+8 = World  (BigWorld)	GH6A79B-7
+	  IceWorld	  	G110655-4 @ Orbit J
+	  StormWorld	  	G500199-5 @ Orbit R
+9 = World  (Inferno)	Y5B0000-0
+	  StormWorld	  	Y500151-6 @ Orbit OWorld  (StormWorld)	YC32000-D
+	  Ring @ Orbit W
+10 = World  (Worldlet)	F36379B-7
+	  StormWorld	  	Y460000-0 @ Orbit H
+	  OuterWorld	  	H445664-7 @ Orbit J
+	  OuterWorld	  	H985355-7 @ Orbit V
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = STAR M3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  13
+	HZ =  -1
+	16-0 = 
+	16-1 = 
+	16-2 = 
+	16-3 = 
+	16-4 = 
+	16-5 = 
+	16-6 = 
+	16-7 = 
+	16-8 = 
+	16-9 = 
+	16-10 = 
+	16-11 = 
+	16-12 = 
+	16-13 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 8
+syscount = 2
+min = 0
+W = 17
+Extra Stars = 1
+count = 12

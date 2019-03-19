@@ -1,0 +1,80 @@
+Hex = 2808
+Name = Spinport
+UWP = D575A84-A
+Starport = D
+	Quality = Poor
+	Yards = No
+	Repairs = Minor damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 7
+	DIGIT	DESCRIPTION	EFFECTS
+	7	Standard, Tainted	P1
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+Population = A
+	POPULATION UNDER 80,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	A	Ten billion	0,000,000,000
+Government = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit
+Law Level = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Moderate Law	Laser, Beam weapons prohibited
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = Hi In
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	In		012479		9ABC			industrial	
+{Ix} = { 2 }
+	Starport D = -1
+	TL 10 = +1
+	Hi  = +1
+	In  = +1
+	Importance = Normal (2)+0=2
+(Ex) = (E9C+1)
+	Resources =  14
+	Labour =  9
+	Infrastructure =  12
+	Efficiency =  1
+	RU = 1512
+[Cx] = [8C38]
+	Homogeneity = 8
+	Acceptance = 12
+	Strangeness = 3
+	Symbols = 8
+N = BE
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 820
+	Population Multiplier = 8
+	POPULATION UNDER 80,000,000,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 15
+	Non Stars In System = 15
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 12 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 V
+	Stars = 1

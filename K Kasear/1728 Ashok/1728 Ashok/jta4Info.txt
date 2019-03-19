@@ -1,0 +1,77 @@
+Hex = 1728
+Name = Ashok
+UWP = B698100-A
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 6
+	DIGIT	DIA(MI)	DIA(KM)
+	6	6,000	9,600
+Atmosphere = 9
+	DIGIT	DESCRIPTION	EFFECTS
+	9	Dense, Tainted	P1
+Hydrosphere = 8
+	DIGIT	DESCRIPTION
+	8	80%
+Population = 1
+	POPULATION UNDER 90
+	DIGIT	DESCRIPTION	VALUE
+	1	Tens	0
+Government = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Government Structure	Family bonds predominate
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+{Ix} = { 1 }
+	Starport B = +1
+	TL 10 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (511-3)
+	Resources =  5
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -3
+	RU = -15
+[Cx] = [1215]
+	Homogeneity = 1
+	Acceptance = 2
+	Strangeness = 1
+	Symbols = 5
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 920
+	Population Multiplier = 9
+	POPULATION UNDER 90
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 16
+	Non Stars In System = 16
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 13 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G0 V
+	Stars = 1

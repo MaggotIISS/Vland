@@ -1,0 +1,76 @@
+Hex = 2316
+Name = Kagush
+UWP = A736300-A
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+Atmosphere = 3
+	DIGIT	DESCRIPTION	EFFECTS
+	3	VThin	S2
+Hydrosphere = 6
+	DIGIT	DESCRIPTION
+	6	60%
+Population = 3
+	POPULATION UNDER 7,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+Government = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Government Structure	Family bonds predominate
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+{Ix} = { 1 }
+	Starport A = +1
+	TL 10 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (B21-3)
+	Resources =  11
+	Labour =  2
+	Infrastructure =  1
+	Efficiency =  -3
+	RU = -66
+[Cx] = [1415]
+	Homogeneity = 1
+	Acceptance = 4
+	Strangeness = 1
+	Symbols = 5
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 724
+	Population Multiplier = 7
+	POPULATION UNDER 7,000
+	Planetoid Belts = 2
+	Gas Giants = 4
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-4 (gas giants)
+	 = 2 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K6 V
+	Stars = 1

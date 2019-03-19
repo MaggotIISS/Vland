@@ -1,0 +1,14 @@
+Hex = 3130
+Name = Gamidan
+UWP = CA5A454-9
+Remarks = Ni Oc
+{Ix} = { -1 }
+(Ex) = (932-3)
+[Cx] = [2337]
+N = B
+B = -
+Z = -
+PBG = 512
+W = 15
+A = ImDv
+Stellar = M1 V G1 V

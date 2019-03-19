@@ -1,0 +1,66 @@
+Primary = K2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = Planetoid belt	F000488-4
+1 = World  (Worldlet)	Y021000-0
+2 = Mainworld	Karlum	B57A500-E	(Temperate)World  (Hospitable)	F263463-2
+3 = 
+4 = Planetoid belt	H0004BB-9
+5 = World  (Inferno)	Y2B0000-0
+	  IceWorld	  	H2204AF-7 @ Orbit V
+6 = World  (Hospitable)	Y287000-0
+	  Worldlet	  	H289477-8 @ Orbit H
+	  StormWorld	  	Y220000-0 @ Orbit P
+7 = World  (BigWorld)	Y2B4383-7
+	  Worldlet	  	Y0B4476-7 @ Orbit D
+	  StormWorld	  	Y255000-0 @ Orbit G
+	  Worldlet	  	Y210220-4 @ Orbit Y
+8 = World  (Hospitable)	F241448-C
+9 = 
+10 = World  (StormWorld)	Y200000-0
+	  StormWorld	  	Y210000-0 @ Orbit E
+	  RadWorld	  	Y240000-0 @ Orbit T
+11 = 
+12 = 
+13 = 
+14 = STAR K5 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  11
+	HZ =  -1
+	14-0 = 
+	14-1 = 
+	14-2 = 
+	14-3 = 
+	14-4 = 
+	14-5 = 
+	14-6 = 
+	14-7 = 
+	14-8 = 
+	14-9 = 
+	14-10 = 
+	14-11 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 10
+syscount = 2
+min = 0
+W = 10
+Extra Stars = 1
+count = 10

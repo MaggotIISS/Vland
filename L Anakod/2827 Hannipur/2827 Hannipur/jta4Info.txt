@@ -1,0 +1,81 @@
+Hex = 2827
+Name = Hannipur
+UWP = E100979-B
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 1
+	DIGIT	DIA(MI)	DIA(KM)
+	1	1,000	1,600
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 9
+	POPULATION UNDER 2,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	9	Billion	,000,000,000
+Government = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Balkanization	Rival governments continually compete for control of the world
+Law Level = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	High Law	Weapons outside the home prohibited
+Tech Level = B
+	DIGIT		
+	B		
+Remarks = Hi In Na Va
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	In		012479		9ABC			industrial	
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Va		0					Vacuum	
+{Ix} = { 2 }
+	Starport E = -1
+	TL 11 = +1
+	Hi  = +1
+	In  = +1
+	Importance = Normal (2)+0=2
+(Ex) = (C8D+3)
+	Resources =  12
+	Labour =  8
+	Infrastructure =  13
+	Efficiency =  3
+	RU = 3744
+[Cx] = [AB6C]
+	Homogeneity = 10
+	Acceptance = 11
+	Strangeness = 6
+	Symbols = 12
+N = BE
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 201
+	Population Multiplier = 2
+	POPULATION UNDER 2,000,000,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 11
+	Non Stars In System = 11
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 9 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = F4 IV M2 V
+	Stars = 2

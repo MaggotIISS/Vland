@@ -1,0 +1,223 @@
+Vland/L Anakod
+
+2527 Kaple - E421656-9
+	Defence CF = 1
+
+2530 Thaggesh - B6668A8-A
+	SDB Squadrons = 10
+	Starship Squadrons = 1
+	Troop CF = 5
+	Defence CF = 100
+  TROOP FORCES
+0001-2000-5(5)-A
+
+
+
+2621 Malvar - C683797-8
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 5
+  TROOP FORCES
+0001-0000-1(1)-8
+
+
+
+2624 Shera - C6838AB-8
+	SDB Squadrons = 5
+	Troop CF = 5
+	Defence CF = 50
+  TROOP FORCES
+0001-2000-5(5)-8
+
+
+
+2628 Floranus - C8B3786-9
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 10
+  TROOP FORCES
+0001-0000-1(1)-9
+
+
+
+2629 Rikaan - D8D8898-7
+	SDB Squadrons = 5
+	Troop CF = 5
+	Defence CF = 50
+  TROOP FORCES
+0001-2000-5(5)-7
+
+
+
+2723 Klidon - D76388B-6
+	Defence CF = 20
+
+2728 Depot - A59466A-C
+	Defence CF = 2
+
+---HI POP TARGET---
+2824 Jana - C300963-C
+	SDB Squadrons = 120
+	Starship Squadrons = 2
+	Troop CF = 50
+	Defence CF = 1200
+  TROOP FORCES
+0001-0112-8(1)-C
+0002-0112-8(1)-C
+0003-0112-8(1)-C
+0004-0112-8(1)-C
+0005-0112-8(1)-C
+0006-0112-8(1)-C
+0007-0002-2(1)-C
+
+
+
+---HI POP TARGET---
+2827 Hannipur - E100979-B
+	SDB Squadrons = 120
+	Starship Squadrons = 2
+	Troop CF = 50
+	Defence CF = 1200
+  TROOP FORCES
+0001-2112-40(5)-B
+0002-0112-8(1)-B
+0003-0100-2(1)-B
+
+
+
+---HI POP TARGET---
+2829 Luukon - A5779B6-C
+	SDB Squadrons = 120
+	Starship Squadrons = 2
+	Troop CF = 50
+	Defence CF = 1200
+  TROOP FORCES
+0001-2112-40(5)-C
+0002-1012-8(2)-C
+0003-0002-2(1)-C
+
+
+
+2926 Sanderson - A9C4688-D
+	Defence CF = 2
+
+3021 Talama - B4106A8-A
+	Defence CF = 1
+
+3024 Bertrand - E200666-7
+	Defence CF = 1
+
+3025 Shervan - E545785-6
+	Defence CF = 2
+
+3122 Ekum - E56068C-6
+	Defence CF = 1
+
+3124 Thaar - D87A79A-7
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 5
+  TROOP FORCES
+0001-0000-1(1)-7
+
+
+
+---HI POP TARGET---
+3125 Inandir - C676AE9-C
+	SDB Squadrons = 1200
+	Starship Squadrons = 4
+	Troop CF = 500
+	Defence CF = 12000
+  TROOP FORCES
+0001-5112-400(50)-C
+0002-3112-80(10)-C
+0003-1112-16(2)-C
+0004-0012-4(1)-C
+
+
+
+3128 Xantril - B676659-B
+	Defence CF = 2
+
+3229 Diikaras - AA9A651-F
+	Defence CF = 2
+
+
+2530-B6668A8-A
+Commodore Iikh
+	Prec 12
+	Plan  3
+	Tactics 0
+	C001-1U-630-6-A
+
+2824-C300963-C
+Commodore Guaggundaaal
+	Prec 15
+	Plan  3
+	Tactics -1
+	C001-1U-730-7-C
+
+2824-C300963-C
+Commodore Iiislamgalii
+	Prec 11
+	Plan  1
+	Tactics 1
+	C002-1U-730-7-C
+
+2827-E100979-B
+Commodore Shiilkinkiin
+	Prec 5
+	Plan  5
+	Tactics -2
+	C001-1U-730-7-B
+
+2827-E100979-B
+Commodore Uiuulkhiir
+	Prec 11
+	Plan  5
+	Tactics -2
+	C002-1U-730-7-B
+
+2829-A5779B6-C
+Commodore Shaalruigzeu
+	Prec 13
+	Plan  5
+	Tactics -2
+	C001-1U-730-7-C
+
+2829-A5779B6-C
+Commodore Khiishsir
+	Prec 15
+	Plan  5
+	Tactics 2
+	C002-1U-730-7-C
+
+3125-C676AE9-C
+Commodore Apgakii
+	Prec 9
+	Plan  3
+	Tactics 0
+	C001-1U-840-8-C
+
+3125-C676AE9-C
+Commodore Miuu
+	Prec 12
+	Plan  2
+	Tactics -2
+	C002-1U-840-8-C
+
+3125-C676AE9-C
+Commodore Uunpiiaashnuuak
+	Prec 6
+	Plan  3
+	Tactics 0
+	C003-1U-840-8-C
+
+3125-C676AE9-C
+Commodore Shurkhimmiag
+	Prec 13
+	Plan  5
+	Tactics 0
+	C004-1U-840-8-C
+
+

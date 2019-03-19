@@ -1,0 +1,14 @@
+Hex = 1810
+Name = Eshu
+UWP = D560100-8
+Remarks = De Lo
+{Ix} = { -3 }
+(Ex) = (711-5)
+[Cx] = [1113]
+N = B
+B = S
+Z = -
+PBG = 322
+W = 9
+A = ImDv
+Stellar = K3 V

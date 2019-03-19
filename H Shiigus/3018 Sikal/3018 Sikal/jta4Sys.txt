@@ -1,0 +1,14 @@
+Hex = 3018
+Name = Sikal
+UWP = C545644-8
+Remarks = Ag Ni
+{Ix} = { -1 }
+(Ex) = (953-3)
+[Cx] = [4536]
+N = BC
+B = S
+Z = -
+PBG = 810
+W = 11
+A = ImDv
+Stellar = M1 V M1 V

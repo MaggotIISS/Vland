@@ -1,0 +1,220 @@
+
+2511 Iigshuren  
+	(Knight) UkShash
+	(Baron) AmMaadBi
+
+
+2512 Imziinune  
+	(Knight) ISharKhadKusMa
+
+
+2513 Shiigus    
+	(Knight) NumGamMin
+	(Marquis) LarShurKhi
+
+
+2515 Gookir     
+	(Knight) SamKudKhiirNiikLu
+	(Viscount) UkhPaar
+
+
+2518 Khe        
+	(Knight) IkSharKuUgKiIsh
+
+
+2519 Muukakam   
+	(Knight) AkLiGaa
+
+
+2520 Ma         
+	(Knight) ShirGaAakh
+
+
+2611 Kimii      
+	(Knight) UUugGa
+	(Marquis) Is
+
+
+2612 Gaska Khiin
+	(Knight) IkhGiidKiiUkhLashKash
+	(Baron) PiAUuIkLan
+
+
+2613 Kusu       
+	(Knight) LidKarGiiLaaMii
+
+
+2615 Malta      
+	(Knight) AkShiEkMerKuu
+
+
+2616 St. George 
+	(Knight) LuAarKaa
+	(Count) KhiirGaAlPu
+	(Duke) ARiinLish
+
+
+2618 Dudid      
+	(Knight) GuIkGiA
+
+
+2620 Mennoral   
+	(Knight) IkKirGaEkhKhash
+	(Baron) UkMaAk
+
+
+2713 Aanshi     
+	(Knight) ShuNuSha
+	(Count) IshMaUm
+
+
+2716 Eriston    
+	(Knight) DuuEIm
+
+
+2812 Alkhaas    
+	(Knight) UshGu
+	(Baron) Ziir
+
+
+2815 Karmanidora
+	(Knight) AsMa
+
+
+2816 Faranidon  
+	(Knight) KirRaIg
+	(Count) ELii
+
+
+2818 Tazaris    
+	(Knight) AdGuIgLii
+
+
+2820 Anzalits   
+	(Knight) UMa
+
+
+2911 Naalkin    
+	(Knight) SeE
+	(Baron) ShaNeLirKha
+
+
+2912 Damakho    
+	(Knight) DuZaMishGumDuNii
+	(Baron) MuLuAgRiirLuuAa
+
+
+2914 Mimere     
+	(Knight) IgNiGer
+	(Count) MuMiiKhaarRad
+	(Duke) IkShuI
+
+
+2915 Lormiza    
+	(Knight) ZirGam
+
+
+2916 Iizmarna   
+	(Knight) AgKarLarSuur
+
+
+2918 Beroni     
+	(Knight) DaUkhKuGish
+	(Baron) Ku
+
+
+2919 Alanidon   
+	(Knight) DisRimKeshLirMapLuu
+	(Baronet) IgMirSham
+
+
+2920 Sidenis    
+	(Knight) AgKhiiIkDa
+
+
+3011 Lourer     
+	(Knight) GiKhaGuuIinGinKhash
+	(Count) GuLiShirShishKa
+
+
+3014 Zaan       
+	(Knight) IkGuupGiiI
+	(Baronet) IgShaDuKhemKashGa
+
+
+3018 Sikal      
+	(Knight) Ush
+	(Baron) ShuNaIn
+
+
+3019 Braldini   
+	(Knight) IkhKeAkhKuShu
+	(Baron) KiIish
+	(Marquis) RasMuur
+
+
+3020 Trilorn    
+	(Knight) NaIsh
+	(Marquis) UkKarGeg
+	(Viscount) UlLuu
+
+
+3111 Kalanuu    
+	(Knight) LaEkKaEgMi
+	(Baron) IdKimDuInGar
+
+
+3115 Dusuureg   
+	(Knight) KerMaIshKhaaMaaSa
+
+
+3116 Kirlasesh  
+	(Knight) Ik
+	(Baron) SheIAlKanSeAm
+
+
+3117 Altman     
+	(Knight) IgKhaAlRuumSa
+	(Baron) ABiirGaZirKas
+
+
+3119 Aarkhiin   
+	(Knight) IsShigMaE
+	(Baron) IikhDaKhi
+
+
+3211 Urkimgar   
+	(Knight) IikDad
+	(Baronet) UrNiUkhMi
+
+
+3212 Amnukun    
+	(Knight) LuZaKhenKheIs
+	(Count) UkhGirKhu
+	(Duke) SiUg
+
+
+3213 Ami        
+	(Knight) UUn
+	(Baronet) UkGidLuAgGa
+	(Baron) AAUm
+
+
+3214 Khunimmam  
+	(Knight) AdGiGashMaArKid
+
+
+3215 Shaia      
+	(Knight) Uk
+	(Count) AgBaUd
+	(Duke) AgNinShurKaMarRa
+
+
+3216 Kigirgam   
+	(Knight) KuKen
+
+
+3218 Gisharu    
+	(Knight) InKhigGiAlShur
+	(Baron) UumMiAamGiiErLiin
+

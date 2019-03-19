@@ -1,0 +1,14 @@
+Hex = 3201
+Name = Thoegzknaedz
+UWP = C676532-9
+Remarks = Ag Ni
+{Ix} = { 0 }
+(Ex) = (A44-4)
+[Cx] = [1515]
+N = -
+B = C
+Z = -
+PBG = 603
+W = 7
+A = NaVa
+Stellar = M2 V

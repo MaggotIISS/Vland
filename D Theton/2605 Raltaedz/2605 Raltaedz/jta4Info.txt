@@ -1,0 +1,79 @@
+Hex = 2605
+Name = Raltaedz
+UWP = B430264-D
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 3
+	DIGIT	DESCRIPTION	EFFECTS
+	3	VThin	S2
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 2
+	POPULATION UNDER 500
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+Government = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Captive Government/Colony	Rule by a leadership answerable to an outside group
+Law Level = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Moderate Law	Laser, Beam weapons prohibited
+Tech Level = D
+	DIGIT		
+	D		
+Remarks = De Lo Po O:2205
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	De	23456789	0					Desert	
+	Lo				123			Low Population	
+	Po		2345	0123				Poor	
+	Ruled by 2205 Anarsi
+{Ix} = { 1 }
+	Starport B = +1
+	TL 13 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (811-1)
+	Resources =  8
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -1
+	RU = -8
+[Cx] = [133B]
+	Homogeneity = 1
+	Acceptance = 3
+	Strangeness = 3
+	Symbols = 11
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 504
+	Population Multiplier = 5
+	POPULATION UNDER 500
+	Planetoid Belts = 0
+	Gas Giants = 4
+W = 15
+	Non Stars In System = 15
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-4 (gas giants)
+	 = 10 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V
+	Stars = 1

@@ -1,0 +1,14 @@
+Hex = 0701
+Name = Taegzdueg
+UWP = C665552-9
+Remarks = Ag Ni Ga Pr
+{Ix} = { 0 }
+(Ex) = (C44-4)
+[Cx] = [1515]
+N = -
+B = -
+Z = -
+PBG = 314
+W = 12
+A = NaHu
+Stellar = G0 V M5 V

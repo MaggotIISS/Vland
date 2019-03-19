@@ -1,0 +1,50 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Bertrand	E200666-7	(Temperate)
+	  Ring @ Orbit ?LGG (90,000 mi dia.)	S=2C
+	  Hospitable	  	Y768559-6 @ Orbit GWorld  (BigWorld)	FC79432-F
+	  BigWorld	  	H900477-6 @ Orbit T
+1 = LGG (90,000 mi dia.)	S=27
+	  RadWorld	  	Y954000-0 @ Orbit E
+	  Hospitable	  	H468599-6 @ Orbit G
+	  StormWorld	  	YB00000-0 @ Orbit S
+	  RadWorld	  	YB00000-0 @ Orbit T
+2 = 
+3 = World  (Hospitable)	G674543-6
+4 = LGG (80,000 mi dia.)	S=26
+	  RadWorld	  	Y-100000-0 @ Orbit E
+	  IceWorld	  	Y-150333-6 @ Orbit I
+	  BigWorld	  	F-143100-3 @ Orbit U
+	  IceWorld	  	H-100420-6 @ Orbit V
+	  Worldlet	  	Y-1655AC-3 @ Orbit Y
+5 = World  (Worldlet)	Y399132-6
+6 = 
+7 = 
+8 = 
+9 = Planetoid belt	Y000586-6
+10 = 
+11 = World  (Worldlet)	G220567-6
+	  StormWorld	  	Y571000-0 @ Orbit P
+	  Worldlet	  	G09A100-6 @ Orbit V
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 13
+syscount = 1
+min = 0
+W = 9
+Extra Stars = 0
+count = 7

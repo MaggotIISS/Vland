@@ -1,0 +1,14 @@
+Hex = 1535
+Name = Malapaan
+UWP = C426841-A
+Remarks = Ph Pi
+{Ix} = { 1 }
+(Ex) = (C7A-3)
+[Cx] = [4916]
+N = BDe
+B = -
+Z = -
+PBG = 620
+W = 9
+A = ImDv
+Stellar = K0 V

@@ -1,0 +1,78 @@
+Hex = 1038
+Name = Isle
+UWP = E68AA87-B
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 6
+	DIGIT	DIA(MI)	DIA(KM)
+	6	6,000	9,600
+Atmosphere = 8
+	DIGIT	DESCRIPTION	EFFECTS
+	8	Dense	
+Hydrosphere = A
+	DIGIT	DESCRIPTION
+	A	Water World
+Population = A
+	POPULATION UNDER 90,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	A	Ten billion	0,000,000,000
+Government = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit
+Law Level = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Moderate Law	Prohibition of Pistols
+Tech Level = B
+	DIGIT		
+	B		
+Remarks = Hi Wa
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	Wa	56789		A				Water World	
+{Ix} = { 1 }
+	Starport E = -1
+	TL 11 = +1
+	Hi  = +1
+	Importance = Normal (1)+0=1
+(Ex) = (D9C+1)
+	Resources =  13
+	Labour =  9
+	Infrastructure =  12
+	Efficiency =  1
+	RU = 1404
+[Cx] = [AB5B]
+	Homogeneity = 10
+	Acceptance = 11
+	Strangeness = 5
+	Symbols = 11
+N = BE
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 901
+	Population Multiplier = 9
+	POPULATION UNDER 90,000,000,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 7 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K0 V M3 V
+	Stars = 2

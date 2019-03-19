@@ -1,0 +1,14 @@
+Hex = 2921
+Name = Iton
+UWP = CAA7565-9
+Remarks = Fl Ni O:3021
+{Ix} = { -1 }
+(Ex) = (843-3)
+[Cx] = [3437]
+N = B
+B = -
+Z = -
+PBG = 901
+W = 10
+A = ImDv
+Stellar = M1 V

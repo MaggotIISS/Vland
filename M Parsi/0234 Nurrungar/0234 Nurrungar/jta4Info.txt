@@ -1,0 +1,78 @@
+Hex = 0234
+Name = Nurrungar
+UWP = A649100-F
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 6
+	DIGIT	DIA(MI)	DIA(KM)
+	6	6,000	9,600
+Atmosphere = 4
+	DIGIT	DESCRIPTION	EFFECTS
+	4	Thin, Tainted	P1, S1
+Hydrosphere = 9
+	DIGIT	DESCRIPTION
+	9	90%
+Population = 1
+	POPULATION UNDER 80
+	DIGIT	DESCRIPTION	VALUE
+	1	Tens	0
+Government = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Government Structure	Family bonds predominate
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = F
+	DIGIT		
+	F		
+Remarks = Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+{Ix} = { 2 }
+	Starport A = +1
+	TL 15 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+1=2
+(Ex) = (411-2)
+	Resources =  4
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -2
+	RU = -8
+[Cx] = [131A]
+	Homogeneity = 1
+	Acceptance = 3
+	Strangeness = 1
+	Symbols = 10
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = NS
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 810
+	Population Multiplier = 8
+	POPULATION UNDER 80
+	Planetoid Belts = 1
+	Gas Giants = 0
+W = 11
+	Non Stars In System = 11
+	-1 (mainworld)
+	-1 (planetoid belts)
+	-0 (gas giants)
+	 = 9 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M3 V M3 V
+	Stars = 2

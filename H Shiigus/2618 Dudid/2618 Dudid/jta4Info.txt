@@ -1,0 +1,77 @@
+Hex = 2618
+Name = Dudid
+UWP = B510526-A
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 1
+	DIGIT	DESCRIPTION	EFFECTS
+	1	Trace	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 5
+	POPULATION UNDER 500,000
+	DIGIT	DESCRIPTION	VALUE
+	5	Hundred thousand	00,000
+Government = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Participating Democracy	Rule by popular vote
+Law Level = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Moderate Law	Pohibition of Machineguns
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = Ni
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+{Ix} = { 1 }
+	Starport B = +1
+	TL 10 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (845+1)
+	Resources =  8
+	Labour =  4
+	Infrastructure =  5
+	Efficiency =  1
+	RU = 160
+[Cx] = [4649]
+	Homogeneity = 4
+	Acceptance = 6
+	Strangeness = 4
+	Symbols = 9
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 501
+	Population Multiplier = 5
+	POPULATION UNDER 500,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 8
+	Non Stars In System = 8
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M0 V M0 V
+	Stars = 2

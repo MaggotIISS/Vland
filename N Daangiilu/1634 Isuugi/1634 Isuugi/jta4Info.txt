@@ -1,0 +1,80 @@
+Hex = 1634
+Name = Isuugi
+UWP = E756546-5
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+Atmosphere = 5
+	DIGIT	DESCRIPTION	EFFECTS
+	5	This	S1
+Hydrosphere = 6
+	DIGIT	DESCRIPTION
+	6	60%
+Population = 5
+	POPULATION UNDER 400,000
+	DIGIT	DESCRIPTION	VALUE
+	5	Hundred thousand	00,000
+Government = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Representative Democracy	Government by proxy
+Law Level = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Moderate Law	Pohibition of Machineguns
+Tech Level = 5
+	DIGIT		
+	5		
+Remarks = Ag Ni Ga
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ag		456789	45678	567			Agricultural	
+	Ni				456			Non Industrial	
+	Ga	678	568	567				Garden World	
+{Ix} = { -2 }
+	Starport E = -1
+	TL 5 = -1
+	Ag  = +1
+	Pop < 7 = -1
+	Importance = Unimportant (-2)+0=-2
+(Ex) = (742-3)
+	Resources =  7
+	Labour =  4
+	Infrastructure =  2
+	Efficiency =  -3
+	RU = -168
+[Cx] = [4344]
+	Homogeneity = 4
+	Acceptance = 3
+	Strangeness = 4
+	Symbols = 4
+N = BC
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 413
+	Population Multiplier = 4
+	POPULATION UNDER 400,000
+	Planetoid Belts = 1
+	Gas Giants = 3
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-1 (planetoid belts)
+	-3 (gas giants)
+	 = 7 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G6 V G0 V
+	Stars = 2

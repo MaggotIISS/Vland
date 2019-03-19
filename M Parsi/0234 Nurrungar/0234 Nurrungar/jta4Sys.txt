@@ -1,0 +1,14 @@
+Hex = 0234
+Name = Nurrungar
+UWP = A649100-F
+Remarks = Lo
+{Ix} = { 2 }
+(Ex) = (411-2)
+[Cx] = [131A]
+N = B
+B = NS
+Z = -
+PBG = 810
+W = 11
+A = ImDv
+Stellar = M3 V M3 V

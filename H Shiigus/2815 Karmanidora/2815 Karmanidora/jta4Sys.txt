@@ -1,0 +1,14 @@
+Hex = 2815
+Name = Karmanidora
+UWP = C310330-B
+Remarks = Lo
+{Ix} = { 0 }
+(Ex) = (721-4)
+[Cx] = [1316]
+N = B
+B = -
+Z = -
+PBG = 702
+W = 9
+A = ImDv
+Stellar = K4 V

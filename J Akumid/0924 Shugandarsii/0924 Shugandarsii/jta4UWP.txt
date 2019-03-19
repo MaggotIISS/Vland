@@ -1,0 +1,39 @@
+E745322-7
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+
+Atmosphere = 4
+	DIGIT	DESCRIPTION	EFFECTS
+	4	Thin, Tainted	P1, S1
+
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+
+Population = 3
+	POPULATION UNDER 4,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+
+Government = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Participating Democracy	Rule by popular vote
+
+Law Level = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Low Law	Prohibition of 'portable' weapons
+
+Tech Level = 7
+	DIGIT		
+	7		
+

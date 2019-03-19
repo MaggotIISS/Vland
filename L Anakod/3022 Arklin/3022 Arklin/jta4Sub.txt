@@ -1,0 +1,4 @@
+L ANAKOD
+
+	WORLDS IN SUBSECTOR = 43
+	ImDv: "Third Imperium, Domain of Vland" = 43 worlds

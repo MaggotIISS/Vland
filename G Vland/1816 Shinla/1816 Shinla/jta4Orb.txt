@@ -1,0 +1,81 @@
+Primary = K2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = LGG (70,000 mi dia.)	S=25
+	  Inferno	  	Y2B0000-0 @ Orbit D
+	  Worldlet	  	Y197556-7 @ Orbit E
+	  StormWorld	  	Y292000-0 @ Orbit F
+	  Worldlet	  	H220304-7 @ Orbit G
+	  RadWorld	  	Y210000-0 @ Orbit FWorld  (RadWorld)	Y230000-I
+	  Worldlet	  	H246255-7 @ Orbit Q
+	  Inferno	  	Y2B0000-0 @ Orbit R
+	  InnerWorld	  	H273262-7 @ Orbit GWorld  (Inferno)	Y2B0000-S
+	  StormWorld	  	Y236000-0 @ Orbit V
+	  Worldlet	  	Y023435-3 @ Orbit W
+	  BigWorld	  	H210746-6 @ Orbit X
+1 = STAR M9 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 0
+	d1000Limit = 5
+	NO Orbits
+2 = Mainworld	Shinla	C5608A9-8	(Temperate)World  (Hospitable)	H264698-7
+	  Ring @ Orbit ?
+3 = LGG (50,000 mi dia.)	S=23
+	  Hospitable	  	G245320-7 @ Orbit F
+	  Hospitable	  	Y221776-7 @ Orbit G
+	  Inferno	  	Y2B0000-0 @ Orbit P
+	  BigWorld	  	Y250314-6 @ Orbit T
+	  StormWorld	  	Y271167-5 @ Orbit X
+4 = LGG (90,000 mi dia.)	S=27
+	  OuterWorld	  	Y223425-7 @ Orbit TWorld  (Worldlet)	Y242000-D
+	  OuterWorld	  	H000646-7 @ Orbit F
+	  Worldlet	  	G055430-4 @ Orbit I
+	  IceWorld	  	Y261300-5 @ Orbit O
+	  OuterWorld	  	H274356-7 @ Orbit P
+	  StormWorld	  	Y200000-0 @ Orbit YWorld  (RadWorld)	Y28A000-Q
+	  Worldlet	  	G010656-7 @ Orbit R
+	  IceWorld	  	H260356-7 @ Orbit S
+	  OuterWorld	  	G120535-7 @ Orbit T
+	  RadWorld	  	Y233000-0 @ Orbit U
+	  BigWorld	  	G200510-6 @ Orbit V
+5 = Planetoid belt	G000320-7
+6 = LGG (50,000 mi dia.)	S=23
+	  Worldlet	  	G034201-4 @ Orbit F
+	  IceWorld	  	F284334-3 @ Orbit H
+	  Worldlet	  	Y27A799-3 @ Orbit J
+	  StormWorld	  	H200375-7 @ Orbit Q
+	  IceWorld	  	Y230762-6 @ Orbit U
+7 = 
+8 = World  (StormWorld)	H243397-4
+9 = 
+10 = World  (StormWorld)	Y200000-0
+	  IceWorld	  	H23078A-7 @ Orbit C
+	  Worldlet	  	Y020777-6 @ Orbit F
+	  StormWorld	  	H200267-7 @ Orbit S
+11 = 
+12 = World  (Hospitable)	F26878C-7
+	  StormWorld	  	Y292000-0 @ Orbit U
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 10
+W = 16
+syscount = 2
+min = 0
+count = 10

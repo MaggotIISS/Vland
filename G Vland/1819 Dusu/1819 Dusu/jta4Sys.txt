@@ -1,0 +1,14 @@
+Hex = 1819
+Name = Dusu
+UWP = C9E4487-A
+Remarks = Ni
+{Ix} = { 0 }
+(Ex) = (833+1)
+[Cx] = [445A]
+N = B
+B = -
+Z = -
+PBG = 520
+W = 6
+A = ImDv
+Stellar = F3 V

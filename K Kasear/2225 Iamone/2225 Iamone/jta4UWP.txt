@@ -1,0 +1,39 @@
+C310A9A-E
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = Yes
+	possBases = S
+
+Size = 3
+	DIGIT	DIA(MI)	DIA(KM)
+	3	3,000	4,800
+
+Atmosphere = 1
+	DIGIT	DESCRIPTION	EFFECTS
+	1	Trace	S3
+
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+
+Population = A
+	POPULATION UNDER 60,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	A	Ten billion	0,000,000,000
+
+Government = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	Impersonal Bureaucracy	Impersonal agencies rule
+
+Law Level = A
+	DIGIT	DESCRIPTION	NOTE
+	A	Extreme Law	Weapon possession prohibited
+
+Tech Level = E
+	DIGIT		
+	E		
+

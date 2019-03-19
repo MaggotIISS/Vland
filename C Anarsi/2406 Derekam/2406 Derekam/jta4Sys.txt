@@ -1,0 +1,14 @@
+Hex = 2406
+Name = Derekam
+UWP = C5468CB-8
+Remarks = Pa Ph Pi Pz
+{Ix} = { -1 }
+(Ex) = (C77+1)
+[Cx] = [A77A]
+N = BcDe
+B = -
+Z = A
+PBG = 120
+W = 10
+A = ImDv
+Stellar = K6 V

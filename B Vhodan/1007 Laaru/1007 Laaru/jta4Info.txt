@@ -1,0 +1,81 @@
+Hex = 1007
+Name = Laaru
+UWP = C69A9CC-C
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = Yes
+	possBases = S
+Size = 6
+	DIGIT	DIA(MI)	DIA(KM)
+	6	6,000	9,600
+Atmosphere = 9
+	DIGIT	DESCRIPTION	EFFECTS
+	9	Dense, Tainted	P1
+Hydrosphere = A
+	DIGIT	DESCRIPTION
+	A	Water World
+Population = 9
+	POPULATION UNDER 4,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	9	Billion	,000,000,000
+Government = C
+	DIGIT	DESCRIPTION	NOTE
+	C	Charismatic Oligarchy	Government by a select religious, mystic, or psionic group, organization, or class enjoying the overwhelming confidence of the citizenry
+Law Level = C
+	DIGIT	DESCRIPTION	NOTE
+	C	Extreme Law	Unrestricted invasion of privacy
+Tech Level = C
+	DIGIT		
+	C		
+Remarks = Hi In Wa Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	In		012479		9ABC			industrial	
+	Wa	56789		A				Water World	
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { 3 }
+	TL 12 = +1
+	Hi  = +1
+	In  = +1
+	Importance = Normal (3)+0=3
+(Ex) = (H8E+5)
+	Resources =  17
+	Labour =  8
+	Infrastructure =  14
+	Efficiency =  5
+	RU = 9520
+[Cx] = [CC8F]
+	Homogeneity = 12
+	Acceptance = 12
+	Strangeness = 8
+	Symbols = 15
+N = BE
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 424
+	Population Multiplier = 4
+	POPULATION UNDER 4,000,000,000
+	Planetoid Belts = 2
+	Gas Giants = 4
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-4 (gas giants)
+	 = 2 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G7 V
+	Stars = 1

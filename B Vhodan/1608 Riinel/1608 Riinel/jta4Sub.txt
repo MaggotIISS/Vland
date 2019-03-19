@@ -1,0 +1,7 @@
+B VHODAN
+
+	WORLDS IN SUBSECTOR = 31
+	CsIm: "Client state, Third Imperium" = 5 worlds
+	ImDv: "Third Imperium, Domain of Vland" = 20 worlds
+	NaHu: "Non-Aligned, Human-dominated" = 3 worlds
+	NaVa: "Non-Aligned, Vargr-dominated" = 3 worlds

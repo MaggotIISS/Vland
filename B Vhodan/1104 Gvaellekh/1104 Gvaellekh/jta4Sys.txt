@@ -1,0 +1,14 @@
+Hex = 1104
+Name = Gvaellekh
+UWP = C885215-8
+Remarks = Lo Ga
+{Ix} = { -2 }
+(Ex) = (511-4)
+[Cx] = [1136]
+N = -
+B = C
+Z = -
+PBG = 610
+W = 8
+A = NaVa
+Stellar = K2 V K6 V

@@ -1,0 +1,54 @@
+Primary = F0 III
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	F	Yellow-White	6,000-7,500
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	III	Normal Giant	4.6 - 360
+	d10Limit = 1
+	d100Limit = 5
+	d1000Limit = 9
+	Min Orbit = 0
+	HZ =  7
+0 = STAR M5 VWorld  (Inferno)	Y1B0000-0
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	III	Normal Giant	4.6 - 360
+	d10Limit = -1
+	d100Limit = 0
+	d1000Limit = 5
+	NO Orbits
+1 = World  (RadWorld)	Y120000-0
+2 = World  (RadWorld)	Y1A4000-0
+	  InnerWorld	  	Y120000-0 @ Orbit V
+3 = 
+4 = World  (Inferno)	Y1B0000-0
+5 = World  (Inferno)	Y1B0000-0
+6 = World  (Inferno)	Y1B0000-0
+	  Hospitable	  	H120499-6 @ Orbit C
+	  Worldlet	  	H0A5453-5 @ Orbit I
+7 = Mainworld	Rhodes	B413534-C	(Temperate)
+	  Worldlet	  	F1B6468-6 @ Orbit E
+	  Worldlet	  	Y042200-A @ Orbit Y
+8 = 
+9 = LGG (90,000 mi dia.)	S=27
+	  Worldlet	  	G197338-7 @ Orbit T
+10 = 
+11 = 
+12 = SGG (40,000 mi dia.)	S=22
+	  OuterWorld	  	F177488-2 @ Orbit K
+	  Worldlet	  	G17A335-8 @ Orbit R
+	  RadWorld	  	Y130000-0 @ Orbit T
+13 = World  (Worldlet)	Y148449-5
+	  Ring @ Orbit ?
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 10
+W = 10
+syscount = 2
+min = 0
+count = 10

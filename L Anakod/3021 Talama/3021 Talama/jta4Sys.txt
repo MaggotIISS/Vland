@@ -1,0 +1,14 @@
+Hex = 3021
+Name = Talama
+UWP = B4106A8-A
+Remarks = Na Ni
+{Ix} = { 1 }
+(Ex) = (A55+1)
+[Cx] = [675A]
+N = B
+B = S
+Z = -
+PBG = 302
+W = 7
+A = ImDv
+Stellar = M3 V M8 V

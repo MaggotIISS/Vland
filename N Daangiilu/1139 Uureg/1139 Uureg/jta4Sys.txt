@@ -1,0 +1,14 @@
+Hex = 1139
+Name = Uureg
+UWP = B553859-B
+Remarks = Po Ph
+{Ix} = { 2 }
+(Ex) = (D7C+3)
+[Cx] = [9A6C]
+N = Be
+B = -
+Z = -
+PBG = 412
+W = 8
+A = ImDv
+Stellar = M2 V

@@ -1,0 +1,50 @@
+Primary = M3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Ongvaturr	B989742-7	(Temperate)World  (Hospitable)	G566302-6
+1 = 
+2 = LGG (70,000 mi dia.)	S=25
+	  Ring @ Orbit ?
+3 = LGG (220,000 mi dia.)	S=30
+	  IceWorld	  	Y65068B-5 @ Orbit C
+	  IceWorld	  	Y3206AA-6 @ Orbit F
+	  IceWorld	  	H35068C-6 @ Orbit Q
+	  OuterWorld	  	H354678-6 @ Orbit R
+	  IceWorld	  	Y660255-4 @ Orbit V
+4 = World  (BigWorld)	H600661-6
+	  Worldlet	  	Y010264-2 @ Orbit S
+5 = World  (StormWorld)	Y600000-0
+	  StormWorld	  	Y451000-0 @ Orbit J
+	  StormWorld	  	Y356000-0 @ Orbit W
+6 = 
+7 = 
+8 = World  (Worldlet)	F200669-6
+	  RadWorld	  	Y600000-0 @ Orbit C
+	  IceWorld	  	G690547-6 @ Orbit E
+	  StormWorld	  	Y662255-6 @ Orbit F
+9 = World  (Worldlet)	H385452-6
+	  RadWorld	  	Y632000-0 @ Orbit U
+10 = World  (Hospitable)	H30068C-5
+	  Ring @ Orbit ?
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 12
+W = 9
+syscount = 1
+min = 0
+count = 8

@@ -1,0 +1,39 @@
+C540222-8
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+
+Atmosphere = 4
+	DIGIT	DESCRIPTION	EFFECTS
+	4	Thin, Tainted	P1, S1
+
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+
+Population = 2
+	POPULATION UNDER 900
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+
+Government = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Participating Democracy	Rule by popular vote
+
+Law Level = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Low Law	Prohibition of 'portable' weapons
+
+Tech Level = 8
+	DIGIT		
+	8		
+

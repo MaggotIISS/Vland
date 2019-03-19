@@ -1,0 +1,80 @@
+Hex = 1334
+Name = Lukham
+UWP = A564ABE-F
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 6
+	DIGIT	DESCRIPTION	EFFECTS
+	6	Standard	
+Hydrosphere = 4
+	DIGIT	DESCRIPTION
+	4	40%
+Population = A
+	POPULATION UNDER 60,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	A	Ten billion	0,000,000,000
+Government = B
+	DIGIT	DESCRIPTION	NOTE
+	B	Non-Charismatic Dictatorship	Government by the successor to a charismatic dictator
+Law Level = E
+	DIGIT	DESCRIPTION	NOTE
+	E	Extreme Law	Full-fledged police state
+Tech Level = F
+	DIGIT		
+	F		
+Remarks = Hi Cp Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	Cp							Subsector Capital	Imperial
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { 3 }
+	Starport A = +1
+	TL 15 = +1
+	Hi  = +1
+	Importance = Normal (4)+-1=3
+(Ex) = (E9F+5)
+	Resources =  14
+	Labour =  9
+	Infrastructure =  15
+	Efficiency =  5
+	RU = 9450
+[Cx] = [ED9K]
+	Homogeneity = 14
+	Acceptance = 13
+	Strangeness = 9
+	Symbols = 20
+N = BEF
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+	F	Duke	In
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 602
+	Population Multiplier = 6
+	POPULATION UNDER 60,000,000,000
+	Planetoid Belts = 0
+	Gas Giants = 2
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-2 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K1 V K6 V
+	Stars = 2

@@ -1,0 +1,51 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Shukhuge	C727830-9	(Temperate)
+	  Worldlet	  	F0B3766-8 @ Orbit D
+	  Worldlet	  	Y046544-8 @ Orbit F
+1 = World  (RadWorld)	Y4B6000-0
+	  Hospitable	  	H4B5326-4 @ Orbit E
+	  Worldlet	  	Y3957DC-3 @ Orbit EWorld  (BigWorld)	G440656-H
+	  RadWorld	  	Y499000-0 @ Orbit L
+	  Hospitable	  	F4A4588-8 @ Orbit V
+2 = Planetoid belt	F000245-8World  (RadWorld)	Y4C6000-0
+	  OuterWorld	  	H440575-8 @ Orbit G
+	  Worldlet	  	Y220334-4 @ Orbit Q
+	  OuterWorld	  	H496100-8 @ Orbit GWorld  (Worldlet)	F052559-S
+3 = World  (Inferno)	Y4B0000-0
+4 = World  (BigWorld)	F466634-6
+	  Worldlet	  	Y084125-2 @ Orbit D
+	  IceWorld	  	F47069A-8 @ Orbit G
+	  IceWorld	  	H110764-7 @ Orbit GWorld  (Inferno)	Y4B0000-H
+	  StormWorld	  	Y411399-6 @ Orbit R
+	  StormWorld	  	Y400000-0 @ Orbit T
+	  OuterWorld	  	F46669C-5 @ Orbit V
+5 = 
+6 = World  (RadWorld)	Y452000-0
+7 = 
+8 = 
+9 = 
+10 = 
+11 = World  (StormWorld)	Y471000-0
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 13
+W = 11
+syscount = 1
+min = 0
+count = 7

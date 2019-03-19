@@ -1,0 +1,14 @@
+Hex = 2008
+Name = Morimur
+UWP = C550AAE-C
+Remarks = De Hi Po Pz
+{Ix} = { 2 }
+(Ex) = (G9D+5)
+[Cx] = [EC9G]
+N = BE
+B = -
+Z = A
+PBG = 113
+W = 14
+A = ImDv
+Stellar = M0 V

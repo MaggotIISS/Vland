@@ -1,0 +1,14 @@
+Hex = 2335
+Name = Miiliinlur
+UWP = B422665-C
+Remarks = He Na Ni Po Mr
+{Ix} = { 1 }
+(Ex) = (E55-1)
+[Cx] = [473A]
+N = B
+B = N
+Z = -
+PBG = 724
+W = 13
+A = ImDv
+Stellar = G7 V M4 V

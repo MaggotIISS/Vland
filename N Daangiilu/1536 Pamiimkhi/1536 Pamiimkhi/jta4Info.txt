@@ -1,0 +1,78 @@
+Hex = 1536
+Name = Pamiimkhi
+UWP = C000400-D
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 0
+	DIGIT	DIA(MI)	DIA(KM)
+	0	Asteroid Belt	varies
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 4
+	POPULATION UNDER 30,000
+	DIGIT	DESCRIPTION	VALUE
+	4	Ten thousand	0,000
+Government = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Government Structure	Family bonds predominate
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = D
+	DIGIT		
+	D		
+Remarks = As Ni Va
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	As	0	0	0				Asteroid	
+	Ni				456			Non Industrial	
+	Va		0					Vacuum	
+{Ix} = { 0 }
+	TL 13 = +1
+	Pop < 7 = -1
+	Importance = Unimportant (0)+0=0
+(Ex) = (833-4)
+	Resources =  8
+	Labour =  3
+	Infrastructure =  3
+	Efficiency =  -4
+	RU = -288
+[Cx] = [1418]
+	Homogeneity = 1
+	Acceptance = 4
+	Strangeness = 1
+	Symbols = 8
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 320
+	Population Multiplier = 3
+	POPULATION UNDER 30,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 14
+	Non Stars In System = 14
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 11 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M0 V
+	Stars = 1

@@ -1,0 +1,14 @@
+Hex = 0622
+Name = Beshe
+UWP = E8B8888-8
+Remarks = Fl Ph
+{Ix} = { -2 }
+(Ex) = (G76-2)
+[Cx] = [8658]
+N = Be
+B = -
+Z = -
+PBG = 115
+W = 12
+A = ImDv
+Stellar = M2 V

@@ -1,0 +1,14 @@
+Hex = 2407
+Name = Gida
+UWP = E200265-9
+Remarks = Lo Va O:2409
+{Ix} = { -2 }
+(Ex) = (511-4)
+[Cx] = [1137]
+N = B
+B = -
+Z = -
+PBG = 810
+W = 10
+A = ImDv
+Stellar = M3 V

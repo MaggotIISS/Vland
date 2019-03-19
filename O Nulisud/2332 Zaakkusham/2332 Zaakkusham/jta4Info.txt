@@ -1,0 +1,78 @@
+Hex = 2332
+Name = Zaakkusham
+UWP = D583520-7
+Starport = D
+	Quality = Poor
+	Yards = No
+	Repairs = Minor damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 8
+	DIGIT	DESCRIPTION	EFFECTS
+	8	Dense	
+Hydrosphere = 3
+	DIGIT	DESCRIPTION
+	3	30%
+Population = 5
+	POPULATION UNDER 100,000
+	DIGIT	DESCRIPTION	VALUE
+	5	Hundred thousand	00,000
+Government = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Participating Democracy	Rule by popular vote
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = 7
+	DIGIT		
+	7		
+Remarks = Ni Pr
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+	Pr		68		59			Pre Rich	
+{Ix} = { -3 }
+	Starport D = -1
+	TL 7 = -1
+	Pop < 7 = -1
+	Importance = Unimportant (-3)+0=-3
+(Ex) = (741-5)
+	Resources =  7
+	Labour =  4
+	Infrastructure =  1
+	Efficiency =  -5
+	RU = -140
+[Cx] = [1212]
+	Homogeneity = 1
+	Acceptance = 2
+	Strangeness = 1
+	Symbols = 2
+N = Bc
+	CODE	RANK	TC
+	B	Knight	any
+	c	Baronet	Pa Pr
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 101
+	Population Multiplier = 1
+	POPULATION UNDER 100,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 10 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V M8 V
+	Stars = 2

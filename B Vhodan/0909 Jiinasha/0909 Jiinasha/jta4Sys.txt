@@ -1,0 +1,14 @@
+Hex = 0909
+Name = Jiinasha
+UWP = C200789-A
+Remarks = Na Va Pi
+{Ix} = { 1 }
+(Ex) = (B6A+2)
+[Cx] = [886B]
+N = BD
+B = S
+Z = -
+PBG = 820
+W = 7
+A = ImDv
+Stellar = M4 III

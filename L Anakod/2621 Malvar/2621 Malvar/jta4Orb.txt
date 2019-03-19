@@ -1,0 +1,82 @@
+Primary = F8 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	F	Yellow-White	6,000-7,500
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 3
+	d1000Limit = 7
+	Min Orbit = 0
+	HZ =  4
+0 = Planetoid belt	G000564-4
+1 = LGG (50,000 mi dia.)	S=23
+	  Inferno	  	Y8B0000-0 @ Orbit D
+	  InnerWorld	  	Y575000-0 @ Orbit G
+	  RadWorld	  	Y922000-0 @ Orbit J
+2 = LGG (250,000 mi dia.)	S=31
+	  Inferno	  	Y6B0000-0 @ Orbit G
+	  StormWorld	  	H615277-7 @ Orbit T
+3 = Mainworld	Malvar	C683797-8	(Hot)
+	Orbits LGG (90,000 mi dia.)	S=27 @ orbit R
+	  StormWorld	  	Y7612ED-4 @ Orbit G
+	  RadWorld	  	Y956000-0 @ Orbit I
+	  StormWorld	  	Y800000-0 @ Orbit P
+	  BigWorld	  	HF40322-7 @ Orbit Q
+	  Worldlet	  	H0475A9-7 @ Orbit GPlanetoid belt	G000596-2World  (RadWorld)	Y5A6000-T
+	  Ring @ Orbit V
+4 = LGG (60,000 mi dia.)	S=24
+	  Ring @ Orbit ?
+5 = LGG (125,000 mi dia.)	S=28
+	  BigWorld	  	GHA4666-2 @ Orbit E
+	  IceWorld	  	Y9C0653-7 @ Orbit G
+	  StormWorld	  	Y982000-0 @ Orbit DWorld  (Hospitable)	Y210420-J
+	  Worldlet	  	Y060687-7 @ Orbit Q
+	  BigWorld	  	GB30533-6 @ Orbit R
+	  StormWorld	  	YB13000-0 @ Orbit S
+	  Worldlet	  	Y267130-7 @ Orbit T
+	  IceWorld	  	Y490646-7 @ Orbit U
+6 = World  (RadWorld)	Y843000-0
+	  StormWorld	  	Y8002BB-3 @ Orbit D
+	  StormWorld	  	Y611256-7 @ Orbit F
+	  Worldlet	  	H310642-4 @ Orbit DWorld  (StormWorld)	YB00000-T
+	  Ring @ Orbit U
+7 = 
+8 = 
+9 = 
+10 = 
+11 = World  (RadWorld)	Y368000-0
+12 = 
+13 = STAR M3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  10
+	HZ =  -1
+	13-0 = 
+	13-1 = 
+	13-2 = 
+	13-3 = 
+	13-4 = 
+	13-5 = 
+	13-6 = 
+	13-7 = 
+	13-8 = 
+	13-9 = 
+	13-10 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 11
+syscount = 2
+min = 0
+W = 12
+Extra Stars = 1
+count = 9

@@ -1,0 +1,52 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Shaia	B64A998-E	(Temperate)
+	  Hospitable	  	H375479-4 @ Orbit C
+	  Hospitable	  	H387323-5 @ Orbit QWorld  (Hospitable)	G37768A-E
+	  RadWorld	  	Y300000-0 @ Orbit GWorld  (Hospitable)	H200633-5World  (RadWorld)	Y365000-R
+	  Worldlet	  	H243667-4 @ Orbit V
+1 = World  (Worldlet)	G3568BC-A
+	  Ring @ Orbit ?
+2 = 
+3 = 
+4 = World  (RadWorld)	Y350000-0
+5 = World  (BigWorld)	F320632-6
+	  Worldlet	  	Y178378-6 @ Orbit D
+	  OuterWorld	  	F342226-8 @ Orbit F
+	  StormWorld	  	Y336000-0 @ Orbit U
+6 = World  (Hospitable)	F355568-5
+	  Worldlet	  	G362577-5 @ Orbit G
+	  Worldlet	  	H051300-6 @ Orbit O
+	  IceWorld	  	H380110-5 @ Orbit U
+7 = World  (Hospitable)	G331774-7
+	  IceWorld	  	G382886-5 @ Orbit I
+	  Worldlet	  	Y08A332-A @ Orbit R
+	  Worldlet	  	H087523-A @ Orbit T
+8 = Planetoid belt	H000443-7
+9 = World  (Hospitable)	Y3658CB-B
+	  RadWorld	  	Y357000-0 @ Orbit K
+10 = World  (BigWorld)	F30058C-8
+	  IceWorld	  	H3808AD-8 @ Orbit Q
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 11
+W = 12
+syscount = 1
+min = 0
+count = 9

@@ -1,0 +1,14 @@
+Hex = 2610
+Name = Malokh
+UWP = E57167B-6
+Remarks = He Ni
+{Ix} = { -3 }
+(Ex) = (851-1)
+[Cx] = [8378]
+N = B
+B = -
+Z = -
+PBG = 801
+W = 10
+A = ImDv
+Stellar = F8 V M2 V

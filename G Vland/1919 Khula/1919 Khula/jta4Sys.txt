@@ -1,0 +1,14 @@
+Hex = 1919
+Name = Khula
+UWP = B575A77-E
+Remarks = Hi In Pz Di (Khulans)
+{Ix} = { 4 }
+(Ex) = (D9G+4)
+[Cx] = [AE5E]
+N = BEf
+B = N
+Z = A
+PBG = 510
+W = 10
+A = ImDv
+Stellar = M0 V

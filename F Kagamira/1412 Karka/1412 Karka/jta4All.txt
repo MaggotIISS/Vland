@@ -1,0 +1,47 @@
+Primary = M0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Karka	C200876-8	(Hot)World  (Inferno)	Y-1B0000-0
+	  Worldlet	  	H-110312-7 @ Orbit SWorld  (BigWorld)	G-188641-H
+	  Worldlet	  	G-1757CG-7 @ Orbit S
+1 = World  (StormWorld)	Y-121000-0
+	  Worldlet	  	Y-142533-7 @ Orbit F
+	  StormWorld	  	Y-124000-0 @ Orbit T
+2 = World  (StormWorld)	G-1003A9-7
+	  RadWorld	  	Y-148000-0 @ Orbit S
+	  Worldlet	  	Y-135666-7 @ Orbit U
+	  RadWorld	  	Y-179000-0 @ Orbit W
+3 = World  (Inferno)	Y-1B0000-0
+4 = World  (Hospitable)	H-100246-7
+	  Ring @ Orbit ?
+5 = LGG (80,000 mi dia.)	S=26
+	  Worldlet	  	G-1B6655-6 @ Orbit PWorld  (Inferno)	Y-1B0000-C
+	  RadWorld	  	Y-168000-0 @ Orbit F
+6 = World  (StormWorld)	F-1443BB-3
+7 = World  (StormWorld)	Y-140000-0
+	  OuterWorld	  	G-1A5342-7 @ Orbit D
+8 = World  (Worldlet)	F-147389-7
+9 = 
+10 = World  (RadWorld)	Y-145000-0
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 10
+W = 13
+syscount = 1
+min = 0
+count = 10

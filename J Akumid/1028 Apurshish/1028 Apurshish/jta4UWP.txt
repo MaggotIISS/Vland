@@ -1,0 +1,39 @@
+C555A64-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = Yes
+	possBases = S
+
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+
+Atmosphere = 5
+	DIGIT	DESCRIPTION	EFFECTS
+	5	This	S1
+
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+
+Population = A
+	POPULATION UNDER 60,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	A	Ten billion	0,000,000,000
+
+Government = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Captive Government/Colony	Rule by a leadership answerable to an outside group
+
+Law Level = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Moderate Law	Laser, Beam weapons prohibited
+
+Tech Level = 9
+	DIGIT		
+	9		
+

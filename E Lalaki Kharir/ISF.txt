@@ -1,0 +1,11 @@
+Vland/E Lalaki Kharir
+
+0619 Lalaki - A9B4785-D
+	SDB Squadrons = 1
+	Troop CF = 5
+	Defence CF = 15
+  TROOP FORCES
+0001-2000-5(5)-D
+
+
+

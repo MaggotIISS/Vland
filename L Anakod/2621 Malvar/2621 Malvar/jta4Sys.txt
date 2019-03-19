@@ -1,0 +1,14 @@
+Hex = 2621
+Name = Malvar
+UWP = C683797-8
+Remarks = Ri
+{Ix} = { 0 }
+(Ex) = (F68+1)
+[Cx] = [7758]
+N = BC
+B = S
+Z = -
+PBG = 724
+W = 12
+A = ImDv
+Stellar = F8 V M3 V

@@ -1,0 +1,14 @@
+Hex = 0530
+Name = Pirrom
+UWP = A884589-D
+Remarks = Ag Ni Pr
+{Ix} = { 2 }
+(Ex) = (946+3)
+[Cx] = [676E]
+N = BcC
+B = N
+Z = -
+PBG = 511
+W = 14
+A = ImDv
+Stellar = G2 V

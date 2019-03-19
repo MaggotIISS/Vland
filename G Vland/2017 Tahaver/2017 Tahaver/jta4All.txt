@@ -1,0 +1,52 @@
+Primary = M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Tahaver	B769A78-B	(Temperate)
+	  Worldlet	  	H34448A-8 @ Orbit W
+	  Worldlet	  	H310543-7 @ Orbit IWorld  (Hospitable)	H410124-Y
+1 = World  (Inferno)	Y2B0000-0
+	  Ring @ Orbit ?
+2 = World  (Hospitable)	Y31047B-6
+3 = World  (Hospitable)	G447303-A
+	  Worldlet	  	F200300-8 @ Orbit TWorld  (Worldlet)	H043556-8
+4 = World  (Worldlet)	Y078000-0
+	  IceWorld	  	H493473-3 @ Orbit C
+	  IceWorld	  	Y471488-4 @ Orbit E
+	  OuterWorld	  	Y45A877-5 @ Orbit GWorld  (StormWorld)	H454242-Q
+	  RadWorld	  	Y435000-0 @ Orbit X
+5 = Planetoid belt	H000463-5
+6 = World  (BigWorld)	G456226-A
+	  OuterWorld	  	Y200200-8 @ Orbit F
+	  Worldlet	  	G2A4200-8 @ Orbit G
+	  IceWorld	  	F474798-7 @ Orbit CWorld  (BigWorld)	H485674-V
+	  Ring @ Orbit Y
+7 = 
+8 = World  (Hospitable)	F447200-A
+	  Worldlet	  	H24258C-7 @ Orbit V
+	  StormWorld	  	Y400497-4 @ Orbit W
+	  Worldlet	  	H046356-5 @ Orbit X
+9 = 
+10 = 
+11 = World  (StormWorld)	F462236-A
+	  Ring @ Orbit ?
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 11
+W = 13
+syscount = 1
+min = 0
+count = 9

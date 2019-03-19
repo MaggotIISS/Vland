@@ -1,0 +1,14 @@
+Hex = 0132
+Name = Kald
+UWP = C5509AB-A
+Remarks = De Hi Po Pz
+{Ix} = { 2 }
+(Ex) = (C8C+4)
+[Cx] = [BB7C]
+N = BE
+B = S
+Z = A
+PBG = 701
+W = 8
+A = ImDv
+Stellar = M1 V M1 V

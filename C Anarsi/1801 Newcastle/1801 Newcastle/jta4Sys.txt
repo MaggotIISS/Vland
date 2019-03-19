@@ -1,0 +1,14 @@
+Hex = 1801
+Name = Newcastle
+UWP = C567749-8
+Remarks = Ag Ri
+{Ix} = { 1 }
+(Ex) = (B69+2)
+[Cx] = [8869]
+N = -
+B = -
+Z = -
+PBG = 802
+W = 8
+A = CsIm
+Stellar = M2 V

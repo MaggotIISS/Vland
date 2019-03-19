@@ -1,0 +1,43 @@
+Primary = G7 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  3
+0 = World  (Worldlet)	F260333-3
+	  Ring @ Orbit ?
+1 = World  (StormWorld)	Y662000-0
+	  Hospitable	  	H368434-9 @ Orbit TWorld  (StormWorld)	F6001A9-C
+	  StormWorld	  	Y670000-0 @ Orbit SWorld  (BigWorld)	H610323-4World  (Inferno)	Y6B0000-G
+	  RadWorld	  	Y470000-0 @ Orbit VWorld  (Worldlet)	F100554-V
+2 = Mainworld	Anert	B9B466A-B	(Hot)
+	  Worldlet	  	Y166531-5 @ Orbit Y
+3 = 
+4 = 
+5 = Planetoid belt	H000552-8
+6 = World  (RadWorld)	Y600000-0
+	  Worldlet	  	H29A5AB-4 @ Orbit F
+7 = 
+8 = 
+9 = 
+10 = World  (Hospitable)	H6B6554-8
+	  Ring @ Orbit ?
+11 = 
+12 = 
+13 = World  (RadWorld)	Y622000-0
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 13
+W = 11
+syscount = 1
+min = 0
+count = 7

@@ -1,0 +1,78 @@
+Hex = 1936
+Name = Ekhin
+UWP = E400673-7
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 6
+	POPULATION UNDER 7,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Balkanization	Rival governments continually compete for control of the world
+Law Level = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Low Law	Prohibition of Acid, Fire, Gas weapons
+Tech Level = 7
+	DIGIT		
+	7		
+Remarks = Na Ni Va
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Ni				456			Non Industrial	
+	Va		0					Vacuum	
+{Ix} = { -3 }
+	Starport E = -1
+	TL 7 = -1
+	Pop < 7 = -1
+	Importance = Unimportant (-3)+0=-3
+(Ex) = (851-5)
+	Resources =  8
+	Labour =  5
+	Infrastructure =  1
+	Efficiency =  -5
+	RU = -200
+[Cx] = [3324]
+	Homogeneity = 3
+	Acceptance = 3
+	Strangeness = 2
+	Symbols = 4
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 701
+	Population Multiplier = 7
+	POPULATION UNDER 7,000,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 8
+	Non Stars In System = 8
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M0 III M7 V
+	Stars = 2

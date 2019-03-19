@@ -1,0 +1,14 @@
+Hex = 0311
+Name = Omero
+UWP = A430320-F
+Remarks = De Lo Po
+{Ix} = { 1 }
+(Ex) = (921-3)
+[Cx] = [141A]
+N = B
+B = N
+Z = -
+PBG = 822
+W = 13
+A = ImDv
+Stellar = M3 V G8 V

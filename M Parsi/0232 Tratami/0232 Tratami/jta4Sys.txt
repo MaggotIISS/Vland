@@ -1,0 +1,14 @@
+Hex = 0232
+Name = Tratami
+UWP = D9C7887-9
+Remarks = Fl Ph
+{Ix} = { -1 }
+(Ex) = (F78-1)
+[Cx] = [8759]
+N = Be
+B = S
+Z = -
+PBG = 323
+W = 8
+A = ImDv
+Stellar = F7 III M2 V

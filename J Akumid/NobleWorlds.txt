@@ -1,0 +1,75 @@
+
+0921 Ganiir     
+	(Knight) NarSiAIk
+
+
+0923 Gazzum     
+	(Knight) KeAmKiShiIkZu
+
+
+0924 Shugandarsi
+	(Knight) AmShir
+
+
+0927 Havland    
+	(Knight) IgKeGi
+	(Count) AIikhMad
+
+
+0930 Gokodeyo   
+	(Knight) Shuug
+	(Baron) LaGemMer
+	(Viscount) GirShiULaPigSad
+
+
+1028 Apurshish  
+	(Knight) A
+	(Count) MishKaAn
+
+
+1128 Shakshim   
+	(Knight) AIilMiIk
+
+
+1227 Sumabaal   
+	(Knight) KamDuurKarKaAUl
+
+
+1323 Robbuun    
+	(Knight) Gu
+
+
+1523 Ilma       
+	(Knight) EsKiIkhShis
+	(Marquis) AakZe
+
+
+1530 Bakog      
+	(Knight) KuAIlGanPi
+
+
+1623 Etsur      
+	(Knight) UgKun
+
+
+1624 Zushar     
+	(Knight) MiimShemKhiIikSha
+	(Viscount) NiIkKi
+
+
+1625 Bashimus   
+	(Knight) Ki
+
+
+1626 Lalazim    
+	(Knight) KamGiIKhuUsh
+
+
+1628 Akumid     
+	(Knight) Mii
+	(Baronet) IIibGuu
+
+
+1630 Kanoka     
+	(Knight) AlNar
+

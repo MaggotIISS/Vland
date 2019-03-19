@@ -1,0 +1,14 @@
+Hex = 2412
+Name = Ansin
+UWP = E563A95-A
+Remarks = Hi
+{Ix} = { 1 }
+(Ex) = (E9B-1)
+[Cx] = [8B38]
+N = BE
+B = -
+Z = -
+PBG = 820
+W = 8
+A = ImDv
+Stellar = K2 V K2 V

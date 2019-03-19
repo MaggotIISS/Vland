@@ -1,0 +1,39 @@
+E554666-5
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+
+Atmosphere = 5
+	DIGIT	DESCRIPTION	EFFECTS
+	5	This	S1
+
+Hydrosphere = 4
+	DIGIT	DESCRIPTION
+	4	40%
+
+Population = 6
+	POPULATION UNDER 5,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+
+Government = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Captive Government/Colony	Rule by a leadership answerable to an outside group
+
+Law Level = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Moderate Law	Pohibition of Machineguns
+
+Tech Level = 5
+	DIGIT		
+	5		
+

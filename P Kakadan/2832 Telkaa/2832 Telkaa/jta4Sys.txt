@@ -1,0 +1,14 @@
+Hex = 2832
+Name = Telkaa
+UWP = C635515-A
+Remarks = Ni
+{Ix} = { 0 }
+(Ex) = (A44-2)
+[Cx] = [3538]
+N = B
+B = -
+Z = -
+PBG = 721
+W = 10
+A = ImDv
+Stellar = M2 V K3 V K3 V

@@ -1,0 +1,39 @@
+D100455-B
+Starport = D
+	Quality = Poor
+	Yards = No
+	Repairs = Minor damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+
+Size = 1
+	DIGIT	DIA(MI)	DIA(KM)
+	1	1,000	1,600
+
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+
+Population = 4
+	POPULATION UNDER 50,000
+	DIGIT	DESCRIPTION	VALUE
+	4	Ten thousand	0,000
+
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+
+Tech Level = B
+	DIGIT		
+	B		
+

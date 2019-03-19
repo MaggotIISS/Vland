@@ -1,0 +1,75 @@
+Hex = 1703
+Name = Dathsuts
+UWP = C310200-A
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 3
+	DIGIT	DIA(MI)	DIA(KM)
+	3	3,000	4,800
+Atmosphere = 1
+	DIGIT	DESCRIPTION	EFFECTS
+	1	Trace	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 2
+	POPULATION UNDER 900
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+Government = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Government Structure	Family bonds predominate
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = Lo Varg3
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+	Varg <= 39%
+{Ix} = { 0 }
+	TL 10 = +1
+	Pop < 7 = -1
+	Importance = Unimportant (0)+0=0
+(Ex) = (511-4)
+	Resources =  5
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -4
+	RU = -20
+[Cx] = [1215]
+	Homogeneity = 1
+	Acceptance = 2
+	Strangeness = 1
+	Symbols = 5
+N = -
+	No Imperial Nobles
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 901
+	Population Multiplier = 9
+	POPULATION UNDER 900
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 8
+	Non Stars In System = 8
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 6 other worlds
+A = NaHu
+	CODE	DESCRIPTION
+	NaHu	Non-Aligned, Human-dominated
+Stellar = F7 V M0 V
+	Stars = 2

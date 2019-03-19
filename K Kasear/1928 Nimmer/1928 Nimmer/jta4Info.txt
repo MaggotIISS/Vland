@@ -1,0 +1,80 @@
+Hex = 1928
+Name = Nimmer
+UWP = B420100-D
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 2
+	DIGIT	DESCRIPTION	EFFECTS
+	2	VThin, Tainted	P1, S2
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 1
+	POPULATION UNDER 30
+	DIGIT	DESCRIPTION	VALUE
+	1	Tens	0
+Government = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Government Structure	Family bonds predominate
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = D
+	DIGIT		
+	D		
+Remarks = De He Lo Po
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	De	23456789	0					Desert	
+	He	3459ABC	2479ABC	012				Hell World	
+	Lo				123			Low Population	
+	Po		2345	0123				Poor	
+{Ix} = { 1 }
+	Starport B = +1
+	TL 13 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (911-3)
+	Resources =  9
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -3
+	RU = -27
+[Cx] = [1218]
+	Homogeneity = 1
+	Acceptance = 2
+	Strangeness = 1
+	Symbols = 8
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 324
+	Population Multiplier = 3
+	POPULATION UNDER 30
+	Planetoid Belts = 2
+	Gas Giants = 4
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-4 (gas giants)
+	 = 2 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G4 V
+	Stars = 1

@@ -1,0 +1,74 @@
+Primary = M3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = LGG (220,000 mi dia.)	S=30
+	  Worldlet	  	Y100241-5 @ Orbit B
+	  Worldlet	  	H157201-6 @ Orbit GWorld  (RadWorld)	Y100000-H
+	  BigWorld	  	Y140244-7 @ Orbit T
+	  Worldlet	  	F0A2288-6 @ Orbit U
+	  StormWorld	  	Y100000-0 @ Orbit V
+1 = Mainworld	Ganiir	C423320-B	(Cold)
+	  Ring @ Orbit ?World  (Hospitable)	Y110000-F
+	  StormWorld	  	Y120000-0 @ Orbit G
+	  Worldlet	  	F1002A7-6 @ Orbit TWorld  (Hospitable)	H1322A9-AWorld  (Hospitable)	H188230-J
+	  Hospitable	  	Y1762AB-7 @ Orbit L
+	  StormWorld	  	Y130000-0 @ Orbit V
+2 = LGG (60,000 mi dia.)	S=24
+	  BigWorld	  	F1892AE-9 @ Orbit TLGG (180,000 mi dia.)	S=2D
+	  Inferno	  	Y1B0000-0 @ Orbit H
+3 = World  (RadWorld)	Y176000-0
+	  RadWorld	  	Y1A2000-0 @ Orbit F
+	  IceWorld	  	Y130232-3 @ Orbit XWorld  (Worldlet)	H1652AA-G
+4 = LGG (125,000 mi dia.)	S=28
+	  StormWorld	  	Y112000-0 @ Orbit D
+	  Worldlet	  	H15129B-4 @ Orbit K
+	  IceWorld	  	F171289-9 @ Orbit Q
+	  Worldlet	  	F099267-6 @ Orbit S
+	  BigWorld	  	F15229B-5 @ Orbit GWorld  (Hospitable)	G18A246-T
+	  StormWorld	  	Y146000-0 @ Orbit V
+5 = STAR M5 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 0
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  2
+	HZ =  -1
+	5-0 = 
+	5-1 = 
+	5-2 = 
+6 = World  (Worldlet)	Y086200-3
+	  Worldlet	  	H0A6298-8 @ Orbit F
+	  Worldlet	  	H057277-5 @ Orbit GWorld  (Hospitable)	H154258-G
+7 = 
+8 = 
+9 = LGG (180,000 mi dia.)	S=29
+	  OuterWorld	  	Y132296-5 @ Orbit D
+	  StormWorld	  	Y170000-0 @ Orbit T
+	  IceWorld	  	H120277-9 @ Orbit V
+10 = 
+11 = 
+12 = 
+13 = 
+14 = World  (BigWorld)	H13429D-7
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 11
+W = 16
+syscount = 2
+min = 0
+count = 9

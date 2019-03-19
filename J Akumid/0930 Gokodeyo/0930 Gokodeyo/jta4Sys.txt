@@ -1,0 +1,14 @@
+Hex = 0930
+Name = Gokodeyo
+UWP = E5818AA-4
+Remarks = Ri Ph Pz
+{Ix} = { -1 }
+(Ex) = (A75+1)
+[Cx] = [A776]
+N = BCe
+B = -
+Z = A
+PBG = 110
+W = 16
+A = ImDv
+Stellar = F3 V M0 V

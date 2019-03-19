@@ -1,0 +1,14 @@
+Hex = 2019
+Name = Lobode
+UWP = E554666-5
+Remarks = Ag Ni O:1919
+{Ix} = { -2 }
+(Ex) = (852-3)
+[Cx] = [5444]
+N = BC
+B = -
+Z = -
+PBG = 510
+W = 8
+A = ImDv
+Stellar = M2 V M3 V

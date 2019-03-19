@@ -1,0 +1,14 @@
+Hex = 2740
+Name = P'ginzh
+UWP = C554567-9
+Remarks = Ag Ni O:2839
+{Ix} = { 0 }
+(Ex) = (844+1)
+[Cx] = [5559]
+N = BC
+B = S
+Z = -
+PBG = 710
+W = 14
+A = ImDv
+Stellar = M2 V

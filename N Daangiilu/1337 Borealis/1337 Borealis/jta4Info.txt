@@ -1,0 +1,77 @@
+Hex = 1337
+Name = Borealis
+UWP = C5116BD-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 1
+	DIGIT	DESCRIPTION	EFFECTS
+	1	Trace	S3
+Hydrosphere = 1
+	DIGIT	DESCRIPTION
+	1	10%
+Population = 6
+	POPULATION UNDER 5,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = B
+	DIGIT	DESCRIPTION	NOTE
+	B	Non-Charismatic Dictatorship	Government by the successor to a charismatic dictator
+Law Level = D
+	DIGIT	DESCRIPTION	NOTE
+	D	Extreme Law	Paramilitary law enforcement
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = Ic Na Ni Da
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ic		01	123456789A				Ice Capped	
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Ni				456			Non Industrial	
+	Da				0123456			Dangerous	Amber Zone
+{Ix} = { -1 }
+	Pop < 7 = -1
+	Importance = Unimportant (-1)+0=-1
+(Ex) = (C53+3)
+	Resources =  12
+	Labour =  5
+	Infrastructure =  3
+	Efficiency =  3
+	RU = 540
+[Cx] = [A59D]
+	Homogeneity = 10
+	Acceptance = 5
+	Strangeness = 9
+	Symbols = 13
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 504
+	Population Multiplier = 5
+	POPULATION UNDER 5,000,000
+	Planetoid Belts = 0
+	Gas Giants = 4
+W = 11
+	Non Stars In System = 11
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-4 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = F5 V M5 V
+	Stars = 2

@@ -1,0 +1,69 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Kald	C5509AB-A	(Temperate)
+	Orbits LGG (50,000 mi dia.)	S=23 @ orbit R
+	  Hospitable	  	Y333488-9 @ Orbit E
+	  StormWorld	  	Y700000-0 @ Orbit T
+	  RadWorld	  	Y685000-0 @ Orbit V
+1 = World  (Inferno)	YAB0000-0
+2 = World  (Worldlet)	Y089432-6
+	  RadWorld	  	Y569000-0 @ Orbit E
+	  Worldlet	  	Y09A420-2 @ Orbit TWorld  (StormWorld)	FB00275-R
+	  Ring @ Orbit S
+3 = World  (Hospitable)	GA8688C-8
+4 = LGG (80,000 mi dia.)	S=26
+	  Ring @ Orbit ?World  (StormWorld)	F82046A-E
+	  IceWorld	  	F763400-9 @ Orbit F
+	  Worldlet	  	F038131-5 @ Orbit G
+	  IceWorld	  	GA94525-9 @ Orbit H
+	  OuterWorld	  	Y3557AB-9 @ Orbit Q
+	  RadWorld	  	Y796000-0 @ Orbit S
+5 = 
+6 = 
+7 = 
+8 = 
+9 = 
+10 = 
+11 = STAR M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  8
+	HZ =  -1
+	11-0 = 
+	11-1 = 
+	11-2 = 
+	11-3 = 
+	11-4 = 
+	11-5 = 
+	11-6 = 
+	11-7 = 
+	11-8 = 
+12 = 
+13 = 
+14 = 
+15 = World  (Inferno)	Y8B0000-0
+	  IceWorld	  	H7A0885-6 @ Orbit E
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 13
+W = 8
+syscount = 2
+min = 0
+count = 7

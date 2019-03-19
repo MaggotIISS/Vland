@@ -1,0 +1,39 @@
+C000234-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+
+Size = 0
+	DIGIT	DIA(MI)	DIA(KM)
+	0	Asteroid Belt	varies
+
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+
+Population = 2
+	POPULATION UNDER 800
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+
+Government = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Self-Perpetuating Oligarchy	Rule by a restricted minority with little or no input from the masses
+
+Law Level = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Moderate Law	Laser, Beam weapons prohibited
+
+Tech Level = 9
+	DIGIT		
+	9		
+

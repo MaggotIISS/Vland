@@ -1,0 +1,14 @@
+Hex = 1608
+Name = Riinel
+UWP = E746651-7
+Remarks = Ag Ni
+{Ix} = { -2 }
+(Ex) = (852-5)
+[Cx] = [2413]
+N = BC
+B = -
+Z = -
+PBG = 601
+W = 11
+A = ImDv
+Stellar = M3 V

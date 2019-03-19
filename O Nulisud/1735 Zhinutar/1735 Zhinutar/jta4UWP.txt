@@ -1,0 +1,39 @@
+A31259C-F
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+
+Size = 3
+	DIGIT	DIA(MI)	DIA(KM)
+	3	3,000	4,800
+
+Atmosphere = 1
+	DIGIT	DESCRIPTION	EFFECTS
+	1	Trace	S3
+
+Hydrosphere = 2
+	DIGIT	DESCRIPTION
+	2	20%
+
+Population = 5
+	POPULATION UNDER 200,000
+	DIGIT	DESCRIPTION	VALUE
+	5	Hundred thousand	00,000
+
+Government = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	Impersonal Bureaucracy	Impersonal agencies rule
+
+Law Level = C
+	DIGIT	DESCRIPTION	NOTE
+	C	Extreme Law	Unrestricted invasion of privacy
+
+Tech Level = F
+	DIGIT		
+	F		
+

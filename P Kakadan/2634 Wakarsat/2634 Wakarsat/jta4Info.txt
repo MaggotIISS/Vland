@@ -1,0 +1,79 @@
+Hex = 2634
+Name = Wakarsat
+UWP = B68A789-B
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 6
+	DIGIT	DIA(MI)	DIA(KM)
+	6	6,000	9,600
+Atmosphere = 8
+	DIGIT	DESCRIPTION	EFFECTS
+	8	Dense	
+Hydrosphere = A
+	DIGIT	DESCRIPTION
+	A	Water World
+Population = 7
+	POPULATION UNDER 80,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+Government = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit
+Law Level = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	High Law	Weapons outside the home prohibited
+Tech Level = B
+	DIGIT		
+	B		
+Remarks = Ri Wa
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ri		68		678			Rich	
+	Wa	56789		A				Water World	
+{Ix} = { 3 }
+	Starport B = +1
+	TL 11 = +1
+	Ri  = +1
+	Importance = Normal (3)+0=3
+(Ex) = (E6D+4)
+	Resources =  14
+	Labour =  6
+	Infrastructure =  13
+	Efficiency =  4
+	RU = 4368
+[Cx] = [8A6C]
+	Homogeneity = 8
+	Acceptance = 10
+	Strangeness = 6
+	Symbols = 12
+N = BC
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 814
+	Population Multiplier = 8
+	POPULATION UNDER 80,000,000
+	Planetoid Belts = 1
+	Gas Giants = 4
+W = 13
+	Non Stars In System = 13
+	-1 (mainworld)
+	-1 (planetoid belts)
+	-4 (gas giants)
+	 = 7 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M0 V
+	Stars = 1

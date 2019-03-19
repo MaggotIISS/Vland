@@ -1,0 +1,14 @@
+Hex = 1901
+Name = Ghurrllekh
+UWP = C560558-A
+Remarks = De Ni Pr
+{Ix} = { 0 }
+(Ex) = (944+1)
+[Cx] = [555A]
+N = -
+B = C
+Z = -
+PBG = 120
+W = 7
+A = NaVa
+Stellar = M3 V

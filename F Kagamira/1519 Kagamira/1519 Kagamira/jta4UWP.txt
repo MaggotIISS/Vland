@@ -1,0 +1,39 @@
+B577A83-E
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+
+Atmosphere = 7
+	DIGIT	DESCRIPTION	EFFECTS
+	7	Standard, Tainted	P1
+
+Hydrosphere = 7
+	DIGIT	DESCRIPTION
+	7	70%
+
+Population = A
+	POPULATION UNDER 50,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	A	Ten billion	0,000,000,000
+
+Government = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit
+
+Law Level = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Low Law	Prohibition of Acid, Fire, Gas weapons
+
+Tech Level = E
+	DIGIT		
+	E		
+

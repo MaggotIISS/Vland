@@ -1,0 +1,14 @@
+Hex = 2216
+Name = Ashbakha
+UWP = A672500-B
+Remarks = He Ni
+{Ix} = { 1 }
+(Ex) = (845-3)
+[Cx] = [1616]
+N = B
+B = N
+Z = -
+PBG = 201
+W = 14
+A = ImDv
+Stellar = M2 V K9 V

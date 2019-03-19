@@ -1,0 +1,14 @@
+Hex = 2316
+Name = Kagush
+UWP = A736300-A
+Remarks = Lo
+{Ix} = { 1 }
+(Ex) = (B21-3)
+[Cx] = [1415]
+N = B
+B = -
+Z = -
+PBG = 724
+W = 9
+A = ImDv
+Stellar = K6 V

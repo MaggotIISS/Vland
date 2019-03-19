@@ -1,0 +1,76 @@
+Hex = 3214
+Name = Khunimmam
+UWP = E9B7200-8
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 9
+	DIGIT	DIA(MI)	DIA(KM)
+	9	9,000	14,400
+Atmosphere = B
+	DIGIT	DESCRIPTION	EFFECTS
+	B	Corrosive	C1 P1
+Hydrosphere = 7
+	DIGIT	DESCRIPTION
+	7	70%
+Population = 2
+	POPULATION UNDER 400
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+Government = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Government Structure	Family bonds predominate
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = 8
+	DIGIT		
+	8		
+Remarks = Fl Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Fl		ABC	123456789A				Fluid	
+	Lo				123			Low Population	
+{Ix} = { -3 }
+	Starport E = -1
+	Pop < 7 = -1
+	Importance = Unimportant (-2)+-1=-3
+(Ex) = (611-5)
+	Resources =  6
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -5
+	RU = -30
+[Cx] = [1113]
+	Homogeneity = 1
+	Acceptance = 1
+	Strangeness = 1
+	Symbols = 3
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 402
+	Population Multiplier = 4
+	POPULATION UNDER 400
+	Planetoid Belts = 0
+	Gas Giants = 2
+W = 13
+	Non Stars In System = 13
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-2 (gas giants)
+	 = 10 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 V
+	Stars = 1

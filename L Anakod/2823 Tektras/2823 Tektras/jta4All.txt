@@ -1,0 +1,59 @@
+Primary = M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Tektras	C536534-9	(Temperate)
+	  Ring @ Orbit ?World  (Worldlet)	H221478-6World  (StormWorld)	Y212000-D
+	  Hospitable	  	G00049C-8 @ Orbit J
+1 = World  (Hospitable)	G265473-4
+	  Ring @ Orbit ?
+2 = World  (Worldlet)	H22048A-8
+	  StormWorld	  	Y270000-0 @ Orbit F
+3 = LGG (60,000 mi dia.)	S=24
+	  Ring @ Orbit ?
+4 = 
+5 = World  (RadWorld)	Y29A000-0
+6 = 
+7 = STAR M3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  4
+	HZ =  -1
+	7-0 = 
+	7-1 = 
+	7-2 = 
+	7-3 = 
+	7-4 = 
+8 = 
+9 = 
+10 = World  (Inferno)	Y2B0000-0
+11 = 
+12 = 
+13 = 
+14 = World  (StormWorld)	Y270000-0
+	  OuterWorld	  	H244444-8 @ Orbit E
+	  Worldlet	  	Y278415-7 @ Orbit Q
+	  IceWorld	  	H2604BD-5 @ Orbit W
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 12
+syscount = 2
+min = 0
+W = 9
+Extra Stars = 1
+count = 8

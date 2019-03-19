@@ -1,0 +1,70 @@
+Primary = K7 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = LGG (80,000 mi dia.)	S=26
+	  Inferno	  	Y8B0000-0 @ Orbit C
+	  StormWorld	  	Y670000-0 @ Orbit D
+	  BigWorld	  	GH68242-8 @ Orbit F
+	  StormWorld	  	YA00000-0 @ Orbit H
+	  InnerWorld	  	Y562000-0 @ Orbit GWorld  (Worldlet)	F043214-O
+	  RadWorld	  	YA76000-0 @ Orbit Q
+	  InnerWorld	  	Y853000-0 @ Orbit S
+	  BigWorld	  	HE88288-8 @ Orbit U
+	  Worldlet	  	H222200-8 @ Orbit W
+	  RadWorld	  	Y988000-0 @ Orbit X
+1 = LGG (80,000 mi dia.)	S=26
+	  Worldlet	  	Y0402A9-7 @ Orbit D
+2 = LGG (180,000 mi dia.)	S=29
+	  Hospitable	  	G445256-8 @ Orbit T
+	  Worldlet	  	F35029B-8 @ Orbit U
+	  Inferno	  	Y7B0000-0 @ Orbit W
+3 = STAR M0 VMainworld	Rhyolite	C560342-9	(Cold)
+	Orbits LGG (80,000 mi dia.)	S=26 @ orbit R
+	  Worldlet	  	Y39A28C-8 @ Orbit G
+	  Hospitable	  	G655122-6 @ Orbit Q
+	  StormWorld	  	Y900000-0 @ Orbit Y
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  0
+	HZ =  -1
+	3-0 = 
+4 = LGG (125,000 mi dia.)	S=28
+	  Hospitable	  	H733247-6 @ Orbit E
+	  Hospitable	  	H977247-8 @ Orbit F
+	  Hospitable	  	G8A626B-8 @ Orbit J
+	  Worldlet	  	G3A329A-6 @ Orbit S
+	  StormWorld	  	Y432000-0 @ Orbit HPlanetoid belt	G000298-T
+5 = 
+6 = 
+7 = Planetoid belt	Y000265-8
+8 = 
+9 = 
+10 = 
+11 = 
+12 = 
+13 = World  (Hospitable)	F875297-4
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 13
+W = 9
+syscount = 2
+min = 0
+count = 7

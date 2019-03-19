@@ -1,0 +1,80 @@
+Hex = 2225
+Name = Iamone
+UWP = C310A9A-E
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = Yes
+	possBases = S
+Size = 3
+	DIGIT	DIA(MI)	DIA(KM)
+	3	3,000	4,800
+Atmosphere = 1
+	DIGIT	DESCRIPTION	EFFECTS
+	1	Trace	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = A
+	POPULATION UNDER 60,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	A	Ten billion	0,000,000,000
+Government = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	Impersonal Bureaucracy	Impersonal agencies rule
+Law Level = A
+	DIGIT	DESCRIPTION	NOTE
+	A	Extreme Law	Weapon possession prohibited
+Tech Level = E
+	DIGIT		
+	E		
+Remarks = Hi In Na
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	In		012479		9ABC			industrial	
+	Na		0123	0123	6789ABC			Non Agricultural	
+{Ix} = { 3 }
+	TL 14 = +1
+	Hi  = +1
+	In  = +1
+	Importance = Normal (3)+0=3
+(Ex) = (J9F+5)
+	Resources =  19
+	Labour =  9
+	Infrastructure =  15
+	Efficiency =  5
+	RU = 12825
+[Cx] = [CD7G]
+	Homogeneity = 12
+	Acceptance = 13
+	Strangeness = 7
+	Symbols = 16
+N = BE
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 624
+	Population Multiplier = 6
+	POPULATION UNDER 60,000,000,000
+	Planetoid Belts = 2
+	Gas Giants = 4
+W = 11
+	Non Stars In System = 11
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-4 (gas giants)
+	 = 4 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K4 V
+	Stars = 1

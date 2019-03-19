@@ -1,0 +1,49 @@
+Primary = M3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Kipii	B430222-D	(Temperate)
+	  RadWorld	  	Y122000-0 @ Orbit H
+	  Worldlet	  	H065121-6 @ Orbit HLGG (80,000 mi dia.)	S=2R
+	  Ring @ Orbit T
+1 = World  (BigWorld)	FG42152-6
+	  Inferno	  	Y7B0000-0 @ Orbit G
+2 = World  (StormWorld)	Y572000-0
+3 = LGG (125,000 mi dia.)	S=28
+	  IceWorld	  	H550101-7 @ Orbit C
+	  OuterWorld	  	H210159-6 @ Orbit E
+	  IceWorld	  	H00019A-6 @ Orbit G
+	  BigWorld	  	YE66124-A @ Orbit FWorld  (Worldlet)	H20019C-H
+	  StormWorld	  	YA52000-0 @ Orbit I
+	  StormWorld	  	Y745000-0 @ Orbit J
+	  BigWorld	  	HE1017A-6 @ Orbit R
+	  BigWorld	  	GE54147-7 @ Orbit T
+4 = 
+5 = 
+6 = World  (RadWorld)	YA10000-0
+	  IceWorld	  	F450133-6 @ Orbit E
+7 = 
+8 = 
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = World  (Worldlet)	H285197-4
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 14
+W = 8
+syscount = 1
+min = 0
+count = 6

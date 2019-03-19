@@ -1,0 +1,7 @@
+D THETON
+
+	WORLDS IN SUBSECTOR = 28
+	CsIm: "Client state, Third Imperium" = 2 worlds
+	ImDv: "Third Imperium, Domain of Vland" = 17 worlds
+	NaHu: "Non-Aligned, Human-dominated" = 2 worlds
+	NaVa: "Non-Aligned, Vargr-dominated" = 7 worlds

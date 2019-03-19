@@ -1,0 +1,39 @@
+C557462-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+
+Atmosphere = 5
+	DIGIT	DESCRIPTION	EFFECTS
+	5	This	S1
+
+Hydrosphere = 7
+	DIGIT	DESCRIPTION
+	7	70%
+
+Population = 4
+	POPULATION UNDER 90,000
+	DIGIT	DESCRIPTION	VALUE
+	4	Ten thousand	0,000
+
+Government = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Captive Government/Colony	Rule by a leadership answerable to an outside group
+
+Law Level = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Low Law	Prohibition of 'portable' weapons
+
+Tech Level = 9
+	DIGIT		
+	9		
+

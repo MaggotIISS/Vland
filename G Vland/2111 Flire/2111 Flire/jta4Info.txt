@@ -1,0 +1,78 @@
+Hex = 2111
+Name = Flire
+UWP = C779A77-D
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = Yes
+	possBases = S
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+Atmosphere = 7
+	DIGIT	DESCRIPTION	EFFECTS
+	7	Standard, Tainted	P1
+Hydrosphere = 9
+	DIGIT	DESCRIPTION
+	9	90%
+Population = A
+	POPULATION UNDER 40,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	A	Ten billion	0,000,000,000
+Government = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Balkanization	Rival governments continually compete for control of the world
+Law Level = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Moderate Law	Prohibition of Pistols
+Tech Level = D
+	DIGIT		
+	D		
+Remarks = Hi In
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	In		012479		9ABC			industrial	
+{Ix} = { 3 }
+	TL 13 = +1
+	Hi  = +1
+	In  = +1
+	Importance = Normal (3)+0=3
+(Ex) = (H9F+3)
+	Resources =  17
+	Labour =  9
+	Infrastructure =  15
+	Efficiency =  3
+	RU = 6885
+[Cx] = [AD5D]
+	Homogeneity = 10
+	Acceptance = 13
+	Strangeness = 5
+	Symbols = 13
+N = BE
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 423
+	Population Multiplier = 4
+	POPULATION UNDER 40,000,000,000
+	Planetoid Belts = 2
+	Gas Giants = 3
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-3 (gas giants)
+	 = 3 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K8 V
+	Stars = 1

@@ -1,0 +1,76 @@
+Hex = 1203
+Name = Angvae
+UWP = C422377-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 2
+	DIGIT	DESCRIPTION	EFFECTS
+	2	VThin, Tainted	P1, S2
+Hydrosphere = 2
+	DIGIT	DESCRIPTION
+	2	20%
+Population = 3
+	POPULATION UNDER 8,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+Government = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Balkanization	Rival governments continually compete for control of the world
+Law Level = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Moderate Law	Prohibition of Pistols
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = He Lo Po Varg5
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	He	3459ABC	2479ABC	012				Hell World	
+	Lo				123			Low Population	
+	Po		2345	0123				Poor	
+	Varg <= 59%
+{Ix} = { -1 }
+	Pop < 7 = -1
+	Importance = Unimportant (-1)+0=-1
+(Ex) = (C21-1)
+	Resources =  12
+	Labour =  2
+	Infrastructure =  1
+	Efficiency =  -1
+	RU = -24
+[Cx] = [3259]
+	Homogeneity = 3
+	Acceptance = 2
+	Strangeness = 5
+	Symbols = 9
+N = -
+	No Imperial Nobles
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 834
+	Population Multiplier = 8
+	POPULATION UNDER 8,000
+	Planetoid Belts = 3
+	Gas Giants = 4
+W = 14
+	Non Stars In System = 14
+	-1 (mainworld)
+	-3 (planetoid belts)
+	-4 (gas giants)
+	 = 6 other worlds
+A = CsIm
+	CODE	DESCRIPTION
+	CsIm	Client State, Third Imperium
+Stellar = F3 V K0 V
+	Stars = 2

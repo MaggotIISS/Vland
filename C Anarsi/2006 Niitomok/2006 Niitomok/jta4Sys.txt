@@ -1,0 +1,14 @@
+Hex = 2006
+Name = Niitomok
+UWP = C552595-9
+Remarks = Ni Po
+{Ix} = { -1 }
+(Ex) = (843-3)
+[Cx] = [3437]
+N = B
+B = -
+Z = -
+PBG = 201
+W = 9
+A = ImDv
+Stellar = M2 V

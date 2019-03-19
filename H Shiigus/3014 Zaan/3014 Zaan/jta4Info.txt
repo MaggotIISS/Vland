@@ -1,0 +1,78 @@
+Hex = 3014
+Name = Zaan
+UWP = C557462-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 5
+	DIGIT	DESCRIPTION	EFFECTS
+	5	This	S1
+Hydrosphere = 7
+	DIGIT	DESCRIPTION
+	7	70%
+Population = 4
+	POPULATION UNDER 90,000
+	DIGIT	DESCRIPTION	VALUE
+	4	Ten thousand	0,000
+Government = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Captive Government/Colony	Rule by a leadership answerable to an outside group
+Law Level = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Low Law	Prohibition of 'portable' weapons
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = Ni Pa O:2914
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+	Pa		456789	45678	48			Pre Agricultural	
+	Ruled by 2914 Mimere
+{Ix} = { -1 }
+	Pop < 7 = -1
+	Importance = Unimportant (-1)+0=-1
+(Ex) = (A32-5)
+	Resources =  10
+	Labour =  3
+	Infrastructure =  2
+	Efficiency =  -5
+	RU = -300
+[Cx] = [1315]
+	Homogeneity = 1
+	Acceptance = 3
+	Strangeness = 1
+	Symbols = 5
+N = Bc
+	CODE	RANK	TC
+	B	Knight	any
+	c	Baronet	Pa Pr
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 904
+	Population Multiplier = 9
+	POPULATION UNDER 90,000
+	Planetoid Belts = 0
+	Gas Giants = 4
+W = 7
+	Non Stars In System = 7
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-4 (gas giants)
+	 = 2 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G5 V
+	Stars = 1

@@ -1,0 +1,58 @@
+Primary = F9 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	F	Yellow-White	6,000-7,500
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 3
+	d1000Limit = 7
+	Min Orbit = 0
+	HZ =  4
+0 = Planetoid belt	H000579-4
+1 = STAR M4 VWorld  (StormWorld)	G126165-7
+	  RadWorld	  	Y166000-0 @ Orbit Q
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	NO Orbits
+2 = World  (Hospitable)	F177588-5
+	  Inferno	  	Y1B0000-0 @ Orbit F
+3 = LGG (80,000 mi dia.)	S=26
+	  BigWorld	  	Y100541-9 @ Orbit F
+	  BigWorld	  	H195401-7 @ Orbit L
+4 = Mainworld	Sakin	C430668-A	(Temperate)
+	  Worldlet	  	F1005AC-9 @ Orbit U
+5 = LGG (50,000 mi dia.)	S=23
+	  Worldlet	  	Y045541-6 @ Orbit F
+	  StormWorld	  	F100135-6 @ Orbit H
+	  Worldlet	  	F084253-3 @ Orbit P
+	  Inferno	  	Y1B0000-0 @ Orbit S
+6 = 
+7 = LGG (70,000 mi dia.)	S=25
+	  Ring @ Orbit ?
+8 = World  (StormWorld)	F100133-9
+	  StormWorld	  	Y100000-0 @ Orbit F
+	  OuterWorld	  	H196555-8 @ Orbit U
+9 = LGG (90,000 mi dia.)	S=27
+	  OuterWorld	  	Y000510-5 @ Orbit I
+	  RadWorld	  	Y166000-0 @ Orbit J
+10 = World  (Worldlet)	G150569-8
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 10
+W = 10
+syscount = 2
+min = 0
+count = 10

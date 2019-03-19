@@ -1,0 +1,14 @@
+Hex = 2836
+Name = Inushir
+UWP = E989ADE-7
+Remarks = Hi Pz
+{Ix} = { -1 }
+(Ex) = (C98+3)
+[Cx] = [E99B]
+N = BE
+B = -
+Z = A
+PBG = 623
+W = 17
+A = ImDv
+Stellar = K0 V

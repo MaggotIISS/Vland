@@ -1,0 +1,75 @@
+Hex = 3138
+Name = Nasaa
+UWP = E425545-9
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 2
+	DIGIT	DESCRIPTION	EFFECTS
+	2	VThin, Tainted	P1, S2
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+Population = 5
+	POPULATION UNDER 300,000
+	DIGIT	DESCRIPTION	VALUE
+	5	Hundred thousand	00,000
+Government = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Representative Democracy	Government by proxy
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = Ni
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+{Ix} = { -2 }
+	Starport E = -1
+	Pop < 7 = -1
+	Importance = Unimportant (-2)+0=-2
+(Ex) = (942-4)
+	Resources =  9
+	Labour =  4
+	Infrastructure =  2
+	Efficiency =  -4
+	RU = -288
+[Cx] = [3337]
+	Homogeneity = 3
+	Acceptance = 3
+	Strangeness = 3
+	Symbols = 7
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 320
+	Population Multiplier = 3
+	POPULATION UNDER 300,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 13
+	Non Stars In System = 13
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 10 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G8 V
+	Stars = 1

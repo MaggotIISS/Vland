@@ -1,0 +1,39 @@
+B426649-C
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+
+Atmosphere = 2
+	DIGIT	DESCRIPTION	EFFECTS
+	2	VThin, Tainted	P1, S2
+
+Hydrosphere = 6
+	DIGIT	DESCRIPTION
+	6	60%
+
+Population = 6
+	POPULATION UNDER 2,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+
+Government = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Representative Democracy	Government by proxy
+
+Law Level = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	High Law	Weapons outside the home prohibited
+
+Tech Level = C
+	DIGIT		
+	C		
+

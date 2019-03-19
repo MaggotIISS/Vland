@@ -1,0 +1,14 @@
+Hex = 1933
+Name = Kaskar
+UWP = C673664-7
+Remarks = Ni O:2035
+{Ix} = { -2 }
+(Ex) = (852-4)
+[Cx] = [4435]
+N = B
+B = -
+Z = -
+PBG = 901
+W = 12
+A = ImDv
+Stellar = K6 V M0 V

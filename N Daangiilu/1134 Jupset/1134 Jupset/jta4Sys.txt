@@ -1,0 +1,14 @@
+Hex = 1134
+Name = Jupset
+UWP = B8C3466-B
+Remarks = Fl Ni O:1334
+{Ix} = { 1 }
+(Ex) = (B34+1)
+[Cx] = [354A]
+N = B
+B = -
+Z = -
+PBG = 923
+W = 8
+A = ImDv
+Stellar = M1 V

@@ -1,0 +1,77 @@
+Hex = 1901
+Name = Ghurrllekh
+UWP = C560558-A
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 6
+	DIGIT	DESCRIPTION	EFFECTS
+	6	Standard	
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 5
+	POPULATION UNDER 100,000
+	DIGIT	DESCRIPTION	VALUE
+	5	Hundred thousand	00,000
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+Law Level = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	High Law	Open display of weapons prohibited
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = De Ni Pr
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	De	23456789	0					Desert	
+	Ni				456			Non Industrial	
+	Pr		68		59			Pre Rich	
+{Ix} = { 0 }
+	TL 10 = +1
+	Pop < 7 = -1
+	Importance = Unimportant (0)+0=0
+(Ex) = (944+1)
+	Resources =  9
+	Labour =  4
+	Infrastructure =  4
+	Efficiency =  1
+	RU = 144
+[Cx] = [555A]
+	Homogeneity = 5
+	Acceptance = 5
+	Strangeness = 5
+	Symbols = 10
+N = -
+	No Imperial Nobles
+B = C
+	DIGIT	DESCRIPTION	ALLEG
+	C	Corsair Base	Vargr
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 120
+	Population Multiplier = 1
+	POPULATION UNDER 100,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 7
+	Non Stars In System = 7
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 4 other worlds
+A = NaVa
+	CODE	DESCRIPTION
+	NaVa	Non-Aligned, Vargr-dominated
+Stellar = M3 V
+	Stars = 1

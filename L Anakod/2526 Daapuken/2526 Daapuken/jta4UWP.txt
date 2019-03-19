@@ -1,0 +1,39 @@
+E564200-8
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+
+Atmosphere = 6
+	DIGIT	DESCRIPTION	EFFECTS
+	6	Standard	
+
+Hydrosphere = 4
+	DIGIT	DESCRIPTION
+	4	40%
+
+Population = 2
+	POPULATION UNDER 300
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+
+Government = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Government Structure	Family bonds predominate
+
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+
+Tech Level = 8
+	DIGIT		
+	8		
+

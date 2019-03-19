@@ -1,0 +1,86 @@
+Hex = 2530
+Name = Thaggesh
+UWP = B6668A8-A
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 6
+	DIGIT	DIA(MI)	DIA(KM)
+	6	6,000	9,600
+Atmosphere = 6
+	DIGIT	DESCRIPTION	EFFECTS
+	6	Standard	
+Hydrosphere = 6
+	DIGIT	DESCRIPTION
+	6	60%
+Population = 8
+	POPULATION UNDER 600,000,000
+	DIGIT	DESCRIPTION	VALUE
+	8	Hundred million	00,000,000
+Government = A
+	DIGIT	DESCRIPTION	NOTE
+	A	Charismatic Dictatorship	Government by a single leader enjoying the confidence of the citizens
+Law Level = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	High Law	Open display of weapons prohibited
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = Ga Ri Pa Ph (Thaggeshi)
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ga	678	568	567				Garden World	
+	Ri		68		678			Rich	
+	Pa		456789	45678	48			Pre Agricultural	
+	Ph				8			Pre High	
+	Minor Race 	Native Intelligent Life = Thaggeshi
+No details
+	POP	ATM	TL	COMMENT	NOTE
+	7+	2-9	1+	Intelligent life evolved on this world	Natives
+{Ix} = { 3 }
+	Starport B = +1
+	TL 10 = +1
+	Ri  = +1
+	Importance = Normal (3)+0=3
+(Ex) = (B7C+3)
+	Resources =  11
+	Labour =  7
+	Infrastructure =  12
+	Efficiency =  3
+	RU = 2772
+[Cx] = [8B5A]
+	Homogeneity = 8
+	Acceptance = 11
+	Strangeness = 5
+	Symbols = 10
+N = BcCe
+	CODE	RANK	TC
+	B	Knight	any
+	c	Baronet	Pa Pr
+	C	Baron	Ag Ri
+	e	Viscount	Ph
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 601
+	Population Multiplier = 6
+	POPULATION UNDER 600,000,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 14
+	Non Stars In System = 14
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 12 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = F6 V M7 V M6 V
+	Stars = 3

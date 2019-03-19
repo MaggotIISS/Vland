@@ -1,0 +1,64 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Enard	C8A37AC-9	(Temperate)
+	Orbits LGG (60,000 mi dia.)	S=24 @ orbit R
+	  RadWorld	  	Y523000-0 @ Orbit B
+	  BigWorld	  	YH65352-8 @ Orbit E
+	  BigWorld	  	FC36640-5 @ Orbit G
+	  Hospitable	  	H557651-7 @ Orbit H
+	  Worldlet	  	Y044400-8 @ Orbit YLGG (80,000 mi dia.)	S=2O
+	  RadWorld	  	Y665000-0 @ Orbit P
+	  BigWorld	  	YE9A000-0 @ Orbit R
+	  RadWorld	  	YA34000-0 @ Orbit X
+	  RadWorld	  	Y764000-0 @ Orbit Y
+1 = World  (Inferno)	Y6B0000-0
+	  Worldlet	  	G337597-8 @ Orbit RWorld  (BigWorld)	FH7A521-G
+	  RadWorld	  	Y579000-0 @ Orbit P
+	  Worldlet	  	H189500-8 @ Orbit X
+2 = STAR M7 VWorld  (Hospitable)	H357562-7
+	  Ring @ Orbit ?
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 0
+	d1000Limit = 5
+	NO Orbits
+3 = World  (Hospitable)	G336585-7
+4 = World  (Hospitable)	H753642-4
+	  Worldlet	  	G05847A-4 @ Orbit Q
+	  Worldlet	  	H0A6413-8 @ Orbit S
+	  Worldlet	  	Y08A663-8 @ Orbit U
+5 = 
+6 = 
+7 = World  (Hospitable)	F769333-8
+	  IceWorld	  	H640300-6 @ Orbit G
+	  IceWorld	  	YA74656-8 @ Orbit O
+	  Worldlet	  	H285659-8 @ Orbit Q
+8 = 
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = World  (BigWorld)	HE0066B-8
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 13
+W = 9
+syscount = 2
+min = 0
+count = 7

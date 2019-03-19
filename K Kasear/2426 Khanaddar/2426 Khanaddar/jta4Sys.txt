@@ -1,0 +1,14 @@
+Hex = 2426
+Name = Khanaddar
+UWP = A000302-F
+Remarks = As Lo Va
+{Ix} = { 1 }
+(Ex) = (821-3)
+[Cx] = [141B]
+N = B
+B = -
+Z = -
+PBG = 112
+W = 12
+A = ImDv
+Stellar = K6 V M6 V

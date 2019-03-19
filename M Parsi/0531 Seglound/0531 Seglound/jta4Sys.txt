@@ -1,0 +1,14 @@
+Hex = 0531
+Name = Seglound
+UWP = D99A453-A
+Remarks = Ni Wa
+{Ix} = { -1 }
+(Ex) = (832-4)
+[Cx] = [1327]
+N = B
+B = S
+Z = -
+PBG = 220
+W = 14
+A = ImDv
+Stellar = M1 V

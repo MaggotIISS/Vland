@@ -1,0 +1,14 @@
+Hex = 2628
+Name = Floranus
+UWP = C8B3786-9
+Remarks = Fl
+{Ix} = { 0 }
+(Ex) = (A69-1)
+[Cx] = [6748]
+N = B
+B = -
+Z = -
+PBG = 201
+W = 16
+A = ImDv
+Stellar = M0 V M3 V

@@ -1,0 +1,77 @@
+Hex = 1906
+Name = Envar
+UWP = D9C5333-9
+Starport = D
+	Quality = Poor
+	Yards = No
+	Repairs = Minor damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 9
+	DIGIT	DIA(MI)	DIA(KM)
+	9	9,000	14,400
+Atmosphere = C
+	DIGIT	DESCRIPTION	EFFECTS
+	C	Insidious	C2 P1
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+Population = 3
+	POPULATION UNDER 7,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+Government = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Self-Perpetuating Oligarchy	Rule by a restricted minority with little or no input from the masses
+Law Level = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Low Law	Prohibition of Acid, Fire, Gas weapons
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = Fl Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Fl		ABC	123456789A				Fluid	
+	Lo				123			Low Population	
+{Ix} = { -2 }
+	Starport D = -1
+	Pop < 7 = -1
+	Importance = Unimportant (-2)+0=-2
+(Ex) = (621-5)
+	Resources =  6
+	Labour =  2
+	Infrastructure =  1
+	Efficiency =  -5
+	RU = -60
+[Cx] = [1126]
+	Homogeneity = 1
+	Acceptance = 1
+	Strangeness = 2
+	Symbols = 6
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 701
+	Population Multiplier = 7
+	POPULATION UNDER 7,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 8
+	Non Stars In System = 8
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 V
+	Stars = 1

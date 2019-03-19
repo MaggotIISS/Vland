@@ -1,0 +1,81 @@
+Hex = 2540
+Name = Kalaalit
+UWP = A7698B9-D
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+Atmosphere = 6
+	DIGIT	DESCRIPTION	EFFECTS
+	6	Standard	
+Hydrosphere = 9
+	DIGIT	DESCRIPTION
+	9	90%
+Population = 8
+	POPULATION UNDER 500,000,000
+	DIGIT	DESCRIPTION	VALUE
+	8	Hundred million	00,000,000
+Government = B
+	DIGIT	DESCRIPTION	NOTE
+	B	Non-Charismatic Dictatorship	Government by the successor to a charismatic dictator
+Law Level = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	High Law	Weapons outside the home prohibited
+Tech Level = D
+	DIGIT		
+	D		
+Remarks = Ri Ph Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ri		68		678			Rich	
+	Ph				8			Pre High	
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { 3 }
+	Starport A = +1
+	TL 13 = +1
+	Ri  = +1
+	Importance = Normal (3)+0=3
+(Ex) = (B7E+4)
+	Resources =  11
+	Labour =  7
+	Infrastructure =  14
+	Efficiency =  4
+	RU = 4312
+[Cx] = [9B6E]
+	Homogeneity = 9
+	Acceptance = 11
+	Strangeness = 6
+	Symbols = 14
+N = BCe
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+	e	Viscount	Ph
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 510
+	Population Multiplier = 5
+	POPULATION UNDER 500,000,000
+	Planetoid Belts = 1
+	Gas Giants = 0
+W = 6
+	Non Stars In System = 6
+	-1 (mainworld)
+	-1 (planetoid belts)
+	-0 (gas giants)
+	 = 4 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M3 V
+	Stars = 1

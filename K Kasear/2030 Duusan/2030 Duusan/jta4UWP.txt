@@ -1,0 +1,39 @@
+B9CA65A-D
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+
+Size = 9
+	DIGIT	DIA(MI)	DIA(KM)
+	9	9,000	14,400
+
+Atmosphere = C
+	DIGIT	DESCRIPTION	EFFECTS
+	C	Insidious	C2 P1
+
+Hydrosphere = A
+	DIGIT	DESCRIPTION
+	A	Water World
+
+Population = 6
+	POPULATION UNDER 9,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+
+Law Level = A
+	DIGIT	DESCRIPTION	NOTE
+	A	Extreme Law	Weapon possession prohibited
+
+Tech Level = D
+	DIGIT		
+	D		
+

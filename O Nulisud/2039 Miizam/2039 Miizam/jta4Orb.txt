@@ -1,0 +1,54 @@
+Primary = M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = 
+1 = Mainworld	Miizam	B573577-B	(Cold)
+2 = 
+3 = World  (StormWorld)	Y200000-0
+	  Ring @ Orbit ?
+4 = Planetoid belt	G000451-9
+5 = World  (BigWorld)	Y248451-A
+	  StormWorld	  	Y280000-0 @ Orbit L
+6 = STAR M0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  3
+	HZ =  -1
+	6-0 = 
+	6-1 = 
+	6-2 = 
+	6-3 = 
+7 = 
+8 = 
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = World  (RadWorld)	Y220000-0
+	  Worldlet	  	F236247-8 @ Orbit H
+	  StormWorld	  	Y262000-0 @ Orbit W
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 14
+syscount = 2
+min = 0
+W = 5
+Extra Stars = 1
+count = 6

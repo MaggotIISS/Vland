@@ -1,0 +1,57 @@
+Primary = K2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (Inferno)	Y5B0000-0
+	  Inferno	  	Y3B0000-0 @ Orbit X
+1 = LGG (60,000 mi dia.)	S=24
+	  Ring @ Orbit ?
+2 = Mainworld	Liwar	C550300-A	(Temperate)
+	Orbits LGG (80,000 mi dia.)	S=26 @ orbit R
+	  Worldlet	  	G1A6285-3 @ Orbit D
+	  RadWorld	  	Y600000-0 @ Orbit E
+3 = LGG (80,000 mi dia.)	S=26
+	  Worldlet	  	F044230-4 @ Orbit H
+	  StormWorld	  	Y900000-0 @ Orbit I
+	  Worldlet	  	Y377283-8 @ Orbit RWorld  (Worldlet)	G1B6274-J
+	  StormWorld	  	Y546000-0 @ Orbit O
+	  Hospitable	  	Y8B6262-9 @ Orbit T
+	  StormWorld	  	Y300000-0 @ Orbit V
+	  RadWorld	  	Y244000-0 @ Orbit X
+4 = LGG (180,000 mi dia.)	S=29
+	  Worldlet	  	G233220-3 @ Orbit E
+	  StormWorld	  	YB40000-0 @ Orbit Q
+	  BigWorld	  	FG00220-3 @ Orbit T
+	  BigWorld	  	YF22210-7 @ Orbit U
+5 = 
+6 = LGG (90,000 mi dia.)	S=27
+	  BigWorld	  	HD2728A-7 @ Orbit H
+	  StormWorld	  	YA00000-0 @ Orbit O
+	  OuterWorld	  	F666231-9 @ Orbit R
+	  IceWorld	  	H10029B-6 @ Orbit S
+7 = LGG (60,000 mi dia.)	S=24
+	  Ring @ Orbit ?
+8 = 
+9 = 
+10 = 
+11 = 
+12 = 
+13 = World  (BigWorld)	HA98274-5
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 12
+W = 9
+syscount = 1
+min = 0
+count = 8

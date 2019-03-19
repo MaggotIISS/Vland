@@ -1,0 +1,81 @@
+Hex = 2222
+Name = Markassar
+UWP = E7788CA-5
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+Atmosphere = 7
+	DIGIT	DESCRIPTION	EFFECTS
+	7	Standard, Tainted	P1
+Hydrosphere = 8
+	DIGIT	DESCRIPTION
+	8	80%
+Population = 8
+	POPULATION UNDER 900,000,000
+	DIGIT	DESCRIPTION	VALUE
+	8	Hundred million	00,000,000
+Government = C
+	DIGIT	DESCRIPTION	NOTE
+	C	Charismatic Oligarchy	Government by a select religious, mystic, or psionic group, organization, or class enjoying the overwhelming confidence of the citizenry
+Law Level = A
+	DIGIT	DESCRIPTION	NOTE
+	A	Extreme Law	Weapon possession prohibited
+Tech Level = 5
+	DIGIT		
+	5		
+Remarks = Pa Ph Pi Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Pa		456789	45678	48			Pre Agricultural	
+	Ph				8			Pre High	
+	Pi		012479		78			Pre Industrial	
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { -2 }
+	Starport E = -1
+	TL 5 = -1
+	Importance = Unimportant (-2)+0=-2
+(Ex) = (A75+1)
+	Resources =  10
+	Labour =  7
+	Infrastructure =  5
+	Efficiency =  1
+	RU = 350
+[Cx] = [A677]
+	Homogeneity = 10
+	Acceptance = 6
+	Strangeness = 7
+	Symbols = 7
+N = BcDe
+	CODE	RANK	TC
+	B	Knight	any
+	c	Baronet	Pa Pr
+	D	Marquis	Pi
+	e	Viscount	Ph
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 923
+	Population Multiplier = 9
+	POPULATION UNDER 900,000,000
+	Planetoid Belts = 2
+	Gas Giants = 3
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-3 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G2 V G4 V
+	Stars = 2

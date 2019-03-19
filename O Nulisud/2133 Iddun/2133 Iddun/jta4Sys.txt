@@ -1,0 +1,14 @@
+Hex = 2133
+Name = Iddun
+UWP = D583201-8
+Remarks = Lo An
+{Ix} = { -3 }
+(Ex) = (611-5)
+[Cx] = [1114]
+N = B
+B = -
+Z = -
+PBG = 320
+W = 10
+A = ImDv
+Stellar = F7 V

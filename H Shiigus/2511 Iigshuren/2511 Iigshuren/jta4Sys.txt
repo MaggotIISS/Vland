@@ -1,0 +1,14 @@
+Hex = 2511
+Name = Iigshuren
+UWP = B66A766-C
+Remarks = Ri Wa O:2409
+{Ix} = { 3 }
+(Ex) = (E6D+2)
+[Cx] = [6A4B]
+N = BC
+B = -
+Z = -
+PBG = 223
+W = 11
+A = ImDv
+Stellar = G5 V

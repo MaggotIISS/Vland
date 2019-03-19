@@ -1,0 +1,39 @@
+B774534-B
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+
+Atmosphere = 7
+	DIGIT	DESCRIPTION	EFFECTS
+	7	Standard, Tainted	P1
+
+Hydrosphere = 4
+	DIGIT	DESCRIPTION
+	4	40%
+
+Population = 5
+	POPULATION UNDER 300,000
+	DIGIT	DESCRIPTION	VALUE
+	5	Hundred thousand	00,000
+
+Government = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Self-Perpetuating Oligarchy	Rule by a restricted minority with little or no input from the masses
+
+Law Level = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Moderate Law	Laser, Beam weapons prohibited
+
+Tech Level = B
+	DIGIT		
+	B		
+

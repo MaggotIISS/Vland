@@ -1,0 +1,68 @@
+Primary = K7 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = 
+1 = World  (Inferno)	Y5B0000-0
+2 = Mainworld	Iren	A8C389E-C	(Temperate)
+	  Ring @ Orbit ?
+3 = LGG (60,000 mi dia.)	S=24
+	  RadWorld	  	Y575000-0 @ Orbit V
+4 = LGG (50,000 mi dia.)	S=23
+	  OuterWorld	  	H565355-7 @ Orbit H
+	  Worldlet	  	Y08969A-4 @ Orbit S
+	  OuterWorld	  	G4127AB-8 @ Orbit Y
+5 = LGG (80,000 mi dia.)	S=26
+	  OuterWorld	  	G58A767-5 @ Orbit G
+	  RadWorld	  	Y530000-0 @ Orbit H
+	  IceWorld	  	G372520-9 @ Orbit O
+	  StormWorld	  	F500255-6 @ Orbit P
+	  RadWorld	  	Y510000-0 @ Orbit X
+6 = Planetoid belt	F000213-9
+7 = LGG (125,000 mi dia.)	S=28
+	  StormWorld	  	Y330000-0 @ Orbit V
+8 = World  (BigWorld)	H55277A-2
+	  IceWorld	  	F554110-5 @ Orbit T
+	  Worldlet	  	F110233-5 @ Orbit V
+9 = World  (Inferno)	Y5B0000-0
+10 = STAR M3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  7
+	HZ =  -1
+	10-0 = 
+	10-1 = 
+	10-2 = 
+	10-3 = 
+	10-4 = 
+	10-5 = 
+	10-6 = 
+	10-7 = 
+11 = 
+12 = World  (RadWorld)	Y331000-0
+	  Ring @ Orbit ?
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 9
+W = 10
+syscount = 2
+min = 0
+count = 11

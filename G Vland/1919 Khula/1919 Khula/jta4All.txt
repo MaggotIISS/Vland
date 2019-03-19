@@ -1,0 +1,48 @@
+Primary = M0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Khula	B575A77-E	(Hot)
+	  Ring @ Orbit ?World  (BigWorld)	F2A6875-G
+	  Inferno	  	Y2B0000-0 @ Orbit I
+	  StormWorld	  	G253154-2 @ Orbit J
+1 = World  (Hospitable)	F2D6312-B
+	  Ring @ Orbit ?
+2 = World  (StormWorld)	G20029B-7
+3 = Planetoid belt	Y000899-3
+4 = World  (StormWorld)	F2511AA-2
+	  Worldlet	  	Y173100-6 @ Orbit E
+	  RadWorld	  	Y289000-0 @ Orbit S
+	  StormWorld	  	H200155-7 @ Orbit V
+5 = World  (Hospitable)	H27065A-8
+6 = 
+7 = World  (Hospitable)	Y000254-8
+	  Worldlet	  	Y1A6652-9 @ Orbit V
+8 = 
+9 = 
+10 = World  (RadWorld)	Y284000-0
+	  Worldlet	  	Y140456-5 @ Orbit V
+11 = 
+12 = 
+13 = World  (Hospitable)	H28A747-4
+	  IceWorld	  	H240215-7 @ Orbit E
+	  Worldlet	  	H03157A-7 @ Orbit K
+	  Worldlet	  	G110148-7 @ Orbit S
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 11
+W = 10
+syscount = 1
+min = 0
+count = 9

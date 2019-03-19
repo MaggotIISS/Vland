@@ -1,0 +1,55 @@
+Primary = K8 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = LGG (125,000 mi dia.)	S=28
+	  BigWorld	  	G297100-7 @ Orbit B
+	  Inferno	  	Y2B0000-0 @ Orbit C
+	  BigWorld	  	Y245277-7 @ Orbit E
+	  Worldlet	  	Y250297-5 @ Orbit I
+	  BigWorld	  	Y265276-7 @ Orbit S
+1 = Planetoid belt	F000103-7World  (StormWorld)	Y200000-0
+	  Worldlet	  	H097213-7 @ Orbit S
+2 = Mainworld	Zupilak	D553353-8	(Temperate)
+3 = Planetoid belt	F000264-7Planetoid belt	Y000283-6
+4 = LGG (50,000 mi dia.)	S=23
+	  Worldlet	  	Y066257-5 @ Orbit D
+	  StormWorld	  	Y200000-0 @ Orbit F
+	  RadWorld	  	Y2F6000-0 @ Orbit R
+	  StormWorld	  	Y200000-0 @ Orbit T
+5 = LGG (70,000 mi dia.)	S=25
+	  IceWorld	  	F293289-7 @ Orbit F
+	  StormWorld	  	Y200000-0 @ Orbit G
+	  Worldlet	  	G26928C-7 @ Orbit I
+	  OuterWorld	  	H241234-7 @ Orbit R
+	  OuterWorld	  	F2472A7-4 @ Orbit Y
+6 = LGG (80,000 mi dia.)	S=26
+	  OuterWorld	  	F242259-7 @ Orbit H
+	  IceWorld	  	Y270242-7 @ Orbit Q
+	  Worldlet	  	H1002EG-7 @ Orbit R
+	  Worldlet	  	Y210295-7 @ Orbit V
+7 = 
+8 = 
+9 = 
+10 = World  (Hospitable)	G245245-7
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 12
+W = 10
+syscount = 1
+min = 0
+count = 8

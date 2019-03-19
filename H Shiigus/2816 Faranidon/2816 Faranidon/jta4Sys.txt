@@ -1,0 +1,14 @@
+Hex = 2816
+Name = Faranidon
+UWP = B6569AD-9
+Remarks = Hi Ga Pz
+{Ix} = { 2 }
+(Ex) = (C8C+5)
+[Cx] = [DB9D]
+N = BE
+B = -
+Z = A
+PBG = 910
+W = 12
+A = ImDv
+Stellar = M0 V

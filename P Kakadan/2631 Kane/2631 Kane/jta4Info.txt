@@ -1,0 +1,78 @@
+Hex = 2631
+Name = Kane
+UWP = E789ABE-A
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+Atmosphere = 8
+	DIGIT	DESCRIPTION	EFFECTS
+	8	Dense	
+Hydrosphere = 9
+	DIGIT	DESCRIPTION
+	9	90%
+Population = A
+	POPULATION UNDER 70,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	A	Ten billion	0,000,000,000
+Government = B
+	DIGIT	DESCRIPTION	NOTE
+	B	Non-Charismatic Dictatorship	Government by the successor to a charismatic dictator
+Law Level = E
+	DIGIT	DESCRIPTION	NOTE
+	E	Extreme Law	Full-fledged police state
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = Hi Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { 1 }
+	Starport E = -1
+	TL 10 = +1
+	Hi  = +1
+	Importance = Normal (1)+0=1
+(Ex) = (H9B+5)
+	Resources =  17
+	Labour =  9
+	Infrastructure =  11
+	Efficiency =  5
+	RU = 8415
+[Cx] = [EB9E]
+	Homogeneity = 14
+	Acceptance = 11
+	Strangeness = 9
+	Symbols = 14
+N = BE
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 723
+	Population Multiplier = 7
+	POPULATION UNDER 70,000,000,000
+	Planetoid Belts = 2
+	Gas Giants = 3
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-3 (gas giants)
+	 = 4 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K9 V
+	Stars = 1

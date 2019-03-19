@@ -1,0 +1,54 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Erim	D573785-5	(Temperate)LGG (125,000 mi dia.)	S=28
+	  StormWorld	  	H562199-4 @ Orbit BWorld  (RadWorld)	Y622000-G
+	  Ring @ Orbit W
+1 = World  (Hospitable)	Y67A487-4
+2 = World  (Hospitable)	H7886AB-4
+	  RadWorld	  	Y963000-0 @ Orbit S
+	  RadWorld	  	Y537000-0 @ Orbit U
+3 = STAR K0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  0
+	HZ =  -1
+	3-0 = 
+4 = 
+5 = 
+6 = 
+7 = World  (RadWorld)	Y68A000-0
+	  IceWorld	  	H350669-4 @ Orbit G
+8 = World  (Hospitable)	F500652-4
+	  Ring @ Orbit ?
+9 = 
+10 = World  (RadWorld)	YB21000-0
+11 = 
+12 = 
+13 = 
+14 = 
+15 = World  (BigWorld)	FE79100-4
+	  IceWorld	  	Y1006AC-3 @ Orbit I
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 12
+W = 9
+syscount = 2
+min = 0
+count = 8

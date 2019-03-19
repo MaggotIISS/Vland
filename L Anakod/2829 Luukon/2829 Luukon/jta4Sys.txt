@@ -1,0 +1,14 @@
+Hex = 2829
+Name = Luukon
+UWP = A5779B6-C
+Remarks = Hi In Cp
+{Ix} = { 4 }
+(Ex) = (C8F+3)
+[Cx] = [8D4B]
+N = BEF
+B = N
+Z = -
+PBG = 601
+W = 11
+A = ImDv
+Stellar = K3 V M1 V

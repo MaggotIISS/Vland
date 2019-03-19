@@ -1,0 +1,76 @@
+Primary = K6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (Hospitable)	G-300278-3World  (StormWorld)	Y-300000-0
+	  Ring @ Orbit ?
+1 = World  (RadWorld)	Y-357000-0
+2 = World  (Inferno)	Y-3B0000-0
+3 = Planetoid belt	F-300200-4
+4 = World  (Inferno)	Y-3B0000-0
+	  Ring @ Orbit ?
+5 = 
+6 = 
+7 = World  (Worldlet)	F-340242-5
+	  RadWorld	  	Y-330000-0 @ Orbit F
+	  Worldlet	  	G-355278-8 @ Orbit G
+	  Worldlet	  	Y-3B6220-4 @ Orbit T
+8 = World  (BigWorld)	F-300230-A
+	  RadWorld	  	Y-366000-0 @ Orbit J
+	  Inferno	  	Y-3B0000-0 @ Orbit R
+9 = Asteroid Belt	Khanaddar	A000302-F	(Cold)
+10 = 
+11 = 
+12 = LGG (70,000 mi dia.)	S=25
+	  StormWorld	  	Y-300000-0 @ Orbit C
+	  Worldlet	  	H-330264-9 @ Orbit Q
+	  StormWorld	  	Y-352000-0 @ Orbit S
+13 = World  (BigWorld)	F-356268-2
+	  RadWorld	  	Y-300000-0 @ Orbit I
+14 = LGG (50,000 mi dia.)	S=23
+	  BigWorld	  	Y-368249-7 @ Orbit D
+	  BigWorld	  	H-394232-9 @ Orbit E
+	  BigWorld	  	H-320261-9 @ Orbit K
+	  StormWorld	  	Y-300000-0 @ Orbit U
+	  BigWorld	  	G-3A2253-8 @ Orbit V
+15 = 
+16 = STAR M6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 0
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  13
+	HZ =  -1
+	16-0 = 
+	16-1 = 
+	16-2 = 
+	16-3 = 
+	16-4 = 
+	16-5 = 
+	16-6 = 
+	16-7 = 
+	16-8 = 
+	16-9 = 
+	16-10 = 
+	16-11 = 
+	16-12 = 
+	16-13 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 8
+syscount = 2
+min = 0
+W = 12
+Extra Stars = 1
+count = 12

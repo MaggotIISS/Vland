@@ -1,0 +1,39 @@
+E100233-A
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+
+Size = 1
+	DIGIT	DIA(MI)	DIA(KM)
+	1	1,000	1,600
+
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+
+Population = 2
+	POPULATION UNDER 800
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+
+Government = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Self-Perpetuating Oligarchy	Rule by a restricted minority with little or no input from the masses
+
+Law Level = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Low Law	Prohibition of Acid, Fire, Gas weapons
+
+Tech Level = A
+	DIGIT		
+	A		
+

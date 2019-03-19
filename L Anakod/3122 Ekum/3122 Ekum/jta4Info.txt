@@ -1,0 +1,81 @@
+Hex = 3122
+Name = Ekum
+UWP = E56068C-6
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 6
+	DIGIT	DESCRIPTION	EFFECTS
+	6	Standard	
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 6
+	POPULATION UNDER 6,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit
+Law Level = C
+	DIGIT	DESCRIPTION	NOTE
+	C	Extreme Law	Unrestricted invasion of privacy
+Tech Level = 6
+	DIGIT		
+	6		
+Remarks = De Ni Ri Da
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	De	23456789	0					Desert	
+	Ni				456			Non Industrial	
+	Ri		68		678			Rich	
+	Da				0123456			Dangerous	Amber Zone
+{Ix} = { -2 }
+	Starport E = -1
+	TL 6 = -1
+	Ri  = +1
+	Pop < 7 = -1
+	Importance = Unimportant (-2)+0=-2
+(Ex) = (852+1)
+	Resources =  8
+	Labour =  5
+	Infrastructure =  2
+	Efficiency =  1
+	RU = 80
+[Cx] = [9489]
+	Homogeneity = 9
+	Acceptance = 4
+	Strangeness = 8
+	Symbols = 9
+N = BC
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 624
+	Population Multiplier = 6
+	POPULATION UNDER 6,000,000
+	Planetoid Belts = 2
+	Gas Giants = 4
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-4 (gas giants)
+	 = 2 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G6 V M9 V
+	Stars = 2

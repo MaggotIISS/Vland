@@ -1,0 +1,14 @@
+Hex = 2308
+Name = Bolziin
+UWP = B310212-D
+Remarks = Lo
+{Ix} = { 1 }
+(Ex) = (911-3)
+[Cx] = [1319]
+N = B
+B = N
+Z = -
+PBG = 914
+W = 14
+A = ImDv
+Stellar = M3 V

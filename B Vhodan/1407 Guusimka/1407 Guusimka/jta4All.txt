@@ -1,0 +1,53 @@
+Primary = M0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Guusimka	E539A77-C	(Temperate)
+	  Worldlet	  	Y040597-8 @ Orbit D
+	  Worldlet	  	H245447-4 @ Orbit PLGG (90,000 mi dia.)	S=2F
+	  BigWorld	  	HG46630-7 @ Orbit G
+	  RadWorld	  	Y6A4000-0 @ Orbit H
+	  StormWorld	  	Y600000-0 @ Orbit J
+	  Hospitable	  	Y110242-8 @ Orbit PWorld  (StormWorld)	F712298-K
+	  Inferno	  	Y6B0000-0 @ Orbit Q
+	  Worldlet	  	Y069589-7 @ Orbit S
+	  Worldlet	  	H044643-A @ Orbit V
+	  BigWorld	  	YC99576-9 @ Orbit W
+1 = 
+2 = World  (Hospitable)	F644352-3
+	  Ring @ Orbit ?
+3 = 
+4 = World  (RadWorld)	Y830000-0
+	  Worldlet	  	G020243-5 @ Orbit E
+	  Worldlet	  	Y030743-6 @ Orbit H
+	  RadWorld	  	Y797000-0 @ Orbit Q
+5 = 
+6 = Planetoid belt	F000667-A
+7 = World  (RadWorld)	Y463000-0
+8 = World  (Worldlet)	H040110-8
+9 = 
+10 = 
+11 = World  (Worldlet)	H235952-8
+	  RadWorld	  	Y98A000-0 @ Orbit F
+	  OuterWorld	  	F300696-A @ Orbit S
+	  IceWorld	  	G341766-A @ Orbit U
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 13
+W = 9
+syscount = 1
+min = 0
+count = 7

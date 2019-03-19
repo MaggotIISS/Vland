@@ -1,0 +1,76 @@
+Hex = 1028
+Name = Apurshish
+UWP = C555A64-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = Yes
+	possBases = S
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 5
+	DIGIT	DESCRIPTION	EFFECTS
+	5	This	S1
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+Population = A
+	POPULATION UNDER 60,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	A	Ten billion	0,000,000,000
+Government = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Captive Government/Colony	Rule by a leadership answerable to an outside group
+Law Level = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Moderate Law	Laser, Beam weapons prohibited
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = Hi O:0927
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	Ruled by 0927 Havland
+{Ix} = { 1 }
+	Hi  = +1
+	Importance = Normal (1)+0=1
+(Ex) = (H9B-1)
+	Resources =  17
+	Labour =  9
+	Infrastructure =  11
+	Efficiency =  -1
+	RU = -1683
+[Cx] = [8B37]
+	Homogeneity = 8
+	Acceptance = 11
+	Strangeness = 3
+	Symbols = 7
+N = BE
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 623
+	Population Multiplier = 6
+	POPULATION UNDER 60,000,000,000
+	Planetoid Belts = 2
+	Gas Giants = 3
+W = 17
+	Non Stars In System = 17
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-3 (gas giants)
+	 = 11 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G8 V
+	Stars = 1

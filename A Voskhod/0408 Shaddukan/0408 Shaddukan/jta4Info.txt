@@ -1,0 +1,80 @@
+Hex = 0408
+Name = Shaddukan
+UWP = B622156-D
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 6
+	DIGIT	DIA(MI)	DIA(KM)
+	6	6,000	9,600
+Atmosphere = 2
+	DIGIT	DESCRIPTION	EFFECTS
+	2	VThin, Tainted	P1, S2
+Hydrosphere = 2
+	DIGIT	DESCRIPTION
+	2	20%
+Population = 1
+	POPULATION UNDER 40
+	DIGIT	DESCRIPTION	VALUE
+	1	Tens	0
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+Law Level = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Moderate Law	Pohibition of Machineguns
+Tech Level = D
+	DIGIT		
+	D		
+Remarks = He Lo Po
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	He	3459ABC	2479ABC	012				Hell World	
+	Lo				123			Low Population	
+	Po		2345	0123				Poor	
+{Ix} = { 2 }
+	Starport B = +1
+	TL 13 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+1=2
+(Ex) = (411+1)
+	Resources =  4
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  1
+	RU = 4
+[Cx] = [134C]
+	Homogeneity = 1
+	Acceptance = 3
+	Strangeness = 4
+	Symbols = 12
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = NS
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 410
+	Population Multiplier = 4
+	POPULATION UNDER 40
+	Planetoid Belts = 1
+	Gas Giants = 0
+W = 13
+	Non Stars In System = 13
+	-1 (mainworld)
+	-1 (planetoid belts)
+	-0 (gas giants)
+	 = 11 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G1 V
+	Stars = 1

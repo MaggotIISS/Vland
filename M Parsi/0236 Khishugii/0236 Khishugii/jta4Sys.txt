@@ -1,0 +1,14 @@
+Hex = 0236
+Name = Khishugii
+UWP = C420534-B
+Remarks = De He Ni Po
+{Ix} = { 0 }
+(Ex) = (844-2)
+[Cx] = [3539]
+N = B
+B = S
+Z = -
+PBG = 510
+W = 16
+A = ImDv
+Stellar = M0 V

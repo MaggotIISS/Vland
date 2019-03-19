@@ -1,0 +1,14 @@
+Hex = 3002
+Name = Ksuerrgh
+UWP = D42788D-8
+Remarks = Ph Pi Pz
+{Ix} = { -2 }
+(Ex) = (F76+2)
+[Cx] = [C69C]
+N = -
+B = C
+Z = A
+PBG = 914
+W = 16
+A = NaVa
+Stellar = M1 V

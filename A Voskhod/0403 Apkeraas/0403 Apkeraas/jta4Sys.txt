@@ -1,0 +1,14 @@
+Hex = 0403
+Name = Apkeraas
+UWP = C438547-9
+Remarks = Ni
+{Ix} = { -1 }
+(Ex) = (943-1)
+[Cx] = [5459]
+N = B
+B = -
+Z = -
+PBG = 420
+W = 8
+A = ImDv
+Stellar = G2 V

@@ -1,0 +1,14 @@
+Hex = 1638
+Name = Twana
+UWP = C553533-9
+Remarks = Ni Po
+{Ix} = { -1 }
+(Ex) = (943-4)
+[Cx] = [2426]
+N = B
+B = -
+Z = -
+PBG = 120
+W = 6
+A = ImDv
+Stellar = G8 V M8 V M2 V

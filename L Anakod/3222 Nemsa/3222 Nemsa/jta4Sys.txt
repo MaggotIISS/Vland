@@ -1,0 +1,14 @@
+Hex = 3222
+Name = Nemsa
+UWP = E300353-A
+Remarks = Lo Va
+{Ix} = { -1 }
+(Ex) = (721-4)
+[Cx] = [1227]
+N = B
+B = -
+Z = -
+PBG = 920
+W = 10
+A = ImDv
+Stellar = F5 V M1 V

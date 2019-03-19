@@ -1,0 +1,75 @@
+Hex = 1104
+Name = Gvaellekh
+UWP = C885215-8
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 8
+	DIGIT	DIA(MI)	DIA(KM)
+	8	8,000	13,800
+Atmosphere = 8
+	DIGIT	DESCRIPTION	EFFECTS
+	8	Dense	
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+Population = 2
+	POPULATION UNDER 600
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+Government = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Company/Corporation	Rule by a managerial elite
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+Tech Level = 8
+	DIGIT		
+	8		
+Remarks = Lo Ga
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+	Ga	678	568	567				Garden World	
+{Ix} = { -2 }
+	Pop < 7 = -1
+	Importance = Unimportant (-1)+-1=-2
+(Ex) = (511-4)
+	Resources =  5
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -4
+	RU = -20
+[Cx] = [1136]
+	Homogeneity = 1
+	Acceptance = 1
+	Strangeness = 3
+	Symbols = 6
+N = -
+	No Imperial Nobles
+B = C
+	DIGIT	DESCRIPTION	ALLEG
+	C	Corsair Base	Vargr
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 610
+	Population Multiplier = 6
+	POPULATION UNDER 600
+	Planetoid Belts = 1
+	Gas Giants = 0
+W = 8
+	Non Stars In System = 8
+	-1 (mainworld)
+	-1 (planetoid belts)
+	-0 (gas giants)
+	 = 6 other worlds
+A = NaVa
+	CODE	DESCRIPTION
+	NaVa	Non-Aligned, Vargr-dominated
+Stellar = K2 V K6 V
+	Stars = 2

@@ -1,0 +1,77 @@
+Hex = 0804
+Name = Kegirur
+UWP = D76A945-8
+Starport = D
+	Quality = Poor
+	Yards = No
+	Repairs = Minor damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+Atmosphere = 6
+	DIGIT	DESCRIPTION	EFFECTS
+	6	Standard	
+Hydrosphere = A
+	DIGIT	DESCRIPTION
+	A	Water World
+Population = 9
+	POPULATION UNDER 9,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	9	Billion	,000,000,000
+Government = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Representative Democracy	Government by proxy
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+Tech Level = 8
+	DIGIT		
+	8		
+Remarks = Hi Wa Pr Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	Wa	56789		A				Water World	
+	Pr		68		59			Pre Rich	
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { -1 }
+	Starport D = -1
+	Hi  = +1
+	Importance = Unimportant (0)+-1=-1
+(Ex) = (C88-3)
+	Resources =  12
+	Labour =  8
+	Infrastructure =  8
+	Efficiency =  -3
+	RU = -2304
+[Cx] = [7836]
+	Homogeneity = 7
+	Acceptance = 8
+	Strangeness = 3
+	Symbols = 6
+N = -
+	No Imperial Nobles
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 901
+	Population Multiplier = 9
+	POPULATION UNDER 9,000,000,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 8 other worlds
+A = NaVa
+	CODE	DESCRIPTION
+	NaVa	Non-Aligned, Vargr-dominated
+Stellar = M0 V
+	Stars = 1

@@ -1,0 +1,39 @@
+B62737A-C
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+
+Size = 6
+	DIGIT	DIA(MI)	DIA(KM)
+	6	6,000	9,600
+
+Atmosphere = 2
+	DIGIT	DESCRIPTION	EFFECTS
+	2	VThin, Tainted	P1, S2
+
+Hydrosphere = 7
+	DIGIT	DESCRIPTION
+	7	70%
+
+Population = 3
+	POPULATION UNDER 7,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+
+Government = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Balkanization	Rival governments continually compete for control of the world
+
+Law Level = A
+	DIGIT	DESCRIPTION	NOTE
+	A	Extreme Law	Weapon possession prohibited
+
+Tech Level = C
+	DIGIT		
+	C		
+

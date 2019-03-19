@@ -1,0 +1,14 @@
+Hex = 1740
+Name = Glanidarn
+UWP = D4359CE-A
+Remarks = Hi Pz
+{Ix} = { 1 }
+(Ex) = (G8B+5)
+[Cx] = [DA9E]
+N = BE
+B = S
+Z = A
+PBG = 623
+W = 11
+A = ImDv
+Stellar = M2 V

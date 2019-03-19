@@ -1,0 +1,76 @@
+Hex = 1821
+Name = Iikhok
+UWP = B43449A-D
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 3
+	DIGIT	DESCRIPTION	EFFECTS
+	3	VThin	S2
+Hydrosphere = 4
+	DIGIT	DESCRIPTION
+	4	40%
+Population = 4
+	POPULATION UNDER 70,000
+	DIGIT	DESCRIPTION	VALUE
+	4	Ten thousand	0,000
+Government = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	Impersonal Bureaucracy	Impersonal agencies rule
+Law Level = A
+	DIGIT	DESCRIPTION	NOTE
+	A	Extreme Law	Weapon possession prohibited
+Tech Level = D
+	DIGIT		
+	D		
+Remarks = Ni
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+{Ix} = { 1 }
+	Starport B = +1
+	TL 13 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (C34+3)
+	Resources =  12
+	Labour =  3
+	Infrastructure =  4
+	Efficiency =  3
+	RU = 432
+[Cx] = [657F]
+	Homogeneity = 6
+	Acceptance = 5
+	Strangeness = 7
+	Symbols = 15
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 724
+	Population Multiplier = 7
+	POPULATION UNDER 70,000
+	Planetoid Belts = 2
+	Gas Giants = 4
+W = 16
+	Non Stars In System = 16
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-4 (gas giants)
+	 = 9 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 V
+	Stars = 1

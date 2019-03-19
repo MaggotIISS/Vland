@@ -1,0 +1,60 @@
+Primary = G4 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  3
+0 = World  (Hospitable)	F320456-5World  (BigWorld)	Y548431-4
+1 = World  (Worldlet)	G131468-7
+2 = World  (Hospitable)	H586498-7World  (RadWorld)	Y576000-0
+	  Hospitable	  	H488467-A @ Orbit JWorld  (Hospitable)	G332475-AWorld  (RadWorld)	Y5A6000-0World  (Inferno)	Y5B0000-T
+	  Inferno	  	Y5B0000-0 @ Orbit V
+3 = Mainworld	Gukhaga	A877576-D	(Temperate)
+4 = World  (Hospitable)	F5D6447-3
+	  Hospitable	  	F57A421-7 @ Orbit H
+	  RadWorld	  	Y557000-0 @ Orbit J
+5 = World  (BigWorld)	F55547A-4
+	  RadWorld	  	Y522000-0 @ Orbit P
+	  RadWorld	  	Y556000-0 @ Orbit W
+6 = STAR M6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 0
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  3
+	HZ =  -1
+	6-0 = 
+	6-1 = 
+	6-2 = 
+	6-3 = 
+7 = World  (Hospitable)	H130476-C
+	  Ring @ Orbit ?
+8 = Planetoid belt	F000477-9
+9 = World  (RadWorld)	Y500000-0
+	  Ring @ Orbit ?
+10 = World  (Worldlet)	F349420-A
+	  Ring @ Orbit ?
+11 = World  (BigWorld)	Y588000-0
+12 = 
+13 = 
+14 = World  (Hospitable)	Y432496-5
+	  Worldlet	  	H000101-6 @ Orbit D
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 7
+W = 17
+syscount = 2
+min = 0
+count = 13

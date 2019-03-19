@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<!--
+comment
+//http://www.w3schools.com/xsl/xsl_w3celementref.asp
+-->
+<html>
+  <head>
+    <title id="titleid">
+      2738-Vehicle-2738 Tepmaa
+    </title>
+    <META http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <script id="loadxmldoc">
+      function loadXMLDoc(filename)
+      {
+        if (window.ActiveXObject)
+        {
+          xhttp = new ActiveXObject("Msxml2.XMLHTTP");
+        }
+        else
+        {
+          xhttp = new XMLHttpRequest();
+        }
+        xhttp.open("GET", filename, false);
+        try {
+          xhttp.responseType = "msxml-document"
+        } catch (err) {
+        } // Helping IE11
+        xhttp.send("");
+        return xhttp.responseXML;
+      }
+
+      function displayResult()
+      {
+        xml = loadXMLDoc(2738 Tepmaa.xml);
+        xsl = loadXMLDoc(../StyleTable.xsl);
+        // code for IE
+        if (window.ActiveXObject || xhttp.responseType == "msxml-document")
+        {
+          ex = xml.transformNode(xsl);
+          document.getElementById("example").innerHTML = ex;
+        }
+        // code for Chrome, Firefox, Opera, etc.
+        else if (document.implementation && document.implementation.createDocument)
+        {
+          xsltProcessor = new XSLTProcessor();
+          xsltProcessor.importStylesheet(xsl);
+          resultDocument = xsltProcessor.transformToFragment(xml, document);
+          document.getElementById("example").appendChild(resultDocument);
+        }
+      }
+
+    </script>
+    <script id="headscripts">script</script>
+  </head>
+  <body>
+    <header id="header">
+      
+    </header>
+    <h2>2738-Vehicle-2738 Tepmaa</h2><br/>
+    <div>
+      C://T5/Vland/P Kakadan/2738 Tepmaa/2738 Tepmaa/2738-Vehicle-2738 Tepmaa.gif<br/>
+      <img id="picture" src="file:///C://T5/Vland/P Kakadan/2738 Tepmaa/2738 Tepmaa/2738-Vehicle-2738 Tepmaa.gif" width="WIDTH" height="HEIGHT" alt="file:///C://T5/Vland/P Kakadan/2738 Tepmaa/2738 Tepmaa/2738-Vehicle-2738 Tepmaa.gif"/><br/>
+    </div>
+    <div>
+      <br/>
+      <button id="button" onclick="displayButton()">EDIT</button><br/>
+      <script id="displayButton">
+        function displayButton() {
+          document.getElementById("button").innerHTML = "EDITING";
+        }
+      </script>
+      <br/>
+      <br/>
+    </div>
+    <footer id="footer">
+      <br><br/>
+    </footer>
+  </body>
+</html>

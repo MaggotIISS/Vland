@@ -1,0 +1,76 @@
+Hex = 3004
+Name = Shupin
+UWP = A511375-B
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 1
+	DIGIT	DESCRIPTION	EFFECTS
+	1	Trace	S3
+Hydrosphere = 1
+	DIGIT	DESCRIPTION
+	1	10%
+Population = 3
+	POPULATION UNDER 4,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+Government = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Balkanization	Rival governments continually compete for control of the world
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+Tech Level = B
+	DIGIT		
+	B		
+Remarks = Ic Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ic		01	123456789A				Ice Capped	
+	Lo				123			Low Population	
+{Ix} = { 1 }
+	Starport A = +1
+	TL 11 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (C21-1)
+	Resources =  12
+	Labour =  2
+	Infrastructure =  1
+	Efficiency =  -1
+	RU = -24
+[Cx] = [1439]
+	Homogeneity = 1
+	Acceptance = 4
+	Strangeness = 3
+	Symbols = 9
+N = -
+	No Imperial Nobles
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 434
+	Population Multiplier = 4
+	POPULATION UNDER 4,000
+	Planetoid Belts = 3
+	Gas Giants = 4
+W = 17
+	Non Stars In System = 17
+	-1 (mainworld)
+	-3 (planetoid belts)
+	-4 (gas giants)
+	 = 9 other worlds
+A = NaHu
+	CODE	DESCRIPTION
+	NaHu	Non-Aligned, Human-dominated
+Stellar = M1 V
+	Stars = 1

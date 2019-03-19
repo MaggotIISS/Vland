@@ -1,0 +1,14 @@
+Hex = 2211
+Name = Irila
+UWP = B568403-A
+Remarks = Ni Pa
+{Ix} = { 1 }
+(Ex) = (B34-2)
+[Cx] = [1527]
+N = Bc
+B = N
+Z = -
+PBG = 523
+W = 8
+A = ImDv
+Stellar = M1 V

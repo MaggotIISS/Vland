@@ -1,0 +1,14 @@
+Hex = 2934
+Name = Assazak
+UWP = C5908C9-8
+Remarks = De He Ph Pi Pz
+{Ix} = { -1 }
+(Ex) = (B77+1)
+[Cx] = [9769]
+N = BDe
+B = -
+Z = A
+PBG = 401
+W = 11
+A = ImDv
+Stellar = M1 V

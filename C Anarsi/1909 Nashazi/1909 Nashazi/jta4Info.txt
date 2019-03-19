@@ -1,0 +1,77 @@
+Hex = 1909
+Name = Nashazi
+UWP = A300211-F
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 3
+	DIGIT	DIA(MI)	DIA(KM)
+	3	3,000	4,800
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 2
+	POPULATION UNDER 100
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+Government = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Company/Corporation	Rule by a managerial elite
+Law Level = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Low Law	Prohibition of WMD, Psi weapons
+Tech Level = F
+	DIGIT		
+	F		
+Remarks = Lo Va
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+	Va		0					Vacuum	
+{Ix} = { 1 }
+	Starport A = +1
+	TL 15 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (611-3)
+	Resources =  6
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -3
+	RU = -18
+[Cx] = [131B]
+	Homogeneity = 1
+	Acceptance = 3
+	Strangeness = 1
+	Symbols = 11
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 120
+	Population Multiplier = 1
+	POPULATION UNDER 100
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 8
+	Non Stars In System = 8
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 5 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 III F7 IV
+	Stars = 2

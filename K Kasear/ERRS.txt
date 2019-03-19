@@ -1,0 +1,84 @@
+1722 Asanik
+1725 Kalimgar
+1726 Gunavarum
+1728 Ashok
+1729 Kargem
+1730 Lurkha
+1821 Iikhok
+1822 Kasear
+1825 Karfir
+1830 Sindal
+1923 Sagida
+1928 Nimmer
+1929 Sakhem
+1930 Ziirkago
+2022 Emrim
+2023 Zhattar
+2027 Gaarluzargu
+2029 Gabik
+2030 Duusan
+2122 Lekkon
+2123 Blikig
+2124 Razzun
+2125 Shib
+2126 Dekhuun
+2129 Gunnar
+2221 Karlum
+2222 Markassar
+2223 Gurzish
+2225 Iamone
+2227 Zikurag
+2229 Munakhiin
+2321 Gikarlum
+2322 Hefas
+2323 Zruub
+2324 Firdakh
+2325 Derkhuun
+2328 Fharnas
+2329 Tobrun
+2330 Umzgaa
+2425 Martle
+2426 Khanaddar
+2429 Irgar
+C:\T5\Vland\K Kasear\1722 Asanik\1722 Asanik
+C:\T5\Vland\K Kasear\1725 Kalimgar\1725 Kalimgar
+C:\T5\Vland\K Kasear\1726 Gunavarum\1726 Gunavarum
+C:\T5\Vland\K Kasear\1728 Ashok\1728 Ashok
+C:\T5\Vland\K Kasear\1729 Kargem\1729 Kargem
+C:\T5\Vland\K Kasear\1730 Lurkha\1730 Lurkha
+C:\T5\Vland\K Kasear\1821 Iikhok\1821 Iikhok
+C:\T5\Vland\K Kasear\1822 Kasear\1822 Kasear
+C:\T5\Vland\K Kasear\1825 Karfir\1825 Karfir
+C:\T5\Vland\K Kasear\1830 Sindal\1830 Sindal
+C:\T5\Vland\K Kasear\1923 Sagida\1923 Sagida
+C:\T5\Vland\K Kasear\1928 Nimmer\1928 Nimmer
+C:\T5\Vland\K Kasear\1929 Sakhem\1929 Sakhem
+C:\T5\Vland\K Kasear\1930 Ziirkago\1930 Ziirkago
+C:\T5\Vland\K Kasear\2022 Emrim\2022 Emrim
+C:\T5\Vland\K Kasear\2023 Zhattar\2023 Zhattar
+C:\T5\Vland\K Kasear\2027 Gaarluzargu\2027 Gaarluzargu
+C:\T5\Vland\K Kasear\2029 Gabik\2029 Gabik
+C:\T5\Vland\K Kasear\2030 Duusan\2030 Duusan
+C:\T5\Vland\K Kasear\2122 Lekkon\2122 Lekkon
+C:\T5\Vland\K Kasear\2123 Blikig\2123 Blikig
+C:\T5\Vland\K Kasear\2124 Razzun\2124 Razzun
+C:\T5\Vland\K Kasear\2125 Shib\2125 Shib
+C:\T5\Vland\K Kasear\2126 Dekhuun\2126 Dekhuun
+C:\T5\Vland\K Kasear\2129 Gunnar\2129 Gunnar
+C:\T5\Vland\K Kasear\2221 Karlum\2221 Karlum
+C:\T5\Vland\K Kasear\2222 Markassar\2222 Markassar
+C:\T5\Vland\K Kasear\2223 Gurzish\2223 Gurzish
+C:\T5\Vland\K Kasear\2225 Iamone\2225 Iamone
+C:\T5\Vland\K Kasear\2227 Zikurag\2227 Zikurag
+C:\T5\Vland\K Kasear\2229 Munakhiin\2229 Munakhiin
+C:\T5\Vland\K Kasear\2321 Gikarlum\2321 Gikarlum
+C:\T5\Vland\K Kasear\2322 Hefas\2322 Hefas
+C:\T5\Vland\K Kasear\2323 Zruub\2323 Zruub
+C:\T5\Vland\K Kasear\2324 Firdakh\2324 Firdakh
+C:\T5\Vland\K Kasear\2325 Derkhuun\2325 Derkhuun
+C:\T5\Vland\K Kasear\2328 Fharnas\2328 Fharnas
+C:\T5\Vland\K Kasear\2329 Tobrun\2329 Tobrun
+C:\T5\Vland\K Kasear\2330 Umzgaa\2330 Umzgaa
+C:\T5\Vland\K Kasear\2425 Martle\2425 Martle
+C:\T5\Vland\K Kasear\2426 Khanaddar\2426 Khanaddar
+C:\T5\Vland\K Kasear\2429 Irgar\2429 Irgar

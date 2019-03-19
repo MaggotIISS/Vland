@@ -1,0 +1,14 @@
+Hex = 1533
+Name = Samotk
+UWP = A100410-F
+Remarks = Ni Va
+{Ix} = { 1 }
+(Ex) = (734-3)
+[Cx] = [151A]
+N = B
+B = -
+Z = -
+PBG = 901
+W = 8
+A = ImDv
+Stellar = M1 V M8 V

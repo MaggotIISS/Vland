@@ -1,0 +1,47 @@
+Primary = M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Keshiil	C530833-9	(Temperate)
+	Orbits LGG (70,000 mi dia.)	S=25 @ orbit R
+	  Hospitable	  	Y430310-8 @ Orbit D
+	  StormWorld	  	Y800000-0 @ Orbit E
+	  StormWorld	  	YA13000-0 @ Orbit G
+	  Hospitable	  	Y200674-4 @ Orbit K
+	  Inferno	  	Y8B0000-0 @ Orbit LWorld  (RadWorld)	Y730000-R
+	  Ring @ Orbit V
+1 = World  (StormWorld)	G500354-8
+	  Worldlet	  	Y28A56A-8 @ Orbit Q
+	  Worldlet	  	H147799-6 @ Orbit T
+2 = World  (Hospitable)	H544466-8
+3 = Planetoid belt	H00067A-8World  (RadWorld)	Y678000-0
+	  Worldlet	  	F000621-6 @ Orbit D
+4 = 
+5 = Planetoid belt	Y000476-5
+6 = World  (StormWorld)	G400279-4
+7 = 
+8 = 
+9 = World  (RadWorld)	Y653000-0
+	  Ring @ Orbit ?
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 13
+W = 9
+syscount = 1
+min = 0
+count = 7

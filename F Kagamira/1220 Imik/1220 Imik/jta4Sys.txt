@@ -1,0 +1,14 @@
+Hex = 1220
+Name = Imik
+UWP = C563303-A
+Remarks = Lo
+{Ix} = { 0 }
+(Ex) = (B21-3)
+[Cx] = [1327]
+N = B
+B = S
+Z = -
+PBG = 624
+W = 9
+A = ImDv
+Stellar = K1 V

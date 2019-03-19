@@ -1,0 +1,14 @@
+Hex = 2830
+Name = Lezaneraz
+UWP = E547455-8
+Remarks = Ni Pa
+{Ix} = { -3 }
+(Ex) = (831-5)
+[Cx] = [2136]
+N = Bc
+B = -
+Z = -
+PBG = 202
+W = 7
+A = ImDv
+Stellar = M2 V

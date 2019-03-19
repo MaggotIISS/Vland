@@ -1,0 +1,39 @@
+E425300-A
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+
+Atmosphere = 2
+	DIGIT	DESCRIPTION	EFFECTS
+	2	VThin, Tainted	P1, S2
+
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+
+Population = 3
+	POPULATION UNDER 7,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+
+Government = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Government Structure	Family bonds predominate
+
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+
+Tech Level = A
+	DIGIT		
+	A		
+

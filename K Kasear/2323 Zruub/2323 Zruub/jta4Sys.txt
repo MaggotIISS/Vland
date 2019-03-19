@@ -1,0 +1,14 @@
+Hex = 2323
+Name = Zruub
+UWP = E553531-7
+Remarks = Ni Po
+{Ix} = { -3 }
+(Ex) = (741-5)
+[Cx] = [1213]
+N = B
+B = -
+Z = -
+PBG = 603
+W = 15
+A = ImDv
+Stellar = M1 V

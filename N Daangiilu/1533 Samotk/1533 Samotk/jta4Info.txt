@@ -1,0 +1,77 @@
+Hex = 1533
+Name = Samotk
+UWP = A100410-F
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 1
+	DIGIT	DIA(MI)	DIA(KM)
+	1	1,000	1,600
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 4
+	POPULATION UNDER 90,000
+	DIGIT	DESCRIPTION	VALUE
+	4	Ten thousand	0,000
+Government = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Company/Corporation	Rule by a managerial elite
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = F
+	DIGIT		
+	F		
+Remarks = Ni Va
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+	Va		0					Vacuum	
+{Ix} = { 1 }
+	Starport A = +1
+	TL 15 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (734-3)
+	Resources =  7
+	Labour =  3
+	Infrastructure =  4
+	Efficiency =  -3
+	RU = -252
+[Cx] = [151A]
+	Homogeneity = 1
+	Acceptance = 5
+	Strangeness = 1
+	Symbols = 10
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 901
+	Population Multiplier = 9
+	POPULATION UNDER 90,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 8
+	Non Stars In System = 8
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V M8 V
+	Stars = 2

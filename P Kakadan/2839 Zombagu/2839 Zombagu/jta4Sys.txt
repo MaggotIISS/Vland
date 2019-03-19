@@ -1,0 +1,14 @@
+Hex = 2839
+Name = Zombagu
+UWP = A684730-B
+Remarks = Ag Ri An
+{Ix} = { 4 }
+(Ex) = (F6E+1)
+[Cx] = [2B16]
+N = BCf
+B = -
+Z = -
+PBG = 924
+W = 9
+A = ImDv
+Stellar = F7 V

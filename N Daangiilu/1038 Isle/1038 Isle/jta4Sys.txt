@@ -1,0 +1,14 @@
+Hex = 1038
+Name = Isle
+UWP = E68AA87-B
+Remarks = Hi Wa
+{Ix} = { 1 }
+(Ex) = (D9C+1)
+[Cx] = [AB5B]
+N = BE
+B = -
+Z = -
+PBG = 901
+W = 9
+A = ImDv
+Stellar = K0 V M3 V

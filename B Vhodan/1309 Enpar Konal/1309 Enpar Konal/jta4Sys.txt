@@ -1,0 +1,14 @@
+Hex = 1309
+Name = Enpar Konal
+UWP = E57778A-6
+Remarks = Ag Pi
+{Ix} = { -1 }
+(Ex) = (966+1)
+[Cx] = [9678]
+N = BCD
+B = -
+Z = -
+PBG = 121
+W = 7
+A = ImDv
+Stellar = K8 V

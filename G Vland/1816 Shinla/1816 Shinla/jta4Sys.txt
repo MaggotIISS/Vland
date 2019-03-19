@@ -1,0 +1,14 @@
+Hex = 1816
+Name = Shinla
+UWP = C5608A9-8
+Remarks = De Ri Ph
+{Ix} = { 0 }
+(Ex) = (H78+1)
+[Cx] = [9869]
+N = BCe
+B = -
+Z = -
+PBG = 934
+W = 16
+A = ImDv
+Stellar = K2 V M9 V

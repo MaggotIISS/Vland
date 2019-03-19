@@ -1,0 +1,56 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = World  (Inferno)	Y-3B0000-0World  (BigWorld)	H-356263-5
+1 = Planetoid belt	F-300224-4World  (Hospitable)	F-350259-5
+2 = World  (RadWorld)	Y-365000-0
+	  Inferno	  	Y-3B0000-0 @ Orbit F
+	  InnerWorld	  	Y-363000-0 @ Orbit H
+	  Inferno	  	Y-3B0000-0 @ Orbit HWorld  (RadWorld)	Y-3C3000-Q
+	  Ring @ Orbit R
+3 = World  (BigWorld)	F-3A1299-3
+	  Ring @ Orbit ?World  (StormWorld)	Y-300000-0
+4 = Asteroid Belt	Duranus	B00037C-C	(Cold)
+5 = LGG (180,000 mi dia.)	S=29
+	  Ring @ Orbit ?
+6 = LGG (250,000 mi dia.)	S=31
+	  Ring @ Orbit ?
+7 = LGG (125,000 mi dia.)	S=28
+	  StormWorld	  	Y-320000-0 @ Orbit C
+	  StormWorld	  	Y-336000-0 @ Orbit D
+	  IceWorld	  	F-3A02DD-9 @ Orbit E
+	  IceWorld	  	G-350267-A @ Orbit H
+	  BigWorld	  	Y-342274-7 @ Orbit HWorld  (RadWorld)	Y-310000-I
+	  BigWorld	  	G-366250-6 @ Orbit J
+	  OuterWorld	  	F-37A286-8 @ Orbit V
+8 = LGG (125,000 mi dia.)	S=28
+	  StormWorld	  	Y-323000-0 @ Orbit F
+	  BigWorld	  	Y-369000-0 @ Orbit H
+	  Worldlet	  	F-363268-2 @ Orbit Q
+	  RadWorld	  	Y-340000-0 @ Orbit V
+9 = World  (Worldlet)	H-345257-5
+10 = 
+11 = SGG (40,000 mi dia.)	S=22
+	  IceWorld	  	H-300298-A @ Orbit H
+	  StormWorld	  	Y-302000-0 @ Orbit P
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 9
+syscount = 1
+min = 0
+W = 16
+Extra Stars = 0
+count = 11

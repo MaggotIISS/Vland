@@ -1,0 +1,14 @@
+Hex = 2530
+Name = Thaggesh
+UWP = B6668A8-A
+Remarks = Ga Ri Pa Ph (Thaggeshi)
+{Ix} = { 3 }
+(Ex) = (B7C+3)
+[Cx] = [8B5A]
+N = BcCe
+B = -
+Z = -
+PBG = 601
+W = 14
+A = ImDv
+Stellar = F6 V M7 V M6 V

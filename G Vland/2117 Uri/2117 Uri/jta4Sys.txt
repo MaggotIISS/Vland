@@ -1,0 +1,14 @@
+Hex = 2117
+Name = Uri
+UWP = A313632-E
+Remarks = Ic Na Ni
+{Ix} = { 1 }
+(Ex) = (A55-3)
+[Cx] = [271A]
+N = B
+B = -
+Z = -
+PBG = 220
+W = 12
+A = ImDv
+Stellar = F9 V

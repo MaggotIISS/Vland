@@ -1,0 +1,14 @@
+Hex = 1208
+Name = Vhodan
+UWP = A758A8A-D
+Remarks = Hi Cp
+{Ix} = { 3 }
+(Ex) = (H9F+5)
+[Cx] = [CD7F]
+N = BEF
+B = -
+Z = -
+PBG = 123
+W = 11
+A = ImDv
+Stellar = G1 V K0 IV

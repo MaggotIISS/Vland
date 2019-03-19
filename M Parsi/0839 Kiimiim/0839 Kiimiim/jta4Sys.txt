@@ -1,0 +1,14 @@
+Hex = 0839
+Name = Kiimiim
+UWP = B672352-C
+Remarks = He Lo
+{Ix} = { 1 }
+(Ex) = (821-3)
+[Cx] = [1418]
+N = B
+B = -
+Z = -
+PBG = 803
+W = 7
+A = ImDv
+Stellar = G2 V

@@ -1,0 +1,78 @@
+Hex = 0734
+Name = Kishbar
+UWP = B301310-D
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 3
+	DIGIT	DIA(MI)	DIA(KM)
+	3	3,000	4,800
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+Hydrosphere = 1
+	DIGIT	DESCRIPTION
+	1	10%
+Population = 3
+	POPULATION UNDER 7,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+Government = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Company/Corporation	Rule by a managerial elite
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = D
+	DIGIT		
+	D		
+Remarks = Ic Lo Va
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ic		01	123456789A				Ice Capped	
+	Lo				123			Low Population	
+	Va		0					Vacuum	
+{Ix} = { 1 }
+	Starport B = +1
+	TL 13 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (721-3)
+	Resources =  7
+	Labour =  2
+	Infrastructure =  1
+	Efficiency =  -3
+	RU = -42
+[Cx] = [1418]
+	Homogeneity = 1
+	Acceptance = 4
+	Strangeness = 1
+	Symbols = 8
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 720
+	Population Multiplier = 7
+	POPULATION UNDER 7,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 7 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 V
+	Stars = 1

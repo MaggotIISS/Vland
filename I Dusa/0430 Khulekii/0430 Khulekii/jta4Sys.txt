@@ -1,0 +1,14 @@
+Hex = 0430
+Name = Khulekii
+UWP = E677899-6
+Remarks = Pa Ph Pi
+{Ix} = { -2 }
+(Ex) = (A75-1)
+[Cx] = [9667]
+N = BcDe
+B = -
+Z = -
+PBG = 222
+W = 11
+A = ImDv
+Stellar = G3 V

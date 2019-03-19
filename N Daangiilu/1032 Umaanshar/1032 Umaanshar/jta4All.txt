@@ -1,0 +1,69 @@
+Primary = K6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (Worldlet)	F155412-8
+1 = LGG (180,000 mi dia.)	S=29
+	  Ring @ Orbit ?
+2 = Mainworld	Umaanshar	D432566-9	(Temperate)
+	  Inferno	  	Y1B0000-0 @ Orbit G
+	  Hospitable	  	Y156211-8 @ Orbit QWorld  (StormWorld)	Y110000-V
+3 = LGG (70,000 mi dia.)	S=25
+	  BigWorld	  	Y100335-8 @ Orbit E
+	  RadWorld	  	Y100000-0 @ Orbit T
+4 = Planetoid belt	F000487-5
+5 = LGG (70,000 mi dia.)	S=25
+	  Worldlet	  	F143348-3 @ Orbit C
+	  RadWorld	  	Y110000-0 @ Orbit F
+	  RadWorld	  	Y100000-0 @ Orbit DWorld  (Worldlet)	F1774AB-T
+	  Worldlet	  	H030343-8 @ Orbit V
+	  IceWorld	  	Y140000-0 @ Orbit W
+6 = 
+7 = Planetoid belt	H000400-4
+8 = 
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = World  (Hospitable)	H153447-6
+15 = STAR K2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  12
+	HZ =  -1
+	15-0 = 
+	15-1 = 
+	15-2 = 
+	15-3 = 
+	15-4 = 
+	15-5 = 
+	15-6 = 
+	15-7 = 
+	15-8 = 
+	15-9 = 
+	15-10 = 
+	15-11 = 
+	15-12 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 11
+W = 10
+syscount = 2
+min = 0
+count = 9

@@ -1,0 +1,14 @@
+Hex = 2125
+Name = Shib
+UWP = E799687-7
+Remarks = Ni
+{Ix} = { -3 }
+(Ex) = (851-3)
+[Cx] = [6357]
+N = B
+B = -
+Z = -
+PBG = 310
+W = 7
+A = ImDv
+Stellar = K2 V M2 V

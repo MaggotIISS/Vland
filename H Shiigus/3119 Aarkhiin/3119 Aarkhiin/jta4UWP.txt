@@ -1,0 +1,39 @@
+D57769C-5
+Starport = D
+	Quality = Poor
+	Yards = No
+	Repairs = Minor damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+
+Atmosphere = 7
+	DIGIT	DESCRIPTION	EFFECTS
+	7	Standard, Tainted	P1
+
+Hydrosphere = 7
+	DIGIT	DESCRIPTION
+	7	70%
+
+Population = 6
+	POPULATION UNDER 1,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+
+Government = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	Impersonal Bureaucracy	Impersonal agencies rule
+
+Law Level = C
+	DIGIT	DESCRIPTION	NOTE
+	C	Extreme Law	Unrestricted invasion of privacy
+
+Tech Level = 5
+	DIGIT		
+	5		
+

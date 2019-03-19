@@ -1,0 +1,78 @@
+Hex = 1709
+Name = Zigaadig
+UWP = B541389-B
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 4
+	DIGIT	DESCRIPTION	EFFECTS
+	4	Thin, Tainted	P1, S1
+Hydrosphere = 1
+	DIGIT	DESCRIPTION
+	1	10%
+Population = 3
+	POPULATION UNDER 5,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+Government = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit
+Law Level = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	High Law	Weapons outside the home prohibited
+Tech Level = B
+	DIGIT		
+	B		
+Remarks = He Lo Po
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	He	3459ABC	2479ABC	012				Hell World	
+	Lo				123			Low Population	
+	Po		2345	0123				Poor	
+{Ix} = { 1 }
+	Starport B = +1
+	TL 11 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (A21+2)
+	Resources =  10
+	Labour =  2
+	Infrastructure =  1
+	Efficiency =  2
+	RU = 40
+[Cx] = [446C]
+	Homogeneity = 4
+	Acceptance = 4
+	Strangeness = 6
+	Symbols = 12
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 523
+	Population Multiplier = 5
+	POPULATION UNDER 5,000
+	Planetoid Belts = 2
+	Gas Giants = 3
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-3 (gas giants)
+	 = 3 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G9 V K6 V
+	Stars = 2

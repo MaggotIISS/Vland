@@ -1,0 +1,14 @@
+Hex = 2613
+Name = Kusu
+UWP = A541676-B
+Remarks = He Ni Po
+{Ix} = { 1 }
+(Ex) = (A55+1)
+[Cx] = [574A]
+N = B
+B = -
+Z = -
+PBG = 202
+W = 9
+A = ImDv
+Stellar = K3 IV

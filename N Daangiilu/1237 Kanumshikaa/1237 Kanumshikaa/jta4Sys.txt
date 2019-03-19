@@ -1,0 +1,14 @@
+Hex = 1237
+Name = Kanumshikaa
+UWP = C755501-9
+Remarks = Ag Ni Ga
+{Ix} = { 0 }
+(Ex) = (944-4)
+[Cx] = [1515]
+N = BC
+B = -
+Z = -
+PBG = 620
+W = 5
+A = ImDv
+Stellar = M0 V

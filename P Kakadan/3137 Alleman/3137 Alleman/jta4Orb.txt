@@ -1,0 +1,73 @@
+Primary = K6 III
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	III	Normal Giant	4.6 - 360
+	d10Limit = 5
+	d100Limit = 9
+	d1000Limit = 12
+	Min Orbit = 0
+	HZ =  7
+0 = World  (Worldlet)	H19A479-6World  (RadWorld)	Y8A4000-0
+	  Inferno	  	Y7B0000-0 @ Orbit WWorld  (Inferno)	Y7B0000-0
+1 = World  (RadWorld)	Y610000-0
+2 = 
+3 = World  (Worldlet)	Y07738A-5
+4 = World  (Inferno)	Y4B0000-0
+5 = World  (BigWorld)	FF50466-3
+	  Ring @ Orbit ?
+6 = SGG (40,000 mi dia.)	S=22
+	  StormWorld	  	Y900000-0 @ Orbit D
+	  RadWorld	  	YC40000-0 @ Orbit H
+	  Inferno	  	Y3B0000-0 @ Orbit I
+	  Worldlet	  	F088464-8 @ Orbit L
+7 = Mainworld	Alleman	A200555-F	(Temperate)
+	Orbits LGG (180,000 mi dia.)	S=29 @ orbit R
+	  BigWorld	  	YG10478-6 @ Orbit D
+	  StormWorld	  	Y856000-0 @ Orbit E
+	  RadWorld	  	Y741000-0 @ Orbit G
+	  Hospitable	  	H327420-9 @ Orbit Q
+	  BigWorld	  	FC67479-6 @ Orbit S
+8 = World  (RadWorld)	Y753000-0
+	  Hospitable	  	Y386476-8 @ Orbit P
+	  RadWorld	  	Y668000-0 @ Orbit T
+9 = World  (RadWorld)	Y869000-0
+10 = LGG (70,000 mi dia.)	S=25
+	  Worldlet	  	H043468-5 @ Orbit H
+11 = STAR K1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	III	Normal Giant	4.6 - 360
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  8
+	HZ =  -1
+	11-0 = 
+	11-1 = 
+	11-2 = 
+	11-3 = 
+	11-4 = 
+	11-5 = 
+	11-6 = 
+	11-7 = 
+	11-8 = 
+12 = World  (Worldlet)	F033110-6
+	  Worldlet	  	Y034449-5 @ Orbit G
+	  Worldlet	  	G157132-6 @ Orbit S
+	  StormWorld	  	Y700000-0 @ Orbit U
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 8
+syscount = 2
+min = 0
+W = 13
+Extra Stars = 1
+count = 12

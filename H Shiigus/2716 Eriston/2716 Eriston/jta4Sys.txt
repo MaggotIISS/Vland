@@ -1,0 +1,14 @@
+Hex = 2716
+Name = Eriston
+UWP = C69A144-9
+Remarks = Lo Wa
+{Ix} = { -1 }
+(Ex) = (511-3)
+[Cx] = [1137]
+N = B
+B = -
+Z = -
+PBG = 420
+W = 14
+A = ImDv
+Stellar = G8 V G7 V

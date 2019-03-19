@@ -1,0 +1,14 @@
+Hex = 1120
+Name = Ideshe
+UWP = B969657-B
+Remarks = Ni Ri
+{Ix} = { 2 }
+(Ex) = (A56+2)
+[Cx] = [685B]
+N = BC
+B = N
+Z = -
+PBG = 920
+W = 10
+A = ImDv
+Stellar = M1 V G6 V

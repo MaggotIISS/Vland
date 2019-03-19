@@ -1,0 +1,14 @@
+Hex = 2733
+Name = Jarmat
+UWP = A310122-D
+Remarks = Lo
+{Ix} = { 1 }
+(Ex) = (811-3)
+[Cx] = [1219]
+N = B
+B = -
+Z = -
+PBG = 614
+W = 9
+A = ImDv
+Stellar = M0 V

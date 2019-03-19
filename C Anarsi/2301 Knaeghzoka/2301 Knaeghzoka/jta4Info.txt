@@ -1,0 +1,75 @@
+Hex = 2301
+Name = Knaeghzoka
+UWP = B4317A6-B
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 3
+	DIGIT	DESCRIPTION	EFFECTS
+	3	VThin	S2
+Hydrosphere = 1
+	DIGIT	DESCRIPTION
+	1	10%
+Population = 7
+	POPULATION UNDER 40,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+Government = A
+	DIGIT	DESCRIPTION	NOTE
+	A	Charismatic Dictatorship	Government by a single leader enjoying the confidence of the citizens
+Law Level = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Moderate Law	Pohibition of Machineguns
+Tech Level = B
+	DIGIT		
+	B		
+Remarks = Na Po
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Po		2345	0123				Poor	
+{Ix} = { 2 }
+	Starport B = +1
+	TL 11 = +1
+	Importance = Normal (2)+0=2
+(Ex) = (A6C+1)
+	Resources =  10
+	Labour =  6
+	Infrastructure =  12
+	Efficiency =  1
+	RU = 720
+[Cx] = [694A]
+	Homogeneity = 6
+	Acceptance = 9
+	Strangeness = 4
+	Symbols = 10
+N = -
+	No Imperial Nobles
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 401
+	Population Multiplier = 4
+	POPULATION UNDER 40,000,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 7
+	Non Stars In System = 7
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 5 other worlds
+A = CsIm
+	CODE	DESCRIPTION
+	CsIm	Client State, Third Imperium
+Stellar = M1 V M1 V
+	Stars = 2

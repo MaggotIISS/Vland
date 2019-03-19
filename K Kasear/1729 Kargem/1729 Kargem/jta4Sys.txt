@@ -1,0 +1,14 @@
+Hex = 1729
+Name = Kargem
+UWP = E310654-9
+Remarks = Na Ni
+{Ix} = { -2 }
+(Ex) = (A52-4)
+[Cx] = [4437]
+N = B
+B = -
+Z = -
+PBG = 420
+W = 5
+A = ImDv
+Stellar = G8 V M1 V

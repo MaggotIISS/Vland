@@ -1,0 +1,14 @@
+Hex = 3221
+Name = Sadkha
+UWP = B836313-C
+Remarks = Lo
+{Ix} = { 2 }
+(Ex) = (821-1)
+[Cx] = [1529]
+N = B
+B = NS
+Z = -
+PBG = 321
+W = 15
+A = ImDv
+Stellar = G6 V

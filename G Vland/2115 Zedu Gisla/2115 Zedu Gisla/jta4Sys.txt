@@ -1,0 +1,14 @@
+Hex = 2115
+Name = Zedu Gisla
+UWP = E533587-6
+Remarks = Ni Po
+{Ix} = { -3 }
+(Ex) = (741-3)
+[Cx] = [5256]
+N = B
+B = -
+Z = -
+PBG = 701
+W = 6
+A = ImDv
+Stellar = M1 V M2 V

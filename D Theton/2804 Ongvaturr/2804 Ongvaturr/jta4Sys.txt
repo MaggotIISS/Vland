@@ -1,0 +1,14 @@
+Hex = 2804
+Name = Ongvaturr
+UWP = B989742-7
+Remarks = Ri
+{Ix} = { 1 }
+(Ex) = (969-3)
+[Cx] = [3813]
+N = -
+B = -
+Z = -
+PBG = 402
+W = 9
+A = NaVa
+Stellar = M3 V

@@ -1,0 +1,14 @@
+Hex = 2527
+Name = Kaple
+UWP = E421656-9
+Remarks = He Na Ni Po
+{Ix} = { -2 }
+(Ex) = (A52-3)
+[Cx] = [5448]
+N = B
+B = -
+Z = -
+PBG = 811
+W = 11
+A = ImDv
+Stellar = K9 V

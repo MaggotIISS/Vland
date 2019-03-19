@@ -1,0 +1,75 @@
+Hex = 2006
+Name = Niitomok
+UWP = C552595-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 5
+	DIGIT	DESCRIPTION	EFFECTS
+	5	This	S1
+Hydrosphere = 2
+	DIGIT	DESCRIPTION
+	2	20%
+Population = 5
+	POPULATION UNDER 200,000
+	DIGIT	DESCRIPTION	VALUE
+	5	Hundred thousand	00,000
+Government = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	Impersonal Bureaucracy	Impersonal agencies rule
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = Ni Po
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+	Po		2345	0123				Poor	
+{Ix} = { -1 }
+	Pop < 7 = -1
+	Importance = Unimportant (-1)+0=-1
+(Ex) = (843-3)
+	Resources =  8
+	Labour =  4
+	Infrastructure =  3
+	Efficiency =  -3
+	RU = -288
+[Cx] = [3437]
+	Homogeneity = 3
+	Acceptance = 4
+	Strangeness = 3
+	Symbols = 7
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 201
+	Population Multiplier = 2
+	POPULATION UNDER 200,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 7 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 V
+	Stars = 1

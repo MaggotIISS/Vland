@@ -1,0 +1,66 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = World  (RadWorld)	Y563000-0
+1 = Mainworld	Knaeghzoka	B4317A6-B	(Cold)
+	Orbits LGG (90,000 mi dia.)	S=27 @ orbit R
+	  Ring @ Orbit ?World  (Worldlet)	H350488-D
+	  RadWorld	  	Y947000-0 @ Orbit F
+	  RadWorld	  	Y910000-0 @ Orbit UWorld  (BigWorld)	GB56555-G
+	  Inferno	  	Y7B0000-0 @ Orbit I
+	  Inferno	  	Y5B0000-0 @ Orbit Q
+2 = LGG (80,000 mi dia.)	S=26
+	  Worldlet	  	G010214-A @ Orbit B
+	  Inferno	  	Y8B0000-0 @ Orbit E
+	  Inferno	  	Y6B0000-0 @ Orbit I
+3 = 
+4 = World  (Inferno)	Y7B0000-0
+	  StormWorld	  	Y844255-9 @ Orbit B
+	  RadWorld	  	Y474000-0 @ Orbit P
+5 = 
+6 = 
+7 = 
+8 = 
+9 = STAR M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  6
+	HZ =  -1
+	9-0 = 
+	9-1 = 
+	9-2 = 
+	9-3 = 
+	9-4 = 
+	9-5 = 
+	9-6 = 
+10 = 
+11 = 
+12 = World  (BigWorld)	YG9A522-6
+	  Worldlet	  	F010567-7 @ Orbit E
+	  Worldlet	  	H0206AB-9 @ Orbit W
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 14
+W = 7
+syscount = 2
+min = 0
+count = 6

@@ -1,0 +1,39 @@
+CAA7565-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+
+Size = A
+	DIGIT	DIA(MI)	DIA(KM)
+	A	10,000	16,000
+
+Atmosphere = A
+	DIGIT	DESCRIPTION	EFFECTS
+	A	Exotic	P1
+
+Hydrosphere = 7
+	DIGIT	DESCRIPTION
+	7	70%
+
+Population = 5
+	POPULATION UNDER 900,000
+	DIGIT	DESCRIPTION	VALUE
+	5	Hundred thousand	00,000
+
+Government = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Captive Government/Colony	Rule by a leadership answerable to an outside group
+
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+
+Tech Level = 9
+	DIGIT		
+	9		
+

@@ -1,0 +1,39 @@
+E100488-A
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+
+Size = 1
+	DIGIT	DIA(MI)	DIA(KM)
+	1	1,000	1,600
+
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+
+Population = 4
+	POPULATION UNDER 10,000
+	DIGIT	DESCRIPTION	VALUE
+	4	Ten thousand	0,000
+
+Government = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit
+
+Law Level = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	High Law	Open display of weapons prohibited
+
+Tech Level = A
+	DIGIT		
+	A		
+

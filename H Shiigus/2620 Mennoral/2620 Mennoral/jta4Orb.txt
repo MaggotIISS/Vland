@@ -1,0 +1,45 @@
+Primary = K3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (Worldlet)	G0B6200-8
+1 = Planetoid belt	G000222-6
+2 = World  (StormWorld)	H500145-8World  (BigWorld)	Y500430-8
+	  Inferno	  	Y5B0000-0 @ Orbit H
+	  Worldlet	  	H040254-8 @ Orbit O
+3 = Mainworld	Mennoral	B858723-9	(Cold)
+	  StormWorld	  	H530267-5 @ Orbit C
+	  Worldlet	  	H110433-8 @ Orbit WWorld  (Inferno)	Y5B0000-0World  (Worldlet)	H0A6522-U
+4 = 
+5 = Planetoid belt	H00069D-7
+6 = LGG (180,000 mi dia.)	S=29
+	  BigWorld	  	H5A6652-7 @ Orbit F
+	  RadWorld	  	Y567000-0 @ Orbit S
+	  StormWorld	  	Y511299-8 @ Orbit T
+	  StormWorld	  	F555114-8 @ Orbit X
+7 = 
+8 = 
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = World  (Inferno)	Y5B0000-0
+	  Ring @ Orbit ?
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 13
+W = 10
+syscount = 1
+min = 0
+count = 7

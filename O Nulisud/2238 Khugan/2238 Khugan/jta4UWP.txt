@@ -1,0 +1,39 @@
+B786420-B
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+
+Atmosphere = 8
+	DIGIT	DESCRIPTION	EFFECTS
+	8	Dense	
+
+Hydrosphere = 6
+	DIGIT	DESCRIPTION
+	6	60%
+
+Population = 4
+	POPULATION UNDER 50,000
+	DIGIT	DESCRIPTION	VALUE
+	4	Ten thousand	0,000
+
+Government = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Participating Democracy	Rule by popular vote
+
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+
+Tech Level = B
+	DIGIT		
+	B		
+

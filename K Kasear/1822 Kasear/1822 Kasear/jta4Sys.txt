@@ -1,0 +1,14 @@
+Hex = 1822
+Name = Kasear
+UWP = A5479AE-E
+Remarks = Hi In Cp Pz
+{Ix} = { 4 }
+(Ex) = (D8G+5)
+[Cx] = [DD9J]
+N = BEF
+B = -
+Z = A
+PBG = 220
+W = 11
+A = ImDv
+Stellar = G5 V M2 V

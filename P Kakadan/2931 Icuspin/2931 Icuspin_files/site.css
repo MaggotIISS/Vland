@@ -1,0 +1,222 @@
+@import url(https://fonts.googleapis.com/css?family=Marcellus|Share+Tech+Mono);
+
+/* General Text Styling */
+
+body {
+  color: black;
+  background-color: white;
+}
+body, table, select {
+  font-size: 10pt;
+  font-family: Univers, Arial, sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: Optima, Marcellus, "Times New Roman", serif;
+}
+h4, h5, h6 {
+  font-family: Univers, Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  width: 100%;
+  margin-bottom: 0;
+  font-size: 30px;
+  font-style: italic;
+  padding-bottom: 4pt;
+  border-bottom: 4pt solid black;
+  margin-bottom: 4pt;
+}
+
+@media only screen and (max-width: 425px)  {
+  h1 .sitename {
+    display: none;
+  }
+}
+@media only screen and (min-width: 768px)  {
+  h1 {
+    padding-left: 45px;
+    background-image: url(https://s3.amazonaws.com/travellermap/images/ImperialStarburst.png);
+    background-size: 40px 40px;
+    background-repeat: no-repeat;
+  }
+  h1.sitename::after {
+    content: "\2014 The Traveller Map";
+  }
+}
+
+
+
+h2 {
+  border-bottom: 2pt solid black;
+}
+h2, h3 {
+  margin-top: 24pt;
+  margin-bottom: 6pt;
+}
+h4 {
+  font-size: 10pt;
+  font-weight: bold;
+  margin-bottom: 6pt;
+}
+
+.content {
+  margin-left: 1in;
+  width: 6in;
+}
+
+p {
+  text-indent: 2em;
+}
+p, li, dd {
+  text-align: justify;
+  line-height: 1.4;
+}
+
+ol.steps > li {
+  margin-top: 4px;
+  margin-bottom: 4px;
+  font-size: 12pt;
+}
+ol.steps > li select,
+ol.steps > li button,
+ol.steps > li input[type=submit] {
+  font-size: 12pt;
+}
+
+div.aside, p.aside {
+  text-indent: 0;
+  border: 1px solid gray;
+  background-color: #f8f8f8;
+  font-style: italic;
+  padding: 10px;
+}
+
+
+a {
+  color: black;
+}
+a.reference {
+  vertical-align: super;
+  font-size: smaller;
+  text-decoration: none;
+}
+a.stealth {
+  text-decoration: none;
+}
+a:hover.stealth {
+  text-decoration: underline;
+}
+
+
+dfn, cite {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.caption { font-size: 90%; font-weight: bold; }
+
+table {
+  border-collapse: collapse;
+}
+
+td.number, th.number {
+  text-align: right;
+  padding-left: 10pt;
+  padding-right: 10pt;
+}
+
+.copyright {
+  font-family: 'Arial';
+}
+
+/* Code Samples and Parameter Definitions */
+
+dl.params {
+  margin-left: 20px;
+}
+dl.params dt {
+  font-weight: bold;
+}
+dl.params dt, code, .code {
+  text-indent: 0;
+  text-align: left;
+  white-space: nowrap;
+
+  color: #ff2000;
+  background-color: transparent;
+
+  font-family: "Lucida Console", "Courier New", Courier, monospace;
+  font-style: normal;
+  font-size: 110%;
+  font-weight: bold;
+}
+pre.code {
+  color: #404040;
+  background-color: #f8f8f8;
+
+  border: 1px solid #404040;
+  padding: 10px;
+  font-family: 'Share Tech Mono', monospace;
+  white-space: pre;
+
+  line-height: 150%;
+  font-size: 100%;
+}
+.code .comment {
+  font-style: italic;
+  color: #c040c0;
+}
+.code .string {
+  color: #40b040;
+}
+
+/* Form Controls */
+
+textarea {
+  font-family: "Share Tech Mono", monospace;
+  width: 550px; height: 120px; white-space: pre;
+}
+
+/* Responsive Layout */
+
+@media only screen and (max-width: 768px)  {
+  .content { width: auto; margin-left: 0.5in; margin-right: 0.5in; }
+}
+@media only screen and (max-width: 425px)  {
+  h1 { font-size: 18pt; }
+  .content { width: auto; margin: 0; }
+  .forkme { display: none; }
+  pre.code {
+    white-space: pre-wrap;
+    width: auto;
+  }
+  ul { -webkit-padding-start: 20px; }
+  dl.params { margin-left: 0; }
+  dl.params > dd { -webkit-margin-start: 10px; }
+  p.code { white-space: normal; }
+}
+
+/* Table of Contents */
+
+@media only screen and (min-width: 1024px) {
+  nav.toc { display: block !important; }
+}
+nav.toc {
+  display: none;
+  position: fixed;
+  left: 720px;
+  top: 20px;
+  line-height: 150%;
+  padding: 1em;
+  border: 1px solid gray;
+  background-color: #f8f8f8;
+}
+nav.toc h2 { margin-top: 0; }
+nav.toc a { display: block; text-decoration: none; }
+nav.toc a.H1 { margin-left: 0; }
+nav.toc a.H2 { margin-left: 1em; font-weight: bold; }
+nav.toc a.H3 { margin-left: 2em; }
+nav.toc a.H4 { margin-left: 3em; font-style: italic; }
+nav.toc a.H5 { margin-left: 4em; }
+nav.toc a.H6 { margin-left: 5em; }

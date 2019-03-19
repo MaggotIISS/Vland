@@ -1,0 +1,14 @@
+Hex = 2134
+Name = Zemal
+UWP = C699124-A
+Remarks = Lo
+{Ix} = { 0 }
+(Ex) = (411-2)
+[Cx] = [1138]
+N = B
+B = S
+Z = -
+PBG = 410
+W = 8
+A = ImDv
+Stellar = M3 V M5 V

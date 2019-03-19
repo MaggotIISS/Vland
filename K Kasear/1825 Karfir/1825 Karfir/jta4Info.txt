@@ -1,0 +1,78 @@
+Hex = 1825
+Name = Karfir
+UWP = A753A86-F
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+Atmosphere = 5
+	DIGIT	DESCRIPTION	EFFECTS
+	5	This	S1
+Hydrosphere = 3
+	DIGIT	DESCRIPTION
+	3	30%
+Population = A
+	POPULATION UNDER 90,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	A	Ten billion	0,000,000,000
+Government = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit
+Law Level = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Moderate Law	Pohibition of Machineguns
+Tech Level = F
+	DIGIT		
+	F		
+Remarks = Hi Po
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	Po		2345	0123				Poor	
+{Ix} = { 3 }
+	Starport A = +1
+	TL 15 = +1
+	Hi  = +1
+	Importance = Normal (3)+0=3
+(Ex) = (H9F+2)
+	Resources =  17
+	Labour =  9
+	Infrastructure =  15
+	Efficiency =  2
+	RU = 4590
+[Cx] = [9D4E]
+	Homogeneity = 9
+	Acceptance = 13
+	Strangeness = 4
+	Symbols = 14
+N = BE
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 923
+	Population Multiplier = 9
+	POPULATION UNDER 90,000,000,000
+	Planetoid Belts = 2
+	Gas Giants = 3
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-3 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K4 V
+	Stars = 1

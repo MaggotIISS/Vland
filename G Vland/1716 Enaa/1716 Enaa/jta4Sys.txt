@@ -1,0 +1,14 @@
+Hex = 1716
+Name = Enaa
+UWP = B300859-B
+Remarks = Na Va Ph Pi
+{Ix} = { 2 }
+(Ex) = (C7C+3)
+[Cx] = [9A6C]
+N = BDe
+B = N
+Z = -
+PBG = 402
+W = 9
+A = ImDv
+Stellar = M2 V

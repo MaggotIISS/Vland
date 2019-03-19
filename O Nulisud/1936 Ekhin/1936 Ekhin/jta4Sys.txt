@@ -1,0 +1,14 @@
+Hex = 1936
+Name = Ekhin
+UWP = E400673-7
+Remarks = Na Ni Va
+{Ix} = { -3 }
+(Ex) = (851-5)
+[Cx] = [3324]
+N = B
+B = -
+Z = -
+PBG = 701
+W = 8
+A = ImDv
+Stellar = M0 III M7 V

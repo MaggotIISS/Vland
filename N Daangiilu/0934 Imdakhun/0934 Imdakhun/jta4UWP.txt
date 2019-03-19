@@ -1,0 +1,39 @@
+A20348D-F
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+
+Size = 2
+	DIGIT	DIA(MI)	DIA(KM)
+	2	2,000	3,200
+
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+
+Hydrosphere = 3
+	DIGIT	DESCRIPTION
+	3	30%
+
+Population = 4
+	POPULATION UNDER 40,000
+	DIGIT	DESCRIPTION	VALUE
+	4	Ten thousand	0,000
+
+Government = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit
+
+Law Level = D
+	DIGIT	DESCRIPTION	NOTE
+	D	Extreme Law	Paramilitary law enforcement
+
+Tech Level = F
+	DIGIT		
+	F		
+

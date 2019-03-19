@@ -1,0 +1,65 @@
+Primary = G9 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (StormWorld)	Y232000-0
+	  Ring @ Orbit ?
+1 = Planetoid belt	H000200-A
+2 = LGG (60,000 mi dia.)	S=24
+	  StormWorld	  	Y202000-0 @ Orbit F
+	  Hospitable	  	Y247247-7 @ Orbit R
+3 = Mainworld	Zigaadig	B541389-B	(Cold)
+	  Ring @ Orbit ?
+4 = LGG (50,000 mi dia.)	S=23
+	  BigWorld	  	Y289200-A @ Orbit RWorld  (Inferno)	Y2B0000-S
+	  Worldlet	  	H238265-8 @ Orbit U
+	  Hospitable	  	F211254-6 @ Orbit W
+5 = LGG (70,000 mi dia.)	S=25
+	  BigWorld	  	Y2242CD-6 @ Orbit F
+	  Worldlet	  	Y011202-7 @ Orbit T
+6 = Planetoid belt	F000276-A
+7 = 
+8 = 
+9 = World  (RadWorld)	Y267000-0
+	  OuterWorld	  	F200276-9 @ Orbit B
+	  RadWorld	  	Y210000-0 @ Orbit S
+10 = STAR K6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  7
+	HZ =  -1
+	10-0 = 
+	10-1 = 
+	10-2 = 
+	10-3 = 
+	10-4 = 
+	10-5 = 
+	10-6 = 
+	10-7 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 11
+W = 9
+syscount = 2
+min = 0
+count = 9

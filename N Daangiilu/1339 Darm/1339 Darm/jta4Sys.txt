@@ -1,0 +1,14 @@
+Hex = 1339
+Name = Darm
+UWP = A100362-F
+Remarks = Lo Va O:1437
+{Ix} = { 1 }
+(Ex) = (B21-3)
+[Cx] = [141B]
+N = B
+B = -
+Z = -
+PBG = 924
+W = 16
+A = ImDv
+Stellar = M1 V

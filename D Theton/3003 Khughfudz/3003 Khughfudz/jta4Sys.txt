@@ -1,0 +1,14 @@
+Hex = 3003
+Name = Khughfudz
+UWP = E9995AC-8
+Remarks = Ni Da
+{Ix} = { -3 }
+(Ex) = (941+1)
+[Cx] = [828B]
+N = -
+B = C
+Z = A
+PBG = 220
+W = 12
+A = NaVa
+Stellar = M2 V

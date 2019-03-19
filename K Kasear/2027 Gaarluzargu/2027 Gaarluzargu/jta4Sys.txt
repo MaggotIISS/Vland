@@ -1,0 +1,14 @@
+Hex = 2027
+Name = Gaarluzargu
+UWP = B775799-8
+Remarks = Ag Pi
+{Ix} = { 1 }
+(Ex) = (B69+2)
+[Cx] = [8869]
+N = BCD
+B = S
+Z = -
+PBG = 820
+W = 7
+A = ImDv
+Stellar = M0 V M1 V

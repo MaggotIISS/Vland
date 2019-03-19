@@ -1,0 +1,14 @@
+Hex = 0835
+Name = Zhirka
+UWP = E000110-A
+Remarks = As Lo Va
+{Ix} = { -1 }
+(Ex) = (411-5)
+[Cx] = [1115]
+N = B
+B = -
+Z = -
+PBG = 610
+W = 12
+A = ImDv
+Stellar = M2 V M9 V

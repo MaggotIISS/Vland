@@ -1,0 +1,14 @@
+Hex = 3135
+Name = Debekov
+UWP = B572305-B
+Remarks = He Lo
+{Ix} = { 1 }
+(Ex) = (621-1)
+[Cx] = [1439]
+N = B
+B = N
+Z = -
+PBG = 901
+W = 11
+A = ImDv
+Stellar = M2 V

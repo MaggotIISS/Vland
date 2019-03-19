@@ -1,0 +1,14 @@
+Hex = 3134
+Name = Toborit
+UWP = C424664-8
+Remarks = Ni O:2931
+{Ix} = { -2 }
+(Ex) = (C52-4)
+[Cx] = [4436]
+N = B
+B = -
+Z = -
+PBG = 322
+W = 10
+A = ImDv
+Stellar = M2 V

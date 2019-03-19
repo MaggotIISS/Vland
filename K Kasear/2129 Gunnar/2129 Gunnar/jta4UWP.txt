@@ -1,0 +1,39 @@
+D000788-9
+Starport = D
+	Quality = Poor
+	Yards = No
+	Repairs = Minor damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+
+Size = 0
+	DIGIT	DIA(MI)	DIA(KM)
+	0	Asteroid Belt	varies
+
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+
+Population = 7
+	POPULATION UNDER 90,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+
+Government = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit
+
+Law Level = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	High Law	Open display of weapons prohibited
+
+Tech Level = 9
+	DIGIT		
+	9		
+

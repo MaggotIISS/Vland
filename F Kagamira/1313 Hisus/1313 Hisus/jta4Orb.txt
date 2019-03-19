@@ -1,0 +1,55 @@
+Primary = M0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Hisus	C7788BF-7	(Temperate)
+	  Hospitable	  	Y457554-4 @ Orbit WLGG (80,000 mi dia.)	S=2K
+	  RadWorld	  	Y574000-0 @ Orbit R
+	  Hospitable	  	F687100-6 @ Orbit S
+1 = World  (StormWorld)	FB00354-6
+	  Inferno	  	Y8B0000-0 @ Orbit D
+	  Worldlet	  	H100234-6 @ Orbit T
+2 = LGG (60,000 mi dia.)	S=24
+	  OuterWorld	  	Y475762-6 @ Orbit E
+	  RadWorld	  	Y410000-0 @ Orbit Q
+3 = SGG (40,000 mi dia.)	S=22
+	  IceWorld	  	Y220100-6 @ Orbit I
+	  IceWorld	  	F440463-5 @ Orbit J
+	  StormWorld	  	Y472000-0 @ Orbit P
+	  BigWorld	  	F48A799-6 @ Orbit S
+	  BigWorld	  	G410637-3 @ Orbit EWorld  (Inferno)	Y7B0000-U
+	  StormWorld	  	H610394-6 @ Orbit V
+	  IceWorld	  	H110345-5 @ Orbit W
+4 = Planetoid belt	H000325-4
+5 = LGG (220,000 mi dia.)	S=30
+	  Ring @ Orbit ?
+6 = World  (Worldlet)	F077411-6
+	  IceWorld	  	Y440699-6 @ Orbit I
+7 = World  (BigWorld)	FF44201-6
+8 = World  (Worldlet)	G1417DD-6
+	  OuterWorld	  	H300240-6 @ Orbit G
+	  RadWorld	  	Y29A000-0 @ Orbit K
+	  RadWorld	  	Y500000-0 @ Orbit S
+9 = 
+10 = 
+11 = 
+12 = 
+13 = World  (StormWorld)	YA34000-0
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 10
+W = 12
+syscount = 1
+min = 0
+count = 10

@@ -1,0 +1,77 @@
+Hex = 2738
+Name = Tepmaa
+UWP = B410251-D
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 1
+	DIGIT	DESCRIPTION	EFFECTS
+	1	Trace	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 2
+	POPULATION UNDER 300
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+Law Level = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Low Law	Prohibition of WMD, Psi weapons
+Tech Level = D
+	DIGIT		
+	D		
+Remarks = Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+{Ix} = { 1 }
+	Starport B = +1
+	TL 13 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (911-3)
+	Resources =  9
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -3
+	RU = -27
+[Cx] = [1319]
+	Homogeneity = 1
+	Acceptance = 3
+	Strangeness = 1
+	Symbols = 9
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 323
+	Population Multiplier = 3
+	POPULATION UNDER 300
+	Planetoid Belts = 2
+	Gas Giants = 3
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-3 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M0 V
+	Stars = 1

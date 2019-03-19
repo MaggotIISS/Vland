@@ -1,0 +1,14 @@
+Hex = 1619
+Name = Midku
+UWP = B764585-9
+Remarks = Ag Ni Pr
+{Ix} = { 1 }
+(Ex) = (845-1)
+[Cx] = [3637]
+N = BcC
+B = N
+Z = -
+PBG = 110
+W = 10
+A = ImDv
+Stellar = M3 V

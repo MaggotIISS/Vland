@@ -1,0 +1,39 @@
+B413534-C
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+
+Atmosphere = 1
+	DIGIT	DESCRIPTION	EFFECTS
+	1	Trace	S3
+
+Hydrosphere = 3
+	DIGIT	DESCRIPTION
+	3	30%
+
+Population = 5
+	POPULATION UNDER 900,000
+	DIGIT	DESCRIPTION	VALUE
+	5	Hundred thousand	00,000
+
+Government = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Self-Perpetuating Oligarchy	Rule by a restricted minority with little or no input from the masses
+
+Law Level = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Moderate Law	Laser, Beam weapons prohibited
+
+Tech Level = C
+	DIGIT		
+	C		
+

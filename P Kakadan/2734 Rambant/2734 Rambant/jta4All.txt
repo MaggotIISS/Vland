@@ -1,0 +1,69 @@
+Primary = F4 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	F	Yellow-White	6,000-7,500
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 3
+	d1000Limit = 7
+	Min Orbit = 0
+	HZ =  5
+0 = World  (RadWorld)	Y079000-0
+1 = 
+2 = World  (RadWorld)	Y010000-0
+3 = World  (Inferno)	Y0B0000-0
+4 = World  (Inferno)	Y0B0000-0
+	  InnerWorld	  	Y076000-0 @ Orbit Q
+	  Inferno	  	Y0B0000-0 @ Orbit U
+5 = LGG (70,000 mi dia.)	S=25
+	  RadWorld	  	Y056000-0 @ Orbit G
+	  StormWorld	  	Y043000-0 @ Orbit I
+	  StormWorld	  	Y015000-0 @ Orbit T
+	  Hospitable	  	Y033000-0 @ Orbit U
+	  Worldlet	  	Y047000-0 @ Orbit X
+6 = Mainworld	Rambant	B310113-C	(Cold)
+	  Worldlet	  	Y096000-0 @ Orbit E
+	  Hospitable	  	Y000000-0 @ Orbit J
+7 = World  (StormWorld)	Y012000-0
+8 = STAR K0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  5
+	HZ =  -1
+	8-0 = 
+	8-1 = 
+	8-2 = 
+	8-3 = 
+	8-4 = 
+	8-5 = 
+9 = 
+10 = LGG (180,000 mi dia.)	S=29
+	  StormWorld	  	Y003000-0 @ Orbit D
+	  RadWorld	  	Y036000-0 @ Orbit H
+	  BigWorld	  	Y050000-0 @ Orbit J
+	  IceWorld	  	Y082000-0 @ Orbit K
+11 = LGG (80,000 mi dia.)	S=26
+	  Ring @ Orbit ?
+12 = World  (Inferno)	Y0B0000-0
+	  Ring @ Orbit ?
+13 = LGG (70,000 mi dia.)	S=25
+	  StormWorld	  	Y014000-0 @ Orbit F
+	  OuterWorld	  	Y063000-0 @ Orbit J
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 8
+syscount = 2
+min = 0
+W = 11
+Extra Stars = 1
+count = 12

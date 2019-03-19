@@ -1,0 +1,14 @@
+Hex = 1728
+Name = Ashok
+UWP = B698100-A
+Remarks = Lo
+{Ix} = { 1 }
+(Ex) = (511-3)
+[Cx] = [1215]
+N = B
+B = N
+Z = -
+PBG = 920
+W = 16
+A = ImDv
+Stellar = G0 V

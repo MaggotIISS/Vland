@@ -1,0 +1,62 @@
+Primary = K2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (Worldlet)	F010679-5
+1 = World  (BigWorld)	HC55546-7
+	  Worldlet	  	G046567-4 @ Orbit F
+2 = Mainworld	Kimii	D403750-8	(Temperate)
+	Orbits LGG (180,000 mi dia.)	S=29 @ orbit R
+	  RadWorld	  	Y700000-0 @ Orbit KWorld  (Worldlet)	H0576DE-F
+	  Ring @ Orbit ?World  (StormWorld)	FB6129B-Q
+	  Ring @ Orbit X
+3 = 
+4 = 
+5 = World  (Inferno)	Y8B0000-0
+	  RadWorld	  	Y854000-0 @ Orbit I
+	  RadWorld	  	Y734000-0 @ Orbit J
+	  OuterWorld	  	H500375-3 @ Orbit L
+6 = STAR M3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  3
+	HZ =  -1
+	6-0 = 
+	6-1 = 
+	6-2 = 
+	6-3 = 
+7 = LGG (50,000 mi dia.)	S=23
+	  OuterWorld	  	F432679-4 @ Orbit W
+8 = 
+9 = 
+10 = World  (StormWorld)	G92027C-7
+11 = 
+12 = 
+13 = 
+14 = World  (RadWorld)	Y300000-0
+	  IceWorld	  	H25049D-6 @ Orbit G
+	  IceWorld	  	Y110565-3 @ Orbit L
+	  Worldlet	  	Y238200-6 @ Orbit X
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 12
+W = 9
+syscount = 2
+min = 0
+count = 8

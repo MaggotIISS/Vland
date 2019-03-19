@@ -1,0 +1,14 @@
+Hex = 0221
+Name = Keshiil
+UWP = C530833-9
+Remarks = De Na Po Ph
+{Ix} = { 0 }
+(Ex) = (C79-3)
+[Cx] = [5826]
+N = Be
+B = -
+Z = -
+PBG = 220
+W = 9
+A = ImDv
+Stellar = M2 V

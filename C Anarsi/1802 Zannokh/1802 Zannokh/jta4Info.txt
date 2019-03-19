@@ -1,0 +1,74 @@
+Hex = 1802
+Name = Zannokh
+UWP = B545235-8
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 4
+	DIGIT	DESCRIPTION	EFFECTS
+	4	Thin, Tainted	P1, S1
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+Population = 2
+	POPULATION UNDER 900
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+Government = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Self-Perpetuating Oligarchy	Rule by a restricted minority with little or no input from the masses
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+Tech Level = 8
+	DIGIT		
+	8		
+Remarks = Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+{Ix} = { -1 }
+	Starport B = +1
+	Pop < 7 = -1
+	Importance = Unimportant (0)+-1=-1
+(Ex) = (611-3)
+	Resources =  6
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -3
+	RU = -18
+[Cx] = [1136]
+	Homogeneity = 1
+	Acceptance = 1
+	Strangeness = 3
+	Symbols = 6
+N = -
+	No Imperial Nobles
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 920
+	Population Multiplier = 9
+	POPULATION UNDER 900
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 13
+	Non Stars In System = 13
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 10 other worlds
+A = NaVa
+	CODE	DESCRIPTION
+	NaVa	Non-Aligned, Vargr-dominated
+Stellar = G8 V
+	Stars = 1

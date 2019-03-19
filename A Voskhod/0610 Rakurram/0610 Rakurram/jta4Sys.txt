@@ -1,0 +1,14 @@
+Hex = 0610
+Name = Rakurram
+UWP = B200369-C
+Remarks = Lo Va Mr
+{Ix} = { 1 }
+(Ex) = (821+2)
+[Cx] = [446D]
+N = B
+B = N
+Z = -
+PBG = 212
+W = 13
+A = ImDv
+Stellar = G7 V

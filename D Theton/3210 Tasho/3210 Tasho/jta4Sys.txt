@@ -1,0 +1,14 @@
+Hex = 3210
+Name = Tasho
+UWP = E425300-A
+Remarks = Lo
+{Ix} = { -1 }
+(Ex) = (921-5)
+[Cx] = [1215]
+N = B
+B = -
+Z = -
+PBG = 722
+W = 13
+A = ImDv
+Stellar = K1 IV

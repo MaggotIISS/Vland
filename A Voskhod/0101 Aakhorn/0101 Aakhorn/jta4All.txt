@@ -1,0 +1,60 @@
+Primary = F5 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	F	Yellow-White	6,000-7,500
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 3
+	d1000Limit = 7
+	Min Orbit = 0
+	HZ =  5
+0 = STAR G6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	NO Orbits
+1 = World  (RadWorld)	Y242000-0
+	  Ring @ Orbit ?
+2 = World  (Hospitable)	H252575-4
+	  Worldlet	  	H056525-6 @ Orbit H
+3 = LGG (220,000 mi dia.)	S=30
+	  Inferno	  	Y2B0000-0 @ Orbit F
+4 = LGG (125,000 mi dia.)	S=28
+	  BigWorld	  	H230678-6 @ Orbit D
+	  Hospitable	  	F2786AD-6 @ Orbit Q
+5 = Mainworld	Aakhorn	D556754-7	(Temperate)
+	  RadWorld	  	Y2B6000-0 @ Orbit F
+	  RadWorld	  	Y250000-0 @ Orbit R
+6 = World  (Hospitable)	F276475-6
+7 = World  (Inferno)	Y2B0000-0
+	  IceWorld	  	Y100648-6 @ Orbit Q
+8 = World  (Inferno)	Y2B0000-0
+	  OuterWorld	  	Y241234-2 @ Orbit I
+	  RadWorld	  	Y200000-0 @ Orbit T
+9 = 
+10 = LGG (60,000 mi dia.)	S=24
+	  IceWorld	  	Y294542-6 @ Orbit H
+	  OuterWorld	  	H262645-6 @ Orbit R
+11 = LGG (80,000 mi dia.)	S=26
+	  Worldlet	  	H0C3344-6 @ Orbit C
+	  StormWorld	  	H200275-6 @ Orbit Q
+12 = World  (Hospitable)	H232513-6
+	  Worldlet	  	G077114-6 @ Orbit K
+	  IceWorld	  	Y282645-4 @ Orbit S
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 8
+W = 11
+syscount = 2
+min = 0
+count = 12

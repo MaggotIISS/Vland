@@ -1,0 +1,169 @@
+Vland/N Daangiilu
+
+---HI POP TARGET---
+0933 Arluk - C41198B-C
+	SDB Squadrons = 120
+	Starship Squadrons = 2
+	Troop CF = 50
+	Defence CF = 1200
+  TROOP FORCES
+0001-5000-50(50)-C
+
+
+
+0939 Gashumu - D76A65A-9
+	Defence CF = 1
+
+---HI POP TARGET---
+1038 Isle - E68AA87-B
+	SDB Squadrons = 1200
+	Starship Squadrons = 4
+	Troop CF = 500
+	Defence CF = 12000
+  TROOP FORCES
+0001-7000-500(500)-B
+
+
+
+1131 Neegak - B537662-B
+	Defence CF = 2
+
+1135 Abalakova - C5658CD-8
+	SDB Squadrons = 5
+	Troop CF = 5
+	Defence CF = 50
+  TROOP FORCES
+0001-2000-5(5)-8
+
+
+
+1139 Uureg - B553859-B
+	SDB Squadrons = 12
+	Starship Squadrons = 1
+	Troop CF = 10
+	Defence CF = 120
+  TROOP FORCES
+0001-3000-10(10)-B
+
+
+
+1140 Hiroshi - C675766-6
+	Defence CF = 2
+
+1236 Fymur - C55178B-8
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 5
+  TROOP FORCES
+0001-0000-1(1)-8
+
+
+
+---HI POP TARGET---
+1332 Nii Khu - A55497B-C
+	SDB Squadrons = 120
+	Starship Squadrons = 2
+	Troop CF = 50
+	Defence CF = 1200
+  TROOP FORCES
+0001-4000-20(20)-C
+
+
+
+1337 Borealis - C5116BD-9
+	Defence CF = 1
+
+1437 Igikuuni - A797799-C
+	SDB Squadrons = 1
+	Troop CF = 2
+	Defence CF = 12
+  TROOP FORCES
+0001-1000-2(2)-C
+
+
+
+1535 Malapaan - C426841-A
+	SDB Squadrons = 10
+	Starship Squadrons = 1
+	Troop CF = 5
+	Defence CF = 100
+  TROOP FORCES
+0001-2000-5(5)-A
+
+
+
+1540 Limed - B430689-B
+	Defence CF = 2
+
+
+0933-C41198B-C
+Commodore Iknau
+	Prec 5
+	Plan  5
+	Tactics -1
+	C001-1U-730-7-C
+
+0933-C41198B-C
+Commodore Iksakha
+	Prec 9
+	Plan  5
+	Tactics 0
+	C002-1U-730-7-C
+
+1038-E68AA87-B
+Commodore Ansumershirshir
+	Prec 11
+	Plan  3
+	Tactics 0
+	C001-1U-840-8-B
+
+1038-E68AA87-B
+Commodore Emguurshi
+	Prec 12
+	Plan  3
+	Tactics -2
+	C002-1U-840-8-B
+
+1038-E68AA87-B
+Commodore Inkalargu
+	Prec 12
+	Plan  4
+	Tactics 1
+	C003-1U-840-8-B
+
+1038-E68AA87-B
+Commodore Aakshuugiiiieikh
+	Prec 8
+	Plan  5
+	Tactics 0
+	C004-1U-840-8-B
+
+1139-B553859-B
+Commodore Ak
+	Prec 9
+	Plan  5
+	Tactics 0
+	C001-1U-630-6-B
+
+1332-A55497B-C
+Commodore Ikkhushammu
+	Prec 10
+	Plan  5
+	Tactics 0
+	C001-1U-730-7-C
+
+1332-A55497B-C
+Commodore Giiniag
+	Prec 13
+	Plan  5
+	Tactics 1
+	C002-1U-730-7-C
+
+1535-C426841-A
+Commodore Kaiil
+	Prec 10
+	Plan  3
+	Tactics 1
+	C001-1U-630-6-A
+
+

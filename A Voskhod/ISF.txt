@@ -1,0 +1,148 @@
+Vland/A Voskhod
+
+0101 Aakhorn - D556754-7
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 5
+  TROOP FORCES
+0001-0000-1(1)-7
+
+
+
+0109 Hakkat - C658887-6
+	Defence CF = 20
+
+0110 Ossin - B100877-C
+	SDB Squadrons = 12
+	Starship Squadrons = 1
+	Troop CF = 10
+	Defence CF = 120
+  TROOP FORCES
+0001-3000-10(10)-C
+
+
+
+0210 Khalgun - E576734-6
+	Defence CF = 2
+
+0303 Anert - B9B466A-B
+	Defence CF = 2
+
+0306 Skathi - B585698-9
+	Defence CF = 1
+
+0307 Enard - C8A37AC-9
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 10
+  TROOP FORCES
+0001-0000-1(1)-9
+
+
+
+0506 Gamibuu - B524610-A
+	Defence CF = 1
+
+0507 Kharta - E552755-7
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 5
+  TROOP FORCES
+0001-0000-1(1)-7
+
+
+
+0601 Athanuez - B100843-B
+	SDB Squadrons = 12
+	Starship Squadrons = 1
+	Troop CF = 10
+	Defence CF = 120
+  TROOP FORCES
+0001-3000-10(10)-B
+
+
+
+0705 Shukhuge - C727830-9
+	SDB Squadrons = 10
+	Starship Squadrons = 1
+	Troop CF = 5
+	Defence CF = 100
+  TROOP FORCES
+0001-2000-5(5)-9
+
+
+
+---HI POP TARGET---
+0708 Voskhod - B3109ED-E
+	SDB Squadrons = 150
+	Starship Squadrons = 3
+	Troop CF = 100
+	Defence CF = 1500
+  TROOP FORCES
+0001-6000-100(100)-E
+
+
+
+0801 Ogerrgh - E62A837-8
+	SDB Squadrons = 5
+	Troop CF = 5
+	Defence CF = 50
+  TROOP FORCES
+0001-2000-5(5)-8
+
+
+
+---HI POP TARGET---
+0804 Kegirur - D76A945-8
+	SDB Squadrons = 50
+	Troop CF = 20
+	Defence CF = 500
+  TROOP FORCES
+0001-4000-20(20)-8
+
+
+
+
+0110-B100877-C
+Commodore Kika
+	Prec 9
+	Plan  4
+	Tactics 0
+	C001-1U-630-6-C
+
+0601-B100843-B
+Commodore Ilgiakhkakkir
+	Prec 11
+	Plan  2
+	Tactics 2
+	C001-1U-630-6-B
+
+0705-C727830-9
+Commodore Kagdanlasgirgarkhu
+	Prec 10
+	Plan  5
+	Tactics 2
+	C001-1U-630-6-9
+
+0708-B3109ED-E
+Commodore Alniaggukheuum
+	Prec 11
+	Plan  3
+	Tactics 1
+	C001-3U-730-7-E
+
+0708-B3109ED-E
+Commodore Auuim
+	Prec 8
+	Plan  0
+	Tactics -1
+	C002-3U-730-7-E
+
+0708-B3109ED-E
+Commodore Sar
+	Prec 18
+	Plan  5
+	Tactics 0
+	C003-3U-730-7-E
+
+

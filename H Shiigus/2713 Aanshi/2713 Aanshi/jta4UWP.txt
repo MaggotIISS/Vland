@@ -1,0 +1,39 @@
+BA8AA97-C
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+
+Size = A
+	DIGIT	DIA(MI)	DIA(KM)
+	A	10,000	16,000
+
+Atmosphere = 8
+	DIGIT	DESCRIPTION	EFFECTS
+	8	Dense	
+
+Hydrosphere = A
+	DIGIT	DESCRIPTION
+	A	Water World
+
+Population = A
+	POPULATION UNDER 40,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	A	Ten billion	0,000,000,000
+
+Government = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	Impersonal Bureaucracy	Impersonal agencies rule
+
+Law Level = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Moderate Law	Prohibition of Pistols
+
+Tech Level = C
+	DIGIT		
+	C		
+

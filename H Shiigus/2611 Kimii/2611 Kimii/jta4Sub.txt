@@ -1,0 +1,4 @@
+H SHIIGUS
+
+	WORLDS IN SUBSECTOR = 46
+	ImDv: "Third Imperium, Domain of Vland" = 46 worlds

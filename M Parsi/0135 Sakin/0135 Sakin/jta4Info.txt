@@ -1,0 +1,80 @@
+Hex = 0135
+Name = Sakin
+UWP = C430668-A
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 3
+	DIGIT	DESCRIPTION	EFFECTS
+	3	VThin	S2
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 6
+	POPULATION UNDER 8,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Captive Government/Colony	Rule by a leadership answerable to an outside group
+Law Level = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	High Law	Open display of weapons prohibited
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = De Na Ni Po O:0336
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	De	23456789	0					Desert	
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Ni				456			Non Industrial	
+	Po		2345	0123				Poor	
+	Ruled by 0336 Parsi
+{Ix} = { 0 }
+	TL 10 = +1
+	Pop < 7 = -1
+	Importance = Unimportant (0)+0=0
+(Ex) = (D54+1)
+	Resources =  13
+	Labour =  5
+	Infrastructure =  4
+	Efficiency =  1
+	RU = 260
+[Cx] = [665A]
+	Homogeneity = 6
+	Acceptance = 6
+	Strangeness = 5
+	Symbols = 10
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 814
+	Population Multiplier = 8
+	POPULATION UNDER 8,000,000
+	Planetoid Belts = 1
+	Gas Giants = 4
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-1 (planetoid belts)
+	-4 (gas giants)
+	 = 4 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = F9 V M4 V
+	Stars = 2

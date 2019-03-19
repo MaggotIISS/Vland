@@ -1,0 +1,77 @@
+Hex = 2515
+Name = Gookir
+UWP = B9D787C-A
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 9
+	DIGIT	DIA(MI)	DIA(KM)
+	9	9,000	14,400
+Atmosphere = D
+	DIGIT	DESCRIPTION	EFFECTS
+	D	Dense, High	varies
+Hydrosphere = 7
+	DIGIT	DESCRIPTION
+	7	70%
+Population = 8
+	POPULATION UNDER 100,000,000
+	DIGIT	DESCRIPTION	VALUE
+	8	Hundred million	00,000,000
+Government = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Balkanization	Rival governments continually compete for control of the world
+Law Level = C
+	DIGIT	DESCRIPTION	NOTE
+	C	Extreme Law	Unrestricted invasion of privacy
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = Ph
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ph				8			Pre High	
+{Ix} = { 2 }
+	Starport B = +1
+	TL 10 = +1
+	Importance = Normal (2)+0=2
+(Ex) = (E7B+5)
+	Resources =  14
+	Labour =  7
+	Infrastructure =  11
+	Efficiency =  5
+	RU = 5390
+[Cx] = [BA8D]
+	Homogeneity = 11
+	Acceptance = 10
+	Strangeness = 8
+	Symbols = 13
+N = Be
+	CODE	RANK	TC
+	B	Knight	any
+	e	Viscount	Ph
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 122
+	Population Multiplier = 1
+	POPULATION UNDER 100,000,000
+	Planetoid Belts = 2
+	Gas Giants = 2
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-2 (gas giants)
+	 = 5 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K8 V
+	Stars = 1

@@ -1,0 +1,76 @@
+Hex = 0622
+Name = Beshe
+UWP = E8B8888-8
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 8
+	DIGIT	DIA(MI)	DIA(KM)
+	8	8,000	13,800
+Atmosphere = B
+	DIGIT	DESCRIPTION	EFFECTS
+	B	Corrosive	C1 P1
+Hydrosphere = 8
+	DIGIT	DESCRIPTION
+	8	80%
+Population = 8
+	POPULATION UNDER 100,000,000
+	DIGIT	DESCRIPTION	VALUE
+	8	Hundred million	00,000,000
+Government = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit
+Law Level = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	High Law	Open display of weapons prohibited
+Tech Level = 8
+	DIGIT		
+	8		
+Remarks = Fl Ph
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Fl		ABC	123456789A				Fluid	
+	Ph				8			Pre High	
+{Ix} = { -2 }
+	Starport E = -1
+	Importance = Unimportant (-1)+-1=-2
+(Ex) = (G76-2)
+	Resources =  16
+	Labour =  7
+	Infrastructure =  6
+	Efficiency =  -2
+	RU = -1344
+[Cx] = [8658]
+	Homogeneity = 8
+	Acceptance = 6
+	Strangeness = 5
+	Symbols = 8
+N = Be
+	CODE	RANK	TC
+	B	Knight	any
+	e	Viscount	Ph
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 115
+	Population Multiplier = 1
+	POPULATION UNDER 100,000,000
+	Planetoid Belts = 1
+	Gas Giants = 5
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-1 (planetoid belts)
+	-5 (gas giants)
+	 = 5 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 V
+	Stars = 1

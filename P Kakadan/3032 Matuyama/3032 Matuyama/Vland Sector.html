@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<!--
+comment
+//http://www.w3schools.com/xsl/xsl_w3celementref.asp
+-->
+<html>
+  <head>
+    <title id="titleid">
+      Vland Sector
+    </title>
+    <META http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <script id="loadxmldoc">
+      function loadXMLDoc(filename)
+      {
+        if (window.ActiveXObject)
+        {
+          xhttp = new ActiveXObject("Msxml2.XMLHTTP");
+        }
+        else
+        {
+          xhttp = new XMLHttpRequest();
+        }
+        xhttp.open("GET", filename, false);
+        try {
+          xhttp.responseType = "msxml-document"
+        } catch (err) {
+        } // Helping IE11
+        xhttp.send("");
+        return xhttp.responseXML;
+      }
+
+      function displayResult()
+      {
+        xml = loadXMLDoc(3032 Matuyama.xml);
+        xsl = loadXMLDoc(../StyleTable.xsl);
+        // code for IE
+        if (window.ActiveXObject || xhttp.responseType == "msxml-document")
+        {
+          ex = xml.transformNode(xsl);
+          document.getElementById("example").innerHTML = ex;
+        }
+        // code for Chrome, Firefox, Opera, etc.
+        else if (document.implementation && document.implementation.createDocument)
+        {
+          xsltProcessor = new XSLTProcessor();
+          xsltProcessor.importStylesheet(xsl);
+          resultDocument = xsltProcessor.transformToFragment(xml, document);
+          document.getElementById("example").appendChild(resultDocument);
+        }
+      }
+
+    </script>
+    <script id="headscripts">script</script>
+  </head>
+  <body>
+    <header id="header">
+      
+    </header>
+    <h2>Vland Sector</h2><br/>
+    <div>
+      C://T5/Vland/P Kakadan/3032 Matuyama/3032 Matuyama/Vland Sector.gif<br/>
+      <img id="picture" src="file:///C://T5/Vland/P Kakadan/3032 Matuyama/3032 Matuyama/Vland Sector.gif" width="WIDTH" height="HEIGHT" alt="file:///C://T5/Vland/P Kakadan/3032 Matuyama/3032 Matuyama/Vland Sector.gif"/><br/>
+    </div>
+    <div>
+      <br/>
+      <button id="button" onclick="displayButton()">EDIT</button><br/>
+      <script id="displayButton">
+        function displayButton() {
+          document.getElementById("button").innerHTML = "EDITING";
+        }
+      </script>
+      <br/>
+      <br/>
+    </div>
+    <footer id="footer">
+      <br><br/>
+    </footer>
+  </body>
+</html>

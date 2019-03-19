@@ -1,0 +1,14 @@
+Hex = 1001
+Name = Odhughe
+UWP = C525545-9
+Remarks = Ni Varg9
+{Ix} = { -1 }
+(Ex) = (843-3)
+[Cx] = [3437]
+N = -
+B = -
+Z = -
+PBG = 910
+W = 13
+A = CsIm
+Stellar = K0 V M6 V

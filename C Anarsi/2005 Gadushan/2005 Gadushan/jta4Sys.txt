@@ -1,0 +1,14 @@
+Hex = 2005
+Name = Gadushan
+UWP = C536488-A
+Remarks = Ni
+{Ix} = { 0 }
+(Ex) = (733+1)
+[Cx] = [445A]
+N = B
+B = S
+Z = -
+PBG = 510
+W = 10
+A = ImDv
+Stellar = M4 V M5 V

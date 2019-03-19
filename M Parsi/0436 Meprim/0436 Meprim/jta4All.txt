@@ -1,0 +1,45 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Meprim	B300136-D	(Hot)World  (Hospitable)	Y021000-0
+	  Worldlet	  	Y054000-0 @ Orbit JWorld  (RadWorld)	Y087000-0World  (StormWorld)	Y042000-G
+	  Ring @ Orbit R
+1 = World  (BigWorld)	Y047000-0
+	  Worldlet	  	Y010000-0 @ Orbit U
+2 = 
+3 = 
+4 = Planetoid belt	Y000000-0
+5 = 
+6 = World  (Hospitable)	Y079000-0
+	  Ring @ Orbit ?
+7 = World  (RadWorld)	Y078000-0
+	  Worldlet	  	Y078000-0 @ Orbit E
+	  RadWorld	  	Y000000-0 @ Orbit J
+	  OuterWorld	  	Y078000-0 @ Orbit V
+8 = World  (StormWorld)	Y032000-0
+	  Worldlet	  	Y0B6000-0 @ Orbit E
+	  IceWorld	  	Y052000-0 @ Orbit U
+9 = 
+10 = 
+11 = 
+12 = World  (StormWorld)	Y010000-0
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 13
+W = 10
+syscount = 1
+min = 0
+count = 7

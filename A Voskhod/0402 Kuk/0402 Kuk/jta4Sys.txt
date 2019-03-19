@@ -1,0 +1,14 @@
+Hex = 0402
+Name = Kuk
+UWP = C540222-8
+Remarks = De He Lo Po
+{Ix} = { -2 }
+(Ex) = (511-5)
+[Cx] = [1114]
+N = B
+B = S
+Z = -
+PBG = 901
+W = 8
+A = ImDv
+Stellar = K2 V K6 V

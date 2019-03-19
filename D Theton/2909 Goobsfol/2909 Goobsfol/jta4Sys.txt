@@ -1,0 +1,14 @@
+Hex = 2909
+Name = Goobsfol
+UWP = D544200-8
+Remarks = Lo
+{Ix} = { -3 }
+(Ex) = (911-5)
+[Cx] = [1113]
+N = B
+B = S
+Z = -
+PBG = 623
+W = 9
+A = ImDv
+Stellar = M2 V

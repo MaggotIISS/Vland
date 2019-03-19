@@ -1,0 +1,14 @@
+Hex = 2322
+Name = Hefas
+UWP = C775961-8
+Remarks = Hi In Mr
+{Ix} = { 1 }
+(Ex) = (H8A-3)
+[Cx] = [5A14]
+N = BE
+B = S
+Z = -
+PBG = 615
+W = 9
+A = ImDv
+Stellar = M2 V

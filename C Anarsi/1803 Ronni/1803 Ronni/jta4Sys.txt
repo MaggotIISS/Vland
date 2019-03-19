@@ -1,0 +1,14 @@
+Hex = 1803
+Name = Ronni
+UWP = C645576-9
+Remarks = Ag Ni (Ronnin)
+{Ix} = { 0 }
+(Ex) = (B44-1)
+[Cx] = [4548]
+N = -
+B = -
+Z = -
+PBG = 522
+W = 9
+A = CsIm
+Stellar = G7 V

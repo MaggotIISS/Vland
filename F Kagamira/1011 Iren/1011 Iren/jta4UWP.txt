@@ -1,0 +1,39 @@
+A8C389E-C
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+
+Size = 8
+	DIGIT	DIA(MI)	DIA(KM)
+	8	8,000	13,800
+
+Atmosphere = C
+	DIGIT	DESCRIPTION	EFFECTS
+	C	Insidious	C2 P1
+
+Hydrosphere = 3
+	DIGIT	DESCRIPTION
+	3	30%
+
+Population = 8
+	POPULATION UNDER 800,000,000
+	DIGIT	DESCRIPTION	VALUE
+	8	Hundred million	00,000,000
+
+Government = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	Impersonal Bureaucracy	Impersonal agencies rule
+
+Law Level = E
+	DIGIT	DESCRIPTION	NOTE
+	E	Extreme Law	Full-fledged police state
+
+Tech Level = C
+	DIGIT		
+	C		
+

@@ -1,0 +1,14 @@
+Hex = 2808
+Name = Spinport
+UWP = D575A84-A
+Remarks = Hi In
+{Ix} = { 2 }
+(Ex) = (E9C+1)
+[Cx] = [8C38]
+N = BE
+B = S
+Z = -
+PBG = 820
+W = 15
+A = ImDv
+Stellar = M2 V

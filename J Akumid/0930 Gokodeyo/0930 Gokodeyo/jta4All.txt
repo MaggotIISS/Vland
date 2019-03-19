@@ -1,0 +1,59 @@
+Primary = F3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	F	Yellow-White	6,000-7,500
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 3
+	d1000Limit = 7
+	Min Orbit = 0
+	HZ =  5
+0 = World  (StormWorld)	H220337-3World  (BigWorld)	H224641-3World  (Hospitable)	H100410-3
+	  Worldlet	  	Y2557BE-3 @ Orbit P
+1 = World  (Worldlet)	F252430-3
+2 = World  (BigWorld)	F200778-3World  (Inferno)	Y2B0000-0
+	  StormWorld	  	Y260000-0 @ Orbit U
+3 = World  (StormWorld)	Y202000-0
+	  RadWorld	  	Y286000-0 @ Orbit H
+4 = Planetoid belt	Y00067C-3
+5 = STAR M0 VMainworld	Gokodeyo	E5818AA-4	(Temperate)
+	  Inferno	  	Y2B0000-0 @ Orbit E
+	  Inferno	  	Y2B0000-0 @ Orbit R
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  2
+	HZ =  -1
+	5-0 = 
+	5-1 = 
+	5-2 = 
+6 = World  (BigWorld)	Y27A566-3
+	  Ring @ Orbit ?
+7 = World  (StormWorld)	Y233000-0
+	  OuterWorld	  	H2B677B-3 @ Orbit YWorld  (Inferno)	Y2B0000-E
+	  Worldlet	  	G234522-3 @ Orbit I
+8 = World  (Hospitable)	G260310-3
+	  OuterWorld	  	H120765-3 @ Orbit T
+9 = World  (Worldlet)	F040155-3
+10 = World  (RadWorld)	Y211000-0
+	  Worldlet	  	H2B6789-3 @ Orbit F
+11 = 
+12 = 
+13 = World  (RadWorld)	Y276000-0
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 8
+W = 16
+syscount = 2
+min = 0
+count = 12

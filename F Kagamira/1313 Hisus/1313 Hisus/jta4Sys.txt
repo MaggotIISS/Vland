@@ -1,0 +1,14 @@
+Hex = 1313
+Name = Hisus
+UWP = C7788BF-7
+Remarks = Pa Ph Pi Pz
+{Ix} = { -1 }
+(Ex) = (A77+4)
+[Cx] = [D7AC]
+N = BcDe
+B = S
+Z = A
+PBG = 514
+W = 12
+A = ImDv
+Stellar = M0 V

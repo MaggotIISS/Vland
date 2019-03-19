@@ -1,0 +1,14 @@
+Hex = 2907
+Name = Akkunat
+UWP = C878501-A
+Remarks = Ag Ni
+{Ix} = { 1 }
+(Ex) = (845-3)
+[Cx] = [1616]
+N = BC
+B = S
+Z = -
+PBG = 101
+W = 13
+A = ImDv
+Stellar = M2 V K8 V

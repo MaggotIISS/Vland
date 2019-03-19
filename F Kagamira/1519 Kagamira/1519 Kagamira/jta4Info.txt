@@ -1,0 +1,82 @@
+Hex = 1519
+Name = Kagamira
+UWP = B577A83-E
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 7
+	DIGIT	DESCRIPTION	EFFECTS
+	7	Standard, Tainted	P1
+Hydrosphere = 7
+	DIGIT	DESCRIPTION
+	7	70%
+Population = A
+	POPULATION UNDER 50,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	A	Ten billion	0,000,000,000
+Government = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit
+Law Level = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Low Law	Prohibition of Acid, Fire, Gas weapons
+Tech Level = E
+	DIGIT		
+	E		
+Remarks = Hi In Cp
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	In		012479		9ABC			industrial	
+	Cp							Subsector Capital	Imperial
+{Ix} = { 4 }
+	Starport B = +1
+	TL 14 = +1
+	Hi  = +1
+	In  = +1
+	Importance = Important (5)+-1=4
+(Ex) = (K9G+1)
+	Resources =  20
+	Labour =  9
+	Infrastructure =  16
+	Efficiency =  1
+	RU = 2880
+[Cx] = [7E2B]
+	Homogeneity = 7
+	Acceptance = 14
+	Strangeness = 2
+	Symbols = 11
+N = BEF
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+	F	Duke	In
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 525
+	Population Multiplier = 5
+	POPULATION UNDER 50,000,000,000
+	Planetoid Belts = 2
+	Gas Giants = 5
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-5 (gas giants)
+	 = 2 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G4 V
+	Stars = 1

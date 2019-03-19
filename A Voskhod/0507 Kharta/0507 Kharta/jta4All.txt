@@ -1,0 +1,69 @@
+Primary = K6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (StormWorld)	H610287-4
+1 = LGG (90,000 mi dia.)	S=27
+	  InnerWorld	  	F59528B-4 @ Orbit C
+	  StormWorld	  	FB00263-6 @ Orbit G
+	  Inferno	  	Y9B0000-0 @ Orbit H
+	  Inferno	  	Y8B0000-0 @ Orbit IWorld  (StormWorld)	F700278-S
+	  Inferno	  	Y3B0000-0 @ Orbit U
+2 = World  (StormWorld)	F661276-3
+3 = Mainworld	Kharta	E552755-7	(Cold)
+	Orbits SGG (30,000 mi dia.)	S=21 @ orbit R
+	  Worldlet	  	Y000685-6 @ Orbit T
+4 = World  (BigWorld)	GC79500-6
+	  Inferno	  	Y8B0000-0 @ Orbit U
+5 = SGG (40,000 mi dia.)	S=22
+	  Ring @ Orbit ?World  (Hospitable)	G532464-V
+	  BigWorld	  	FF27131-6 @ Orbit W
+6 = LGG (125,000 mi dia.)	S=28
+	  RadWorld	  	YB00000-0 @ Orbit G
+	  OuterWorld	  	F565668-6 @ Orbit K
+	  BigWorld	  	YD77000-0 @ Orbit U
+	  StormWorld	  	H900253-6 @ Orbit W
+	  Worldlet	  	Y043000-0 @ Orbit Y
+7 = 
+8 = STAR G9 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  5
+	HZ =  -1
+	8-0 = 
+	8-1 = 
+	8-2 = 
+	8-3 = 
+	8-4 = 
+	8-5 = 
+9 = 
+10 = LGG (80,000 mi dia.)	S=26
+	  Ring @ Orbit ?
+11 = 
+12 = 
+13 = World  (Inferno)	Y6B0000-0
+	  StormWorld	  	Y300000-0 @ Orbit S
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 10
+W = 11
+syscount = 2
+min = 0
+count = 10

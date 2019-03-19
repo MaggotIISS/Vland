@@ -1,0 +1,14 @@
+Hex = 1725
+Name = Kalimgar
+UWP = B799667-B
+Remarks = Ni O:1825
+{Ix} = { 2 }
+(Ex) = (E56+2)
+[Cx] = [685B]
+N = B
+B = W
+Z = -
+PBG = 824
+W = 13
+A = ImDv
+Stellar = K8 V

@@ -1,0 +1,14 @@
+Hex = 2103
+Name = Hteh Hut
+UWP = A000546-E
+Remarks = As Ni Va
+{Ix} = { 1 }
+(Ex) = (945+1)
+[Cx] = [464D]
+N = -
+B = -
+Z = -
+PBG = 811
+W = 8
+A = CsIm
+Stellar = K7 V M5 V

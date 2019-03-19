@@ -1,0 +1,80 @@
+Hex = 0834
+Name = Khisber
+UWP = B87A501-D
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 8
+	DIGIT	DIA(MI)	DIA(KM)
+	8	8,000	13,800
+Atmosphere = 7
+	DIGIT	DESCRIPTION	EFFECTS
+	7	Standard, Tainted	P1
+Hydrosphere = A
+	DIGIT	DESCRIPTION
+	A	Water World
+Population = 5
+	POPULATION UNDER 500,000
+	DIGIT	DESCRIPTION	VALUE
+	5	Hundred thousand	00,000
+Government = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Government Structure	Family bonds predominate
+Law Level = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Low Law	Prohibition of WMD, Psi weapons
+Tech Level = D
+	DIGIT		
+	D		
+Remarks = Ni Wa Da
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+	Wa	56789		A				Water World	
+	Da				0123456			Dangerous	Amber Zone
+{Ix} = { 2 }
+	Starport B = +1
+	TL 13 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+1=2
+(Ex) = (C46-2)
+	Resources =  12
+	Labour =  4
+	Infrastructure =  6
+	Efficiency =  -2
+	RU = -576
+[Cx] = [1719]
+	Homogeneity = 1
+	Acceptance = 7
+	Strangeness = 1
+	Symbols = 9
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = NS
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+	S	Scout Base	Imperial
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 523
+	Population Multiplier = 5
+	POPULATION UNDER 500,000
+	Planetoid Belts = 2
+	Gas Giants = 3
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-3 (gas giants)
+	 = 4 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = F6 V
+	Stars = 1

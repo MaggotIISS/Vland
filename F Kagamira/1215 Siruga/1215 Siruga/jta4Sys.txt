@@ -1,0 +1,14 @@
+Hex = 1215
+Name = Siruga
+UWP = C100559-D
+Remarks = Ni Va
+{Ix} = { 0 }
+(Ex) = (844+1)
+[Cx] = [656E]
+N = B
+B = -
+Z = -
+PBG = 201
+W = 13
+A = ImDv
+Stellar = M0 V K3 V

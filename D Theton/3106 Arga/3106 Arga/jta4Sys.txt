@@ -1,0 +1,14 @@
+Hex = 3106
+Name = Arga
+UWP = C300999-C
+Remarks = Hi In Na Va
+{Ix} = { 3 }
+(Ex) = (C8E+4)
+[Cx] = [AC6D]
+N = BE
+B = S
+Z = -
+PBG = 910
+W = 8
+A = ImDv
+Stellar = M1 V M8 V

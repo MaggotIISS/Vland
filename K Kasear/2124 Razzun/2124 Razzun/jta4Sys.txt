@@ -1,0 +1,14 @@
+Hex = 2124
+Name = Razzun
+UWP = A572768-B
+Remarks = He Pi Mr
+{Ix} = { 2 }
+(Ex) = (A6C+2)
+[Cx] = [795B]
+N = BD
+B = N
+Z = -
+PBG = 910
+W = 7
+A = ImDv
+Stellar = M2 V M2 V

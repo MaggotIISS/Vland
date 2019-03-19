@@ -1,0 +1,49 @@
+Primary = M3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Daglari	C310688-A	(Temperate)World  (Worldlet)	H079445-9World  (RadWorld)	Y08A000-0
+	  Worldlet	  	Y065110-7 @ Orbit T
+	  StormWorld	  	H024121-7 @ Orbit W
+1 = World  (Hospitable)	H086355-9World  (BigWorld)	F09A226-3
+2 = World  (Inferno)	Y0B0000-0
+	  OuterWorld	  	G088101-6 @ Orbit F
+	  RadWorld	  	Y010000-0 @ Orbit HWorld  (RadWorld)	Y031000-Q
+	  OuterWorld	  	Y0895BE-5 @ Orbit T
+	  Worldlet	  	Y076435-4 @ Orbit X
+3 = Planetoid belt	F00058D-4World  (StormWorld)	Y000165-7
+	  Worldlet	  	H000410-7 @ Orbit C
+4 = LGG (70,000 mi dia.)	S=25
+	  OuterWorld	  	Y05A454-4 @ Orbit P
+	  BigWorld	  	H067597-9 @ Orbit T
+5 = World  (Inferno)	Y0B0000-0
+6 = 
+7 = 
+8 = World  (Hospitable)	G020578-5
+	  StormWorld	  	Y046130-9 @ Orbit R
+9 = Planetoid belt	F000535-9
+10 = 
+11 = World  (StormWorld)	G056144-7
+	  RadWorld	  	Y086000-0 @ Orbit G
+	  Worldlet	  	Y022547-7 @ Orbit P
+	  IceWorld	  	Y063410-6 @ Orbit U
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 11
+W = 14
+syscount = 1
+min = 0
+count = 9

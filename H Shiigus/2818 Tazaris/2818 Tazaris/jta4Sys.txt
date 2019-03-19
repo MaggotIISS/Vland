@@ -1,0 +1,14 @@
+Hex = 2818
+Name = Tazaris
+UWP = C9B4688-9
+Remarks = Fl Ni
+{Ix} = { -1 }
+(Ex) = (A53-1)
+[Cx] = [6559]
+N = B
+B = S
+Z = -
+PBG = 302
+W = 12
+A = ImDv
+Stellar = M3 V

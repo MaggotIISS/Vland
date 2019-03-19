@@ -1,0 +1,78 @@
+Hex = 2117
+Name = Uri
+UWP = A313632-E
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 3
+	DIGIT	DIA(MI)	DIA(KM)
+	3	3,000	4,800
+Atmosphere = 1
+	DIGIT	DESCRIPTION	EFFECTS
+	1	Trace	S3
+Hydrosphere = 3
+	DIGIT	DESCRIPTION
+	3	30%
+Population = 6
+	POPULATION UNDER 2,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Self-Perpetuating Oligarchy	Rule by a restricted minority with little or no input from the masses
+Law Level = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Low Law	Prohibition of 'portable' weapons
+Tech Level = E
+	DIGIT		
+	E		
+Remarks = Ic Na Ni
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ic		01	123456789A				Ice Capped	
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Ni				456			Non Industrial	
+{Ix} = { 1 }
+	Starport A = +1
+	TL 14 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (A55-3)
+	Resources =  10
+	Labour =  5
+	Infrastructure =  5
+	Efficiency =  -3
+	RU = -750
+[Cx] = [271A]
+	Homogeneity = 2
+	Acceptance = 7
+	Strangeness = 1
+	Symbols = 10
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 220
+	Population Multiplier = 2
+	POPULATION UNDER 2,000,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 9 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = F9 V
+	Stars = 1

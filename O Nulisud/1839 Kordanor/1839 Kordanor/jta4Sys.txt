@@ -1,0 +1,14 @@
+Hex = 1839
+Name = Kordanor
+UWP = D778796-6
+Remarks = Ag Pi
+{Ix} = { -1 }
+(Ex) = (966-2)
+[Cx] = [6645]
+N = BCD
+B = -
+Z = -
+PBG = 303
+W = 17
+A = ImDv
+Stellar = M3 V

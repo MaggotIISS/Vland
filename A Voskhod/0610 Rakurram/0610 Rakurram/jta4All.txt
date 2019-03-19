@@ -1,0 +1,54 @@
+Primary = G7 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  3
+0 = World  (RadWorld)	Y-195000-0
+	  StormWorld	  	Y-100000-0 @ Orbit WWorld  (Hospitable)	G-189253-G
+	  Inferno	  	Y-1B0000-0 @ Orbit UWorld  (BigWorld)	H-168285-U
+	  Worldlet	  	Y-100296-5 @ Orbit V
+1 = Planetoid belt	H-100200-7World  (Worldlet)	Y-147289-9
+2 = LGG (50,000 mi dia.)	S=23
+	  Worldlet	  	G-189254-4 @ Orbit C
+	  Worldlet	  	H-1772A8-3 @ Orbit JWorld  (Inferno)	Y-1B0000-F
+	  StormWorld	  	Y-182000-0 @ Orbit G
+	  Hospitable	  	Y-153220-2 @ Orbit I
+	  Worldlet	  	F-1B6241-8 @ Orbit J
+	  Worldlet	  	G-1432B9-4 @ Orbit Q
+	  BigWorld	  	F-1B6276-9 @ Orbit KWorld  (StormWorld)	Y-132000-R
+	  RadWorld	  	Y-153000-0 @ Orbit T
+	  Inferno	  	Y-1B0000-0 @ Orbit U
+3 = Mainworld	Rakurram	B200369-C	(Temperate)World  (StormWorld)	Y-110000-0
+	  Worldlet	  	Y-120277-8 @ Orbit E
+	  Inferno	  	Y-1B0000-0 @ Orbit V
+4 = World  (Worldlet)	F-110100-9
+5 = LGG (125,000 mi dia.)	S=28
+	  Ring @ Orbit ?
+6 = 
+7 = 
+8 = 
+9 = 
+10 = 
+11 = 
+12 = World  (BigWorld)	Y-144247-8
+	  StormWorld	  	Y-160000-0 @ Orbit R
+	  Worldlet	  	Y-155245-6 @ Orbit S
+	  Worldlet	  	Y-145285-4 @ Orbit Y
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 13
+W = 13
+syscount = 1
+min = 0
+count = 7

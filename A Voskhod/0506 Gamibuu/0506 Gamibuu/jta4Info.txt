@@ -1,0 +1,78 @@
+Hex = 0506
+Name = Gamibuu
+UWP = B524610-A
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 2
+	DIGIT	DESCRIPTION	EFFECTS
+	2	VThin, Tainted	P1, S2
+Hydrosphere = 4
+	DIGIT	DESCRIPTION
+	4	40%
+Population = 6
+	POPULATION UNDER 1,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Company/Corporation	Rule by a managerial elite
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = Ni
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+{Ix} = { 2 }
+	Starport B = +1
+	TL 10 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+1=2
+(Ex) = (956-2)
+	Resources =  9
+	Labour =  5
+	Infrastructure =  6
+	Efficiency =  -2
+	RU = -540
+[Cx] = [1815]
+	Homogeneity = 1
+	Acceptance = 8
+	Strangeness = 1
+	Symbols = 5
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = NS
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 101
+	Population Multiplier = 1
+	POPULATION UNDER 1,000,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 7 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K0 V M3 V
+	Stars = 2

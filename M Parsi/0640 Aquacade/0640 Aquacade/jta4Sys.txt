@@ -1,0 +1,14 @@
+Hex = 0640
+Name = Aquacade
+UWP = A67A224-F
+Remarks = Lo Wa
+{Ix} = { 1 }
+(Ex) = (611-1)
+[Cx] = [133D]
+N = B
+B = N
+Z = -
+PBG = 120
+W = 8
+A = ImDv
+Stellar = M2 V

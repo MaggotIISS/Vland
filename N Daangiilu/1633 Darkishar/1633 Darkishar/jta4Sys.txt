@@ -1,0 +1,14 @@
+Hex = 1633
+Name = Darkishar
+UWP = B42058B-D
+Remarks = De He Ni Po
+{Ix} = { 1 }
+(Ex) = (845+3)
+[Cx] = [767F]
+N = B
+B = S
+Z = -
+PBG = 910
+W = 12
+A = ImDv
+Stellar = K0 V M3 V

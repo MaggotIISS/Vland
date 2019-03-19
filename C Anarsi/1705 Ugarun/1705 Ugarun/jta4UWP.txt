@@ -1,0 +1,39 @@
+C7C27A8-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+
+Atmosphere = C
+	DIGIT	DESCRIPTION	EFFECTS
+	C	Insidious	C2 P1
+
+Hydrosphere = 2
+	DIGIT	DESCRIPTION
+	2	20%
+
+Population = 7
+	POPULATION UNDER 40,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+
+Government = A
+	DIGIT	DESCRIPTION	NOTE
+	A	Charismatic Dictatorship	Government by a single leader enjoying the confidence of the citizens
+
+Law Level = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	High Law	Open display of weapons prohibited
+
+Tech Level = 9
+	DIGIT		
+	9		
+

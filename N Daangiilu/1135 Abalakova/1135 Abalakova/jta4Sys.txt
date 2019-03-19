@@ -1,0 +1,14 @@
+Hex = 1135
+Name = Abalakova
+UWP = C5658CD-8
+Remarks = Ri Pa Ph Pz
+{Ix} = { 0 }
+(Ex) = (E78+4)
+[Cx] = [C89C]
+N = BcCe
+B = S
+Z = A
+PBG = 822
+W = 10
+A = ImDv
+Stellar = F5 V M3 V

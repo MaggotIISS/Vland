@@ -1,0 +1,14 @@
+Hex = 2107
+Name = Sadniben
+UWP = C778978-6
+Remarks = Hi In Pz
+{Ix} = { 1 }
+(Ex) = (B89+1)
+[Cx] = [9A56]
+N = BE
+B = S
+Z = A
+PBG = 204
+W = 15
+A = ImDv
+Stellar = M1 V

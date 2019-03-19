@@ -1,0 +1,14 @@
+Hex = 1432
+Name = Agagir
+UWP = C430588-B
+Remarks = De Ni Po
+{Ix} = { 0 }
+(Ex) = (844+1)
+[Cx] = [555B]
+N = B
+B = S
+Z = -
+PBG = 110
+W = 15
+A = ImDv
+Stellar = M4 V

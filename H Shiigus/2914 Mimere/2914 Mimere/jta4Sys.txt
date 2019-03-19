@@ -1,0 +1,14 @@
+Hex = 2914
+Name = Mimere
+UWP = B9B6999-D
+Remarks = Fl Hi In
+{Ix} = { 5 }
+(Ex) = (C8H+5)
+[Cx] = [AE6E]
+N = BEf
+B = NS
+Z = -
+PBG = 510
+W = 12
+A = ImDv
+Stellar = M1 V M2 V

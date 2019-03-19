@@ -1,0 +1,69 @@
+Primary = K3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = Planetoid belt	G000465-7
+1 = Mainworld	Mekhe	C546567-8	(Hot)
+	  Inferno	  	Y2B0000-0 @ Orbit D
+	  Worldlet	  	H052386-7 @ Orbit TWorld  (Hospitable)	F21047C-G
+	  Worldlet	  	Y245402-7 @ Orbit R
+	  RadWorld	  	Y268000-0 @ Orbit T
+2 = SGG (30,000 mi dia.)	S=21
+	  Worldlet	  	H09A47C-7 @ Orbit G
+	  Hospitable	  	Y11049C-5 @ Orbit Q
+	  RadWorld	  	Y230000-0 @ Orbit R
+3 = LGG (250,000 mi dia.)	S=31
+	  RadWorld	  	Y200000-0 @ Orbit F
+	  OuterWorld	  	H266410-7 @ Orbit L
+	  OuterWorld	  	Y200230-7 @ Orbit OWorld  (Worldlet)	H047456-P
+	  IceWorld	  	Y240451-7 @ Orbit V
+	  BigWorld	  	G277254-6 @ Orbit X
+4 = LGG (70,000 mi dia.)	S=25
+	  RadWorld	  	Y273000-0 @ Orbit P
+	  StormWorld	  	Y253000-0 @ Orbit V
+5 = STAR M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  2
+	HZ =  -1
+	5-0 = 
+	5-1 = 
+	5-2 = 
+6 = Planetoid belt	G000465-5
+7 = LGG (80,000 mi dia.)	S=26
+	  OuterWorld	  	G210250-7 @ Orbit Q
+	  BigWorld	  	Y2B6454-7 @ Orbit R
+	  RadWorld	  	Y268000-0 @ Orbit U
+8 = LGG (180,000 mi dia.)	S=29
+	  OuterWorld	  	G27648A-7 @ Orbit K
+	  StormWorld	  	Y200000-0 @ Orbit V
+9 = 
+10 = World  (BigWorld)	F220355-7
+	  Ring @ Orbit ?
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 10
+syscount = 2
+min = 0
+W = 11
+Extra Stars = 1
+count = 10

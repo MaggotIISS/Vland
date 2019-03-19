@@ -1,0 +1,78 @@
+Hex = 2113
+Name = Ishala
+UWP = C866751-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 8
+	DIGIT	DIA(MI)	DIA(KM)
+	8	8,000	13,800
+Atmosphere = 6
+	DIGIT	DESCRIPTION	EFFECTS
+	6	Standard	
+Hydrosphere = 6
+	DIGIT	DESCRIPTION
+	6	60%
+Population = 7
+	POPULATION UNDER 40,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+Law Level = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Low Law	Prohibition of WMD, Psi weapons
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = Ag Ga Ri
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ag		456789	45678	567			Agricultural	
+	Ga	678	568	567				Garden World	
+	Ri		68		678			Rich	
+{Ix} = { 2 }
+	Ag  = +1
+	Ri  = +1
+	Importance = Normal (2)+0=2
+(Ex) = (D6B-2)
+	Resources =  13
+	Labour =  6
+	Infrastructure =  11
+	Efficiency =  -2
+	RU = -1716
+[Cx] = [3915]
+	Homogeneity = 3
+	Acceptance = 9
+	Strangeness = 1
+	Symbols = 5
+N = BC
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 404
+	Population Multiplier = 4
+	POPULATION UNDER 40,000,000
+	Planetoid Belts = 0
+	Gas Giants = 4
+W = 13
+	Non Stars In System = 13
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-4 (gas giants)
+	 = 8 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V
+	Stars = 1

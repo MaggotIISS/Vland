@@ -1,0 +1,57 @@
+Primary = F5 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	F	Yellow-White	6,000-7,500
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 3
+	d1000Limit = 7
+	Min Orbit = 0
+	HZ =  5
+0 = STAR M3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	NO Orbits
+1 = World  (Inferno)	Y2B0000-0
+	  Ring @ Orbit ?World  (Hospitable)	F200595-4
+2 = LGG (60,000 mi dia.)	S=24
+	  Worldlet	  	Y051521-7 @ Orbit F
+	  BigWorld	  	H267676-7 @ Orbit G
+	  InnerWorld	  	Y250000-0 @ Orbit I
+	  BigWorld	  	G257746-7 @ Orbit U
+	  StormWorld	  	Y200000-0 @ Orbit W
+3 = World  (BigWorld)	F236422-7
+	  Ring @ Orbit ?
+4 = Planetoid belt	F000744-7
+5 = Mainworld	Abalakova	C5658CD-8	(Temperate)
+6 = Planetoid belt	H000335-6
+7 = World  (Inferno)	Y2B0000-0
+8 = LGG (70,000 mi dia.)	S=25
+	  StormWorld	  	Y250000-0 @ Orbit D
+	  StormWorld	  	H2441AB-7 @ Orbit E
+	  StormWorld	  	Y20219B-7 @ Orbit I
+	  IceWorld	  	Y20079B-7 @ Orbit WWorld  (Hospitable)	G222564-Q
+	  StormWorld	  	H200232-4 @ Orbit S
+	  BigWorld	  	H295101-7 @ Orbit V
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 11
+W = 10
+syscount = 2
+min = 0
+count = 9

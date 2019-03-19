@@ -1,0 +1,39 @@
+C423320-B
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+
+Atmosphere = 2
+	DIGIT	DESCRIPTION	EFFECTS
+	2	VThin, Tainted	P1, S2
+
+Hydrosphere = 3
+	DIGIT	DESCRIPTION
+	3	30%
+
+Population = 3
+	POPULATION UNDER 1,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+
+Government = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Participating Democracy	Rule by popular vote
+
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+
+Tech Level = B
+	DIGIT		
+	B		
+

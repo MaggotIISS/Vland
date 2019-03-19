@@ -1,0 +1,14 @@
+Hex = 1337
+Name = Borealis
+UWP = C5116BD-9
+Remarks = Ic Na Ni Da
+{Ix} = { -1 }
+(Ex) = (C53+3)
+[Cx] = [A59D]
+N = B
+B = -
+Z = A
+PBG = 504
+W = 11
+A = ImDv
+Stellar = F5 V M5 V

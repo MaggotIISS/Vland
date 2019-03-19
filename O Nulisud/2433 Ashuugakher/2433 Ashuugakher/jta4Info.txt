@@ -1,0 +1,77 @@
+Hex = 2433
+Name = Ashuugakher
+UWP = C310899-8
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 3
+	DIGIT	DIA(MI)	DIA(KM)
+	3	3,000	4,800
+Atmosphere = 1
+	DIGIT	DESCRIPTION	EFFECTS
+	1	Trace	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 8
+	POPULATION UNDER 600,000,000
+	DIGIT	DESCRIPTION	VALUE
+	8	Hundred million	00,000,000
+Government = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	Impersonal Bureaucracy	Impersonal agencies rule
+Law Level = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	High Law	Weapons outside the home prohibited
+Tech Level = 8
+	DIGIT		
+	8		
+Remarks = Na Ph Pi
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Ph				8			Pre High	
+	Pi		012479		78			Pre Industrial	
+{Ix} = { -1 }
+	Importance = Unimportant (0)+-1=-1
+(Ex) = (C77+1)
+	Resources =  12
+	Labour =  7
+	Infrastructure =  7
+	Efficiency =  1
+	RU = 588
+[Cx] = [9769]
+	Homogeneity = 9
+	Acceptance = 7
+	Strangeness = 6
+	Symbols = 9
+N = BDe
+	CODE	RANK	TC
+	B	Knight	any
+	D	Marquis	Pi
+	e	Viscount	Ph
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 620
+	Population Multiplier = 6
+	POPULATION UNDER 600,000,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 8
+	Non Stars In System = 8
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 5 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G6 V
+	Stars = 1

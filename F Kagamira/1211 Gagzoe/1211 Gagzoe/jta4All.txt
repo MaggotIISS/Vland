@@ -1,0 +1,70 @@
+Primary = M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Gagzoe	A585420-C	(Temperate)
+	  Inferno	  	Y2B0000-0 @ Orbit QLGG (220,000 mi dia.)	S=3D
+	  Hospitable	  	G240385-4 @ Orbit G
+	  Inferno	  	Y4B0000-0 @ Orbit H
+	  Worldlet	  	F000364-8 @ Orbit XWorld  (RadWorld)	Y355000-J
+	  Worldlet	  	H075301-6 @ Orbit U
+	  BigWorld	  	HD9A39C-A @ Orbit V
+	  RadWorld	  	Y89A000-0 @ Orbit Y
+1 = 
+2 = LGG (220,000 mi dia.)	S=30
+	  BigWorld	  	HB51300-2 @ Orbit Q
+3 = 
+4 = 
+5 = World  (Inferno)	YBB0000-0
+6 = World  (StormWorld)	YA00000-0
+7 = World  (Hospitable)	Y7A6000-0
+8 = World  (RadWorld)	Y735000-0
+	  Worldlet	  	Y355344-9 @ Orbit D
+9 = 
+10 = 
+11 = 
+12 = 
+13 = World  (Hospitable)	H270355-5
+	  StormWorld	  	Y972000-0 @ Orbit E
+	  Worldlet	  	H230225-6 @ Orbit G
+	  RadWorld	  	Y76A000-0 @ Orbit L
+14 = STAR M3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  11
+	HZ =  -1
+	14-0 = 
+	14-1 = 
+	14-2 = 
+	14-3 = 
+	14-4 = 
+	14-5 = 
+	14-6 = 
+	14-7 = 
+	14-8 = 
+	14-9 = 
+	14-10 = 
+	14-11 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 12
+W = 9
+syscount = 2
+min = 0
+count = 8

@@ -1,0 +1,43 @@
+Primary = K1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (StormWorld)	YC00000-0
+1 = World  (Hospitable)	H887478-6
+	  Inferno	  	Y9B0000-0 @ Orbit F
+2 = Mainworld	Kamar Kurker	E554524-7	(Temperate)
+	Orbits LGG (90,000 mi dia.)	S=27 @ orbit R
+	  Ring @ Orbit ?
+3 = Planetoid belt	F000336-6
+4 = 
+5 = 
+6 = 
+7 = 
+8 = World  (Worldlet)	H034468-6
+	  Ring @ Orbit ?
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = World  (BigWorld)	YI9548D-6
+	  StormWorld	  	Y620000-0 @ Orbit G
+	  RadWorld	  	YA70000-0 @ Orbit T
+	  OuterWorld	  	YAB6377-4 @ Orbit V
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 14
+W = 6
+syscount = 1
+min = 0
+count = 6

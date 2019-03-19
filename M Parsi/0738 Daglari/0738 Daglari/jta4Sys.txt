@@ -1,0 +1,14 @@
+Hex = 0738
+Name = Daglari
+UWP = C310688-A
+Remarks = Na Ni
+{Ix} = { 0 }
+(Ex) = (B54+1)
+[Cx] = [665A]
+N = B
+B = -
+Z = -
+PBG = 121
+W = 14
+A = ImDv
+Stellar = M3 V

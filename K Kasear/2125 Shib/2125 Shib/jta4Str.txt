@@ -1,0 +1,23 @@
+SDB Squadrons = X
+Starship Squadrons = X
+Defence CF = 1
+	DEFENCE
+	  Defend Starport
+	  Defend vs Invaders
+	  Go Hidden
+	TL/POP
+	====================
+	TL/Pop	6	7	8	9	A	
+	6	1	2	20	200	2000	
+	7	1	5	50	500	5000	
+	8	1	5	50	500	5000	
+	9	1	10	100	1000	10000	
+	A	1	10	100	1000	10000	
+	B	2	12	120	1200	12000	
+	C	2	12	120	1200	12000	
+	D	2	15	150	1500	15000	
+	E	2	15	150	1500	15000	
+	F	2	20	200	2000	20000	
+Troop CF = X
+Refuelling options
+	REFUELLING

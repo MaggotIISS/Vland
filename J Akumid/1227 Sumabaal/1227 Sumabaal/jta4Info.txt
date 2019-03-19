@@ -1,0 +1,76 @@
+Hex = 1227
+Name = Sumabaal
+UWP = C432436-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 3
+	DIGIT	DESCRIPTION	EFFECTS
+	3	VThin	S2
+Hydrosphere = 2
+	DIGIT	DESCRIPTION
+	2	20%
+Population = 4
+	POPULATION UNDER 50,000
+	DIGIT	DESCRIPTION	VALUE
+	4	Ten thousand	0,000
+Government = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Self-Perpetuating Oligarchy	Rule by a restricted minority with little or no input from the masses
+Law Level = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Moderate Law	Pohibition of Machineguns
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = Ni Po
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+	Po		2345	0123				Poor	
+{Ix} = { -1 }
+	Pop < 7 = -1
+	Importance = Unimportant (-1)+0=-1
+(Ex) = (732-2)
+	Resources =  7
+	Labour =  3
+	Infrastructure =  2
+	Efficiency =  -2
+	RU = -84
+[Cx] = [3348]
+	Homogeneity = 3
+	Acceptance = 3
+	Strangeness = 4
+	Symbols = 8
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 501
+	Population Multiplier = 5
+	POPULATION UNDER 50,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 11
+	Non Stars In System = 11
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 9 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M0 V M3 V
+	Stars = 2

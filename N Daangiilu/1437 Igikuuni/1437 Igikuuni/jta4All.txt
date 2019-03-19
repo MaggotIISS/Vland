@@ -1,0 +1,40 @@
+Primary = G0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  4
+0 = World  (StormWorld)	G41018A-6World  (Inferno)	Y4B0000-0World  (StormWorld)	F400196-9
+1 = World  (RadWorld)	Y4A3000-0
+	  InnerWorld	  	Y000131-8 @ Orbit U
+2 = World  (Hospitable)	H410456-3
+3 = World  (Inferno)	Y4B0000-0
+4 = Mainworld	Igikuuni	A797799-C	(Temperate)
+5 = World  (StormWorld)	F40026A-6
+6 = LGG (90,000 mi dia.)	S=27
+	  Ring @ Orbit ?
+7 = SGG (30,000 mi dia.)	S=21
+	  Ring @ Orbit ?
+8 = Planetoid belt	F000513-3
+9 = Planetoid belt	F000114-9
+10 = World  (RadWorld)	Y476000-0
+	  Worldlet	  	H024610-7 @ Orbit J
+11 = 
+12 = World  (BigWorld)	F436675-8
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 8
+W = 14
+syscount = 1
+min = 0
+count = 12

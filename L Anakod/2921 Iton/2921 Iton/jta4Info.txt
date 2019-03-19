@@ -1,0 +1,76 @@
+Hex = 2921
+Name = Iton
+UWP = CAA7565-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = A
+	DIGIT	DIA(MI)	DIA(KM)
+	A	10,000	16,000
+Atmosphere = A
+	DIGIT	DESCRIPTION	EFFECTS
+	A	Exotic	P1
+Hydrosphere = 7
+	DIGIT	DESCRIPTION
+	7	70%
+Population = 5
+	POPULATION UNDER 900,000
+	DIGIT	DESCRIPTION	VALUE
+	5	Hundred thousand	00,000
+Government = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Captive Government/Colony	Rule by a leadership answerable to an outside group
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = Fl Ni O:3021
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Fl		ABC	123456789A				Fluid	
+	Ni				456			Non Industrial	
+	Ruled by 3021 Talama
+{Ix} = { -1 }
+	Pop < 7 = -1
+	Importance = Unimportant (-1)+0=-1
+(Ex) = (843-3)
+	Resources =  8
+	Labour =  4
+	Infrastructure =  3
+	Efficiency =  -3
+	RU = -288
+[Cx] = [3437]
+	Homogeneity = 3
+	Acceptance = 4
+	Strangeness = 3
+	Symbols = 7
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 901
+	Population Multiplier = 9
+	POPULATION UNDER 900,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 8 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V
+	Stars = 1

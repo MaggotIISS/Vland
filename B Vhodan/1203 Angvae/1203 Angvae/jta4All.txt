@@ -1,0 +1,64 @@
+Primary = F3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	F	Yellow-White	6,000-7,500
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 3
+	d1000Limit = 7
+	Min Orbit = 0
+	HZ =  5
+0 = World  (Worldlet)	F0002A6-8
+1 = World  (StormWorld)	Y126000-0
+	  Ring @ Orbit ?
+2 = Planetoid belt	F000267-8World  (Inferno)	Y1B0000-0
+3 = LGG (80,000 mi dia.)	S=26
+	  Inferno	  	Y1B0000-0 @ Orbit I
+4 = Mainworld	Angvae	C422377-9	(Hot)World  (Hospitable)	F166233-8
+5 = LGG (80,000 mi dia.)	S=26
+	  Inferno	  	Y1B0000-0 @ Orbit K
+	  StormWorld	  	Y111000-0 @ Orbit L
+	  RadWorld	  	Y135000-0 @ Orbit T
+6 = LGG (50,000 mi dia.)	S=23
+	  Ring @ Orbit ?
+7 = SGG (40,000 mi dia.)	S=22
+	  OuterWorld	  	G169256-8 @ Orbit G
+	  BigWorld	  	G110235-8 @ Orbit T
+8 = STAR K0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  5
+	HZ =  -1
+	8-0 = 
+	8-1 = 
+	8-2 = 
+	8-3 = 
+	8-4 = 
+	8-5 = 
+9 = Planetoid belt	Y000263-8World  (StormWorld)	Y100000-0
+	  StormWorld	  	Y101000-0 @ Orbit B
+	  Worldlet	  	H06A273-7 @ Orbit D
+	  Worldlet	  	F0102AA-7 @ Orbit E
+10 = Planetoid belt	F000276-4World  (Worldlet)	F153265-7
+	  Ring @ Orbit ?
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 9
+W = 14
+syscount = 2
+min = 0
+count = 11

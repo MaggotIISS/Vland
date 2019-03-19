@@ -1,0 +1,14 @@
+Hex = 1332
+Name = Nii Khu
+UWP = A55497B-C
+Remarks = Hi
+{Ix} = { 3 }
+(Ex) = (C8E+5)
+[Cx] = [BC7E]
+N = BE
+B = N
+Z = -
+PBG = 501
+W = 13
+A = ImDv
+Stellar = K0 V M3 V

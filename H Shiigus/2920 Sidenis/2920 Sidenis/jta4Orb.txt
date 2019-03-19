@@ -1,0 +1,68 @@
+Primary = K8 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (Inferno)	Y0B0000-0World  (Hospitable)	G033599-7World  (Inferno)	Y0B0000-0
+1 = Mainworld	Sidenis	D31067B-8	(Hot)World  (BigWorld)	H06A320-4
+2 = World  (Worldlet)	F07A435-6
+	  Inferno	  	Y0B0000-0 @ Orbit G
+	  Worldlet	  	Y075554-5 @ Orbit CWorld  (Inferno)	Y0B0000-V
+3 = World  (Inferno)	Y0B0000-0
+	  RadWorld	  	Y021000-0 @ Orbit T
+	  StormWorld	  	Y000165-4 @ Orbit W
+4 = Planetoid belt	F00059B-7World  (RadWorld)	Y0A6000-0
+5 = Planetoid belt	H000100-7World  (Worldlet)	Y064000-0
+	  RadWorld	  	Y020000-0 @ Orbit G
+	  Worldlet	  	G00059C-6 @ Orbit X
+6 = World  (Inferno)	Y0B0000-0
+	  Worldlet	  	F09A583-3 @ Orbit I
+	  Worldlet	  	Y077455-7 @ Orbit S
+	  StormWorld	  	Y000000-0 @ Orbit V
+7 = World  (Inferno)	Y0B0000-0
+	  IceWorld	  	H040100-7 @ Orbit D
+	  StormWorld	  	Y0361DA-6 @ Orbit H
+	  RadWorld	  	Y036000-0 @ Orbit Q
+8 = 
+9 = STAR M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  6
+	HZ =  -1
+	9-0 = 
+	9-1 = 
+	9-2 = 
+	9-3 = 
+	9-4 = 
+	9-5 = 
+	9-6 = 
+10 = World  (BigWorld)	F044594-7
+	  IceWorld	  	Y074544-7 @ Orbit I
+	  StormWorld	  	H062142-7 @ Orbit P
+11 = 
+12 = 
+13 = World  (StormWorld)	Y033000-0
+	  Ring @ Orbit ?
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 9
+W = 16
+syscount = 2
+min = 0
+count = 11

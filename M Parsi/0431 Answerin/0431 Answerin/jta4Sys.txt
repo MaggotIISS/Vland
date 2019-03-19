@@ -1,0 +1,14 @@
+Hex = 0431
+Name = Answerin
+UWP = B584A85-E
+Remarks = Hi (Answerin)
+{Ix} = { 3 }
+(Ex) = (E9F+1)
+[Cx] = [8D3C]
+N = BE
+B = N
+Z = -
+PBG = 420
+W = 10
+A = ImDv
+Stellar = F7 V G0 V

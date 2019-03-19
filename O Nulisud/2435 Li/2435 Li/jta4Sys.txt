@@ -1,0 +1,14 @@
+Hex = 2435
+Name = Li
+UWP = E423856-7
+Remarks = Na Po Ph Pi
+{Ix} = { -2 }
+(Ex) = (A76-3)
+[Cx] = [7646]
+N = BDe
+B = -
+Z = -
+PBG = 120
+W = 9
+A = ImDv
+Stellar = M1 V

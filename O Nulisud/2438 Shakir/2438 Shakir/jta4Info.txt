@@ -1,0 +1,76 @@
+Hex = 2438
+Name = Shakir
+UWP = A626201-F
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 6
+	DIGIT	DIA(MI)	DIA(KM)
+	6	6,000	9,600
+Atmosphere = 2
+	DIGIT	DESCRIPTION	EFFECTS
+	2	VThin, Tainted	P1, S2
+Hydrosphere = 6
+	DIGIT	DESCRIPTION
+	6	60%
+Population = 2
+	POPULATION UNDER 700
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+Government = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Government Structure	Family bonds predominate
+Law Level = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Low Law	Prohibition of WMD, Psi weapons
+Tech Level = F
+	DIGIT		
+	F		
+Remarks = Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+{Ix} = { 1 }
+	Starport A = +1
+	TL 15 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (911-3)
+	Resources =  9
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -3
+	RU = -27
+[Cx] = [131B]
+	Homogeneity = 1
+	Acceptance = 3
+	Strangeness = 1
+	Symbols = 11
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 723
+	Population Multiplier = 7
+	POPULATION UNDER 700
+	Planetoid Belts = 2
+	Gas Giants = 3
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-3 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K6 V
+	Stars = 1

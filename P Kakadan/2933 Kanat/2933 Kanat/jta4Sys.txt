@@ -1,0 +1,14 @@
+Hex = 2933
+Name = Kanat
+UWP = B567359-B
+Remarks = Lo
+{Ix} = { 1 }
+(Ex) = (921+2)
+[Cx] = [446C]
+N = B
+B = -
+Z = -
+PBG = 513
+W = 13
+A = ImDv
+Stellar = M2 V

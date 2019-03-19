@@ -1,0 +1,14 @@
+Hex = 1435
+Name = Dakeshir
+UWP = C401400-C
+Remarks = Ic Ni Va
+{Ix} = { 0 }
+(Ex) = (833-4)
+[Cx] = [1417]
+N = B
+B = -
+Z = -
+PBG = 102
+W = 14
+A = ImDv
+Stellar = M1 V

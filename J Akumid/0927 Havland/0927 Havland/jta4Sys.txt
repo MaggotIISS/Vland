@@ -1,0 +1,14 @@
+Hex = 0927
+Name = Havland
+UWP = C7939CD-A
+Remarks = Hi In Pz
+{Ix} = { 3 }
+(Ex) = (C8D+5)
+[Cx] = [DC9E]
+N = BE
+B = -
+Z = A
+PBG = 301
+W = 8
+A = ImDv
+Stellar = M2 V M0 V

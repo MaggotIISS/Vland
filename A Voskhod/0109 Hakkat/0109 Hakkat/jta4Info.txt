@@ -1,0 +1,78 @@
+Hex = 0109
+Name = Hakkat
+UWP = C658887-6
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 6
+	DIGIT	DIA(MI)	DIA(KM)
+	6	6,000	9,600
+Atmosphere = 5
+	DIGIT	DESCRIPTION	EFFECTS
+	5	This	S1
+Hydrosphere = 8
+	DIGIT	DESCRIPTION
+	8	80%
+Population = 8
+	POPULATION UNDER 800,000,000
+	DIGIT	DESCRIPTION	VALUE
+	8	Hundred million	00,000,000
+Government = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit
+Law Level = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Moderate Law	Prohibition of Pistols
+Tech Level = 6
+	DIGIT		
+	6		
+Remarks = Pa Ph
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Pa		456789	45678	48			Pre Agricultural	
+	Ph				8			Pre High	
+{Ix} = { -1 }
+	TL 6 = -1
+	Importance = Unimportant (-1)+0=-1
+(Ex) = (A76-1)
+	Resources =  10
+	Labour =  7
+	Infrastructure =  6
+	Efficiency =  -1
+	RU = -420
+[Cx] = [8756]
+	Homogeneity = 8
+	Acceptance = 7
+	Strangeness = 5
+	Symbols = 6
+N = Bce
+	CODE	RANK	TC
+	B	Knight	any
+	c	Baronet	Pa Pr
+	e	Viscount	Ph
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 823
+	Population Multiplier = 8
+	POPULATION UNDER 800,000,000
+	Planetoid Belts = 2
+	Gas Giants = 3
+W = 13
+	Non Stars In System = 13
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-3 (gas giants)
+	 = 7 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G1 V
+	Stars = 1

@@ -1,0 +1,192 @@
+
+1732 Nikham   
+	(Knight) ISunLuAg
+
+
+1734 Miku     
+	(Knight) UsKheshShaDumLanMu
+
+
+1735 Zhinutar 
+	(Knight) KurGushKiIg
+
+
+1736 Ake      
+	(Knight) Ig
+
+
+1740 Glanidarn
+	(Knight) GiiKiGimNurKhigKak
+	(Count) GuNishKha
+
+
+1831 Mekhe    
+	(Knight) KeIidDi
+	(Baron) AnManLiiSiUkhMaa
+
+
+1833 Shadi    
+	(Knight) IkKid
+	(Baronet) DarDamKharLir
+
+
+1839 Kordanor 
+	(Knight) UmMunDuKeIKik
+	(Baron) UsKamMirKeGiAn
+	(Marquis) IimNaKha
+
+
+1931 Shorlon  
+	(Knight) UgDaIzNuuMaEd
+
+
+1932 Sharan   
+	(Knight) IlDaDigZipGimNa
+
+
+1933 Kaskar   
+	(Knight) MurMen
+
+
+1936 Ekhin    
+	(Knight) GaUlGuukMi
+
+
+1937 Nulisud  
+	(Knight) NiIis
+
+
+2032 Vuldaan  
+	(Knight) IdBishMarGu
+	(Marquis) NirKuupGusLuuAsShim
+
+
+2035 Hykluitt 
+	(Knight) GiIkLar
+	(Count) AasShiisRarLiUlGii
+	(Duke) UumKaNa
+
+
+2036 Diinagar 
+	(Knight) UkSharPi
+
+
+2039 Miizam   
+	(Knight) EkhLiE
+
+
+2132 Imshiig  
+	(Knight) AgKhaKamDuMe
+	(Baron) Ak
+
+
+2133 Iddun    
+	(Knight) IikLirGa
+
+
+2134 Zemal    
+	(Knight) IrKuNuuIsKar
+
+
+2137 Shaka    
+	(Knight) UukMi
+
+
+2138 Istuary  
+	(Knight) Nak
+	(Count) NeAkKhiiAshKhirMu
+
+
+2139 Zolo     
+	(Knight) Khur
+
+
+2232 Gikarlum 
+	(Knight) UlMuShi
+
+
+2233 Segikin  
+	(Knight) AkhSaIikGiUg
+	(Count) GaDiigGikKadKu
+
+
+2235 Rishin   
+	(Knight) KiSiEmDuumDi
+
+
+2236 Gaarid   
+	(Knight) Ash
+	(Marquis) AkKiMadNaMuKar
+
+
+2238 Khugan   
+	(Knight) IkKarPumDegZa
+	(Baronet) UGaZuuGa
+
+
+2240 Bakor    
+	(Knight) EnGarKhuUudGa
+	(Baronet) AShi
+	(Marquis) AakKhiIAs
+	(Viscount) UlGanGanDimGiip
+
+
+2331 Aaluggidi
+	(Knight) EnPuIilGuIg
+
+
+2332 Zaakkusha
+	(Knight) KiiIAl
+	(Baronet) KharKhiin
+
+
+2335 Miiliinlu
+	(Knight) GaAkhLarGi
+
+
+2336 Kunni    
+	(Knight) Di
+	(Baronet) AgShuIikKimShuA
+	(Baron) KhuuAkhZuIkDii
+
+
+2337 Idi      
+	(Knight) U
+
+
+2340 Orguk    
+	(Knight) AshKurMii
+	(Baron) IiKan
+
+
+2431 Dusekhip 
+	(Knight) UmGaaI
+	(Count) KhuKuuAgKhurMi
+
+
+2432 Korm     
+	(Knight) IkKiKiiAshMiA
+	(Baronet) Shi
+	(Baron) AshGaaUkh
+	(Viscount) IkShidGem
+
+
+2433 Ashuugakh
+	(Knight) ShiAkh
+	(Marquis) ShuKhiDuIgKe
+	(Viscount) AdMunKigRuAsKid
+
+
+2435 Li       
+	(Knight) AgGaGarSheAk
+	(Marquis) AMiShiDinNim
+	(Viscount) A
+
+
+2438 Shakir   
+	(Knight) IikNim
+
+
+2440 Shuurdiik
+	(Knight) UuAmNeUKu
+

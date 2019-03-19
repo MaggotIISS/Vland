@@ -1,0 +1,14 @@
+Hex = 3107
+Name = Theton
+UWP = BABA653-C
+Remarks = Fl Ni Cp
+{Ix} = { 1 }
+(Ex) = (955-2)
+[Cx] = [3729]
+N = B
+B = N
+Z = -
+PBG = 510
+W = 4
+A = ImDv
+Stellar = M0 V K1 V

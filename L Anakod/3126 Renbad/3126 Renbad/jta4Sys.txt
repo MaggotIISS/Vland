@@ -1,0 +1,14 @@
+Hex = 3126
+Name = Renbad
+UWP = C568554-8
+Remarks = Ag Ni Pr
+{Ix} = { -1 }
+(Ex) = (843-3)
+[Cx] = [3436]
+N = BcC
+B = -
+Z = -
+PBG = 410
+W = 13
+A = ImDv
+Stellar = K9 V

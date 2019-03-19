@@ -1,0 +1,14 @@
+Hex = 1820
+Name = Kha
+UWP = A86A642-D
+Remarks = Ni Ri Wa
+{Ix} = { 2 }
+(Ex) = (E56-2)
+[Cx] = [2819]
+N = BC
+B = -
+Z = -
+PBG = 824
+W = 11
+A = ImDv
+Stellar = K6 V

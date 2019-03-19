@@ -1,0 +1,14 @@
+Hex = 1317
+Name = Anik
+UWP = C541569-9
+Remarks = He Ni Po O:1519
+{Ix} = { -1 }
+(Ex) = (943+1)
+[Cx] = [646A]
+N = B
+B = -
+Z = -
+PBG = 211
+W = 13
+A = ImDv
+Stellar = M1 V

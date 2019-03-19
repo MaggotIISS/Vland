@@ -1,0 +1,78 @@
+Primary = M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Ashbakha	A672500-B	(Temperate)
+	  Worldlet	  	F0C6301-3 @ Orbit XLGG (70,000 mi dia.)	S=2D
+	  StormWorld	  	Y536000-0 @ Orbit E
+	  BigWorld	  	YB00000-0 @ Orbit HWorld  (BigWorld)	FE00468-H
+	  Hospitable	  	H8A4441-8 @ Orbit J
+	  Inferno	  	Y3B0000-0 @ Orbit K
+	  Hospitable	  	G784435-7 @ Orbit O
+	  Hospitable	  	Y56A4CD-3 @ Orbit Q
+	  Worldlet	  	G123400-2 @ Orbit PWorld  (Worldlet)	Y2454A9-R
+	  StormWorld	  	Y672000-0 @ Orbit VWorld  (BigWorld)	YDA6200-S
+	  Ring @ Orbit ?World  (StormWorld)	Y700000-T
+	  StormWorld	  	Y500000-0 @ Orbit U
+	  Hospitable	  	H668100-8 @ Orbit V
+1 = World  (Inferno)	Y3B0000-0
+	  StormWorld	  	Y940000-0 @ Orbit O
+	  Inferno	  	YBB0000-0 @ Orbit SWorld  (RadWorld)	YC66000-0World  (StormWorld)	Y600000-X
+2 = World  (RadWorld)	Y859000-0
+	  Ring @ Orbit ?
+3 = 
+4 = World  (Inferno)	Y5B0000-0
+	  Worldlet	  	H021312-A @ Orbit R
+5 = World  (Hospitable)	H4454AE-7
+	  OuterWorld	  	H13049A-2 @ Orbit I
+	  Worldlet	  	Y241376-A @ Orbit K
+6 = World  (RadWorld)	Y87A000-0
+7 = 
+8 = 
+9 = 
+10 = 
+11 = World  (Inferno)	YAB0000-0
+	  IceWorld	  	F330411-6 @ Orbit S
+12 = 
+13 = 
+14 = 
+15 = STAR K9 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  12
+	HZ =  -1
+	15-0 = 
+	15-1 = 
+	15-2 = 
+	15-3 = 
+	15-4 = 
+	15-5 = 
+	15-6 = 
+	15-7 = 
+	15-8 = 
+	15-9 = 
+	15-10 = 
+	15-11 = 
+	15-12 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 12
+W = 14
+syscount = 2
+min = 0
+count = 8

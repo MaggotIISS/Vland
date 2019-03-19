@@ -1,0 +1,14 @@
+Hex = 2534
+Name = Zerapii
+UWP = C411774-A
+Remarks = Ic Na Pi
+{Ix} = { 1 }
+(Ex) = (D6A-1)
+[Cx] = [5838]
+N = BD
+B = S
+Z = -
+PBG = 822
+W = 12
+A = ImDv
+Stellar = M1 V

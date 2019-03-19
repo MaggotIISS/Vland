@@ -1,0 +1,14 @@
+Hex = 2502
+Name = Rhodes
+UWP = B413534-C
+Remarks = Ic Ni
+{Ix} = { 1 }
+(Ex) = (945-1)
+[Cx] = [363A]
+N = -
+B = N
+Z = -
+PBG = 902
+W = 10
+A = CsIm
+Stellar = F0 III M5 V

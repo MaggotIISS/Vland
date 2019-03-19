@@ -1,0 +1,14 @@
+Hex = 1140
+Name = Hiroshi
+UWP = C675766-6
+Remarks = Ag Pi O:1139
+{Ix} = { 0 }
+(Ex) = (967-1)
+[Cx] = [6745]
+N = BCD
+B = -
+Z = -
+PBG = 201
+W = 10
+A = ImDv
+Stellar = K5 V M3 V

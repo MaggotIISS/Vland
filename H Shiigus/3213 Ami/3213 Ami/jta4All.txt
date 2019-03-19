@@ -1,0 +1,72 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Ami	E567500-8	(Hot)
+	  Ring @ Orbit ?LGG (180,000 mi dia.)	S=2D
+	  Worldlet	  	Y000144-7 @ Orbit CWorld  (Hospitable)	H767454-E
+	  RadWorld	  	Y800000-0 @ Orbit K
+	  RadWorld	  	YA35000-0 @ Orbit R
+	  StormWorld	  	Y542000-0 @ Orbit S
+	  Worldlet	  	H310400-6 @ Orbit T
+	  Inferno	  	Y7B0000-0 @ Orbit X
+1 = World  (RadWorld)	Y499000-0World  (Hospitable)	F400357-7
+2 = World  (Worldlet)	Y062110-7
+	  OuterWorld	  	F400452-7 @ Orbit D
+	  Worldlet	  	Y069000-0 @ Orbit L
+	  IceWorld	  	Y431122-7 @ Orbit W
+3 = World  (Hospitable)	HAB3434-5
+4 = World  (Worldlet)	Y074412-7
+	  IceWorld	  	Y200488-4 @ Orbit Q
+5 = LGG (50,000 mi dia.)	S=23
+	  StormWorld	  	Y211000-0 @ Orbit VWorld  (StormWorld)	Y900000-D
+	  BigWorld	  	FF24314-7 @ Orbit G
+	  RadWorld	  	Y764000-0 @ Orbit R
+6 = STAR M3 VWorld  (BigWorld)	YG37000-0
+	  StormWorld	  	YA00000-0 @ Orbit T
+	  IceWorld	  	Y994320-7 @ Orbit X
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  3
+	HZ =  -1
+	6-0 = 
+	6-1 = 
+	6-2 = 
+	6-3 = 
+7 = World  (Hospitable)	F300300-7World  (Hospitable)	Y542431-7
+	  IceWorld	  	Y300000-0 @ Orbit O
+	  OuterWorld	  	H754201-7 @ Orbit S
+8 = World  (Worldlet)	Y133445-7
+	  Worldlet	  	G08A310-7 @ Orbit H
+	  StormWorld	  	Y420000-0 @ Orbit T
+	  RadWorld	  	Y300000-0 @ Orbit W
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = World  (BigWorld)	FH00263-3
+	  Ring @ Orbit ?
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 10
+W = 15
+syscount = 2
+min = 0
+count = 10

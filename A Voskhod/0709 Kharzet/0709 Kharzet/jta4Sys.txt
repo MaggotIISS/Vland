@@ -1,0 +1,14 @@
+Hex = 0709
+Name = Kharzet
+UWP = A565597-D
+Remarks = Ag Ni Pr
+{Ix} = { 2 }
+(Ex) = (846+2)
+[Cx] = [575D]
+N = BcC
+B = -
+Z = -
+PBG = 601
+W = 17
+A = ImDv
+Stellar = M0 V G3 V

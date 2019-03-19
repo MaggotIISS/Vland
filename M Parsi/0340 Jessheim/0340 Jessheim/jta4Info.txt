@@ -1,0 +1,79 @@
+Hex = 0340
+Name = Jessheim
+UWP = AAC5233-E
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = A
+	DIGIT	DIA(MI)	DIA(KM)
+	A	10,000	16,000
+Atmosphere = C
+	DIGIT	DESCRIPTION	EFFECTS
+	C	Insidious	C2 P1
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+Population = 2
+	POPULATION UNDER 400
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+Government = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Self-Perpetuating Oligarchy	Rule by a restricted minority with little or no input from the masses
+Law Level = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Low Law	Prohibition of Acid, Fire, Gas weapons
+Tech Level = E
+	DIGIT		
+	E		
+Remarks = Fl Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Fl		ABC	123456789A				Fluid	
+	Lo				123			Low Population	
+{Ix} = { 2 }
+	Starport A = +1
+	TL 14 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+1=2
+(Ex) = (B11-1)
+	Resources =  11
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -1
+	RU = -11
+[Cx] = [142B]
+	Homogeneity = 1
+	Acceptance = 4
+	Strangeness = 2
+	Symbols = 11
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = NS
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 425
+	Population Multiplier = 4
+	POPULATION UNDER 400
+	Planetoid Belts = 2
+	Gas Giants = 5
+W = 11
+	Non Stars In System = 11
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-5 (gas giants)
+	 = 3 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 V
+	Stars = 1

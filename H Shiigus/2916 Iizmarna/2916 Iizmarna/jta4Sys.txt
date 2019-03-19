@@ -1,0 +1,14 @@
+Hex = 2916
+Name = Iizmarna
+UWP = B427421-B
+Remarks = Ni
+{Ix} = { 1 }
+(Ex) = (834-3)
+[Cx] = [1517]
+N = B
+B = S
+Z = -
+PBG = 820
+W = 12
+A = ImDv
+Stellar = M3 V

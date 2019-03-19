@@ -1,0 +1,14 @@
+Hex = 2222
+Name = Markassar
+UWP = E7788CA-5
+Remarks = Pa Ph Pi Pz
+{Ix} = { -2 }
+(Ex) = (A75+1)
+[Cx] = [A677]
+N = BcDe
+B = -
+Z = A
+PBG = 923
+W = 12
+A = ImDv
+Stellar = G2 V G4 V

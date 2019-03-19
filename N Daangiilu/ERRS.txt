@@ -1,0 +1,86 @@
+0933 Arluk
+0934 Imdakhun
+0938 Rhyolite
+0939 Gashumu
+1032 Umaanshar
+1033 Komirex
+1038 Isle
+1131 Neegak
+1134 Jupset
+1135 Abalakova
+1136 Daangiilu
+1137 Usaamkirkhiir
+1139 Uureg
+1140 Hiroshi
+1232 Lekziika
+1235 Themistocles
+1236 Fymur
+1237 Kanumshikaa
+1238 Iplukaddesh
+1240 Nelson
+1332 Nii Khu
+1334 Lukham
+1336 Pygmy
+1337 Borealis
+1339 Darm
+1340 Anishda
+1431 Daalurge
+1432 Agagir
+1435 Dakeshir
+1437 Igikuuni
+1438 Zaal
+1531 Kolrado
+1533 Samotk
+1534 Senkon
+1535 Malapaan
+1536 Pamiimkhi
+1539 Zarurza
+1540 Limed
+1632 Imdur
+1633 Darkishar
+1634 Isuugi
+1637 Preserve
+1638 Twana
+C:\T5\Vland\N Daangiilu\0933 Arluk\0933 Arluk
+C:\T5\Vland\N Daangiilu\0934 Imdakhun\0934 Imdakhun
+C:\T5\Vland\N Daangiilu\0938 Rhyolite\0938 Rhyolite
+C:\T5\Vland\N Daangiilu\0939 Gashumu\0939 Gashumu
+C:\T5\Vland\N Daangiilu\1032 Umaanshar\1032 Umaanshar
+C:\T5\Vland\N Daangiilu\1033 Komirex\1033 Komirex
+C:\T5\Vland\N Daangiilu\1038 Isle\1038 Isle
+C:\T5\Vland\N Daangiilu\1131 Neegak\1131 Neegak
+C:\T5\Vland\N Daangiilu\1134 Jupset\1134 Jupset
+C:\T5\Vland\N Daangiilu\1135 Abalakova\1135 Abalakova
+C:\T5\Vland\N Daangiilu\1136 Daangiilu\1136 Daangiilu
+C:\T5\Vland\N Daangiilu\1137 Usaamkirkhiir\1137 Usaamkirkhiir
+C:\T5\Vland\N Daangiilu\1139 Uureg\1139 Uureg
+C:\T5\Vland\N Daangiilu\1140 Hiroshi\1140 Hiroshi
+C:\T5\Vland\N Daangiilu\1232 Lekziika\1232 Lekziika
+C:\T5\Vland\N Daangiilu\1235 Themistocles\1235 Themistocles
+C:\T5\Vland\N Daangiilu\1236 Fymur\1236 Fymur
+C:\T5\Vland\N Daangiilu\1237 Kanumshikaa\1237 Kanumshikaa
+C:\T5\Vland\N Daangiilu\1238 Iplukaddesh\1238 Iplukaddesh
+C:\T5\Vland\N Daangiilu\1240 Nelson\1240 Nelson
+C:\T5\Vland\N Daangiilu\1332 Nii Khu\1332 Nii Khu
+C:\T5\Vland\N Daangiilu\1334 Lukham\1334 Lukham
+C:\T5\Vland\N Daangiilu\1336 Pygmy\1336 Pygmy
+C:\T5\Vland\N Daangiilu\1337 Borealis\1337 Borealis
+C:\T5\Vland\N Daangiilu\1339 Darm\1339 Darm
+C:\T5\Vland\N Daangiilu\1340 Anishda\1340 Anishda
+C:\T5\Vland\N Daangiilu\1431 Daalurge\1431 Daalurge
+C:\T5\Vland\N Daangiilu\1432 Agagir\1432 Agagir
+C:\T5\Vland\N Daangiilu\1435 Dakeshir\1435 Dakeshir
+C:\T5\Vland\N Daangiilu\1437 Igikuuni\1437 Igikuuni
+C:\T5\Vland\N Daangiilu\1438 Zaal\1438 Zaal
+C:\T5\Vland\N Daangiilu\1531 Kolrado\1531 Kolrado
+C:\T5\Vland\N Daangiilu\1533 Samotk\1533 Samotk
+C:\T5\Vland\N Daangiilu\1534 Senkon\1534 Senkon
+C:\T5\Vland\N Daangiilu\1535 Malapaan\1535 Malapaan
+C:\T5\Vland\N Daangiilu\1536 Pamiimkhi\1536 Pamiimkhi
+C:\T5\Vland\N Daangiilu\1539 Zarurza\1539 Zarurza
+C:\T5\Vland\N Daangiilu\1540 Limed\1540 Limed
+C:\T5\Vland\N Daangiilu\1632 Imdur\1632 Imdur
+C:\T5\Vland\N Daangiilu\1633 Darkishar\1633 Darkishar
+C:\T5\Vland\N Daangiilu\1634 Isuugi\1634 Isuugi
+C:\T5\Vland\N Daangiilu\1637 Preserve\1637 Preserve
+C:\T5\Vland\N Daangiilu\1638 Twana\1638 Twana

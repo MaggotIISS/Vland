@@ -1,0 +1,14 @@
+Hex = 1319
+Name = Ganar
+UWP = E200527-8
+Remarks = Ni Va
+{Ix} = { -3 }
+(Ex) = (A41-3)
+[Cx] = [5258]
+N = B
+B = -
+Z = -
+PBG = 821
+W = 12
+A = ImDv
+Stellar = M0 V

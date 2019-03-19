@@ -1,0 +1,14 @@
+Hex = 0631
+Name = Enbart
+UWP = B201689-C
+Remarks = Ic Na Ni Va
+{Ix} = { 1 }
+(Ex) = (A55+2)
+[Cx] = [776D]
+N = B
+B = -
+Z = -
+PBG = 920
+W = 8
+A = ImDv
+Stellar = M1 V

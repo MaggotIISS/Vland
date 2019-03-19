@@ -1,0 +1,79 @@
+Hex = 0210
+Name = Khalgun
+UWP = E576734-6
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 7
+	DIGIT	DESCRIPTION	EFFECTS
+	7	Standard, Tainted	P1
+Hydrosphere = 6
+	DIGIT	DESCRIPTION
+	6	60%
+Population = 7
+	POPULATION UNDER 60,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+Government = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Self-Perpetuating Oligarchy	Rule by a restricted minority with little or no input from the masses
+Law Level = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Moderate Law	Laser, Beam weapons prohibited
+Tech Level = 6
+	DIGIT		
+	6		
+Remarks = Ag Pi
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ag		456789	45678	567			Agricultural	
+	Pi		012479		78			Pre Industrial	
+{Ix} = { -1 }
+	Starport E = -1
+	TL 6 = -1
+	Ag  = +1
+	Importance = Unimportant (-1)+0=-1
+(Ex) = (966-3)
+	Resources =  9
+	Labour =  6
+	Infrastructure =  6
+	Efficiency =  -3
+	RU = -972
+[Cx] = [5634]
+	Homogeneity = 5
+	Acceptance = 6
+	Strangeness = 3
+	Symbols = 4
+N = BCD
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+	D	Marquis	Pi
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 601
+	Population Multiplier = 6
+	POPULATION UNDER 60,000,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 10 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V
+	Stars = 1

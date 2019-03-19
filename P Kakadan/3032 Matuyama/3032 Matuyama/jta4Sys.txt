@@ -1,0 +1,14 @@
+Hex = 3032
+Name = Matuyama
+UWP = C540899-8
+Remarks = De He Po Ph Pi
+{Ix} = { -1 }
+(Ex) = (F77+1)
+[Cx] = [9769]
+N = BDe
+B = -
+Z = -
+PBG = 323
+W = 8
+A = ImDv
+Stellar = G0 V M0 V

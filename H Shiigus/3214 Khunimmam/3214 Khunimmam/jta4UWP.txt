@@ -1,0 +1,39 @@
+E9B7200-8
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+
+Size = 9
+	DIGIT	DIA(MI)	DIA(KM)
+	9	9,000	14,400
+
+Atmosphere = B
+	DIGIT	DESCRIPTION	EFFECTS
+	B	Corrosive	C1 P1
+
+Hydrosphere = 7
+	DIGIT	DESCRIPTION
+	7	70%
+
+Population = 2
+	POPULATION UNDER 400
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+
+Government = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Government Structure	Family bonds predominate
+
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+
+Tech Level = 8
+	DIGIT		
+	8		
+

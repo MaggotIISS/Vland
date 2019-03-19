@@ -1,0 +1,39 @@
+D76A945-8
+Starport = D
+	Quality = Poor
+	Yards = No
+	Repairs = Minor damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+
+Atmosphere = 6
+	DIGIT	DESCRIPTION	EFFECTS
+	6	Standard	
+
+Hydrosphere = A
+	DIGIT	DESCRIPTION
+	A	Water World
+
+Population = 9
+	POPULATION UNDER 9,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	9	Billion	,000,000,000
+
+Government = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Representative Democracy	Government by proxy
+
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+
+Tech Level = 8
+	DIGIT		
+	8		
+

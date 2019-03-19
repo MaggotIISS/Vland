@@ -1,0 +1,14 @@
+Hex = 1701
+Name = Taksarrgh
+UWP = B624697-A
+Remarks = Ni Varg4
+{Ix} = { 1 }
+(Ex) = (955+1)
+[Cx] = [675A]
+N = -
+B = -
+Z = -
+PBG = 710
+W = 8
+A = NaHu
+Stellar = M1 V

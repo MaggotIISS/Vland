@@ -1,0 +1,14 @@
+Hex = 2105
+Name = Ninnigam
+UWP = C9D57A6-9
+Remarks = 
+{Ix} = { 0 }
+(Ex) = (A69-1)
+[Cx] = [6748]
+N = B
+B = S
+Z = -
+PBG = 710
+W = 13
+A = ImDv
+Stellar = M1 V

@@ -1,0 +1,14 @@
+Hex = 0408
+Name = Shaddukan
+UWP = B622156-D
+Remarks = He Lo Po
+{Ix} = { 2 }
+(Ex) = (411+1)
+[Cx] = [134C]
+N = B
+B = NS
+Z = -
+PBG = 410
+W = 13
+A = ImDv
+Stellar = G1 V

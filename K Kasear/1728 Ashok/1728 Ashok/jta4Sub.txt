@@ -1,0 +1,4 @@
+K KASEAR
+
+	WORLDS IN SUBSECTOR = 42
+	ImDv: "Third Imperium, Domain of Vland" = 42 worlds

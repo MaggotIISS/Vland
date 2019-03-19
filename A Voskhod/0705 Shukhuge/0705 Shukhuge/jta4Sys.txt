@@ -1,0 +1,14 @@
+Hex = 0705
+Name = Shukhuge
+UWP = C727830-9
+Remarks = Ph Pi
+{Ix} = { 0 }
+(Ex) = (B79-4)
+[Cx] = [3814]
+N = BDe
+B = -
+Z = -
+PBG = 110
+W = 11
+A = ImDv
+Stellar = M1 V

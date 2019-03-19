@@ -1,0 +1,77 @@
+Hex = 1535
+Name = Malapaan
+UWP = C426841-A
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 2
+	DIGIT	DESCRIPTION	EFFECTS
+	2	VThin, Tainted	P1, S2
+Hydrosphere = 6
+	DIGIT	DESCRIPTION
+	6	60%
+Population = 8
+	POPULATION UNDER 600,000,000
+	DIGIT	DESCRIPTION	VALUE
+	8	Hundred million	00,000,000
+Government = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Representative Democracy	Government by proxy
+Law Level = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Low Law	Prohibition of WMD, Psi weapons
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = Ph Pi
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ph				8			Pre High	
+	Pi		012479		78			Pre Industrial	
+{Ix} = { 1 }
+	TL 10 = +1
+	Importance = Normal (1)+0=1
+(Ex) = (C7A-3)
+	Resources =  12
+	Labour =  7
+	Infrastructure =  10
+	Efficiency =  -3
+	RU = -2520
+[Cx] = [4916]
+	Homogeneity = 4
+	Acceptance = 9
+	Strangeness = 1
+	Symbols = 6
+N = BDe
+	CODE	RANK	TC
+	B	Knight	any
+	D	Marquis	Pi
+	e	Viscount	Ph
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 620
+	Population Multiplier = 6
+	POPULATION UNDER 600,000,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K0 V
+	Stars = 1

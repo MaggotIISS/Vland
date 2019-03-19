@@ -1,0 +1,56 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = World  (RadWorld)	Y699000-0
+1 = Mainworld	Ishala	C866751-9	(Cold)
+	Orbits LGG (70,000 mi dia.)	S=25 @ orbit R
+	  Ring @ Orbit ?World  (RadWorld)	Y653000-H
+	  RadWorld	  	Y267000-0 @ Orbit Q
+	  Hospitable	  	F551685-5 @ Orbit W
+2 = LGG (90,000 mi dia.)	S=27
+	  BigWorld	  	GE35204-8 @ Orbit L
+3 = World  (Worldlet)	H099204-4
+4 = LGG (50,000 mi dia.)	S=23
+	  Worldlet	  	Y032543-4 @ Orbit F
+	  Worldlet	  	F0A6688-8 @ Orbit RWorld  (Worldlet)	H3416DF-G
+	  Ring @ Orbit X
+5 = LGG (50,000 mi dia.)	S=23
+	  IceWorld	  	H440679-3 @ Orbit R
+	  OuterWorld	  	H444488-8 @ Orbit T
+6 = LGG (50,000 mi dia.)	S=23
+	  RadWorld	  	Y5A6000-0 @ Orbit C
+	  StormWorld	  	F555246-7 @ Orbit E
+	  IceWorld	  	F784684-5 @ Orbit F
+	  Worldlet	  	Y353552-4 @ Orbit W
+7 = World  (RadWorld)	Y737000-0World  (Inferno)	Y7B0000-0
+	  RadWorld	  	Y963000-0 @ Orbit R
+8 = World  (RadWorld)	Y643000-0
+	  IceWorld	  	Y540559-8 @ Orbit F
+	  Worldlet	  	Y00066B-7 @ Orbit J
+	  Worldlet	  	H060644-6 @ Orbit S
+9 = 
+10 = 
+11 = 
+12 = World  (RadWorld)	Y676000-0
+	  Worldlet	  	Y035435-8 @ Orbit H
+	  Worldlet	  	H0005AC-7 @ Orbit V
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 10
+W = 13
+syscount = 1
+min = 0
+count = 10

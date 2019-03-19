@@ -1,0 +1,82 @@
+Hex = 2824
+Name = Jana
+UWP = C300963-C
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = Yes
+	possBases = S
+Size = 3
+	DIGIT	DIA(MI)	DIA(KM)
+	3	3,000	4,800
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 9
+	POPULATION UNDER 7,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	9	Billion	,000,000,000
+Government = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Captive Government/Colony	Rule by a leadership answerable to an outside group
+Law Level = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Low Law	Prohibition of Acid, Fire, Gas weapons
+Tech Level = C
+	DIGIT		
+	C		
+Remarks = Hi In Na Va O:3125
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	In		012479		9ABC			industrial	
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Va		0					Vacuum	
+	Ruled by 3125 Inandir
+{Ix} = { 3 }
+	TL 12 = +1
+	Hi  = +1
+	In  = +1
+	Importance = Normal (3)+0=3
+(Ex) = (G8E+1)
+	Resources =  16
+	Labour =  8
+	Infrastructure =  14
+	Efficiency =  1
+	RU = 1792
+[Cx] = [6C29]
+	Homogeneity = 6
+	Acceptance = 12
+	Strangeness = 2
+	Symbols = 9
+N = BE
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 723
+	Population Multiplier = 7
+	POPULATION UNDER 7,000,000,000
+	Planetoid Belts = 2
+	Gas Giants = 3
+W = 18
+	Non Stars In System = 18
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-3 (gas giants)
+	 = 12 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G6 V
+	Stars = 1

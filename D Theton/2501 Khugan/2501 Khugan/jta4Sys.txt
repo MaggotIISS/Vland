@@ -1,0 +1,14 @@
+Hex = 2501
+Name = Khugan
+UWP = B623520-A
+Remarks = Ni Po
+{Ix} = { 1 }
+(Ex) = (C45-3)
+[Cx] = [1615]
+N = -
+B = C
+Z = -
+PBG = 623
+W = 11
+A = NaVa
+Stellar = M0 V M1 V

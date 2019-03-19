@@ -1,0 +1,14 @@
+Hex = 3020
+Name = Trilorn
+UWP = C100858-C
+Remarks = Na Va Ph Pi
+{Ix} = { 1 }
+(Ex) = (B7B+1)
+[Cx] = [895C]
+N = BDe
+B = -
+Z = -
+PBG = 510
+W = 11
+A = ImDv
+Stellar = K3 V M5 V

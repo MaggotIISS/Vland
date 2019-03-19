@@ -1,0 +1,40 @@
+Primary = M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = World  (Worldlet)	H-332310-7
+	  Ring @ Orbit ?
+1 = World  (RadWorld)	Y-322000-0
+2 = World  (Hospitable)	G-379373-7
+3 = Planetoid belt	H-300399-7
+4 = World  (StormWorld)	Y-331000-0
+5 = World  (StormWorld)	Y-310000-0
+	  Worldlet	  	G-388366-7 @ Orbit E
+	  Hospitable	  	H-3353AC-2 @ Orbit O
+6 = Asteroid Belt	Lenordi	D000487-8	(Cold)
+7 = 
+8 = 
+9 = 
+10 = 
+11 = 
+12 = World  (Inferno)	Y-3B0000-0
+	  Ring @ Orbit ?
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 12
+W = 8
+syscount = 1
+min = 0
+count = 8

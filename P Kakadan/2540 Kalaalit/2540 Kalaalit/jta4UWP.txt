@@ -1,0 +1,39 @@
+A7698B9-D
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+
+Atmosphere = 6
+	DIGIT	DESCRIPTION	EFFECTS
+	6	Standard	
+
+Hydrosphere = 9
+	DIGIT	DESCRIPTION
+	9	90%
+
+Population = 8
+	POPULATION UNDER 500,000,000
+	DIGIT	DESCRIPTION	VALUE
+	8	Hundred million	00,000,000
+
+Government = B
+	DIGIT	DESCRIPTION	NOTE
+	B	Non-Charismatic Dictatorship	Government by the successor to a charismatic dictator
+
+Law Level = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	High Law	Weapons outside the home prohibited
+
+Tech Level = D
+	DIGIT		
+	D		
+

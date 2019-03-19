@@ -1,0 +1,4 @@
+O NULISUD
+
+	WORLDS IN SUBSECTOR = 41
+	ImDv: "Third Imperium, Domain of Vland" = 41 worlds

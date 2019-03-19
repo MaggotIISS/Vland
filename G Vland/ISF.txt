@@ -1,0 +1,325 @@
+Vland/G Vland
+
+1716 Enaa - B300859-B
+	SDB Squadrons = 12
+	Starship Squadrons = 1
+	Troop CF = 10
+	Defence CF = 120
+  TROOP FORCES
+0001-3000-10(10)-B
+
+
+
+1719 Sazisi - E586720-6
+	Defence CF = 2
+
+1811 Anaam - C424753-B
+	SDB Squadrons = 1
+	Troop CF = 2
+	Defence CF = 12
+  TROOP FORCES
+0001-1000-2(2)-B
+
+
+
+1813 Khusher - C646754-9
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 10
+  TROOP FORCES
+0001-0000-1(1)-9
+
+
+
+1816 Shinla - C5608A9-8
+	SDB Squadrons = 5
+	Troop CF = 5
+	Defence CF = 50
+  TROOP FORCES
+0001-2000-5(5)-8
+
+
+
+---HI POP TARGET---
+1817 Tauri - A430998-F
+	SDB Squadrons = 200
+	Starship Squadrons = 3
+	Troop CF = 500
+	Defence CF = 2000
+  TROOP FORCES
+0001-7000-500(500)-F
+
+
+
+1820 Kha - A86A642-D
+	Defence CF = 2
+
+---HI POP TARGET---
+1919 Khula - B575A77-E
+	SDB Squadrons = 1500
+	Starship Squadrons = 5
+	Troop CF = 1000
+	Defence CF = 15000
+  TROOP FORCES
+0001-7000-500(500)-E
+0002-7000-500(500)-E
+
+
+
+---HI POP TARGET---
+2013 Isbudin - C9C5984-B
+	SDB Squadrons = 120
+	Starship Squadrons = 2
+	Troop CF = 50
+	Defence CF = 1200
+  TROOP FORCES
+0001-5000-50(50)-B
+
+
+
+---HI POP TARGET---
+2017 Tahaver - B769A78-B
+	SDB Squadrons = 1200
+	Starship Squadrons = 4
+	Troop CF = 500
+	Defence CF = 12000
+  TROOP FORCES
+0001-7000-500(500)-B
+
+
+
+---HI POP TARGET---
+2111 Flire - C779A77-D
+	SDB Squadrons = 1500
+	Starship Squadrons = 5
+	Troop CF = 1000
+	Defence CF = 15000
+  TROOP FORCES
+0001-7000-500(500)-D
+0002-7000-500(500)-D
+
+
+
+2113 Ishala - C866751-9
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 10
+  TROOP FORCES
+0001-0000-1(1)-9
+
+
+
+2117 Uri - A313632-E
+	Defence CF = 2
+
+---HI POP TARGET---
+2319 Shudi - A7669BB-A
+	SDB Squadrons = 100
+	Starship Squadrons = 2
+	Troop CF = 20
+	Defence CF = 1000
+  TROOP FORCES
+0001-4000-20(20)-A
+
+
+
+2320 Gidapisek - B200623-C
+	Defence CF = 2
+
+---HI POP TARGET---
+2412 Ansin - E563A95-A
+	SDB Squadrons = 1000
+	Starship Squadrons = 3
+	Troop CF = 100
+	Defence CF = 10000
+  TROOP FORCES
+0001-6000-100(100)-A
+
+
+
+2416 Liisurkhish - A562788-C
+	SDB Squadrons = 1
+	Troop CF = 2
+	Defence CF = 12
+  TROOP FORCES
+0001-1000-2(2)-C
+
+
+
+
+1716-B300859-B
+Commodore Ugshamdiukde
+	Prec 15
+	Plan  4
+	Tactics 2
+	C001-1U-630-6-B
+
+1817-A430998-F
+Commodore Kaudakar
+	Prec 9
+	Plan  5
+	Tactics 2
+	C001-4U-730-7-F
+
+1817-A430998-F
+Commodore Giakgum
+	Prec 10
+	Plan  5
+	Tactics 1
+	C002-4U-730-7-F
+
+1817-A430998-F
+Commodore Leaadpu
+	Prec 14
+	Plan  3
+	Tactics 0
+	C003-4U-730-7-F
+
+1919-B575A77-E
+Commodore Nugikhangarnip
+	Prec 12
+	Plan  5
+	Tactics -1
+	C001-3U-840-8-E
+
+1919-B575A77-E
+Commodore Ushim
+	Prec 7
+	Plan  5
+	Tactics 0
+	C002-3U-840-8-E
+
+1919-B575A77-E
+Commodore Kangiuukhad
+	Prec 10
+	Plan  2
+	Tactics 2
+	C003-3U-840-8-E
+
+1919-B575A77-E
+Commodore Ak
+	Prec 10
+	Plan  5
+	Tactics 0
+	C004-3U-840-8-E
+
+1919-B575A77-E
+Commodore Iggiikenkhuup
+	Prec 8
+	Plan  5
+	Tactics 0
+	C005-3U-840-8-E
+
+2013-C9C5984-B
+Commodore Sishbai
+	Prec 8
+	Plan  2
+	Tactics 0
+	C001-1U-730-7-B
+
+2013-C9C5984-B
+Commodore Amushudurkaguu
+	Prec 13
+	Plan  4
+	Tactics 2
+	C002-1U-730-7-B
+
+2017-B769A78-B
+Commodore Sukurshegkiiikh
+	Prec 11
+	Plan  5
+	Tactics -2
+	C001-1U-840-8-B
+
+2017-B769A78-B
+Commodore Akmiinshirkhi
+	Prec 10
+	Plan  5
+	Tactics -2
+	C002-1U-840-8-B
+
+2017-B769A78-B
+Commodore Ipirkamsarshish
+	Prec 10
+	Plan  4
+	Tactics -2
+	C003-1U-840-8-B
+
+2017-B769A78-B
+Commodore Siialgesdu
+	Prec 6
+	Plan  4
+	Tactics 0
+	C004-1U-840-8-B
+
+2111-C779A77-D
+Commodore Kuumshumdushkhirkhuukh
+	Prec 11
+	Plan  5
+	Tactics 2
+	C001-2U-840-8-D
+
+2111-C779A77-D
+Commodore Uuiigshundim
+	Prec 12
+	Plan  4
+	Tactics 0
+	C002-2U-840-8-D
+
+2111-C779A77-D
+Commodore Keukhamkar
+	Prec 17
+	Plan  4
+	Tactics 2
+	C003-2U-840-8-D
+
+2111-C779A77-D
+Commodore Daami
+	Prec 7
+	Plan  4
+	Tactics -2
+	C004-2U-840-8-D
+
+2111-C779A77-D
+Commodore Uzkaikkarkhurram
+	Prec 13
+	Plan  3
+	Tactics 0
+	C005-2U-840-8-D
+
+2319-A7669BB-A
+Commodore Iigkhiashkaakbi
+	Prec 7
+	Plan  2
+	Tactics 0
+	C001-1U-730-7-A
+
+2319-A7669BB-A
+Commodore Ik
+	Prec 13
+	Plan  4
+	Tactics 0
+	C002-1U-730-7-A
+
+2412-E563A95-A
+Commodore Dadima
+	Prec 14
+	Plan  5
+	Tactics 2
+	C001-1U-840-8-A
+
+2412-E563A95-A
+Commodore Iigkaae
+	Prec 8
+	Plan  4
+	Tactics 1
+	C002-1U-840-8-A
+
+2412-E563A95-A
+Commodore Mirlaiddi
+	Prec 10
+	Plan  5
+	Tactics -2
+	C003-1U-840-8-A
+
+

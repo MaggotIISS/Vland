@@ -1,0 +1,78 @@
+Hex = 2032
+Name = Vuldaan
+UWP = C522765-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 2
+	DIGIT	DESCRIPTION	EFFECTS
+	2	VThin, Tainted	P1, S2
+Hydrosphere = 2
+	DIGIT	DESCRIPTION
+	2	20%
+Population = 7
+	POPULATION UNDER 60,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+Government = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Captive Government/Colony	Rule by a leadership answerable to an outside group
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = He Na Po Pi O:2035
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	He	3459ABC	2479ABC	012				Hell World	
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Po		2345	0123				Poor	
+	Pi		012479		78			Pre Industrial	
+	Ruled by 2035 Hykluitt
+{Ix} = { 0 }
+	Importance = Unimportant (0)+0=0
+(Ex) = (E69-2)
+	Resources =  14
+	Labour =  6
+	Infrastructure =  9
+	Efficiency =  -2
+	RU = -1512
+[Cx] = [5737]
+	Homogeneity = 5
+	Acceptance = 7
+	Strangeness = 3
+	Symbols = 7
+N = BD
+	CODE	RANK	TC
+	B	Knight	any
+	D	Marquis	Pi
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 623
+	Population Multiplier = 6
+	POPULATION UNDER 60,000,000
+	Planetoid Belts = 2
+	Gas Giants = 3
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-3 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = F8 V
+	Stars = 1

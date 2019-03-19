@@ -1,0 +1,14 @@
+Hex = 0703
+Name = Khigapka
+UWP = B797457-C
+Remarks = Ni Pa
+{Ix} = { 1 }
+(Ex) = (834+1)
+[Cx] = [455C]
+N = -
+B = -
+Z = -
+PBG = 902
+W = 9
+A = NaHu
+Stellar = M2 V

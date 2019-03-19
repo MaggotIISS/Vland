@@ -1,0 +1,14 @@
+Hex = 0237
+Name = Shashim
+UWP = B427698-C
+Remarks = Ni
+{Ix} = { 2 }
+(Ex) = (B56+2)
+[Cx] = [685C]
+N = B
+B = W
+Z = -
+PBG = 203
+W = 12
+A = ImDv
+Stellar = G8 V

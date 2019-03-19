@@ -1,0 +1,76 @@
+Hex = 0404
+Name = Katti
+UWP = A8D8210-D
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 8
+	DIGIT	DIA(MI)	DIA(KM)
+	8	8,000	13,800
+Atmosphere = D
+	DIGIT	DESCRIPTION	EFFECTS
+	D	Dense, High	varies
+Hydrosphere = 8
+	DIGIT	DESCRIPTION
+	8	80%
+Population = 2
+	POPULATION UNDER 400
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+Government = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Company/Corporation	Rule by a managerial elite
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = D
+	DIGIT		
+	D		
+Remarks = Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+{Ix} = { 1 }
+	Starport A = +1
+	TL 13 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (811-3)
+	Resources =  8
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -3
+	RU = -24
+[Cx] = [1318]
+	Homogeneity = 1
+	Acceptance = 3
+	Strangeness = 1
+	Symbols = 8
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 404
+	Population Multiplier = 4
+	POPULATION UNDER 400
+	Planetoid Belts = 0
+	Gas Giants = 4
+W = 8
+	Non Stars In System = 8
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-4 (gas giants)
+	 = 3 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M3 V
+	Stars = 1

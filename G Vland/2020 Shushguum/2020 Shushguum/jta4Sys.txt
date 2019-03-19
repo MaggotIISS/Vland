@@ -1,0 +1,14 @@
+Hex = 2020
+Name = Shushguum
+UWP = B522577-B
+Remarks = He Ni Po
+{Ix} = { 1 }
+(Ex) = (D45+1)
+[Cx] = [565B]
+N = B
+B = N
+Z = -
+PBG = 924
+W = 13
+A = ImDv
+Stellar = G6 V

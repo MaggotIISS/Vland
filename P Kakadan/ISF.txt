@@ -1,0 +1,362 @@
+Vland/P Kakadan
+
+---HI POP TARGET---
+2533 Aki - D697AFF-A
+	SDB Squadrons = 1000
+	Starship Squadrons = 3
+	Troop CF = 100
+	Defence CF = 10000
+  TROOP FORCES
+0001-2012-20(5)-A
+0002-2012-20(5)-A
+0003-2012-20(5)-A
+0004-2012-20(5)-A
+0005-2012-20(5)-A
+
+
+
+2534 Zerapii - C411774-A
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 10
+  TROOP FORCES
+0001-0000-1(1)-A
+
+
+
+2536 Linissa - E200777-8
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 5
+  TROOP FORCES
+0001-0000-1(1)-8
+
+
+
+2540 Kalaalit - A7698B9-D
+	SDB Squadrons = 15
+	Starship Squadrons = 2
+	Troop CF = 20
+	Defence CF = 150
+  TROOP FORCES
+0001-2000-5(5)-D
+0002-2000-5(5)-D
+0003-2000-5(5)-D
+0004-2000-5(5)-D
+
+
+
+---HI POP TARGET---
+2631 Kane - E789ABE-A
+	SDB Squadrons = 1000
+	Starship Squadrons = 3
+	Troop CF = 100
+	Defence CF = 10000
+  TROOP FORCES
+0001-2111-20(5)-A
+0002-2111-20(5)-A
+0003-2111-20(5)-A
+0004-2111-20(5)-A
+0005-2111-20(5)-A
+
+
+
+2634 Wakarsat - B68A789-B
+	SDB Squadrons = 1
+	Troop CF = 2
+	Defence CF = 12
+  TROOP FORCES
+0001-0011-2(1)-B
+
+
+
+2732 Dnak'kritz - D582758-7
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 5
+  TROOP FORCES
+0001-0001-1(1)-7
+
+
+
+---HI POP TARGET---
+2737 Kesali - B2009AB-E
+	SDB Squadrons = 150
+	Starship Squadrons = 3
+	Troop CF = 100
+	Defence CF = 1500
+  TROOP FORCES
+0001-0112-8(1)-E
+0002-0112-8(1)-E
+0003-0112-8(1)-E
+0004-0112-8(1)-E
+0005-0112-8(1)-E
+0006-0112-8(1)-E
+0007-0112-8(1)-E
+0008-0112-8(1)-E
+0009-0112-8(1)-E
+0010-0112-8(1)-E
+0011-0112-8(1)-E
+0012-0112-8(1)-E
+0013-0012-4(1)-E
+
+
+
+2739 Sg'aa - AAB5895-D
+	SDB Squadrons = 15
+	Starship Squadrons = 2
+	Troop CF = 20
+	Defence CF = 150
+  TROOP FORCES
+0001-2111-20(5)-D
+
+
+
+---HI POP TARGET---
+2836 Inushir - E989ADE-7
+	SDB Squadrons = 500
+	Troop CF = 100
+	Defence CF = 5000
+  TROOP FORCES
+0001-2111-20(5)-7
+0002-2111-20(5)-7
+0003-2111-20(5)-7
+0004-2111-20(5)-7
+0005-2111-20(5)-7
+
+
+
+2837 Piazza - C794685-6
+	Defence CF = 1
+
+2839 Zombagu - A684730-B
+	SDB Squadrons = 1
+	Troop CF = 2
+	Defence CF = 12
+  TROOP FORCES
+0001-0101-2(1)-B
+
+
+
+---HI POP TARGET---
+2931 Icuspin - A200976-F
+	SDB Squadrons = 200
+	Starship Squadrons = 3
+	Troop CF = 500
+	Defence CF = 2000
+  TROOP FORCES
+0001-5110-200(50)-F
+0002-5110-200(50)-F
+0003-5010-100(50)-F
+
+
+
+2934 Assazak - C5908C9-8
+	SDB Squadrons = 5
+	Troop CF = 5
+	Defence CF = 50
+  TROOP FORCES
+0001-0110-4(1)-8
+0002-0000-1(1)-8
+
+
+
+---HI POP TARGET---
+3031 New Salen - C202974-C
+	SDB Squadrons = 120
+	Starship Squadrons = 2
+	Troop CF = 50
+	Defence CF = 1200
+  TROOP FORCES
+0001-3110-40(10)-C
+0002-2010-10(5)-C
+
+
+
+3032 Matuyama - C540899-8
+	SDB Squadrons = 5
+	Troop CF = 5
+	Defence CF = 50
+  TROOP FORCES
+0001-2000-5(5)-8
+
+
+
+3035 Zhanora - D651754-7
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 5
+  TROOP FORCES
+0001-0000-1(1)-7
+
+
+
+---HI POP TARGET---
+3131 Maamibrin - B5629CA-C
+	SDB Squadrons = 120
+	Starship Squadrons = 2
+	Troop CF = 50
+	Defence CF = 1200
+  TROOP FORCES
+0001-2002-10(5)-C
+0002-2002-10(5)-C
+0003-2002-10(5)-C
+0004-2002-10(5)-C
+0005-2002-10(5)-C
+
+
+
+3134 Toborit - C424664-8
+	Defence CF = 1
+
+3235 Debort - B581778-A
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 10
+  TROOP FORCES
+0001-0000-1(1)-A
+
+
+
+
+2533-D697AFF-A
+Commodore Shuakkimzaarrar
+	Prec 11
+	Plan  4
+	Tactics 1
+	C001-1U-840-8-A
+
+2533-D697AFF-A
+Commodore Ussinman
+	Prec 9
+	Plan  4
+	Tactics 2
+	C002-1U-840-8-A
+
+2533-D697AFF-A
+Commodore Pishlunsaam
+	Prec 9
+	Plan  5
+	Tactics 1
+	C003-1U-840-8-A
+
+2540-A7698B9-D
+Commodore Alsaakshemkapnir
+	Prec 13
+	Plan  1
+	Tactics 2
+	C001-2U-630-6-D
+
+2540-A7698B9-D
+Commodore Uak
+	Prec 12
+	Plan  3
+	Tactics -2
+	C002-2U-630-6-D
+
+2631-E789ABE-A
+Commodore Alde
+	Prec 9
+	Plan  5
+	Tactics 0
+	C001-1U-840-8-A
+
+2631-E789ABE-A
+Commodore Iidgidukhuun
+	Prec 10
+	Plan  2
+	Tactics 2
+	C002-1U-840-8-A
+
+2631-E789ABE-A
+Commodore Upuegniiagzu
+	Prec 9
+	Plan  4
+	Tactics 0
+	C003-1U-840-8-A
+
+2737-B2009AB-E
+Commodore Ekdikiuuaan
+	Prec 4
+	Plan  4
+	Tactics -1
+	C001-3U-730-7-E
+
+2737-B2009AB-E
+Commodore Ubiedshi
+	Prec 12
+	Plan  2
+	Tactics -1
+	C002-3U-730-7-E
+
+2737-B2009AB-E
+Commodore Idlii
+	Prec 13
+	Plan  5
+	Tactics 2
+	C003-3U-730-7-E
+
+2739-AAB5895-D
+Commodore Khiinshi
+	Prec 12
+	Plan  4
+	Tactics -2
+	C001-2U-630-6-D
+
+2739-AAB5895-D
+Commodore Uadiagrilish
+	Prec 12
+	Plan  5
+	Tactics -1
+	C002-2U-630-6-D
+
+2931-A200976-F
+Commodore La
+	Prec 14
+	Plan  5
+	Tactics 1
+	C001-4U-730-7-F
+
+2931-A200976-F
+Commodore Ash
+	Prec 11
+	Plan  5
+	Tactics 0
+	C002-4U-730-7-F
+
+2931-A200976-F
+Commodore Ushkhaiig
+	Prec 8
+	Plan  3
+	Tactics -1
+	C003-4U-730-7-F
+
+3031-C202974-C
+Commodore Kinanluu
+	Prec 11
+	Plan  2
+	Tactics 0
+	C001-1U-730-7-C
+
+3031-C202974-C
+Commodore Ikhkii
+	Prec 8
+	Plan  5
+	Tactics 0
+	C002-1U-730-7-C
+
+3131-B5629CA-C
+Commodore Khe
+	Prec 11
+	Plan  5
+	Tactics -2
+	C001-1U-730-7-C
+
+3131-B5629CA-C
+Commodore Kauagladii
+	Prec 14
+	Plan  5
+	Tactics -2
+	C002-1U-730-7-C
+
+

@@ -1,0 +1,14 @@
+Hex = 2225
+Name = Iamone
+UWP = C310A9A-E
+Remarks = Hi In Na
+{Ix} = { 3 }
+(Ex) = (J9F+5)
+[Cx] = [CD7G]
+N = BE
+B = S
+Z = -
+PBG = 624
+W = 11
+A = ImDv
+Stellar = K4 V

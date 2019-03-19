@@ -1,0 +1,14 @@
+Hex = 0806
+Name = Gadiga
+UWP = E88A202-A
+Remarks = Lo Wa Da
+{Ix} = { -1 }
+(Ex) = (511-5)
+[Cx] = [1116]
+N = B
+B = -
+Z = A
+PBG = 101
+W = 11
+A = ImDv
+Stellar = F9 V K8 V M8 V

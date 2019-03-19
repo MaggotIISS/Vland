@@ -1,0 +1,39 @@
+B622156-D
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+
+Size = 6
+	DIGIT	DIA(MI)	DIA(KM)
+	6	6,000	9,600
+
+Atmosphere = 2
+	DIGIT	DESCRIPTION	EFFECTS
+	2	VThin, Tainted	P1, S2
+
+Hydrosphere = 2
+	DIGIT	DESCRIPTION
+	2	20%
+
+Population = 1
+	POPULATION UNDER 40
+	DIGIT	DESCRIPTION	VALUE
+	1	Tens	0
+
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+
+Law Level = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Moderate Law	Pohibition of Machineguns
+
+Tech Level = D
+	DIGIT		
+	D		
+

@@ -1,0 +1,82 @@
+1732 Nikham
+1734 Miku
+1735 Zhinutar
+1736 Ake
+1740 Glanidarn
+1831 Mekhe
+1833 Shadi
+1839 Kordanor
+1931 Shorlon
+1932 Sharan
+1933 Kaskar
+1936 Ekhin
+1937 Nulisud
+2032 Vuldaan
+2035 Hykluitt
+2036 Diinagar
+2039 Miizam
+2132 Imshiig
+2133 Iddun
+2134 Zemal
+2137 Shaka
+2138 Istuary
+2139 Zolo
+2232 Gikarlum
+2233 Segikin
+2235 Rishin
+2236 Gaarid
+2238 Khugan
+2240 Bakor
+2331 Aaluggidira
+2332 Zaakkusham
+2335 Miiliinlur
+2336 Kunni
+2337 Idi
+2340 Orguk
+2431 Dusekhip
+2432 Korm
+2433 Ashuugakher
+2435 Li
+2438 Shakir
+2440 Shuurdiikha
+C:\T5\Vland\O Nulisud\1732 Nikham\1732 Nikham
+C:\T5\Vland\O Nulisud\1734 Miku\1734 Miku
+C:\T5\Vland\O Nulisud\1735 Zhinutar\1735 Zhinutar
+C:\T5\Vland\O Nulisud\1736 Ake\1736 Ake
+C:\T5\Vland\O Nulisud\1740 Glanidarn\1740 Glanidarn
+C:\T5\Vland\O Nulisud\1831 Mekhe\1831 Mekhe
+C:\T5\Vland\O Nulisud\1833 Shadi\1833 Shadi
+C:\T5\Vland\O Nulisud\1839 Kordanor\1839 Kordanor
+C:\T5\Vland\O Nulisud\1931 Shorlon\1931 Shorlon
+C:\T5\Vland\O Nulisud\1932 Sharan\1932 Sharan
+C:\T5\Vland\O Nulisud\1933 Kaskar\1933 Kaskar
+C:\T5\Vland\O Nulisud\1936 Ekhin\1936 Ekhin
+C:\T5\Vland\O Nulisud\1937 Nulisud\1937 Nulisud
+C:\T5\Vland\O Nulisud\2032 Vuldaan\2032 Vuldaan
+C:\T5\Vland\O Nulisud\2035 Hykluitt\2035 Hykluitt
+C:\T5\Vland\O Nulisud\2036 Diinagar\2036 Diinagar
+C:\T5\Vland\O Nulisud\2039 Miizam\2039 Miizam
+C:\T5\Vland\O Nulisud\2132 Imshiig\2132 Imshiig
+C:\T5\Vland\O Nulisud\2133 Iddun\2133 Iddun
+C:\T5\Vland\O Nulisud\2134 Zemal\2134 Zemal
+C:\T5\Vland\O Nulisud\2137 Shaka\2137 Shaka
+C:\T5\Vland\O Nulisud\2138 Istuary\2138 Istuary
+C:\T5\Vland\O Nulisud\2139 Zolo\2139 Zolo
+C:\T5\Vland\O Nulisud\2232 Gikarlum\2232 Gikarlum
+C:\T5\Vland\O Nulisud\2233 Segikin\2233 Segikin
+C:\T5\Vland\O Nulisud\2235 Rishin\2235 Rishin
+C:\T5\Vland\O Nulisud\2236 Gaarid\2236 Gaarid
+C:\T5\Vland\O Nulisud\2238 Khugan\2238 Khugan
+C:\T5\Vland\O Nulisud\2240 Bakor\2240 Bakor
+C:\T5\Vland\O Nulisud\2331 Aaluggidira\2331 Aaluggidira
+C:\T5\Vland\O Nulisud\2332 Zaakkusham\2332 Zaakkusham
+C:\T5\Vland\O Nulisud\2335 Miiliinlur\2335 Miiliinlur
+C:\T5\Vland\O Nulisud\2336 Kunni\2336 Kunni
+C:\T5\Vland\O Nulisud\2337 Idi\2337 Idi
+C:\T5\Vland\O Nulisud\2340 Orguk\2340 Orguk
+C:\T5\Vland\O Nulisud\2431 Dusekhip\2431 Dusekhip
+C:\T5\Vland\O Nulisud\2432 Korm\2432 Korm
+C:\T5\Vland\O Nulisud\2433 Ashuugakher\2433 Ashuugakher
+C:\T5\Vland\O Nulisud\2435 Li\2435 Li
+C:\T5\Vland\O Nulisud\2438 Shakir\2438 Shakir
+C:\T5\Vland\O Nulisud\2440 Shuurdiikha\2440 Shuurdiikha

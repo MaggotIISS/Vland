@@ -1,0 +1,14 @@
+Hex = 1929
+Name = Sakhem
+UWP = B404474-D
+Remarks = Ic Ni Va
+{Ix} = { 1 }
+(Ex) = (734-1)
+[Cx] = [253B]
+N = B
+B = -
+Z = -
+PBG = 710
+W = 7
+A = ImDv
+Stellar = M0 V

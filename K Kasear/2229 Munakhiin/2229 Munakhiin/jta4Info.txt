@@ -1,0 +1,80 @@
+Hex = 2229
+Name = Munakhiin
+UWP = D2027BB-8
+Starport = D
+	Quality = Poor
+	Yards = No
+	Repairs = Minor damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 2
+	DIGIT	DIA(MI)	DIA(KM)
+	2	2,000	3,200
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+Hydrosphere = 2
+	DIGIT	DESCRIPTION
+	2	20%
+Population = 7
+	POPULATION UNDER 90,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+Government = B
+	DIGIT	DESCRIPTION	NOTE
+	B	Non-Charismatic Dictatorship	Government by the successor to a charismatic dictator
+Law Level = B
+	DIGIT	DESCRIPTION	NOTE
+	B	Extreme Law	Continental passports required
+Tech Level = 8
+	DIGIT		
+	8		
+Remarks = Ic Na Va Pi Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ic		01	123456789A				Ice Capped	
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Va		0					Vacuum	
+	Pi		012479		78			Pre Industrial	
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { -2 }
+	Starport D = -1
+	Importance = Unimportant (-1)+-1=-2
+(Ex) = (A66+1)
+	Resources =  10
+	Labour =  6
+	Infrastructure =  6
+	Efficiency =  1
+	RU = 360
+[Cx] = [957A]
+	Homogeneity = 9
+	Acceptance = 5
+	Strangeness = 7
+	Symbols = 10
+N = BD
+	CODE	RANK	TC
+	B	Knight	any
+	D	Marquis	Pi
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 910
+	Population Multiplier = 9
+	POPULATION UNDER 90,000,000
+	Planetoid Belts = 1
+	Gas Giants = 0
+W = 7
+	Non Stars In System = 7
+	-1 (mainworld)
+	-1 (planetoid belts)
+	-0 (gas giants)
+	 = 5 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K5 V
+	Stars = 1

@@ -1,0 +1,14 @@
+Hex = 2203
+Name = Angvae
+UWP = C657610-8
+Remarks = Ag Ni Ga
+{Ix} = { -1 }
+(Ex) = (A53-5)
+[Cx] = [1513]
+N = -
+B = C
+Z = -
+PBG = 720
+W = 12
+A = NaVa
+Stellar = M2 V

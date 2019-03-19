@@ -1,0 +1,14 @@
+Hex = 2713
+Name = Aanshi
+UWP = BA8AA97-C
+Remarks = Hi Oc
+{Ix} = { 3 }
+(Ex) = (D9E+3)
+[Cx] = [AD5C]
+N = BE
+B = S
+Z = -
+PBG = 401
+W = 10
+A = ImDv
+Stellar = M3 V

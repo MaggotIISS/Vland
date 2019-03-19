@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>TITLE</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+  </head>
+  <body>
+
+<br>
+atlas<br>
+candy<br>
+poster<br>
+print<br>
+<br>
+<a href="http://www.travellermap.com/?x=-98&y=73&scale=100&options=0&style=atlas">
+http://www.travellermap.com/?x=-98&y=73&scale=100&options=0&style=atlas<br>
+<br>
+<br>
+
+<iframe
+src="http://travellermap.com/iframe.htm?sector=SEC&hex=HEX"
+style="width: WID; height: HGT; border: BORDER;">
+</iframe>
+
+<br>
+<img src="http://www.travellermap.com/?x=-98&y=73&scale=80&options=0&style=atlas">
+<br>
+
+<img src="http://travellermap.com/api/jumpmap?sector=SEC&hex=HEX&jump=JUMP&scale=SCALE&options=OPTIONS&style=atlas">
+<br>
+
+<img src="http://travellermap.com/api/jumpmap?sector=SEC&hex=HEX&jump=JUMP&scale=SCALE&options=OPTIONS&style=candy">
+<br>
+
+<img src="http://travellermap.com/api/jumpmap?sector=SEC&hex=HEX&jump=JUMP&scale=SCALE&options=OPTIONS&style=poster">
+<br>
+
+<a href="<img src="http://travellermap.com/api/jumpmap?sector=SEC&hex=HEX&jump=JUMP&scale=SCALE&options=OPTIONS&style=print">
+<img src="http://travellermap.com/api/jumpmap?sector=SEC&hex=HEX&jump=JUMP&scale=SCALE&options=OPTIONS&style=STYLE">
+<br>
+
+<a href="http://www.travellermap.com/world?sector=SEC&hex=HEX">
+http://www.travellermap.com/world?sector=SEC&hex=HEX
+<br>
+
+<a href="http://travellermap.com/api/poster?sector=SPIN&scale=SCALE&options=OPTIONS&style=STYLE">
+http://travellermap.com/api/poster?sector=SPIN&scale=SCALE&options=OPTIONS&style=STYLE
+<br>
+
+<a href="http://travellermap.com/data/SEC/image">
+http://travellermap.com/data/SEC/image
+<br>
+
+<a href="http://travellermap.com/data/SEC/A/image">
+http://travellermap.com/data/SEC/A/image
+<br>
+
+<a href="http://travellermap.com/data/SEC/B/image">
+http://travellermap.com/data/SEC/B/image
+<br>
+
+<a href="http://travellermap.com/data/SEC/C/image">
+http://travellermap.com/data/SEC/C/image
+<br>
+
+<a href="http://travellermap.com/data/SEC/D/image">
+http://travellermap.com/data/SEC/D/image
+<br>
+
+<a href="http://travellermap.com/data/SEC/E/image">
+http://travellermap.com/data/SEC/E/image
+<br>
+
+<a href="http://travellermap.com/data/SEC/F/image">
+http://travellermap.com/data/SEC/F/image
+<br>
+
+<a href="http://travellermap.com/data/SEC/G/image">
+http://travellermap.com/data/SEC/G/image
+<br>
+
+<a href="http://travellermap.com/data/SEC/H/image">
+http://travellermap.com/data/SEC/H/image
+<br>
+
+<a href="http://travellermap.com/data/SEC/I/image">
+http://travellermap.com/data/SEC/I/image
+<br>
+
+<a href="http://travellermap.com/data/SEC/J/image">
+http://travellermap.com/data/SEC/J/image
+<br>
+
+<a href="http://travellermap.com/data/SEC/K/image">
+http://travellermap.com/data/SEC/K/image
+<br>
+
+<a href="http://travellermap.com/data/SEC/L/image">
+http://travellermap.com/data/SEC/L/image
+<br>
+
+<a href="http://travellermap.com/data/SEC/M/image">
+http://travellermap.com/data/SEC/M/image
+<br>
+
+<a href="http://travellermap.com/data/SEC/N/image">
+http://travellermap.com/data/SEC/N/image
+<br>
+
+<a href="http://travellermap.com/data/SEC/O/image">
+http://travellermap.com/data/SEC/O/image
+<br>
+
+<a href="http://travellermap.com/data/SEC/P/image">
+http://travellermap.com/data/SEC/P/image
+<br>
+
+<a href="http://travellermap.com/data/SEC/image">
+http://travellermap.com/data/SEC/image
+<br>
+
+<a href="http://travellermap.com/api/coordinates?sx=SX&sy=SY">
+http://travellermap.com/api/coordinates?sx=SX&sy=SY
+<br>
+
+<a href="http://travellermap.com/api/coordinates?sx=SX&sy=SY&hx=HX&hy=HY">
+http://travellermap.com/api/coordinates?sx=SX&sy=SY&hx=HX&hy=HY
+<br>
+
+<a href="http://travellermap.com/api/coordinates?sector=SEC&hex=HEX">
+http://travellermap.com/api/coordinates?sector=SEC&hex=HEX
+<br>
+
+<a href="http://travellermap.com/api/coordinates?sector=SEC">
+http://travellermap.com/api/coordinates?sector=SEC
+<br>
+
+<a href="http://travellermap.com/api/credits?sector=SEC&scale=SCALE&options=OPTIONS &style=STYLE">
+http://travellermap.com/api/credits?sector=SEC&scale=SCALE&options=OPTIONS &style=STYLE
+<br>
+
+<a href="http://travellermap.com/api/credits?sector=SEC&hex=HEX">
+http://travellermap.com/api/credits?sector=SEC&hex=HEX
+<br>
+
+<a href="http://travellermap.com/api/credits?sx=SX&sy=SY">
+http://travellermap.com/api/credits?sx=SX&sy=SY
+<br>
+
+<a href="http://travellermap.com/api/credits?sx=SX&sy=SY&hx=HX&hy=HY">
+http://travellermap.com/api/credits?sx=SX&sy=SY&hx=HX&hy=HY
+<br>
+
+<a href="http://travellermap.com/api/credits?x=X&y=Y">
+http://travellermap.com/api/credits?x=X&y=Y
+<br>
+
+<a href="http://www.travellermap.com/api/credits?x=-110&y=-70">
+http://www.travellermap.com/api/credits?x=-110&y=-70
+<br>
+
+<a href="http://travellermap.com/api/sec?sector=SEC">
+http://travellermap.com/api/sec?sector=SEC
+<br>
+
+<a href="http://travellermap.com/api/sec?sector=SEC&hex=HEX">
+http://travellermap.com/api/sec?sector=SEC&hex=HEX
+<br>
+
+<a href="http://travellermap.com/api/sec?sx=SX&sy=SY">
+http://travellermap.com/api/sec?sx=SX&sy=SY
+<br>
+
+<a href="http://travellermap.com/api/metadata?sector=SEC">
+http://travellermap.com/api/metadata?sector=SEC
+<br>
+
+<a href="http://travellermap.com/api/metadata?sx=SX&sy=SY">
+http://travellermap.com/api/metadata?sx=SX&sy=SY
+<br>
+
+<a href="http://www.travellermap.com/api/metadata?sector=SEC">
+http://www.travellermap.com/api/metadata?sector=SEC
+<br>
+
+<a href="http://www.travellermap.com/api/msec?sector=SEC">
+http://www.travellermap.com/api/msec?sector=SEC
+<br>
+
+<a href="http://www.travellermap.com/api/universe?era=ERA">
+http://www.travellermap.com/api/universe?era=ERA
+<br>
+
+<a href="http://www.travellermap.com/api/tile?x=-24.5&y=Y8&scale=SCALE&options=OPTIONS &style=STYLE">
+http://www.travellermap.com/api/tile?x=-24.5&y=Y8&scale=SCALE&options=OPTIONS &style=STYLE
+<br>
+
+<a href="http://travellermap.com/api/poster?sector=SEC">
+http://travellermap.com/api/poster?sector=SEC
+<br>
+
+<a href="http://travellermap.com/api/poster?sector=SEC">
+http://travellermap.com/api/poster?sector=SEC
+<br>
+
+<a href="http://travellermap.com/api/jumpmap?x=X&y=Y">
+http://travellermap.com/api/jumpmap?x=X&y=Y
+<br>
+
+<a href="http://travellermap.com/api/jumpmap?sx=SX&-1=sy&hx=HX&hy=HY">
+http://travellermap.com/api/jumpmap?sx=SX&-1=sy&hx=HX&hy=HY
+<br>
+
+<a href="http://travellermap.com/api/jumpmap?sector=SEC&hex=HEX">
+http://travellermap.com/api/jumpmap?sector=SEC&hex=HEX
+<br>
+
+<a href="http://travellermap.com/api/msec?sector=SEC">
+http://travellermap.com/api/msec?sector=SEC
+<br>
+
+<a href="http://travellermap.com/api/msec?sx=SX&sy=SY">
+http://travellermap.com/api/msec?sx=SX&sy=SY
+<br>
+
+<a href="http://travellermap.com/api/jumpworlds?x=X&y=Y">
+http://travellermap.com/api/jumpworlds?x=X&y=Y
+<br>
+
+<a href="http://travellermap.com/api/jumpworlds?sx=SX&sy=SY&hx=HX&hy=HY">
+http://travellermap.com/api/jumpworlds?sx=SX&sy=SY&hx=HX&hy=HY
+<br>
+
+<a href="http://travellermap.com/api/jumpworlds?sector=SEC
+&hex=HEX">http://travellermap.com/api/jumpworlds?sector=SEC&hex=HEX
+<br>
+
+<a href="http://travellermap.com/api/search?q=NAME">
+http://travellermap.com/api/search?q=NAME
+<br>
+
+<a href="http://travellermap.com/api/universe">
+http://travellermap.com/api/universe
+<br>
+
+<a href="http://www.travellermap.com/api/coordinates?sector=SEC&hex=HEX">
+http://www.travellermap.com/api/coordinates?sector=SEC&hex=HEX
+<br>
+
+<a href="http://travellermap.com/data">
+http://travellermap.com/data
+<br>
+
+<a href="http://travellermap.com/data/SEC">
+http://travellermap.com/data/SEC
+<br>
+
+<a href="http://travellermap.com/data/SEC/tab">
+http://travellermap.com/data/SEC/tab
+<br>
+
+<a href="http://travellermap.com/data/SEC/sec">
+http://travellermap.com/data/SEC/sec
+<br>
+
+<a href="http://travellermap.com/data/SEC/metadata">
+http://travellermap.com/data/SEC/metadata
+<br>
+
+<a href="http://travellermap.com/data/SEC/msec">
+http://travellermap.com/data/SEC/msec
+<br>
+
+<a href="http://travellermap.com/data/SEC/image">
+http://travellermap.com/data/SEC/image
+<br>
+
+<a href="http://travellermap.com/data/SEC/coordinates">
+http://travellermap.com/data/SEC/coordinates
+<br>
+
+<a href="http://travellermap.com/data/SEC/credits">
+http://travellermap.com/data/SEC/credits
+<br>
+
+<a href="http://travellermap.com/data/SEC/A">
+http://travellermap.com/data/SEC/A
+<br>
+
+<a href="http://travellermap.com/data/SEC/B">
+http://travellermap.com/data/SEC/B
+<br>
+
+<a href="http://travellermap.com/data/SEC/C">
+http://travellermap.com/data/SEC/C
+<br>
+
+<a href="http://travellermap.com/data/SEC/D">
+http://travellermap.com/data/SEC/D
+<br>
+
+<a href="http://travellermap.com/data/SEC/E">
+http://travellermap.com/data/SEC/E
+<br>
+
+<a href="http://travellermap.com/data/SEC/F">
+http://travellermap.com/data/SEC/F
+<br>
+
+<a href="http://travellermap.com/data/SEC/G">
+http://travellermap.com/data/SEC/G
+<br>
+
+<a href="http://travellermap.com/data/SEC/H">
+http://travellermap.com/data/SEC/H
+<br>
+
+<a href="http://travellermap.com/data/SEC/I">
+http://travellermap.com/data/SEC/I
+<br>
+
+<a href="http://travellermap.com/data/SEC/J">
+http://travellermap.com/data/SEC/J
+<br>
+
+<a href="http://travellermap.com/data/SEC/K">
+http://travellermap.com/data/SEC/K
+<br>
+
+<a href="http://travellermap.com/data/SEC/L">
+http://travellermap.com/data/SEC/L
+<br>
+
+<a href="http://travellermap.com/data/SEC/M">
+http://travellermap.com/data/SEC/M
+<br>
+
+<a href="http://travellermap.com/data/SEC/N">
+http://travellermap.com/data/SEC/N
+<br>
+
+<a href="http://travellermap.com/data/SEC/O">
+http://travellermap.com/data/SEC/O
+<br>
+
+<a href="http://travellermap.com/data/SEC/P">
+http://travellermap.com/data/SEC/P
+<br>
+
+<a href="http://travellermap.com/data/SEC/C/tab">
+http://travellermap.com/data/SEC/C/tab
+<br>
+
+<a href="http://travellermap.com/data/SEC/C/sec">
+http://travellermap.com/data/SEC/C/sec
+<br>
+
+<a href="http://travellermap.com/data/SEC/C/image">
+http://travellermap.com/data/SEC/C/image
+<br>
+
+<a href="http://travellermap.com/data/SEC/HEX/coordinates">
+http://travellermap.com/data/SEC/HEX/coordinates
+<br>
+
+<a href="http://travellermap.com/data/SEC/HEX/credits">
+http://travellermap.com/data/SEC/HEX/credits
+<br>
+
+<a href="http://travellermap.com/data/SEC/HEX/jump/9">
+http://travellermap.com/data/SEC/HEX/jump/9
+<br>
+
+<a href="http://travellermap.com/data/SEC/HEX/jump/9/image">
+http://travellermap.com/data/SEC/HEX/jump/9/image
+<br>
+
+<a href="http://travellermap.com/data/SEC/coordinates">
+http://travellermap.com/data/SEC/coordinates
+<br>
+
+<a href="http://travellermap.com/data/SEC/HEX/coordinates">
+http://travellermap.com/data/SEC/HEX/coordinates
+<br>
+
+<a href="http://travellermap.com/data/SEC/credits">
+http://travellermap.com/data/SEC/credits
+<br>
+
+<a href="http://travellermap.com/data/SEC/HEX/credits">
+http://travellermap.com/data/SEC/HEX/credits
+<br>
+
+<a href="http://travellermap.com/data/SEC">
+http://travellermap.com/data/SEC
+<br>
+
+<a href="http://travellermap.com/data/SEC/sec">
+http://travellermap.com/data/SEC/sec
+<br>
+
+<a href="http://travellermap.com/data/SEC/tab">
+http://travellermap.com/data/SEC/tab
+<br>
+
+<a href="http://travellermap.com/data/SEC/C">
+http://travellermap.com/data/SEC/C
+<br>
+
+<a href="http://travellermap.com/data/SEC/C/sec">
+http://travellermap.com/data/SEC/C/sec
+<br>
+
+<a href="http://travellermap.com/data/SEC/C/tab">
+http://travellermap.com/data/SEC/C/tab
+<br>
+
+<a href="http://travellermap.com/data/SEC/metadata">
+http://travellermap.com/data/SEC/metadata
+<br>
+
+<a href="http://travellermap.com/data/SEC/msec">
+http://travellermap.com/data/SEC/msec
+<br>
+
+<a href="http://travellermap.com/data/SEC/HEX/jump/9">
+http://travellermap.com/data/SEC/HEX/jump/9
+<br>
+
+<a href="http://travellermap.com/data/SEC/HEX/jump/9/image">
+http://travellermap.com/data/SEC/HEX/jump/9/image
+<br>
+
+<a href="http://travellermap.com/data">
+http://travellermap.com/data
+</a href>
+<br>
+<br>
+<br>
+<br>

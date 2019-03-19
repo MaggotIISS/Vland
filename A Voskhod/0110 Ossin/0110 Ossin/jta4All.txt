@@ -1,0 +1,56 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Ossin	B100877-C	(Temperate)
+	  Ring @ Orbit ?
+1 = World  (Worldlet)	F-251440-3
+2 = LGG (90,000 mi dia.)	S=27
+	  StormWorld	  	F-213343-6 @ Orbit C
+	  StormWorld	  	Y-202000-0 @ Orbit D
+	  IceWorld	  	F-2C0643-6 @ Orbit I
+	  OuterWorld	  	F-245325-7 @ Orbit WWorld  (StormWorld)	Y-256000-J
+	  Worldlet	  	H-221535-2 @ Orbit K
+3 = LGG (90,000 mi dia.)	S=27
+	  BigWorld	  	Y-245364-6 @ Orbit F
+	  OuterWorld	  	H-210578-8 @ Orbit G
+	  OuterWorld	  	G-298541-5 @ Orbit U
+4 = SGG (40,000 mi dia.)	S=22
+	  StormWorld	  	Y-246387-B @ Orbit E
+	  OuterWorld	  	Y-231787-5 @ Orbit T
+5 = LGG (90,000 mi dia.)	S=27
+	  RadWorld	  	Y-246000-0 @ Orbit I
+	  RadWorld	  	Y-254000-0 @ Orbit J
+	  RadWorld	  	Y-220000-0 @ Orbit Q
+	  StormWorld	  	G-200397-7 @ Orbit T
+	  StormWorld	  	H-246354-9 @ Orbit V
+6 = LGG (60,000 mi dia.)	S=24
+	  StormWorld	  	Y-246000-0 @ Orbit I
+7 = 
+8 = 
+9 = 
+10 = 
+11 = World  (StormWorld)	H-200157-7
+	  Worldlet	  	Y-252536-6 @ Orbit C
+	  RadWorld	  	Y-298000-0 @ Orbit P
+	  IceWorld	  	Y-2A0775-7 @ Orbit U
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 12
+W = 9
+syscount = 1
+min = 0
+count = 8

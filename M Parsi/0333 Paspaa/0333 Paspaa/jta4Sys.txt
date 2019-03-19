@@ -1,0 +1,14 @@
+Hex = 0333
+Name = Paspaa
+UWP = A554455-E
+Remarks = Ni Pa
+{Ix} = { 1 }
+(Ex) = (734-1)
+[Cx] = [253C]
+N = Bc
+B = N
+Z = -
+PBG = 510
+W = 11
+A = ImDv
+Stellar = K3 V G0 V

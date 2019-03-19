@@ -1,0 +1,302 @@
+Vland/H Shiigus
+
+2511 Iigshuren - B66A766-C
+	SDB Squadrons = 1
+	Troop CF = 2
+	Defence CF = 12
+  TROOP FORCES
+0001-1000-2(2)-C
+
+
+
+2513 Shiigus - A5717CB-B
+	SDB Squadrons = 1
+	Troop CF = 2
+	Defence CF = 12
+  TROOP FORCES
+0001-1000-2(2)-B
+
+
+
+2515 Gookir - B9D787C-A
+	SDB Squadrons = 10
+	Starship Squadrons = 1
+	Troop CF = 5
+	Defence CF = 100
+  TROOP FORCES
+0001-2000-5(5)-A
+
+
+
+2519 Muukakam - B52368C-A
+	Defence CF = 1
+
+2611 Kimii - D403750-8
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 5
+  TROOP FORCES
+0001-0000-1(1)-8
+
+
+
+2613 Kusu - A541676-B
+	Defence CF = 2
+
+2620 Mennoral - B858723-9
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 10
+  TROOP FORCES
+0001-0000-1(1)-9
+
+
+
+---HI POP TARGET---
+2713 Aanshi - BA8AA97-C
+	SDB Squadrons = 1200
+	Starship Squadrons = 4
+	Troop CF = 500
+	Defence CF = 12000
+  TROOP FORCES
+0001-7000-500(500)-C
+
+
+
+2812 Alkhaas - E99769D-6
+	Defence CF = 1
+
+---HI POP TARGET---
+2816 Faranidon - B6569AD-9
+	SDB Squadrons = 100
+	Starship Squadrons = 2
+	Troop CF = 20
+	Defence CF = 1000
+  TROOP FORCES
+0001-4000-20(20)-9
+
+
+
+2818 Tazaris - C9B4688-9
+	Defence CF = 1
+
+---HI POP TARGET---
+2914 Mimere - B9B6999-D
+	SDB Squadrons = 150
+	Starship Squadrons = 3
+	Troop CF = 100
+	Defence CF = 1500
+  TROOP FORCES
+0001-6000-100(100)-D
+
+
+
+2915 Lormiza - B435652-D
+	Defence CF = 2
+
+2918 Beroni - C563777-8
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 5
+  TROOP FORCES
+0001-0000-1(1)-8
+
+
+
+2920 Sidenis - D31067B-8
+	Defence CF = 1
+
+---HI POP TARGET---
+3011 Lourer - E594A8A-A
+	SDB Squadrons = 1000
+	Starship Squadrons = 3
+	Troop CF = 100
+	Defence CF = 10000
+  TROOP FORCES
+0001-6000-100(100)-A
+
+
+
+3018 Sikal - C545644-8
+	Defence CF = 1
+
+3020 Trilorn - C100858-C
+	SDB Squadrons = 12
+	Starship Squadrons = 1
+	Troop CF = 10
+	Defence CF = 120
+  TROOP FORCES
+0001-3000-10(10)-C
+
+
+
+3116 Kirlasesh - C546684-8
+	Defence CF = 1
+
+3117 Altman - A561674-B
+	Defence CF = 2
+
+---HI POP TARGET---
+3212 Amnukun - B41097B-E
+	SDB Squadrons = 150
+	Starship Squadrons = 3
+	Troop CF = 100
+	Defence CF = 1500
+  TROOP FORCES
+0001-6000-100(100)-E
+
+
+
+---HI POP TARGET---
+3215 Shaia - B64A998-E
+	SDB Squadrons = 150
+	Starship Squadrons = 3
+	Troop CF = 100
+	Defence CF = 1500
+  TROOP FORCES
+0001-6000-100(100)-E
+
+
+
+
+2515-B9D787C-A
+Commodore Alliglakinpa
+	Prec 15
+	Plan  5
+	Tactics -1
+	C001-1U-630-6-A
+
+2713-BA8AA97-C
+Commodore Ag
+	Prec 9
+	Plan  5
+	Tactics -1
+	C001-1U-840-8-C
+
+2713-BA8AA97-C
+Commodore Iikgalarbii
+	Prec 10
+	Plan  4
+	Tactics 1
+	C002-1U-840-8-C
+
+2713-BA8AA97-C
+Commodore Mem
+	Prec 8
+	Plan  5
+	Tactics 2
+	C003-1U-840-8-C
+
+2713-BA8AA97-C
+Commodore Emguglemkipkhi
+	Prec 7
+	Plan  0
+	Tactics 2
+	C004-1U-840-8-C
+
+2816-B6569AD-9
+Commodore Udluik
+	Prec 15
+	Plan  0
+	Tactics 1
+	C001-1U-730-7-9
+
+2816-B6569AD-9
+Commodore Askha
+	Prec 9
+	Plan  2
+	Tactics -1
+	C002-1U-730-7-9
+
+2914-B9B6999-D
+Commodore Khiirrundaauu
+	Prec 12
+	Plan  2
+	Tactics -2
+	C001-2U-730-7-D
+
+2914-B9B6999-D
+Commodore Aakiinakuel
+	Prec 11
+	Plan  5
+	Tactics 0
+	C002-2U-730-7-D
+
+2914-B9B6999-D
+Commodore Iklugeshkhashaa
+	Prec 11
+	Plan  3
+	Tactics 0
+	C003-2U-730-7-D
+
+3011-E594A8A-A
+Commodore Na
+	Prec 11
+	Plan  5
+	Tactics 2
+	C001-1U-840-8-A
+
+3011-E594A8A-A
+Commodore Alshiiig
+	Prec 12
+	Plan  5
+	Tactics 2
+	C002-1U-840-8-A
+
+3011-E594A8A-A
+Commodore Aukhush
+	Prec 9
+	Plan  3
+	Tactics -1
+	C003-1U-840-8-A
+
+3020-C100858-C
+Commodore Auknir
+	Prec 9
+	Plan  2
+	Tactics 1
+	C001-1U-630-6-C
+
+3212-B41097B-E
+Commodore Ikhka
+	Prec 10
+	Plan  3
+	Tactics -1
+	C001-3U-730-7-E
+
+3212-B41097B-E
+Commodore Uskuush
+	Prec 8
+	Plan  5
+	Tactics 1
+	C002-3U-730-7-E
+
+3212-B41097B-E
+Commodore Ad
+	Prec 10
+	Plan  4
+	Tactics -1
+	C003-3U-730-7-E
+
+3215-B64A998-E
+Commodore Ik
+	Prec 6
+	Plan  4
+	Tactics -2
+	C001-3U-730-7-E
+
+3215-B64A998-E
+Commodore Usgigsa
+	Prec 13
+	Plan  5
+	Tactics -1
+	C002-3U-730-7-E
+
+3215-B64A998-E
+Commodore Ul
+	Prec 12
+	Plan  5
+	Tactics -1
+	C003-3U-730-7-E
+
+

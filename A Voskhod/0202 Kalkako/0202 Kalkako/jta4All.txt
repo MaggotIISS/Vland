@@ -1,0 +1,81 @@
+Primary = F8 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	F	Yellow-White	6,000-7,500
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 3
+	d1000Limit = 7
+	Min Orbit = 0
+	HZ =  4
+0 = World  (BigWorld)	G220367-4
+1 = Planetoid belt	H000346-7World  (Inferno)	Y2B0000-0World  (RadWorld)	Y253000-0World  (BigWorld)	H225337-9World  (RadWorld)	Y266000-0
+	  Ring @ Orbit ?
+2 = Planetoid belt	F000334-9
+3 = LGG (90,000 mi dia.)	S=27
+	  BigWorld	  	F240389-9 @ Orbit E
+	  RadWorld	  	Y220000-0 @ Orbit F
+	  Worldlet	  	H274334-7 @ Orbit G
+	  RadWorld	  	Y268000-0 @ Orbit J
+	  RadWorld	  	Y235000-0 @ Orbit IWorld  (Inferno)	Y2B0000-R
+	  Worldlet	  	H162336-7 @ Orbit S
+	  Inferno	  	Y2B0000-0 @ Orbit T
+	  BigWorld	  	H2A4388-6 @ Orbit U
+	  Worldlet	  	H086356-8 @ Orbit V
+	  StormWorld	  	Y200000-0 @ Orbit W
+4 = Mainworld	Kalkako	C544405-A	(Temperate)
+	  Ring @ Orbit ?
+5 = LGG (90,000 mi dia.)	S=27
+	  Worldlet	  	Y233364-9 @ Orbit F
+	  Inferno	  	Y2B0000-0 @ Orbit G
+	  Hospitable	  	H245379-9 @ Orbit H
+	  StormWorld	  	Y220000-0 @ Orbit U
+	  BigWorld	  	H2003AD-9 @ Orbit W
+6 = STAR K2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  3
+	HZ =  -1
+	6-0 = 
+	6-1 = 
+	6-2 = 
+	6-3 = 
+7 = LGG (70,000 mi dia.)	S=25
+	  RadWorld	  	Y210000-0 @ Orbit E
+	  OuterWorld	  	H2D6250-7 @ Orbit S
+	  StormWorld	  	Y246000-0 @ Orbit T
+	  RadWorld	  	Y288000-0 @ Orbit V
+	  IceWorld	  	G25238A-4 @ Orbit W
+8 = LGG (70,000 mi dia.)	S=25
+	  Worldlet	  	F095205-8 @ Orbit E
+	  IceWorld	  	H250347-8 @ Orbit H
+	  IceWorld	  	H290354-8 @ Orbit J
+	  IceWorld	  	H2003BF-4 @ Orbit HWorld  (Worldlet)	H075334-S
+	  Ring @ Orbit U
+9 = World  (BigWorld)	Y200310-3
+	  Ring @ Orbit ?
+10 = World  (Worldlet)	H041333-8
+11 = World  (Inferno)	Y2B0000-0
+	  Worldlet	  	H010365-4 @ Orbit D
+	  OuterWorld	  	Y200323-9 @ Orbit R
+	  IceWorld	  	Y281335-9 @ Orbit S
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 8
+W = 17
+syscount = 2
+min = 0
+count = 12

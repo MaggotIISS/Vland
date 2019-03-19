@@ -1,0 +1,56 @@
+Primary = K2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (Inferno)	Y2B0000-0
+	  RadWorld	  	Y286000-0 @ Orbit JWorld  (Worldlet)	Y2B5120-T
+	  Ring @ Orbit V
+1 = Mainworld	Kuk	C540222-8	(Hot)
+2 = LGG (80,000 mi dia.)	S=26
+	  Ring @ Orbit ?
+3 = World  (BigWorld)	F299167-7
+4 = World  (RadWorld)	Y247000-0
+	  IceWorld	  	H2601CE-7 @ Orbit E
+	  Worldlet	  	Y00018C-7 @ Orbit J
+	  Worldlet	  	G268168-7 @ Orbit T
+5 = STAR K6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  2
+	HZ =  -1
+	5-0 = 
+	5-1 = 
+	5-2 = 
+6 = World  (Worldlet)	G2A6132-6
+7 = 
+8 = 
+9 = 
+10 = 
+11 = 
+12 = World  (RadWorld)	Y200000-0
+	  IceWorld	  	F270154-7 @ Orbit U
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 12
+W = 8
+syscount = 2
+min = 0
+count = 8

@@ -1,0 +1,14 @@
+Hex = 1632
+Name = Imdur
+UWP = E540100-8
+Remarks = De He Lo Po
+{Ix} = { -3 }
+(Ex) = (411-5)
+[Cx] = [1113]
+N = B
+B = -
+Z = -
+PBG = 810
+W = 8
+A = ImDv
+Stellar = M1 V

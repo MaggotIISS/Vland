@@ -1,0 +1,14 @@
+Hex = 0633
+Name = Kamar Kurker
+UWP = E554524-7
+Remarks = Ag Ni
+{Ix} = { -2 }
+(Ex) = (742-4)
+[Cx] = [3335]
+N = BC
+B = -
+Z = -
+PBG = 410
+W = 6
+A = ImDv
+Stellar = K1 V

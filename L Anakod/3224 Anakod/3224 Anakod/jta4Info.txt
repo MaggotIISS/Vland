@@ -1,0 +1,77 @@
+Hex = 3224
+Name = Anakod
+UWP = A796258-E
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+Atmosphere = 9
+	DIGIT	DESCRIPTION	EFFECTS
+	9	Dense, Tainted	P1
+Hydrosphere = 6
+	DIGIT	DESCRIPTION
+	6	60%
+Population = 2
+	POPULATION UNDER 100
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+Law Level = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	High Law	Open display of weapons prohibited
+Tech Level = E
+	DIGIT		
+	E		
+Remarks = Lo An
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+	An							Ancient Site	
+{Ix} = { 1 }
+	Starport A = +1
+	TL 14 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (A11+1)
+	Resources =  10
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  1
+	RU = 10
+[Cx] = [235E]
+	Homogeneity = 2
+	Acceptance = 3
+	Strangeness = 5
+	Symbols = 14
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 124
+	Population Multiplier = 1
+	POPULATION UNDER 100
+	Planetoid Belts = 2
+	Gas Giants = 4
+W = 13
+	Non Stars In System = 13
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-4 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = F7 V
+	Stars = 1

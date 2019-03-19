@@ -1,0 +1,14 @@
+Hex = 1539
+Name = Zarurza
+UWP = B95A500-B
+Remarks = Ni Wa
+{Ix} = { 1 }
+(Ex) = (A45-3)
+[Cx] = [1616]
+N = B
+B = -
+Z = -
+PBG = 812
+W = 9
+A = ImDv
+Stellar = M1 V F6 V G6 V

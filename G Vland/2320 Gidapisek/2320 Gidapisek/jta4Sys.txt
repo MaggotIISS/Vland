@@ -1,0 +1,14 @@
+Hex = 2320
+Name = Gidapisek
+UWP = B200623-C
+Remarks = Na Ni Va
+{Ix} = { 1 }
+(Ex) = (955-2)
+[Cx] = [3729]
+N = B
+B = -
+Z = -
+PBG = 810
+W = 11
+A = ImDv
+Stellar = K7 V

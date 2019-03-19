@@ -1,0 +1,39 @@
+E564869-6
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+
+Atmosphere = 6
+	DIGIT	DESCRIPTION	EFFECTS
+	6	Standard	
+
+Hydrosphere = 4
+	DIGIT	DESCRIPTION
+	4	40%
+
+Population = 8
+	POPULATION UNDER 700,000,000
+	DIGIT	DESCRIPTION	VALUE
+	8	Hundred million	00,000,000
+
+Government = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Captive Government/Colony	Rule by a leadership answerable to an outside group
+
+Law Level = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	High Law	Weapons outside the home prohibited
+
+Tech Level = 6
+	DIGIT		
+	6		
+

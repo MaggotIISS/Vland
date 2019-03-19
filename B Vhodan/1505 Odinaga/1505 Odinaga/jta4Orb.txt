@@ -1,0 +1,85 @@
+Primary = M0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Odinaga	A2016A9-C	(Temperate)
+	  Ring @ Orbit ?LGG (180,000 mi dia.)	S=2B
+	  BigWorld	  	HGA4474-4 @ Orbit EWorld  (Worldlet)	F08A554-D
+	  Worldlet	  	Y03158A-7 @ Orbit F
+	  Worldlet	  	H269344-8 @ Orbit G
+	  BigWorld	  	GG86122-8 @ Orbit LWorld  (BigWorld)	FA0059B-J
+	  BigWorld	  	YE50100-4 @ Orbit L
+	  Inferno	  	Y7B0000-0 @ Orbit Q
+	  Inferno	  	Y3B0000-0 @ Orbit GWorld  (BigWorld)	YC31335-R
+	  Inferno	  	Y7B0000-0 @ Orbit S
+	  Inferno	  	Y5B0000-0 @ Orbit T
+	  Inferno	  	Y4B0000-0 @ Orbit U
+	  StormWorld	  	YB30198-7 @ Orbit V
+	  Hospitable	  	F89A553-8 @ Orbit Y
+1 = LGG (80,000 mi dia.)	S=26
+	  StormWorld	  	Y921000-0 @ Orbit H
+	  StormWorld	  	FB00189-2 @ Orbit S
+	  BigWorld	  	HF8A556-6 @ Orbit U
+2 = 
+3 = 
+4 = World  (Worldlet)	H220567-6
+	  Ring @ Orbit ?
+5 = 
+6 = LGG (80,000 mi dia.)	S=26
+	  BigWorld	  	Y-120577-7 @ Orbit F
+	  BigWorld	  	F-1205DA-4 @ Orbit U
+7 = 
+8 = 
+9 = 
+10 = World  (BigWorld)	FB00245-3
+	  RadWorld	  	Y8A5000-0 @ Orbit U
+	  StormWorld	  	Y362000-0 @ Orbit W
+	  OuterWorld	  	H567224-B @ Orbit X
+11 = 
+12 = 
+13 = 
+14 = 
+15 = World  (Worldlet)	G240565-B
+	  IceWorld	  	F8A0102-A @ Orbit C
+	  RadWorld	  	YAF6000-0 @ Orbit D
+	  Worldlet	  	H056343-4 @ Orbit W
+16 = STAR M5 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 0
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  13
+	HZ =  -1
+	16-0 = 
+	16-1 = 
+	16-2 = 
+	16-3 = 
+	16-4 = 
+	16-5 = 
+	16-6 = 
+	16-7 = 
+	16-8 = 
+	16-9 = 
+	16-10 = 
+	16-11 = 
+	16-12 = 
+	16-13 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 13
+W = 10
+syscount = 2
+min = 0
+count = 7

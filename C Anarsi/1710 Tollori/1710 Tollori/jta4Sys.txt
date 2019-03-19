@@ -1,0 +1,14 @@
+Hex = 1710
+Name = Tollori
+UWP = B884536-9
+Remarks = Ag Ni Pr
+{Ix} = { 2 }
+(Ex) = (846+1)
+[Cx] = [4748]
+N = BcC
+B = NS
+Z = -
+PBG = 501
+W = 7
+A = ImDv
+Stellar = M3 V

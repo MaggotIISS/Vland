@@ -1,0 +1,14 @@
+Hex = 1821
+Name = Iikhok
+UWP = B43449A-D
+Remarks = Ni
+{Ix} = { 1 }
+(Ex) = (C34+3)
+[Cx] = [657F]
+N = B
+B = -
+Z = -
+PBG = 724
+W = 16
+A = ImDv
+Stellar = M2 V

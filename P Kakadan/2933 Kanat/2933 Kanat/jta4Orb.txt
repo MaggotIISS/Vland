@@ -1,0 +1,54 @@
+Primary = M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = LGG (125,000 mi dia.)	S=28
+	  Ring @ Orbit ?
+1 = Mainworld	Kanat	B567359-B	(Cold)
+	  Hospitable	  	Y298242-6 @ Orbit C
+	  Hospitable	  	F210295-8 @ Orbit U
+2 = Planetoid belt	H000200-9World  (Worldlet)	Y173278-A
+	  Inferno	  	Y2B0000-0 @ Orbit SWorld  (RadWorld)	Y267000-S
+	  Worldlet	  	H085268-8 @ Orbit U
+3 = World  (BigWorld)	F27428A-8
+	  StormWorld	  	Y262000-0 @ Orbit FWorld  (Hospitable)	F236287-5
+4 = LGG (80,000 mi dia.)	S=26
+	  IceWorld	  	Y2C029C-7 @ Orbit C
+	  RadWorld	  	Y225000-0 @ Orbit E
+	  Worldlet	  	F000276-8 @ Orbit G
+	  OuterWorld	  	Y28A266-6 @ Orbit H
+	  StormWorld	  	Y220000-0 @ Orbit WWorld  (StormWorld)	Y226000-I
+	  RadWorld	  	Y2B6000-0 @ Orbit T
+	  StormWorld	  	Y200000-0 @ Orbit U
+5 = 
+6 = World  (BigWorld)	H256200-9
+7 = LGG (250,000 mi dia.)	S=31
+	  BigWorld	  	Y2A6299-6 @ Orbit R
+	  RadWorld	  	Y246000-0 @ Orbit Y
+8 = 
+9 = 
+10 = World  (RadWorld)	Y285000-0
+	  Worldlet	  	Y088234-8 @ Orbit E
+	  Worldlet	  	Y234200-4 @ Orbit H
+11 = 
+12 = 
+13 = World  (Hospitable)	H243233-8
+	  Worldlet	  	H0B6264-3 @ Orbit X
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 11
+syscount = 1
+min = 0
+W = 13
+Extra Stars = 0
+count = 9

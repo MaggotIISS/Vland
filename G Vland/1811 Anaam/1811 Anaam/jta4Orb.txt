@@ -1,0 +1,42 @@
+Primary = G1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  4
+0 = World  (BigWorld)	HE8A255-7World  (RadWorld)	Y3A6000-0
+1 = Planetoid belt	F000638-8World  (Hospitable)	H5A6312-A
+2 = World  (Worldlet)	F06A5AA-4
+3 = World  (Inferno)	YAB0000-0
+4 = World  (BigWorld)	HD53652-5
+5 = Mainworld	Anaam	C424753-B	(Cold)
+	Orbits LGG (80,000 mi dia.)	S=26 @ orbit R
+	  StormWorld	  	Y400000-0 @ Orbit P
+	  RadWorld	  	Y867000-0 @ Orbit S
+6 = World  (Worldlet)	F010666-7
+	  Ring @ Orbit ?
+7 = 
+8 = 
+9 = 
+10 = World  (Hospitable)	G722121-5
+	  Ring @ Orbit ?
+11 = 
+12 = World  (Hospitable)	F200549-8
+	  Worldlet	  	G267633-5 @ Orbit F
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 11
+W = 11
+syscount = 1
+min = 0
+count = 9

@@ -1,0 +1,14 @@
+Hex = 2229
+Name = Munakhiin
+UWP = D2027BB-8
+Remarks = Ic Na Va Pi Pz
+{Ix} = { -2 }
+(Ex) = (A66+1)
+[Cx] = [957A]
+N = BD
+B = S
+Z = A
+PBG = 910
+W = 7
+A = ImDv
+Stellar = K5 V

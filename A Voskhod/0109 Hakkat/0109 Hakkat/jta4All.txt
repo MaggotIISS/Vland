@@ -1,0 +1,54 @@
+Primary = G1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  4
+0 = World  (Inferno)	Y3B0000-0World  (Hospitable)	Y365479-5
+1 = 
+2 = 
+3 = World  (RadWorld)	Y397000-0
+	  RadWorld	  	Y300000-0 @ Orbit R
+4 = World  (BigWorld)	G342257-5
+5 = Mainworld	Hakkat	C658887-6	(Cold)
+	  StormWorld	  	Y324000-0 @ Orbit Q
+	  RadWorld	  	Y300000-0 @ Orbit U
+6 = LGG (125,000 mi dia.)	S=28
+	  StormWorld	  	Y300158-5 @ Orbit F
+	  Worldlet	  	Y03078B-5 @ Orbit G
+	  RadWorld	  	Y364000-0 @ Orbit I
+	  RadWorld	  	Y366000-0 @ Orbit J
+	  Worldlet	  	Y39A451-5 @ Orbit U
+7 = LGG (50,000 mi dia.)	S=23
+	  StormWorld	  	Y3A2000-0 @ Orbit O
+	  Worldlet	  	G270657-5 @ Orbit P
+8 = LGG (80,000 mi dia.)	S=26
+	  StormWorld	  	Y310000-0 @ Orbit F
+	  RadWorld	  	Y310000-0 @ Orbit H
+	  Worldlet	  	H2D6579-5 @ Orbit S
+	  OuterWorld	  	Y322536-3 @ Orbit X
+9 = World  (Hospitable)	G310345-4
+10 = World  (Hospitable)	H355449-3
+	  RadWorld	  	Y37A000-0 @ Orbit G
+	  StormWorld	  	Y324000-0 @ Orbit I
+	  OuterWorld	  	F345310-5 @ Orbit V
+11 = World  (BigWorld)	F310754-5
+	  Ring @ Orbit ?
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 10
+W = 13
+syscount = 1
+min = 0
+count = 10

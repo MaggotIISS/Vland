@@ -1,0 +1,75 @@
+Hex = 2101
+Name = Miiko Belt
+UWP = C000234-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 0
+	DIGIT	DIA(MI)	DIA(KM)
+	0	Asteroid Belt	varies
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 2
+	POPULATION UNDER 800
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+Government = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Self-Perpetuating Oligarchy	Rule by a restricted minority with little or no input from the masses
+Law Level = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Moderate Law	Laser, Beam weapons prohibited
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = As Lo Va
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	As	0	0	0				Asteroid	
+	Lo				123			Low Population	
+	Va		0					Vacuum	
+{Ix} = { -1 }
+	Pop < 7 = -1
+	Importance = Unimportant (-1)+0=-1
+(Ex) = (611-3)
+	Resources =  6
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -3
+	RU = -18
+[Cx] = [1137]
+	Homogeneity = 1
+	Acceptance = 1
+	Strangeness = 3
+	Symbols = 7
+N = -
+	No Imperial Nobles
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 820
+	Population Multiplier = 8
+	POPULATION UNDER 800
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 7
+	Non Stars In System = 7
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 4 other worlds
+A = CsIm
+	CODE	DESCRIPTION
+	CsIm	Client State, Third Imperium
+Stellar = F1 V
+	Stars = 1

@@ -1,0 +1,14 @@
+Hex = 2425
+Name = Martle
+UWP = C54099B-A
+Remarks = De He Hi In Po Pz
+{Ix} = { 3 }
+(Ex) = (H8D+5)
+[Cx] = [BC7C]
+N = BE
+B = S
+Z = A
+PBG = 424
+W = 10
+A = ImDv
+Stellar = M0 V

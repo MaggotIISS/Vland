@@ -1,0 +1,14 @@
+Hex = 1217
+Name = Estoff
+UWP = B6B6330-C
+Remarks = Fl Lo
+{Ix} = { 1 }
+(Ex) = (721-3)
+[Cx] = [1417]
+N = B
+B = N
+Z = -
+PBG = 620
+W = 11
+A = ImDv
+Stellar = M2 V

@@ -1,0 +1,75 @@
+Hex = 2325
+Name = Derkhuun
+UWP = E310224-9
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 3
+	DIGIT	DIA(MI)	DIA(KM)
+	3	3,000	4,800
+Atmosphere = 1
+	DIGIT	DESCRIPTION	EFFECTS
+	1	Trace	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 2
+	POPULATION UNDER 200
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+Government = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Participating Democracy	Rule by popular vote
+Law Level = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Moderate Law	Laser, Beam weapons prohibited
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+{Ix} = { -2 }
+	Starport E = -1
+	Pop < 7 = -1
+	Importance = Unimportant (-2)+0=-2
+(Ex) = (911-4)
+	Resources =  9
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -4
+	RU = -36
+[Cx] = [1137]
+	Homogeneity = 1
+	Acceptance = 1
+	Strangeness = 3
+	Symbols = 7
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 205
+	Population Multiplier = 2
+	POPULATION UNDER 200
+	Planetoid Belts = 0
+	Gas Giants = 5
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-5 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = F1 V K5 V
+	Stars = 2

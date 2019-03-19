@@ -1,0 +1,75 @@
+Hex = 0619
+Name = Lalaki
+UWP = A9B4785-D
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 9
+	DIGIT	DIA(MI)	DIA(KM)
+	9	9,000	14,400
+Atmosphere = B
+	DIGIT	DESCRIPTION	EFFECTS
+	B	Corrosive	C1 P1
+Hydrosphere = 4
+	DIGIT	DESCRIPTION
+	4	40%
+Population = 7
+	POPULATION UNDER 70,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+Government = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+Tech Level = D
+	DIGIT		
+	D		
+Remarks = Fl
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Fl		ABC	123456789A				Fluid	
+{Ix} = { 2 }
+	Starport A = +1
+	TL 13 = +1
+	Importance = Normal (2)+0=2
+(Ex) = (B6D+1)
+	Resources =  11
+	Labour =  6
+	Infrastructure =  13
+	Efficiency =  1
+	RU = 858
+[Cx] = [593B]
+	Homogeneity = 5
+	Acceptance = 9
+	Strangeness = 3
+	Symbols = 11
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 702
+	Population Multiplier = 7
+	POPULATION UNDER 70,000,000
+	Planetoid Belts = 0
+	Gas Giants = 2
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-2 (gas giants)
+	 = 7 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M3 V
+	Stars = 1

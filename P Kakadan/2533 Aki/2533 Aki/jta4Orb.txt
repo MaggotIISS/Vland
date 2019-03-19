@@ -1,0 +1,50 @@
+Primary = F5 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	F	Yellow-White	6,000-7,500
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 3
+	d1000Limit = 7
+	Min Orbit = 0
+	HZ =  5
+0 = World  (RadWorld)	Y321000-0
+1 = STAR M0 VWorld  (Inferno)	Y3B0000-0
+	  Ring @ Orbit ?World  (Hospitable)	H363638-I
+	  Worldlet	  	H07A733-3 @ Orbit T
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	NO Orbits
+2 = World  (StormWorld)	Y371000-0
+3 = World  (Worldlet)	H032434-4
+4 = World  (RadWorld)	Y377000-0World  (BigWorld)	H367375-5
+	  Worldlet	  	Y1479BF-6 @ Orbit H
+5 = Mainworld	Aki	D697AFF-A	(Temperate)
+6 = World  (Hospitable)	G344768-9World  (StormWorld)	H300257-7
+7 = 
+8 = 
+9 = Planetoid belt	F000567-7
+10 = World  (BigWorld)	G30037B-9
+11 = 
+12 = 
+13 = 
+14 = World  (Worldlet)	F244304-7
+	  StormWorld	  	Y362000-0 @ Orbit G
+	  OuterWorld	  	H38A7BB-9 @ Orbit V
+	  OuterWorld	  	Y3A6000-0 @ Orbit W
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 10
+syscount = 2
+min = 0
+W = 13
+Extra Stars = 1
+count = 10

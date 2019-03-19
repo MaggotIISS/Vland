@@ -1,0 +1,14 @@
+Hex = 1906
+Name = Envar
+UWP = D9C5333-9
+Remarks = Fl Lo
+{Ix} = { -2 }
+(Ex) = (621-5)
+[Cx] = [1126]
+N = B
+B = S
+Z = -
+PBG = 701
+W = 8
+A = ImDv
+Stellar = M2 V

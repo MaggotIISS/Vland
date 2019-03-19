@@ -1,0 +1,78 @@
+Hex = 1332
+Name = Nii Khu
+UWP = A55497B-C
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 5
+	DIGIT	DESCRIPTION	EFFECTS
+	5	This	S1
+Hydrosphere = 4
+	DIGIT	DESCRIPTION
+	4	40%
+Population = 9
+	POPULATION UNDER 5,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	9	Billion	,000,000,000
+Government = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Balkanization	Rival governments continually compete for control of the world
+Law Level = B
+	DIGIT	DESCRIPTION	NOTE
+	B	Extreme Law	Continental passports required
+Tech Level = C
+	DIGIT		
+	C		
+Remarks = Hi
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+{Ix} = { 3 }
+	Starport A = +1
+	TL 12 = +1
+	Hi  = +1
+	Importance = Normal (3)+0=3
+(Ex) = (C8E+5)
+	Resources =  12
+	Labour =  8
+	Infrastructure =  14
+	Efficiency =  5
+	RU = 6720
+[Cx] = [BC7E]
+	Homogeneity = 11
+	Acceptance = 12
+	Strangeness = 7
+	Symbols = 14
+N = BE
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 501
+	Population Multiplier = 5
+	POPULATION UNDER 5,000,000,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 13
+	Non Stars In System = 13
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 11 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K0 V M3 V
+	Stars = 2

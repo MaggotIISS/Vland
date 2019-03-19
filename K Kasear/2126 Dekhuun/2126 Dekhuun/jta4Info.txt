@@ -1,0 +1,80 @@
+Hex = 2126
+Name = Dekhuun
+UWP = B578797-A
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 7
+	DIGIT	DESCRIPTION	EFFECTS
+	7	Standard, Tainted	P1
+Hydrosphere = 8
+	DIGIT	DESCRIPTION
+	8	80%
+Population = 7
+	POPULATION UNDER 10,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+Government = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	Impersonal Bureaucracy	Impersonal agencies rule
+Law Level = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Moderate Law	Prohibition of Pistols
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = Ag Pi
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ag		456789	45678	567			Agricultural	
+	Pi		012479		78			Pre Industrial	
+{Ix} = { 3 }
+	Starport B = +1
+	TL 10 = +1
+	Ag  = +1
+	Importance = Normal (3)+0=3
+(Ex) = (B6C+3)
+	Resources =  11
+	Labour =  6
+	Infrastructure =  12
+	Efficiency =  3
+	RU = 2376
+[Cx] = [7A5A]
+	Homogeneity = 7
+	Acceptance = 10
+	Strangeness = 5
+	Symbols = 10
+N = BCD
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+	D	Marquis	Pi
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 120
+	Population Multiplier = 1
+	POPULATION UNDER 10,000,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 13
+	Non Stars In System = 13
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 10 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M3 V
+	Stars = 1

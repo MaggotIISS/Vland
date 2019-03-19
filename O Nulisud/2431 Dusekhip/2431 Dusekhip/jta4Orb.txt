@@ -1,0 +1,49 @@
+Primary = K7 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = LGG (220,000 mi dia.)	S=30
+	  BigWorld	  	G357766-B @ Orbit B
+	  Inferno	  	Y2B0000-0 @ Orbit UWorld  (Inferno)	Y3B0000-E
+	  StormWorld	  	Y346145-C @ Orbit S
+1 = 
+2 = World  (Hospitable)	G10058C-9
+3 = Mainworld	Dusekhip	B633964-D	(Cold)
+	  Inferno	  	Y3B0000-0 @ Orbit T
+4 = World  (RadWorld)	Y3A3000-0
+	  Ring @ Orbit ?
+5 = Planetoid belt	H00069A-6
+6 = LGG (50,000 mi dia.)	S=23
+	  Worldlet	  	G040645-8 @ Orbit F
+	  IceWorld	  	H360787-6 @ Orbit G
+	  OuterWorld	  	F3628EA-A @ Orbit P
+	  IceWorld	  	Y3607AD-8 @ Orbit R
+	  Worldlet	  	G089564-8 @ Orbit T
+7 = Planetoid belt	H0008A7-A
+8 = World  (Worldlet)	Y010677-A
+	  StormWorld	  	F300264-6 @ Orbit G
+	  StormWorld	  	Y360000-0 @ Orbit T
+9 = 
+10 = World  (RadWorld)	Y310000-0
+	  Ring @ Orbit ?
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 11
+syscount = 1
+min = 0
+W = 10
+Extra Stars = 0
+count = 9

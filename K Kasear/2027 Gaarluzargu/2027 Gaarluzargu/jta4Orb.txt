@@ -1,0 +1,60 @@
+Primary = M0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Gaarluzargu	B775799-8	(Temperate)
+	  Ring @ Orbit ?
+1 = World  (StormWorld)	Y455000-0
+	  StormWorld	  	Y400000-0 @ Orbit J
+2 = Planetoid belt	F00068B-5
+3 = World  (Hospitable)	H210310-6
+4 = Planetoid belt	H000135-7World  (Hospitable)	H4456BC-7
+	  Worldlet	  	F036553-7 @ Orbit T
+	  Worldlet	  	Y288134-7 @ Orbit U
+5 = 
+6 = 
+7 = 
+8 = 
+9 = 
+10 = 
+11 = STAR M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  8
+	HZ =  -1
+	11-0 = 
+	11-1 = 
+	11-2 = 
+	11-3 = 
+	11-4 = 
+	11-5 = 
+	11-6 = 
+	11-7 = 
+	11-8 = 
+12 = World  (BigWorld)	H45A46A-7
+	  Ring @ Orbit ?
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 13
+syscount = 2
+min = 0
+W = 7
+Extra Stars = 1
+count = 7

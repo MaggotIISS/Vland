@@ -1,0 +1,14 @@
+Hex = 2306
+Name = Nelak
+UWP = C64A6AA-A
+Remarks = Ni Wa Da
+{Ix} = { 0 }
+(Ex) = (954+2)
+[Cx] = [867C]
+N = B
+B = -
+Z = A
+PBG = 110
+W = 9
+A = ImDv
+Stellar = M0 V

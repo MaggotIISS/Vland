@@ -1,0 +1,50 @@
+Primary = M4 III
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	III	Normal Giant	4.6 - 360
+	d10Limit = 6
+	d100Limit = 9
+	d1000Limit = 12
+	Min Orbit = 4
+	HZ =  8
+4 = Planetoid belt	H0004DH-7
+5 = Planetoid belt	H000461-8
+6 = STAR K3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	III	Normal Giant	4.6 - 360
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  3
+	HZ =  -1
+	6-0 = 
+	6-1 = 
+	6-2 = 
+	6-3 = 
+7 = Mainworld	Etsur	D410552-A	(Hot)
+	  Worldlet	  	F130410-8 @ Orbit E
+	  Hospitable	  	Y110455-5 @ Orbit I
+8 = World  (Inferno)	Y1B0000-0
+	  Hospitable	  	Y12348D-6 @ Orbit R
+	  Inferno	  	Y1B0000-0 @ Orbit U
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = World  (BigWorld)	F159453-9
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 14
+W = 7
+syscount = 2
+min = 4
+count = 6

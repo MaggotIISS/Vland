@@ -1,0 +1,14 @@
+Hex = 3209
+Name = Veppim
+UWP = E684524-7
+Remarks = Ag Ni Pr
+{Ix} = { -2 }
+(Ex) = (742-4)
+[Cx] = [3335]
+N = BcC
+B = -
+Z = -
+PBG = 704
+W = 11
+A = ImDv
+Stellar = M2 V

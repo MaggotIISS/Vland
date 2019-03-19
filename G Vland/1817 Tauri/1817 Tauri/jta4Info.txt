@@ -1,0 +1,80 @@
+Hex = 1817
+Name = Tauri
+UWP = A430998-F
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 3
+	DIGIT	DESCRIPTION	EFFECTS
+	3	VThin	S2
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 9
+	POPULATION UNDER 4,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	9	Billion	,000,000,000
+Government = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	Impersonal Bureaucracy	Impersonal agencies rule
+Law Level = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	High Law	Open display of weapons prohibited
+Tech Level = F
+	DIGIT		
+	F		
+Remarks = De Hi Na Po
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	De	23456789	0					Desert	
+	Hi				9ABC			High Population	
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Po		2345	0123				Poor	
+{Ix} = { 3 }
+	Starport A = +1
+	TL 15 = +1
+	Hi  = +1
+	Importance = Normal (3)+0=3
+(Ex) = (D8F+3)
+	Resources =  13
+	Labour =  8
+	Infrastructure =  15
+	Efficiency =  3
+	RU = 4680
+[Cx] = [9C5F]
+	Homogeneity = 9
+	Acceptance = 12
+	Strangeness = 5
+	Symbols = 15
+N = BE
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 420
+	Population Multiplier = 4
+	POPULATION UNDER 4,000,000,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 7
+	Non Stars In System = 7
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 4 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K3 V
+	Stars = 1

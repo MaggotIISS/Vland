@@ -1,0 +1,78 @@
+Hex = 1102
+Name = Azu
+UWP = A547857-D
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 4
+	DIGIT	DESCRIPTION	EFFECTS
+	4	Thin, Tainted	P1, S1
+Hydrosphere = 7
+	DIGIT	DESCRIPTION
+	7	70%
+Population = 8
+	POPULATION UNDER 800,000,000
+	DIGIT	DESCRIPTION	VALUE
+	8	Hundred million	00,000,000
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+Law Level = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Moderate Law	Prohibition of Pistols
+Tech Level = D
+	DIGIT		
+	D		
+Remarks = Pa Ph Pi Varg2
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Pa		456789	45678	48			Pre Agricultural	
+	Ph				8			Pre High	
+	Pi		012479		78			Pre Industrial	
+	Varg <= 29%
+{Ix} = { 2 }
+	Starport A = +1
+	TL 13 = +1
+	Importance = Normal (2)+0=2
+(Ex) = (B7D+2)
+	Resources =  11
+	Labour =  7
+	Infrastructure =  13
+	Efficiency =  2
+	RU = 2002
+[Cx] = [8A5D]
+	Homogeneity = 8
+	Acceptance = 10
+	Strangeness = 5
+	Symbols = 13
+N = -
+	No Imperial Nobles
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 801
+	Population Multiplier = 8
+	POPULATION UNDER 800,000,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 5
+	Non Stars In System = 5
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 3 other worlds
+A = CsIm
+	CODE	DESCRIPTION
+	CsIm	Client State, Third Imperium
+Stellar = M1 V M3 V
+	Stars = 2

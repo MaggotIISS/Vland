@@ -1,0 +1,14 @@
+Hex = 1238
+Name = Iplukaddesh
+UWP = D000323-9
+Remarks = As Lo Va
+{Ix} = { -2 }
+(Ex) = (721-5)
+[Cx] = [1126]
+N = B
+B = -
+Z = -
+PBG = 411
+W = 12
+A = ImDv
+Stellar = K1 V

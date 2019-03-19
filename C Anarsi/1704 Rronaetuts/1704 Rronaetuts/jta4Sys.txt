@@ -1,0 +1,14 @@
+Hex = 1704
+Name = Rronaetuts
+UWP = D424142-7
+Remarks = Lo Varg6
+{Ix} = { -3 }
+(Ex) = (311-5)
+[Cx] = [1113]
+N = -
+B = -
+Z = -
+PBG = 120
+W = 10
+A = CsIm
+Stellar = M1 V

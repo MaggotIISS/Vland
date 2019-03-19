@@ -1,0 +1,14 @@
+Hex = 0619
+Name = Lalaki
+UWP = A9B4785-D
+Remarks = Fl
+{Ix} = { 2 }
+(Ex) = (B6D+1)
+[Cx] = [593B]
+N = B
+B = -
+Z = -
+PBG = 702
+W = 10
+A = ImDv
+Stellar = M3 V

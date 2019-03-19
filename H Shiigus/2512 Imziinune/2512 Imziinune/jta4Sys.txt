@@ -1,0 +1,14 @@
+Hex = 2512
+Name = Imziinune
+UWP = B62737A-C
+Remarks = Lo
+{Ix} = { 1 }
+(Ex) = (721+3)
+[Cx] = [547E]
+N = B
+B = N
+Z = -
+PBG = 720
+W = 9
+A = ImDv
+Stellar = M1 V

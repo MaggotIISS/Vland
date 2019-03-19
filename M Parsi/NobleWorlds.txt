@@ -1,0 +1,186 @@
+
+0131 Skasputin
+	(Knight) KapKiiSiiEkhKaKi
+
+
+0132 Kald     
+	(Knight) ZiIMuAgKuKar
+	(Count) UuLish
+
+
+0134 Zanagud  
+	(Knight) SaKu
+	(Baron) GeShaaEg
+
+
+0135 Sakin    
+	(Knight) AgDi
+
+
+0137 Shaaki   
+	(Knight) GamDe
+
+
+0232 Tratami  
+	(Knight) GiAkKuAdSuAag
+	(Viscount) Par
+
+
+0234 Nurrungar
+	(Knight) Ed
+
+
+0236 Khishugii
+	(Knight) UumDamNaAmSha
+
+
+0237 Shashim  
+	(Knight) AsShiKurZushKa
+
+
+0333 Paspaa   
+	(Knight) Ku
+	(Baronet) BiGiUkDamLii
+
+
+0335 Nadud    
+	(Knight) Im
+
+
+0336 Parsi    
+	(Knight) Ad
+	(Count) AKiAPaarGaa
+	(Duke) DanKe
+
+
+0338 Vanessa  
+	(Knight) Diish
+
+
+0340 Jessheim 
+	(Knight) UkGa
+
+
+0431 Answerin 
+	(Knight) IdGashMiAIinGar
+	(Count) IigDagDaarLu
+
+
+0434 Geguru   
+	(Knight) PuIKiiUIi
+
+
+0435 Ganidam  
+	(Knight) KhurGuumSii
+
+
+0436 Meprim   
+	(Knight) UkLeAamGaaA
+
+
+0437 Thatii   
+	(Knight) GiinMiir
+
+
+0531 Seglound 
+	(Knight) UmGuuZiBaIKhir
+
+
+0532 Kinswana 
+	(Knight) LadRi
+
+
+0533 Khi Tai  
+	(Knight) RaEkGaIm
+	(Baron) EnKeShaas
+
+
+0534 Khakkakum
+	(Knight) KiimDagDuGi
+	(Baron) KaAnKan
+
+
+0536 Fauski   
+	(Knight) AmKaGuush
+	(Marquis) AnRu
+
+
+0631 Enbart   
+	(Knight) EgLerGed
+
+
+0633 Kamar Kur
+	(Knight) Ash
+	(Baron) ShiKhiiI
+
+
+0635 Savvud   
+	(Knight) GaPiAzLur
+	(Baronet) IikKi
+
+
+0637 Bood     
+	(Knight) AIkhBeMin
+
+
+0639 Liigima  
+	(Knight) IilZa
+
+
+0640 Aquacade 
+	(Knight) GaSheGi
+
+
+0732 Pirumush 
+	(Knight) Ku
+
+
+0734 Kishbar  
+	(Knight) IAAShu
+
+
+0737 Kuzey Ana
+	(Knight) A
+
+
+0738 Daglari  
+	(Knight) KaagMuuGa
+
+
+0739 Trabbon  
+	(Knight) ImZiKiLuuKa
+	(Baron) KhiZiEk
+
+
+0740 Kirov    
+	(Knight) NuurGer
+	(Count) IgDurKuIkhKhaGar
+
+
+0831 Igsudi   
+	(Knight) EgShimNaNanShiMin
+
+
+0832 Kirlikin 
+	(Knight) Iig
+	(Marquis) ImLaLarMii
+
+
+0833 Karbarlah
+	(Knight) MiAlLaShidKhar
+	(Baronet) AgKegKiinMaaLi
+	(Baron) UnMur
+	(Viscount) ParSurNi
+
+
+0834 Khisber  
+	(Knight) GuuGaSuusKhuIlRuu
+
+
+0835 Zhirka   
+	(Knight) MiirDidMikLu
+
+
+0839 Kiimiim  
+	(Knight) AagNashLaAKePu
+

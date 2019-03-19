@@ -1,0 +1,14 @@
+Hex = 2831
+Name = Kiimzhal
+UWP = C55455A-A
+Remarks = Ag Ni
+{Ix} = { 1 }
+(Ex) = (845+3)
+[Cx] = [767C]
+N = BC
+B = -
+Z = -
+PBG = 801
+W = 8
+A = ImDv
+Stellar = M3 V M7 V

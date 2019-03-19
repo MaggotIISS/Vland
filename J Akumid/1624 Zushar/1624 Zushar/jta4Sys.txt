@@ -1,0 +1,14 @@
+Hex = 1624
+Name = Zushar
+UWP = C631854-A
+Remarks = Na Po Ph
+{Ix} = { 1 }
+(Ex) = (C7A-1)
+[Cx] = [6938]
+N = Be
+B = -
+Z = -
+PBG = 811
+W = 14
+A = ImDv
+Stellar = M2 V K9 V

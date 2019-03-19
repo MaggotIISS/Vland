@@ -1,0 +1,14 @@
+Hex = 2539
+Name = Nunaat
+UWP = B624248-C
+Remarks = Lo
+{Ix} = { 1 }
+(Ex) = (A11+1)
+[Cx] = [235C]
+N = B
+B = N
+Z = -
+PBG = 924
+W = 9
+A = ImDv
+Stellar = M0 V

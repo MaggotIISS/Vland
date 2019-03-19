@@ -1,0 +1,14 @@
+Hex = 2340
+Name = Orguk
+UWP = E545632-6
+Remarks = Ag Ni
+{Ix} = { -2 }
+(Ex) = (852-5)
+[Cx] = [2412]
+N = BC
+B = -
+Z = -
+PBG = 620
+W = 7
+A = ImDv
+Stellar = M3 V

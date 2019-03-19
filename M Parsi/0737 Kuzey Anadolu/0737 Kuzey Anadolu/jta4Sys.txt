@@ -1,0 +1,14 @@
+Hex = 0737
+Name = Kuzey Anadolu
+UWP = C50069D-9
+Remarks = Na Ni Va Da
+{Ix} = { -1 }
+(Ex) = (B53+3)
+[Cx] = [A59D]
+N = B
+B = S
+Z = A
+PBG = 403
+W = 9
+A = ImDv
+Stellar = K5 V K3 V

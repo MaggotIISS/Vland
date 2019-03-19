@@ -1,0 +1,70 @@
+Primary = F9 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	F	Yellow-White	6,000-7,500
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 3
+	d1000Limit = 7
+	Min Orbit = 0
+	HZ =  4
+0 = World  (BigWorld)	H135157-4
+1 = 
+2 = Planetoid belt	H00038C-7
+3 = World  (Hospitable)	H13039B-4
+	  RadWorld	  	Y175000-0 @ Orbit I
+	  InnerWorld	  	Y175000-0 @ Orbit K
+4 = Planetoid belt	H000100-9
+5 = Mainworld	Dusuureg	C404466-B	(Cold)
+6 = World  (Worldlet)	H059369-4
+	  Worldlet	  	F053389-5 @ Orbit C
+	  Hospitable	  	H110364-2 @ Orbit R
+7 = World  (Hospitable)	Y161340-A
+	  StormWorld	  	Y156000-0 @ Orbit E
+8 = 
+9 = LGG (180,000 mi dia.)	S=29
+	  RadWorld	  	Y1A6000-0 @ Orbit B
+	  StormWorld	  	Y162000-0 @ Orbit D
+	  RadWorld	  	Y19A000-0 @ Orbit G
+	  OuterWorld	  	F165365-9 @ Orbit R
+	  OuterWorld	  	H100322-7 @ Orbit W
+10 = SGG (30,000 mi dia.)	S=21
+	  IceWorld	  	H1A0355-7 @ Orbit T
+11 = 
+12 = World  (RadWorld)	Y124000-0
+	  OuterWorld	  	G19A366-A @ Orbit J
+13 = 
+14 = STAR K6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  11
+	HZ =  -1
+	14-0 = 
+	14-1 = 
+	14-2 = 
+	14-3 = 
+	14-4 = 
+	14-5 = 
+	14-6 = 
+	14-7 = 
+	14-8 = 
+	14-9 = 
+	14-10 = 
+	14-11 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 9
+W = 10
+syscount = 2
+min = 0
+count = 11

@@ -1,0 +1,14 @@
+Hex = 1336
+Name = Pygmy
+UWP = E540423-7
+Remarks = De He Ni Po
+{Ix} = { -3 }
+(Ex) = (631-5)
+[Cx] = [1124]
+N = B
+B = -
+Z = -
+PBG = 111
+W = 9
+A = ImDv
+Stellar = F8 V K3 V

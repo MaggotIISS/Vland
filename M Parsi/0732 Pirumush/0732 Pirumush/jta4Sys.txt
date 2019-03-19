@@ -1,0 +1,14 @@
+Hex = 0732
+Name = Pirumush
+UWP = E524410-8
+Remarks = Ni
+{Ix} = { -3 }
+(Ex) = (A31-5)
+[Cx] = [1113]
+N = B
+B = -
+Z = -
+PBG = 622
+W = 13
+A = ImDv
+Stellar = G4 V M2 V

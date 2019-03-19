@@ -1,0 +1,14 @@
+Hex = 0437
+Name = Thatii
+UWP = DA7A437-9
+Remarks = Ni Oc Da
+{Ix} = { -2 }
+(Ex) = (C31-2)
+[Cx] = [4259]
+N = B
+B = S
+Z = A
+PBG = 224
+W = 11
+A = ImDv
+Stellar = K8 V

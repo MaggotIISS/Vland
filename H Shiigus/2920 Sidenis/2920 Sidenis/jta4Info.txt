@@ -1,0 +1,77 @@
+Hex = 2920
+Name = Sidenis
+UWP = D31067B-8
+Starport = D
+	Quality = Poor
+	Yards = No
+	Repairs = Minor damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 3
+	DIGIT	DIA(MI)	DIA(KM)
+	3	3,000	4,800
+Atmosphere = 1
+	DIGIT	DESCRIPTION	EFFECTS
+	1	Trace	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 6
+	POPULATION UNDER 9,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Balkanization	Rival governments continually compete for control of the world
+Law Level = B
+	DIGIT	DESCRIPTION	NOTE
+	B	Extreme Law	Continental passports required
+Tech Level = 8
+	DIGIT		
+	8		
+Remarks = Na Ni
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Ni				456			Non Industrial	
+{Ix} = { -3 }
+	Starport D = -1
+	Pop < 7 = -1
+	Importance = Unimportant (-2)+-1=-3
+(Ex) = (A51-1)
+	Resources =  10
+	Labour =  5
+	Infrastructure =  1
+	Efficiency =  -1
+	RU = -50
+[Cx] = [837A]
+	Homogeneity = 8
+	Acceptance = 3
+	Strangeness = 7
+	Symbols = 10
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 920
+	Population Multiplier = 9
+	POPULATION UNDER 9,000,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 16
+	Non Stars In System = 16
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 13 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K8 V M1 V
+	Stars = 2

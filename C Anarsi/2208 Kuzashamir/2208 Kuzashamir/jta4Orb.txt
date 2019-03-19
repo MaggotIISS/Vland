@@ -1,0 +1,43 @@
+Primary = M3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = World  (BigWorld)	Y25649A-6
+	  Ring @ Orbit ?
+1 = Mainworld	Kuzashamir	E546853-7	(Cold)World  (StormWorld)	G202186-6
+	  Worldlet	  	G286356-6 @ Orbit GWorld  (RadWorld)	Y276000-0
+2 = World  (Hospitable)	F220478-6
+	  Ring @ Orbit ?
+3 = Planetoid belt	H0006AD-6World  (Inferno)	Y2B0000-0
+	  IceWorld	  	F281444-5 @ Orbit V
+4 = 
+5 = Planetoid belt	H000579-3
+6 = 
+7 = World  (RadWorld)	Y251000-0
+	  Ring @ Orbit ?
+8 = 
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = World  (Inferno)	Y2B0000-0
+	  IceWorld	  	F2747B8-6 @ Orbit D
+	  Worldlet	  	G040665-6 @ Orbit S
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 13
+W = 10
+syscount = 1
+min = 0
+count = 7

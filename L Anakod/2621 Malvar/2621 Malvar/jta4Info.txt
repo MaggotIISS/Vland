@@ -1,0 +1,76 @@
+Hex = 2621
+Name = Malvar
+UWP = C683797-8
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 6
+	DIGIT	DIA(MI)	DIA(KM)
+	6	6,000	9,600
+Atmosphere = 8
+	DIGIT	DESCRIPTION	EFFECTS
+	8	Dense	
+Hydrosphere = 3
+	DIGIT	DESCRIPTION
+	3	30%
+Population = 7
+	POPULATION UNDER 70,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+Government = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	Impersonal Bureaucracy	Impersonal agencies rule
+Law Level = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Moderate Law	Prohibition of Pistols
+Tech Level = 8
+	DIGIT		
+	8		
+Remarks = Ri
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ri		68		678			Rich	
+{Ix} = { 0 }
+	Ri  = +1
+	Importance = Unimportant (1)+-1=0
+(Ex) = (F68+1)
+	Resources =  15
+	Labour =  6
+	Infrastructure =  8
+	Efficiency =  1
+	RU = 720
+[Cx] = [7758]
+	Homogeneity = 7
+	Acceptance = 7
+	Strangeness = 5
+	Symbols = 8
+N = BC
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 724
+	Population Multiplier = 7
+	POPULATION UNDER 70,000,000
+	Planetoid Belts = 2
+	Gas Giants = 4
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-4 (gas giants)
+	 = 5 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = F8 V M3 V
+	Stars = 2

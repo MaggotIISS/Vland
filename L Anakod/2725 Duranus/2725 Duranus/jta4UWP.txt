@@ -1,0 +1,39 @@
+B00037C-C
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+
+Size = 0
+	DIGIT	DIA(MI)	DIA(KM)
+	0	Asteroid Belt	varies
+
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+
+Population = 3
+	POPULATION UNDER 9,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+
+Government = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Balkanization	Rival governments continually compete for control of the world
+
+Law Level = C
+	DIGIT	DESCRIPTION	NOTE
+	C	Extreme Law	Unrestricted invasion of privacy
+
+Tech Level = C
+	DIGIT		
+	C		
+

@@ -1,0 +1,71 @@
+Primary = M0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = World  (BigWorld)	Y135253-8
+1 = Mainworld	Sumabaal	C432436-9	(Cold)
+	  StormWorld	  	Y123000-0 @ Orbit E
+	  Worldlet	  	H166365-8 @ Orbit FWorld  (StormWorld)	Y112000-F
+2 = World  (BigWorld)	F130200-7
+	  Worldlet	  	H120300-8 @ Orbit L
+	  StormWorld	  	Y100000-0 @ Orbit WWorld  (StormWorld)	Y125000-P
+	  Ring @ Orbit U
+3 = World  (Worldlet)	G1353AC-6
+	  RadWorld	  	Y174000-0 @ Orbit EWorld  (RadWorld)	Y130000-E
+	  IceWorld	  	Y152000-0 @ Orbit F
+	  RadWorld	  	Y120000-0 @ Orbit S
+	  OuterWorld	  	G1A6364-3 @ Orbit T
+4 = World  (Worldlet)	G08A313-8World  (RadWorld)	Y178000-0
+	  Ring @ Orbit ?
+5 = 
+6 = LGG (125,000 mi dia.)	S=28
+	  StormWorld	  	Y100000-0 @ Orbit E
+	  RadWorld	  	Y131000-0 @ Orbit I
+	  RadWorld	  	Y1B5000-0 @ Orbit S
+	  OuterWorld	  	G16138B-7 @ Orbit V
+7 = 
+8 = 
+9 = 
+10 = 
+11 = World  (BigWorld)	Y1A2131-7
+	  OuterWorld	  	Y16539A-5 @ Orbit E
+12 = STAR M3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  9
+	HZ =  -1
+	12-0 = 
+	12-1 = 
+	12-2 = 
+	12-3 = 
+	12-4 = 
+	12-5 = 
+	12-6 = 
+	12-7 = 
+	12-8 = 
+	12-9 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 12
+W = 11
+syscount = 2
+min = 0
+count = 8

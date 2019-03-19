@@ -1,0 +1,78 @@
+Hex = 2534
+Name = Zerapii
+UWP = C411774-A
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 1
+	DIGIT	DESCRIPTION	EFFECTS
+	1	Trace	S3
+Hydrosphere = 1
+	DIGIT	DESCRIPTION
+	1	10%
+Population = 7
+	POPULATION UNDER 80,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+Government = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Balkanization	Rival governments continually compete for control of the world
+Law Level = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Moderate Law	Laser, Beam weapons prohibited
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = Ic Na Pi
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ic		01	123456789A				Ice Capped	
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Pi		012479		78			Pre Industrial	
+{Ix} = { 1 }
+	TL 10 = +1
+	Importance = Normal (1)+0=1
+(Ex) = (D6A-1)
+	Resources =  13
+	Labour =  6
+	Infrastructure =  10
+	Efficiency =  -1
+	RU = -780
+[Cx] = [5838]
+	Homogeneity = 5
+	Acceptance = 8
+	Strangeness = 3
+	Symbols = 8
+N = BD
+	CODE	RANK	TC
+	B	Knight	any
+	D	Marquis	Pi
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 822
+	Population Multiplier = 8
+	POPULATION UNDER 80,000,000
+	Planetoid Belts = 2
+	Gas Giants = 2
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-2 (gas giants)
+	 = 7 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V
+	Stars = 1

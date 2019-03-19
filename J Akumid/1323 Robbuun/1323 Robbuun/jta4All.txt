@@ -1,0 +1,54 @@
+Primary = K0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (Inferno)	Y2B0000-0World  (StormWorld)	Y220000-0World  (StormWorld)	Y223000-0World  (Hospitable)	F23048B-7
+1 = STAR K7 VWorld  (BigWorld)	F251498-A
+	  Hospitable	  	H100447-3 @ Orbit QWorld  (Hospitable)	F200443-H
+	  RadWorld	  	Y240000-0 @ Orbit U
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	NO Orbits
+2 = Mainworld	Robbuun	A524520-E	(Temperate)
+	  Worldlet	  	Y238479-B @ Orbit G
+3 = LGG (80,000 mi dia.)	S=26
+	  BigWorld	  	G274457-4 @ Orbit K
+4 = SGG (40,000 mi dia.)	S=22
+	  BigWorld	  	G27A454-C @ Orbit E
+	  OuterWorld	  	Y10049C-2 @ Orbit H
+	  StormWorld	  	Y203000-0 @ Orbit U
+5 = World  (BigWorld)	G220442-B
+	  OuterWorld	  	Y251457-6 @ Orbit P
+	  IceWorld	  	H281453-4 @ Orbit W
+6 = 
+7 = 
+8 = World  (StormWorld)	Y211000-0
+9 = 
+10 = World  (Worldlet)	Y000472-7
+11 = 
+12 = 
+13 = 
+14 = 
+15 = World  (StormWorld)	Y200000-0
+	  Worldlet	  	Y278210-8 @ Orbit T
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 11
+W = 13
+syscount = 2
+min = 0
+count = 9

@@ -1,0 +1,14 @@
+Hex = 2637
+Name = Akon
+UWP = A56358A-D
+Remarks = Ni Pr
+{Ix} = { 1 }
+(Ex) = (A45+3)
+[Cx] = [767F]
+N = Bc
+B = N
+Z = -
+PBG = 703
+W = 10
+A = ImDv
+Stellar = K4 V M1 V

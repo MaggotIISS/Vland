@@ -1,0 +1,78 @@
+Hex = 3124
+Name = Thaar
+UWP = D87A79A-7
+Starport = D
+	Quality = Poor
+	Yards = No
+	Repairs = Minor damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 8
+	DIGIT	DIA(MI)	DIA(KM)
+	8	8,000	13,800
+Atmosphere = 7
+	DIGIT	DESCRIPTION	EFFECTS
+	7	Standard, Tainted	P1
+Hydrosphere = A
+	DIGIT	DESCRIPTION
+	A	Water World
+Population = 7
+	POPULATION UNDER 80,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+Government = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	Impersonal Bureaucracy	Impersonal agencies rule
+Law Level = A
+	DIGIT	DESCRIPTION	NOTE
+	A	Extreme Law	Weapon possession prohibited
+Tech Level = 7
+	DIGIT		
+	7		
+Remarks = Wa Pi
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Wa	56789		A				Water World	
+	Pi		012479		78			Pre Industrial	
+{Ix} = { -2 }
+	Starport D = -1
+	TL 7 = -1
+	Importance = Unimportant (-2)+0=-2
+(Ex) = (966+1)
+	Resources =  9
+	Labour =  6
+	Infrastructure =  6
+	Efficiency =  1
+	RU = 324
+[Cx] = [9579]
+	Homogeneity = 9
+	Acceptance = 5
+	Strangeness = 7
+	Symbols = 9
+N = BD
+	CODE	RANK	TC
+	B	Knight	any
+	D	Marquis	Pi
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 802
+	Population Multiplier = 8
+	POPULATION UNDER 80,000,000
+	Planetoid Belts = 0
+	Gas Giants = 2
+W = 7
+	Non Stars In System = 7
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-2 (gas giants)
+	 = 4 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V M6 V
+	Stars = 2

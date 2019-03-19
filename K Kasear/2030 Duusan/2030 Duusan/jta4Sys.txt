@@ -1,0 +1,14 @@
+Hex = 2030
+Name = Duusan
+UWP = B9CA65A-D
+Remarks = Fl Ni
+{Ix} = { 1 }
+(Ex) = (C55+3)
+[Cx] = [877F]
+N = B
+B = -
+Z = -
+PBG = 922
+W = 13
+A = ImDv
+Stellar = M3 V

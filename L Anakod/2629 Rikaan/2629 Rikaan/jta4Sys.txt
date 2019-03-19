@@ -1,0 +1,14 @@
+Hex = 2629
+Name = Rikaan
+UWP = D8D8898-7
+Remarks = Ph
+{Ix} = { -2 }
+(Ex) = (A76-2)
+[Cx] = [8657]
+N = Be
+B = S
+Z = -
+PBG = 710
+W = 9
+A = ImDv
+Stellar = M2 V

@@ -1,0 +1,82 @@
+Hex = 2205
+Name = Anarsi
+UWP = B7479EA-C
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+Atmosphere = 4
+	DIGIT	DESCRIPTION	EFFECTS
+	4	Thin, Tainted	P1, S1
+Hydrosphere = 7
+	DIGIT	DESCRIPTION
+	7	70%
+Population = 9
+	POPULATION UNDER 9,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	9	Billion	,000,000,000
+Government = E
+	DIGIT	DESCRIPTION	NOTE
+	E	Religious Autocracy	Government by a single religious, mystic, or psionic leader weilding absolute power
+Law Level = A
+	DIGIT	DESCRIPTION	NOTE
+	A	Extreme Law	Weapon possession prohibited
+Tech Level = C
+	DIGIT		
+	C		
+Remarks = Hi In Cp Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	In		012479		9ABC			industrial	
+	Cp							Subsector Capital	Imperial
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { 4 }
+	Starport B = +1
+	TL 12 = +1
+	Hi  = +1
+	In  = +1
+	Importance = Important (5)+-1=4
+(Ex) = (D8F+5)
+	Resources =  13
+	Labour =  8
+	Infrastructure =  15
+	Efficiency =  5
+	RU = 7800
+[Cx] = [BD7E]
+	Homogeneity = 11
+	Acceptance = 13
+	Strangeness = 7
+	Symbols = 14
+N = BEF
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+	F	Duke	In
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 920
+	Population Multiplier = 9
+	POPULATION UNDER 9,000,000,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 15
+	Non Stars In System = 15
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 12 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G3 V M3 V
+	Stars = 2

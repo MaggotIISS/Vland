@@ -1,0 +1,364 @@
+VLAND
+
+	WORLDS IN SECTOR = 532
+	CsIm: "Client state, Third Imperium" = 15 worlds
+	ImDv: "Third Imperium, Domain of Vland" = 491 worlds
+	NaHu: "Non-Aligned, Human-dominated" = 10 worlds
+	NaVa: "Non-Aligned, Vargr-dominated" = 16 worlds
+
+	RACIAL NAMES OF SECTOR
+	Vland
+
+	Vland sector was designed by Marc W. Miller and appears in Atlas of the Imperium (GDW, 1984). It was refined by Joe D. Fugate Sr. and appears in The Travellers Digest and The MegaTraveller Alien, Volume 1: Vilani &amp; Vargr (DGP, 1990)
+
+	1105
+
+	Traveller 5 Second Survey
+
+	Hex
+	Name
+	UWP
+	    Starports = ABCDE = 5 variations
+	            A = 92 systems
+	            B = 140 systems
+	            C = 152 systems
+	            D = 65 systems
+	            E = 83 systems
+	    Sizes = 0123456789A = 11 variations
+	            0 = 19 systems
+	            1 = 13 systems
+	            2 = 30 systems
+	            3 = 29 systems
+	            4 = 75 systems
+	            5 = 175 systems
+	            6 = 54 systems
+	            7 = 53 systems
+	            8 = 40 systems
+	            9 = 32 systems
+	            A = 12 systems
+	    Atmospheres = 0123456789ABCDE = 15 variations
+	            0 = 67 systems
+	            1 = 42 systems
+	            2 = 49 systems
+	            3 = 45 systems
+	            4 = 48 systems
+	            5 = 55 systems
+	            6 = 57 systems
+	            7 = 50 systems
+	            8 = 39 systems
+	            9 = 39 systems
+	            A = 4 systems
+	            B = 14 systems
+	            C = 15 systems
+	            D = 7 systems
+	            E = 1 systems
+	    Hydrospheres = 0123456789A = 11 variations
+	            0 = 123 systems
+	            1 = 34 systems
+	            2 = 40 systems
+	            3 = 49 systems
+	            4 = 62 systems
+	            5 = 49 systems
+	            6 = 41 systems
+	            7 = 43 systems
+	            8 = 30 systems
+	            9 = 30 systems
+	            A = 31 systems
+	    Populations = 123456789A = 10 variations
+	            1 = 25 systems
+	            2 = 43 systems
+	            3 = 62 systems
+	            4 = 69 systems
+	            5 = 99 systems
+	            6 = 68 systems
+	            7 = 58 systems
+	            8 = 45 systems
+	            9 = 35 systems
+	            A = 28 systems
+	    Governments = 0123456789ABCDEF = 16 variations
+	            0 = 50 systems
+	            1 = 30 systems
+	            2 = 47 systems
+	            3 = 46 systems
+	            4 = 43 systems
+	            5 = 73 systems
+	            6 = 51 systems
+	            7 = 46 systems
+	            8 = 56 systems
+	            9 = 37 systems
+	            A = 25 systems
+	            B = 16 systems
+	            C = 8 systems
+	            D = 2 systems
+	            E = 1 systems
+	            F = 1 systems
+	    Law Levels = 0123456789ABCDEFH = 17 variations
+	            0 = 72 systems
+	            1 = 31 systems
+	            2 = 44 systems
+	            3 = 44 systems
+	            4 = 49 systems
+	            5 = 46 systems
+	            6 = 45 systems
+	            7 = 42 systems
+	            8 = 38 systems
+	            9 = 37 systems
+	            A = 27 systems
+	            B = 26 systems
+	            C = 11 systems
+	            D = 10 systems
+	            E = 8 systems
+	            F = 2 systems
+	    dashs = - = 1 variations
+	            - = 532 systems
+	    Tech Levels = 456789ABCDEF = 12 variations
+	            4 = 11 systems
+	            5 = 18 systems
+	            6 = 32 systems
+	            7 = 62 systems
+	            8 = 74 systems
+	            9 = 82 systems
+	            A = 65 systems
+	            B = 60 systems
+	            C = 49 systems
+	            D = 40 systems
+	            E = 23 systems
+	            F = 16 systems
+	Trade
+	        As = 14 systems
+	        De = 42 systems
+	        Fl = 35 systems
+	        Ga = 19 systems
+	        He = 42 systems
+	        Ic = 21 systems
+	        Oc = 6 systems
+	        Va = 72 systems
+	        Wa = 30 systems
+	        Di = 3 systems
+	        Lo = 123 systems
+	        Ni = 238 systems
+	        Ph = 47 systems
+	        Hi = 63 systems
+	        Pa = 33 systems
+	        Ag = 80 systems
+	        Na = 63 systems
+	        Pi = 56 systems
+	        In = 32 systems
+	        Po = 85 systems
+	        Pr = 25 systems
+	        Ri = 31 systems
+	        Mr = 10 systems
+	        Cp = 13 systems
+	        Cs = 1 systems
+	        Pz = 49 systems
+	        Da = 22 systems
+	        An = 9 systems
+	Importance
+	    9 variations
+	        5 = 2 systems
+	        4 = 13 systems
+	        3 = 46 systems
+	        2 = 55 systems
+	        1 = 142 systems
+	        0 = 74 systems
+	        -1 = 86 systems
+	        -2 = 67 systems
+	        -3 = 47 systems
+	Economic
+	    Resource = 3456789ABCDEFGHJK = 17 variations
+	            3 = 6 systems
+	            4 = 15 systems
+	            5 = 17 systems
+	            6 = 41 systems
+	            7 = 59 systems
+	            8 = 78 systems
+	            9 = 67 systems
+	            A = 71 systems
+	            B = 48 systems
+	            C = 44 systems
+	            D = 36 systems
+	            E = 19 systems
+	            F = 10 systems
+	            G = 6 systems
+	            H = 7 systems
+	            J = 3 systems
+	            K = 0 systems
+	    Labour = 123456789 = 9 variations
+	            1 = 62 systems
+	            2 = 66 systems
+	            3 = 64 systems
+	            4 = 103 systems
+	            5 = 69 systems
+	            6 = 58 systems
+	            7 = 45 systems
+	            8 = 34 systems
+	            9 = 27 systems
+	    Infrastructure = 123456789ABCDEFGH = 17 variations
+	            1 = 155 systems
+	            2 = 40 systems
+	            3 = 43 systems
+	            4 = 47 systems
+	            5 = 56 systems
+	            6 = 43 systems
+	            7 = 21 systems
+	            8 = 16 systems
+	            9 = 11 systems
+	            A = 7 systems
+	            B = 11 systems
+	            C = 26 systems
+	            D = 13 systems
+	            E = 14 systems
+	            F = 16 systems
+	            G = 9 systems
+	            H = 1 systems
+	    Efficiency = 0,-3,-5,-2,-1,2,3,1,-4,5,4 = 11 variations
+	            5 = 34 systems
+	            4 = 20 systems
+	            3 = 34 systems
+	            2 = 30 systems
+	            1 = 92 systems
+	            0 = 0 systems
+	            -1 = 57 systems
+	            -2 = 42 systems
+	            -3 = 99 systems
+	            -4 = 56 systems
+	            -5 = 68 systems
+	Cultural
+	    Homogeneity = 123456789ABCDEF = 15 variations
+	            1 = 176 systems
+	            2 = 39 systems
+	            3 = 41 systems
+	            4 = 38 systems
+	            5 = 41 systems
+	            6 = 32 systems
+	            7 = 40 systems
+	            8 = 35 systems
+	            9 = 25 systems
+	            A = 25 systems
+	            B = 16 systems
+	            C = 9 systems
+	            D = 6 systems
+	            E = 3 systems
+	            F = 0 systems
+	    Acceptance = 123456789ABCDE = 14 variations
+	            1 = 58 systems
+	            2 = 33 systems
+	            3 = 60 systems
+	            4 = 69 systems
+	            5 = 65 systems
+	            6 = 52 systems
+	            7 = 59 systems
+	            8 = 26 systems
+	            9 = 19 systems
+	            A = 22 systems
+	            B = 13 systems
+	            C = 18 systems
+	            D = 23 systems
+	            E = 3 systems
+	    Strangeness = 123456789A = 10 variations
+	            1 = 143 systems
+	            2 = 44 systems
+	            3 = 93 systems
+	            4 = 46 systems
+	            5 = 81 systems
+	            6 = 36 systems
+	            7 = 53 systems
+	            8 = 11 systems
+	            9 = 18 systems
+	            A = 2 systems
+	    Symbols = 123456789ABCDEFGHJK = 19 variations
+	            1 = 1 systems
+	            2 = 10 systems
+	            3 = 22 systems
+	            4 = 24 systems
+	            5 = 45 systems
+	            6 = 51 systems
+	            7 = 53 systems
+	            8 = 47 systems
+	            9 = 59 systems
+	            A = 47 systems
+	            B = 36 systems
+	            C = 41 systems
+	            D = 20 systems
+	            E = 21 systems
+	            F = 1 systems
+	            G = 0 systems
+	            H = 0 systems
+	            J = 0 systems
+	            K = 0 systems
+	Nobles
+	        B-Knight-11 = 491 systems
+	        c-Baronet-12 = 52 systems
+	        C-Baron-13 = 98 systems
+	        D-Marquis-14 = 48 systems
+	        e-Viscount-15 = 40 systems
+	        E-Count-16 = 60 systems
+	        f-Duke-17 = 8 systems
+	        F-Duke-18 = 10 systems
+	        G-Archduke-19 = 1 systems
+	Bases
+	        C-Corsair Base-Vargr = 8 systems
+	        D-Naval Depot-Any = 1 systems
+	        N-Naval Base-Imperial = 89 systems
+	        S-Scout Base-Imperial = 131 systems
+	        W-Scout Way Station-Imperial = 4 systems
+	Zone
+	        Green = 461 systems
+	        Amber = 71 systems
+	PBGs
+	    No Population (0-2)-Unpopulated = 113 systems
+	    Low Population (3-5)-Thousands = 162 systems
+	    Medium Population (6-8)-Millions = 189 systems
+	    HIGH Population (9+)-Billions = 68 systems
+	    0 Planetoid Belts = 174 systems
+	    1 Planetoid Belts = 151 systems
+	    2 Planetoid Belts = 192 systems
+	    3 Planetoid Belts = 15 systems
+	    0 Gas Giants = 182 systems
+	    1 Gas Giants = 128 systems
+	    2 Gas Giants = 66 systems
+	    3 Gas Giants = 69 systems
+	    4 Gas Giants = 72 systems
+	    5 Gas Giants = 15 systems
+	Worlds
+	    4 = 3 systems
+	    5 = 9 systems
+	    6 = 15 systems
+	    7 = 37 systems
+	    8 = 56 systems
+	    9 = 75 systems
+	    10 = 64 systems
+	    11 = 66 systems
+	    12 = 68 systems
+	    13 = 55 systems
+	    14 = 32 systems
+	    15 = 23 systems
+	    16 = 17 systems
+	    17 = 11 systems
+	    18 = 1 systems
+	Allied
+	    See top section
+	Stellar
+	    1 Stars = 
+	    2 Stars = 
+	    3 Stars = 
+	    4 Stars = 
+	    O Stars = 
+	    B Stars = 
+	    A Stars = 
+	    F Stars = 
+	    G Stars = 
+	    K Stars = 
+	    M Stars = 
+	    Ia Stars = 
+	    Ib Stars = 
+	    II Stars = 
+	    III Stars = 
+	    IV Stars = 
+	    V Stars = 
+	    VI Stars = 
+	    VII Stars = 
+	    D Stars = 
+	    BD Stars = 
+	    Companion Stars = 
+

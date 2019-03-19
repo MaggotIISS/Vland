@@ -1,0 +1,51 @@
+Primary = F5 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	F	Yellow-White	6,000-7,500
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 3
+	d1000Limit = 7
+	Min Orbit = 0
+	HZ =  5
+0 = Planetoid belt	F000101-3World  (BigWorld)	H09A223-9
+1 = World  (Inferno)	Y0B0000-0World  (RadWorld)	Y000000-0
+2 = World  (BigWorld)	H010254-8
+3 = World  (Hospitable)	H0852BB-9
+4 = STAR M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  1
+	HZ =  -1
+	4-0 = 
+	4-1 = 
+5 = Mainworld	Nemsa	E300353-A	(Temperate)
+	  Worldlet	  	H09829C-7 @ Orbit T
+	  Inferno	  	Y0B0000-0 @ Orbit U
+6 = Planetoid belt	F00028A-7
+7 = 
+8 = World  (Hospitable)	Y034230-2
+	  Worldlet	  	Y09A253-9 @ Orbit P
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = World  (BigWorld)	H044101-6
+17 = 
+18 = 
+19 = 
+Unfilled = 11
+syscount = 2
+min = 0
+W = 10
+Extra Stars = 1
+count = 9

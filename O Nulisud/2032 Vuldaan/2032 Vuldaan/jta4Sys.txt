@@ -1,0 +1,14 @@
+Hex = 2032
+Name = Vuldaan
+UWP = C522765-9
+Remarks = He Na Po Pi O:2035
+{Ix} = { 0 }
+(Ex) = (E69-2)
+[Cx] = [5737]
+N = BD
+B = -
+Z = -
+PBG = 623
+W = 12
+A = ImDv
+Stellar = F8 V

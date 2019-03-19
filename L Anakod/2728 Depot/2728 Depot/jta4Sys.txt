@@ -1,0 +1,14 @@
+Hex = 2728
+Name = Depot
+UWP = A59466A-C
+Remarks = Ag Ni Da Mr
+{Ix} = { 3 }
+(Ex) = (B57+5)
+[Cx] = [897E]
+N = BC
+B = D
+Z = A
+PBG = 121
+W = 13
+A = ImDv
+Stellar = K6 V

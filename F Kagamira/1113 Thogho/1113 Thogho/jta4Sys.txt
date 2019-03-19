@@ -1,0 +1,14 @@
+Hex = 1113
+Name = Thogho
+UWP = C898669-8
+Remarks = Ag Ni O:1112
+{Ix} = { -1 }
+(Ex) = (A53+1)
+[Cx] = [7569]
+N = BC
+B = -
+Z = -
+PBG = 920
+W = 11
+A = ImDv
+Stellar = M3 V

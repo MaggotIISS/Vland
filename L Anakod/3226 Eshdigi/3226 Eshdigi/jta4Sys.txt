@@ -1,0 +1,14 @@
+Hex = 3226
+Name = Eshdigi
+UWP = E747325-7
+Remarks = Lo Da
+{Ix} = { -3 }
+(Ex) = (521-5)
+[Cx] = [1135]
+N = B
+B = -
+Z = A
+PBG = 323
+W = 17
+A = ImDv
+Stellar = K2 V K4 V

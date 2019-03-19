@@ -1,0 +1,14 @@
+Hex = 2013
+Name = Isbudin
+UWP = C9C5984-B
+Remarks = Fl Hi In
+{Ix} = { 3 }
+(Ex) = (G8E+1)
+[Cx] = [7C39]
+N = BE
+B = -
+Z = -
+PBG = 623
+W = 8
+A = ImDv
+Stellar = F6 V M7 V

@@ -1,0 +1,39 @@
+E8D6255-9
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+
+Size = 8
+	DIGIT	DIA(MI)	DIA(KM)
+	8	8,000	13,800
+
+Atmosphere = D
+	DIGIT	DESCRIPTION	EFFECTS
+	D	Dense, High	varies
+
+Hydrosphere = 6
+	DIGIT	DESCRIPTION
+	6	60%
+
+Population = 2
+	POPULATION UNDER 800
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+
+Tech Level = 9
+	DIGIT		
+	9		
+

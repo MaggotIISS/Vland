@@ -1,0 +1,7 @@
+C ANARSI
+
+	WORLDS IN SUBSECTOR = 43
+	CsIm: "Client state, Third Imperium" = 8 worlds
+	ImDv: "Third Imperium, Domain of Vland" = 28 worlds
+	NaHu: "Non-Aligned, Human-dominated" = 3 worlds
+	NaVa: "Non-Aligned, Vargr-dominated" = 4 worlds

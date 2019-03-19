@@ -1,0 +1,14 @@
+Hex = 1004
+Name = Esngougz
+UWP = EA7A443-6
+Remarks = Ni Oc
+{Ix} = { -3 }
+(Ex) = (631-5)
+[Cx] = [1123]
+N = -
+B = -
+Z = -
+PBG = 620
+W = 8
+A = NaVa
+Stellar = M2 V

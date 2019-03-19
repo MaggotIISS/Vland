@@ -1,0 +1,48 @@
+Primary = M2 III
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	III	Normal Giant	4.6 - 360
+	d10Limit = 6
+	d100Limit = 9
+	d1000Limit = 12
+	Min Orbit = 4
+	HZ =  8
+4 = STAR F7 IV
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	F	Yellow-White	6,000-7,500
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	III	Normal Giant	4.6 - 360
+	d10Limit = 0
+	d100Limit = 4
+	d1000Limit = 8
+	Min Orbit = 0
+	Max Orbit =  1
+	HZ =  -1
+	4-0 = 
+	4-1 = 
+5 = Planetoid belt	F0001DC-5
+6 = World  (Inferno)	Y0B0000-0
+	  RadWorld	  	Y000000-0 @ Orbit T
+7 = World  (Worldlet)	G0771EI-A
+8 = 
+9 = Mainworld	Nashazi	A300211-F	(Cold)
+10 = 
+11 = 
+12 = World  (StormWorld)	Y010000-0
+	  Worldlet	  	G054144-7 @ Orbit F
+	  Worldlet	  	Y020100-8 @ Orbit R
+	  StormWorld	  	Y000000-0 @ Orbit T
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 14
+W = 8
+syscount = 2
+min = 4
+count = 6

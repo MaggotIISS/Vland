@@ -1,0 +1,32 @@
+
+0221 Keshiil    
+	(Knight) Um
+	(Viscount) MiKuDuEsh
+
+
+0422 Niirka     
+	(Knight) AmKep
+	(Marquis) KhamKaSer
+
+
+0430 Khulekii   
+	(Knight) IishPumMir
+	(Baronet) EAamGan
+	(Marquis) MagKiAmKu
+	(Viscount) Ug
+
+
+0530 Pirrom     
+	(Knight) NagGunKimZurKhiAm
+	(Baronet) Gi
+	(Baron) IA
+
+
+0622 Beshe      
+	(Knight) EgGiUk
+	(Viscount) GaAkhKa
+
+
+0630 Giraran    
+	(Knight) EmKa
+

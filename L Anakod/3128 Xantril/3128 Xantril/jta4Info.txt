@@ -1,0 +1,80 @@
+Hex = 3128
+Name = Xantril
+UWP = B676659-B
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 6
+	DIGIT	DIA(MI)	DIA(KM)
+	6	6,000	9,600
+Atmosphere = 7
+	DIGIT	DESCRIPTION	EFFECTS
+	7	Standard, Tainted	P1
+Hydrosphere = 6
+	DIGIT	DESCRIPTION
+	6	60%
+Population = 6
+	POPULATION UNDER 5,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+Law Level = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	High Law	Weapons outside the home prohibited
+Tech Level = B
+	DIGIT		
+	B		
+Remarks = Ag Ni
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ag		456789	45678	567			Agricultural	
+	Ni				456			Non Industrial	
+{Ix} = { 2 }
+	Starport B = +1
+	TL 11 = +1
+	Ag  = +1
+	Pop < 7 = -1
+	Importance = Normal (2)+0=2
+(Ex) = (A56+3)
+	Resources =  10
+	Labour =  5
+	Infrastructure =  6
+	Efficiency =  3
+	RU = 900
+[Cx] = [786C]
+	Homogeneity = 7
+	Acceptance = 8
+	Strangeness = 6
+	Symbols = 12
+N = BC
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 520
+	Population Multiplier = 5
+	POPULATION UNDER 5,000,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M3 V
+	Stars = 1

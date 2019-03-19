@@ -1,0 +1,77 @@
+Hex = 3226
+Name = Eshdigi
+UWP = E747325-7
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+Atmosphere = 4
+	DIGIT	DESCRIPTION	EFFECTS
+	4	Thin, Tainted	P1, S1
+Hydrosphere = 7
+	DIGIT	DESCRIPTION
+	7	70%
+Population = 3
+	POPULATION UNDER 3,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+Government = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Participating Democracy	Rule by popular vote
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+Tech Level = 7
+	DIGIT		
+	7		
+Remarks = Lo Da
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+	Da				0123456			Dangerous	Amber Zone
+{Ix} = { -3 }
+	Starport E = -1
+	TL 7 = -1
+	Pop < 7 = -1
+	Importance = Unimportant (-3)+0=-3
+(Ex) = (521-5)
+	Resources =  5
+	Labour =  2
+	Infrastructure =  1
+	Efficiency =  -5
+	RU = -50
+[Cx] = [1135]
+	Homogeneity = 1
+	Acceptance = 1
+	Strangeness = 3
+	Symbols = 5
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 323
+	Population Multiplier = 3
+	POPULATION UNDER 3,000
+	Planetoid Belts = 2
+	Gas Giants = 3
+W = 17
+	Non Stars In System = 17
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-3 (gas giants)
+	 = 11 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K2 V K4 V
+	Stars = 2

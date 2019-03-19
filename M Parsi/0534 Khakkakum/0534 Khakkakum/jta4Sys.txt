@@ -1,0 +1,14 @@
+Hex = 0534
+Name = Khakkakum
+UWP = C657768-8
+Remarks = Ag Ga O:0431
+{Ix} = { 0 }
+(Ex) = (C68+1)
+[Cx] = [7758]
+N = BC
+B = -
+Z = -
+PBG = 221
+W = 12
+A = ImDv
+Stellar = M3 V

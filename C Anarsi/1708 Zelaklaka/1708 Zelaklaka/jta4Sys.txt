@@ -1,0 +1,14 @@
+Hex = 1708
+Name = Zelaklaka
+UWP = C7B2300-B
+Remarks = Fl He Lo
+{Ix} = { 0 }
+(Ex) = (621-4)
+[Cx] = [1316]
+N = B
+B = S
+Z = -
+PBG = 301
+W = 8
+A = ImDv
+Stellar = M2 V M2 V

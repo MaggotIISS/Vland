@@ -1,0 +1,14 @@
+Hex = 2926
+Name = Sanderson
+UWP = A9C4688-D
+Remarks = Fl Ni
+{Ix} = { 1 }
+(Ex) = (A55+1)
+[Cx] = [675D]
+N = B
+B = S
+Z = -
+PBG = 520
+W = 9
+A = ImDv
+Stellar = K9 V

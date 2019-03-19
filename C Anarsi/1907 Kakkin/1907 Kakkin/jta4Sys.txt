@@ -1,0 +1,14 @@
+Hex = 1907
+Name = Kakkin
+UWP = B423333-C
+Remarks = Lo Po
+{Ix} = { 1 }
+(Ex) = (721-2)
+[Cx] = [1429]
+N = B
+B = -
+Z = -
+PBG = 402
+W = 9
+A = ImDv
+Stellar = G8 V

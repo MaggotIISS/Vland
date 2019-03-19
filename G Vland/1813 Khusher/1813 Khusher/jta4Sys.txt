@@ -1,0 +1,14 @@
+Hex = 1813
+Name = Khusher
+UWP = C646754-9
+Remarks = Ag Pi
+{Ix} = { 1 }
+(Ex) = (D6A-1)
+[Cx] = [5837]
+N = BCD
+B = S
+Z = -
+PBG = 722
+W = 11
+A = ImDv
+Stellar = G5 V G9 V

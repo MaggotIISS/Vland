@@ -1,0 +1,14 @@
+Hex = 0134
+Name = Zanagud
+UWP = E66A686-7
+Remarks = Ni Ri Wa
+{Ix} = { -2 }
+(Ex) = (852-3)
+[Cx] = [5446]
+N = BC
+B = -
+Z = -
+PBG = 523
+W = 14
+A = ImDv
+Stellar = M2 V

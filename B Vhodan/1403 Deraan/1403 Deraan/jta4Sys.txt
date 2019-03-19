@@ -1,0 +1,14 @@
+Hex = 1403
+Name = Deraan
+UWP = B426649-C
+Remarks = Ni
+{Ix} = { 1 }
+(Ex) = (955+2)
+[Cx] = [776D]
+N = -
+B = -
+Z = -
+PBG = 210
+W = 7
+A = NaHu
+Stellar = M2 V

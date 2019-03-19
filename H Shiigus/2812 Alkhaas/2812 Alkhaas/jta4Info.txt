@@ -1,0 +1,80 @@
+Hex = 2812
+Name = Alkhaas
+UWP = E99769D-6
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 9
+	DIGIT	DIA(MI)	DIA(KM)
+	9	9,000	14,400
+Atmosphere = 9
+	DIGIT	DESCRIPTION	EFFECTS
+	9	Dense, Tainted	P1
+Hydrosphere = 7
+	DIGIT	DESCRIPTION
+	7	70%
+Population = 6
+	POPULATION UNDER 1,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	Impersonal Bureaucracy	Impersonal agencies rule
+Law Level = D
+	DIGIT	DESCRIPTION	NOTE
+	D	Extreme Law	Paramilitary law enforcement
+Tech Level = 6
+	DIGIT		
+	6		
+Remarks = Ag Ni Da
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ag		456789	45678	567			Agricultural	
+	Ni				456			Non Industrial	
+	Da				0123456			Dangerous	Amber Zone
+{Ix} = { -2 }
+	Starport E = -1
+	TL 6 = -1
+	Ag  = +1
+	Pop < 7 = -1
+	Importance = Unimportant (-2)+0=-2
+(Ex) = (852+2)
+	Resources =  8
+	Labour =  5
+	Infrastructure =  2
+	Efficiency =  2
+	RU = 160
+[Cx] = [A49A]
+	Homogeneity = 10
+	Acceptance = 4
+	Strangeness = 9
+	Symbols = 10
+N = BC
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 133
+	Population Multiplier = 1
+	POPULATION UNDER 1,000,000
+	Planetoid Belts = 3
+	Gas Giants = 3
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-3 (planetoid belts)
+	-3 (gas giants)
+	 = 2 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V M2 V
+	Stars = 2

@@ -1,0 +1,14 @@
+Hex = 1703
+Name = Dathsuts
+UWP = C310200-A
+Remarks = Lo Varg3
+{Ix} = { 0 }
+(Ex) = (511-4)
+[Cx] = [1215]
+N = -
+B = -
+Z = -
+PBG = 901
+W = 8
+A = NaHu
+Stellar = F7 V M0 V

@@ -1,0 +1,66 @@
+Primary = M0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Sazisi	E586720-6	(Temperate)
+	Orbits LGG (80,000 mi dia.)	S=26 @ orbit R
+	  Ring @ Orbit ?LGG (90,000 mi dia.)	S=2D
+	  Ring @ Orbit E
+1 = World  (Hospitable)	F100200-5
+2 = LGG (70,000 mi dia.)	S=25
+	  RadWorld	  	Y779000-0 @ Orbit E
+3 = LGG (50,000 mi dia.)	S=23
+	  RadWorld	  	Y488000-0 @ Orbit J
+	  BigWorld	  	YC00664-5 @ Orbit U
+4 = 
+5 = World  (Hospitable)	H566524-5
+	  StormWorld	  	F500176-5 @ Orbit G
+	  Worldlet	  	F200547-5 @ Orbit I
+	  Worldlet	  	F28458D-5 @ Orbit X
+6 = 
+7 = 
+8 = 
+9 = 
+10 = World  (Worldlet)	H200557-5
+11 = 
+12 = 
+13 = STAR M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  10
+	HZ =  -1
+	13-0 = 
+	13-1 = 
+	13-2 = 
+	13-3 = 
+	13-4 = 
+	13-5 = 
+	13-6 = 
+	13-7 = 
+	13-8 = 
+	13-9 = 
+	13-10 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 13
+W = 7
+syscount = 2
+min = 0
+count = 7

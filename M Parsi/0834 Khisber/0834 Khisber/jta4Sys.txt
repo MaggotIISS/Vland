@@ -1,0 +1,14 @@
+Hex = 0834
+Name = Khisber
+UWP = B87A501-D
+Remarks = Ni Wa Da
+{Ix} = { 2 }
+(Ex) = (C46-2)
+[Cx] = [1719]
+N = B
+B = NS
+Z = A
+PBG = 523
+W = 10
+A = ImDv
+Stellar = F6 V

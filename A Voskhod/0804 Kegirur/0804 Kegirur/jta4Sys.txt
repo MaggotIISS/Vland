@@ -1,0 +1,14 @@
+Hex = 0804
+Name = Kegirur
+UWP = D76A945-8
+Remarks = Hi Wa Pr Pz
+{Ix} = { -1 }
+(Ex) = (C88-3)
+[Cx] = [7836]
+N = -
+B = -
+Z = A
+PBG = 901
+W = 10
+A = NaVa
+Stellar = M0 V

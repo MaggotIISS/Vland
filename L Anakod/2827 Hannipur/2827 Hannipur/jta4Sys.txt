@@ -1,0 +1,14 @@
+Hex = 2827
+Name = Hannipur
+UWP = E100979-B
+Remarks = Hi In Na Va
+{Ix} = { 2 }
+(Ex) = (C8D+3)
+[Cx] = [AB6C]
+N = BE
+B = -
+Z = -
+PBG = 201
+W = 11
+A = ImDv
+Stellar = F4 IV M2 V

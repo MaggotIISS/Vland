@@ -1,0 +1,53 @@
+Primary = M3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = World  (StormWorld)	Y710000-0
+1 = Mainworld	Aanshi	BA8AA97-C	(Cold)
+	  Ring @ Orbit ?
+2 = World  (RadWorld)	Y7B4000-0
+	  RadWorld	  	Y726000-0 @ Orbit G
+3 = World  (BigWorld)	F784346-9
+	  IceWorld	  	H520559-2 @ Orbit HWorld  (BigWorld)	H710576-D
+	  OuterWorld	  	G300466-8 @ Orbit E
+	  Worldlet	  	G243420-8 @ Orbit GWorld  (Worldlet)	F153646-Q
+	  Worldlet	  	Y378425-5 @ Orbit T
+	  IceWorld	  	Y300464-5 @ Orbit X
+4 = World  (Worldlet)	H267520-3
+	  OuterWorld	  	F568443-7 @ Orbit E
+	  Worldlet	  	F0009B7-5 @ Orbit S
+	  IceWorld	  	F770973-7 @ Orbit T
+5 = 
+6 = 
+7 = World  (Hospitable)	G684122-3
+8 = LGG (125,000 mi dia.)	S=28
+	  Worldlet	  	H3A5355-7 @ Orbit E
+	  RadWorld	  	Y779000-0 @ Orbit G
+	  OuterWorld	  	Y510486-6 @ Orbit H
+	  BigWorld	  	G7888A6-7 @ Orbit I
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = World  (StormWorld)	Y700364-4
+	  StormWorld	  	G500164-6 @ Orbit Q
+	  IceWorld	  	Y484000-0 @ Orbit S
+	  OuterWorld	  	H575530-B @ Orbit U
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 12
+W = 10
+syscount = 1
+min = 0
+count = 8

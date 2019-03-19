@@ -1,0 +1,14 @@
+Hex = 1928
+Name = Nimmer
+UWP = B420100-D
+Remarks = De He Lo Po
+{Ix} = { 1 }
+(Ex) = (911-3)
+[Cx] = [1218]
+N = B
+B = N
+Z = -
+PBG = 324
+W = 9
+A = ImDv
+Stellar = G4 V

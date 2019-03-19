@@ -1,0 +1,39 @@
+E200201-9
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+
+Size = 2
+	DIGIT	DIA(MI)	DIA(KM)
+	2	2,000	3,200
+
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+
+Population = 2
+	POPULATION UNDER 700
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+
+Government = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Government Structure	Family bonds predominate
+
+Law Level = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Low Law	Prohibition of WMD, Psi weapons
+
+Tech Level = 9
+	DIGIT		
+	9		
+

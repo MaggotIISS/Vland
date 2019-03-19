@@ -1,0 +1,14 @@
+Hex = 2931
+Name = Icuspin
+UWP = A200976-F
+Remarks = Hi In Na Va Cp
+{Ix} = { 4 }
+(Ex) = (D8G+3)
+[Cx] = [8D4E]
+N = BEF
+B = -
+Z = -
+PBG = 820
+W = 13
+A = ImDv
+Stellar = M2 V

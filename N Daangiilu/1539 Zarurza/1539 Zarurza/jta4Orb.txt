@@ -1,0 +1,74 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Zarurza	B95A500-B	(Temperate)
+	  Worldlet	  	Y09A451-9 @ Orbit I
+1 = World  (BigWorld)	Y642000-0
+	  Worldlet	  	H184489-A @ Orbit PWorld  (BigWorld)	Y695415-C
+	  Inferno	  	Y6B0000-0 @ Orbit G
+	  RadWorld	  	Y444000-0 @ Orbit X
+2 = LGG (90,000 mi dia.)	S=27
+	  StormWorld	  	Y600000-0 @ Orbit H
+	  OuterWorld	  	H6984C8-A @ Orbit S
+	  Worldlet	  	Y278440-6 @ Orbit T
+	  RadWorld	  	Y631000-0 @ Orbit V
+3 = World  (Inferno)	Y6B0000-0
+	  Worldlet	  	G300100-7 @ Orbit T
+4 = STAR F6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	F	Yellow-White	6,000-7,500
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 3
+	d1000Limit = 7
+	Min Orbit = 0
+	Max Orbit =  1
+	HZ =  -1
+	4-0 = 
+	4-1 = 
+5 = World  (BigWorld)	F69A451-8
+6 = STAR G6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  3
+	HZ =  -1
+	6-0 = 
+	6-1 = 
+	6-2 = 
+	6-3 = 
+7 = LGG (70,000 mi dia.)	S=25
+	  Ring @ Orbit ?
+8 = Planetoid belt	F000447-3
+9 = 
+10 = 
+11 = 
+12 = 
+13 = World  (BigWorld)	F620443-A
+	  IceWorld	  	Y680367-5 @ Orbit H
+	  Worldlet	  	F11026B-7 @ Orbit T
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 2
+Unfilled = 10
+W = 9
+syscount = 3
+min = 0
+count = 10

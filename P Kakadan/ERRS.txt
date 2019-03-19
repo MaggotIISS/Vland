@@ -1,0 +1,94 @@
+2531 Kiddinu
+2533 Aki
+2534 Zerapii
+2536 Linissa
+2539 Nunaat
+2540 Kalaalit
+2631 Kane
+2634 Wakarsat
+2636 Kakadan
+2637 Akon
+2640 Statia
+2732 Dnak'kritz
+2733 Jarmat
+2734 Rambant
+2737 Kesali
+2738 Tepmaa
+2739 Sg'aa
+2740 P'ginzh
+2831 Kiimzhal
+2832 Telkaa
+2836 Inushir
+2837 Piazza
+2839 Zombagu
+2931 Icuspin
+2932 Zanski
+2933 Kanat
+2934 Assazak
+2936 Elafdt
+2938 Punnari
+2939 Teralvar
+3031 New Salen
+3032 Matuyama
+3035 Zhanora
+3037 Raanbazziil
+3039 Gilnat Paz
+3131 Maamibrin
+3134 Toborit
+3135 Debekov
+3137 Alleman
+3138 Nasaa
+3140 Zana
+3231 Vanutappan
+3232 Tamayo
+3235 Debort
+3237 Zhannag
+3238 Lamiina
+3239 Lannazol
+C:\T5\Vland\P Kakadan\2531 Kiddinu\2531 Kiddinu
+C:\T5\Vland\P Kakadan\2533 Aki\2533 Aki
+C:\T5\Vland\P Kakadan\2534 Zerapii\2534 Zerapii
+C:\T5\Vland\P Kakadan\2536 Linissa\2536 Linissa
+C:\T5\Vland\P Kakadan\2539 Nunaat\2539 Nunaat
+C:\T5\Vland\P Kakadan\2540 Kalaalit\2540 Kalaalit
+C:\T5\Vland\P Kakadan\2631 Kane\2631 Kane
+C:\T5\Vland\P Kakadan\2634 Wakarsat\2634 Wakarsat
+C:\T5\Vland\P Kakadan\2636 Kakadan\2636 Kakadan
+C:\T5\Vland\P Kakadan\2637 Akon\2637 Akon
+C:\T5\Vland\P Kakadan\2640 Statia\2640 Statia
+C:\T5\Vland\P Kakadan\2732 Dnak'kritz\2732 Dnak'kritz
+C:\T5\Vland\P Kakadan\2733 Jarmat\2733 Jarmat
+C:\T5\Vland\P Kakadan\2734 Rambant\2734 Rambant
+C:\T5\Vland\P Kakadan\2737 Kesali\2737 Kesali
+C:\T5\Vland\P Kakadan\2738 Tepmaa\2738 Tepmaa
+C:\T5\Vland\P Kakadan\2739 Sg'aa\2739 Sg'aa
+C:\T5\Vland\P Kakadan\2740 P'ginzh\2740 P'ginzh
+C:\T5\Vland\P Kakadan\2831 Kiimzhal\2831 Kiimzhal
+C:\T5\Vland\P Kakadan\2832 Telkaa\2832 Telkaa
+C:\T5\Vland\P Kakadan\2836 Inushir\2836 Inushir
+C:\T5\Vland\P Kakadan\2837 Piazza\2837 Piazza
+C:\T5\Vland\P Kakadan\2839 Zombagu\2839 Zombagu
+C:\T5\Vland\P Kakadan\2931 Icuspin\2931 Icuspin
+C:\T5\Vland\P Kakadan\2932 Zanski\2932 Zanski
+C:\T5\Vland\P Kakadan\2933 Kanat\2933 Kanat
+C:\T5\Vland\P Kakadan\2934 Assazak\2934 Assazak
+C:\T5\Vland\P Kakadan\2936 Elafdt\2936 Elafdt
+C:\T5\Vland\P Kakadan\2938 Punnari\2938 Punnari
+C:\T5\Vland\P Kakadan\2939 Teralvar\2939 Teralvar
+C:\T5\Vland\P Kakadan\3031 New Salen\3031 New Salen
+C:\T5\Vland\P Kakadan\3032 Matuyama\3032 Matuyama
+C:\T5\Vland\P Kakadan\3035 Zhanora\3035 Zhanora
+C:\T5\Vland\P Kakadan\3037 Raanbazziil\3037 Raanbazziil
+C:\T5\Vland\P Kakadan\3039 Gilnat Paz\3039 Gilnat Paz
+C:\T5\Vland\P Kakadan\3131 Maamibrin\3131 Maamibrin
+C:\T5\Vland\P Kakadan\3134 Toborit\3134 Toborit
+C:\T5\Vland\P Kakadan\3135 Debekov\3135 Debekov
+C:\T5\Vland\P Kakadan\3137 Alleman\3137 Alleman
+C:\T5\Vland\P Kakadan\3138 Nasaa\3138 Nasaa
+C:\T5\Vland\P Kakadan\3140 Zana\3140 Zana
+C:\T5\Vland\P Kakadan\3231 Vanutappan\3231 Vanutappan
+C:\T5\Vland\P Kakadan\3232 Tamayo\3232 Tamayo
+C:\T5\Vland\P Kakadan\3235 Debort\3235 Debort
+C:\T5\Vland\P Kakadan\3237 Zhannag\3237 Zhannag
+C:\T5\Vland\P Kakadan\3238 Lamiina\3238 Lamiina
+C:\T5\Vland\P Kakadan\3239 Lannazol\3239 Lannazol

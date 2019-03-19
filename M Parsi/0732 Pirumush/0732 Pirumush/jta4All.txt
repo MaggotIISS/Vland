@@ -1,0 +1,67 @@
+Primary = G4 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  3
+0 = World  (Inferno)	Y2B0000-0
+1 = Planetoid belt	F000100-5
+2 = LGG (50,000 mi dia.)	S=23
+	  Hospitable	  	F274356-7 @ Orbit E
+	  Hospitable	  	F2303A5-7 @ Orbit F
+	  StormWorld	  	Y200000-0 @ Orbit G
+	  Inferno	  	Y2B0000-0 @ Orbit I
+	  BigWorld	  	H232255-7 @ Orbit RWorld  (Worldlet)	H000346-T
+	  Inferno	  	Y2B0000-0 @ Orbit V
+	  Inferno	  	Y2B0000-0 @ Orbit X
+3 = Mainworld	Pirumush	E524410-8	(Temperate)
+	  StormWorld	  	Y262000-0 @ Orbit G
+	  Worldlet	  	H097354-7 @ Orbit K
+4 = STAR M2 VWorld  (BigWorld)	H27A330-7
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  1
+	HZ =  -1
+	4-0 = 
+	4-1 = 
+5 = LGG (90,000 mi dia.)	S=27
+	  Ring @ Orbit ?World  (Worldlet)	Y056352-J
+	  OuterWorld	  	G26038D-7 @ Orbit Q
+	  StormWorld	  	Y292000-0 @ Orbit R
+	  OuterWorld	  	Y297301-7 @ Orbit V
+6 = Planetoid belt	F000355-6
+7 = World  (BigWorld)	F230377-7World  (StormWorld)	Y200000-0
+	  Worldlet	  	F264343-7 @ Orbit SWorld  (Worldlet)	G068366-R
+	  Worldlet	  	H045310-7 @ Orbit T
+	  Worldlet	  	Y0B6300-3 @ Orbit U
+8 = 
+9 = 
+10 = World  (Worldlet)	F23536B-7
+	  StormWorld	  	Y233000-0 @ Orbit F
+	  Worldlet	  	H010354-7 @ Orbit I
+	  OuterWorld	  	G252373-7 @ Orbit R
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 11
+W = 13
+syscount = 2
+min = 0
+count = 9

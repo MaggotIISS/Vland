@@ -1,0 +1,14 @@
+Hex = 1431
+Name = Daalurge
+UWP = C558532-9
+Remarks = Ag Ni
+{Ix} = { 0 }
+(Ex) = (844-4)
+[Cx] = [1515]
+N = BC
+B = -
+Z = -
+PBG = 410
+W = 11
+A = ImDv
+Stellar = M2 V M1 V

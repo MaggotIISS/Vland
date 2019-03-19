@@ -1,0 +1,4 @@
+I DUSA
+
+	WORLDS IN SUBSECTOR = 6
+	ImDv: "Third Imperium, Domain of Vland" = 6 worlds

@@ -1,0 +1,52 @@
+Primary = K8 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (Inferno)	Y4B0000-0
+1 = LGG (80,000 mi dia.)	S=26
+	  Worldlet	  	Y3B4367-4 @ Orbit C
+	  BigWorld	  	Y400562-3 @ Orbit G
+2 = Mainworld	Kalimgar	B799667-B	(Temperate)
+	  Ring @ Orbit ?World  (StormWorld)	F40017B-H
+	  Worldlet	  	F035578-A @ Orbit J
+	  Inferno	  	Y4B0000-0 @ Orbit R
+3 = Planetoid belt	H000272-7World  (StormWorld)	Y411000-0
+	  Worldlet	  	H020555-5 @ Orbit F
+	  Hospitable	  	F345536-8 @ Orbit X
+4 = LGG (60,000 mi dia.)	S=24
+	  RadWorld	  	Y47A000-0 @ Orbit F
+	  StormWorld	  	Y441000-0 @ Orbit R
+5 = LGG (250,000 mi dia.)	S=31
+	  StormWorld	  	Y400000-0 @ Orbit S
+	  BigWorld	  	Y420358-5 @ Orbit V
+6 = Planetoid belt	F000300-8
+7 = World  (StormWorld)	F420159-8
+	  Worldlet	  	Y130577-A @ Orbit P
+8 = World  (StormWorld)	G410177-A
+	  Worldlet	  	G047448-5 @ Orbit R
+9 = LGG (50,000 mi dia.)	S=23
+	  BigWorld	  	H498573-7 @ Orbit XWorld  (Inferno)	Y3B0000-H
+	  Worldlet	  	H1C6334-5 @ Orbit U
+	  IceWorld	  	Y100356-6 @ Orbit W
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 10
+syscount = 1
+min = 0
+W = 13
+Extra Stars = 0
+count = 10

@@ -1,0 +1,81 @@
+Hex = 2335
+Name = Miiliinlur
+UWP = B422665-C
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 2
+	DIGIT	DESCRIPTION	EFFECTS
+	2	VThin, Tainted	P1, S2
+Hydrosphere = 2
+	DIGIT	DESCRIPTION
+	2	20%
+Population = 6
+	POPULATION UNDER 7,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Captive Government/Colony	Rule by a leadership answerable to an outside group
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+Tech Level = C
+	DIGIT		
+	C		
+Remarks = He Na Ni Po Mr
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	He	3459ABC	2479ABC	012				Hell World	
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Ni				456			Non Industrial	
+	Po		2345	0123				Poor	
+	Mr							Military Rule by Regional Power	
+{Ix} = { 1 }
+	Starport B = +1
+	TL 12 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (E55-1)
+	Resources =  14
+	Labour =  5
+	Infrastructure =  5
+	Efficiency =  -1
+	RU = -350
+[Cx] = [473A]
+	Homogeneity = 4
+	Acceptance = 7
+	Strangeness = 3
+	Symbols = 10
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 724
+	Population Multiplier = 7
+	POPULATION UNDER 7,000,000
+	Planetoid Belts = 2
+	Gas Giants = 4
+W = 13
+	Non Stars In System = 13
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-4 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G7 V M4 V
+	Stars = 2

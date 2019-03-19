@@ -1,0 +1,39 @@
+A998574-D
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+
+Size = 9
+	DIGIT	DIA(MI)	DIA(KM)
+	9	9,000	14,400
+
+Atmosphere = 9
+	DIGIT	DESCRIPTION	EFFECTS
+	9	Dense, Tainted	P1
+
+Hydrosphere = 8
+	DIGIT	DESCRIPTION
+	8	80%
+
+Population = 5
+	POPULATION UNDER 200,000
+	DIGIT	DESCRIPTION	VALUE
+	5	Hundred thousand	00,000
+
+Government = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Balkanization	Rival governments continually compete for control of the world
+
+Law Level = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Moderate Law	Laser, Beam weapons prohibited
+
+Tech Level = D
+	DIGIT		
+	D		
+

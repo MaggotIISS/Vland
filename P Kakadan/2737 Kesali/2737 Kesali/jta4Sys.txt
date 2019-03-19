@@ -1,0 +1,14 @@
+Hex = 2737
+Name = Kesali
+UWP = B2009AB-E
+Remarks = Hi In Na Va Pz
+{Ix} = { 4 }
+(Ex) = (E8G+5)
+[Cx] = [BD7G]
+N = BEf
+B = N
+Z = A
+PBG = 503
+W = 6
+A = ImDv
+Stellar = M3 V

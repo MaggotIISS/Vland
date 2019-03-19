@@ -1,0 +1,14 @@
+Hex = 2210
+Name = Deglaraarbiis
+UWP = E737725-7
+Remarks = 
+{Ix} = { -2 }
+(Ex) = (966-4)
+[Cx] = [5535]
+N = B
+B = -
+Z = -
+PBG = 312
+W = 6
+A = ImDv
+Stellar = K2 V G4 V K4 V

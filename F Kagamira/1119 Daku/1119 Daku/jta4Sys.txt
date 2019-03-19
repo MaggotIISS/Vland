@@ -1,0 +1,14 @@
+Hex = 1119
+Name = Daku
+UWP = C432620-A
+Remarks = Na Ni Po
+{Ix} = { 0 }
+(Ex) = (C54-4)
+[Cx] = [1615]
+N = B
+B = S
+Z = -
+PBG = 804
+W = 8
+A = ImDv
+Stellar = K2 V

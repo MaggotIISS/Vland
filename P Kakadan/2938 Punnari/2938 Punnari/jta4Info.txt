@@ -1,0 +1,78 @@
+Hex = 2938
+Name = Punnari
+UWP = B737358-D
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+Atmosphere = 3
+	DIGIT	DESCRIPTION	EFFECTS
+	3	VThin	S2
+Hydrosphere = 7
+	DIGIT	DESCRIPTION
+	7	70%
+Population = 3
+	POPULATION UNDER 1,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+Law Level = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	High Law	Open display of weapons prohibited
+Tech Level = D
+	DIGIT		
+	D		
+Remarks = Lo RsA
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+	RsA							Research Station Alpha	
+{Ix} = { 1 }
+	Starport B = +1
+	TL 13 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (621+1)
+	Resources =  6
+	Labour =  2
+	Infrastructure =  1
+	Efficiency =  1
+	RU = 12
+[Cx] = [345D]
+	Homogeneity = 3
+	Acceptance = 4
+	Strangeness = 5
+	Symbols = 13
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 101
+	Population Multiplier = 1
+	POPULATION UNDER 1,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 13
+	Non Stars In System = 13
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 11 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 V M5 V
+	Stars = 2

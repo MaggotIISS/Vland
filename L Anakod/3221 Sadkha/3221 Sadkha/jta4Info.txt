@@ -1,0 +1,78 @@
+Hex = 3221
+Name = Sadkha
+UWP = B836313-C
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 8
+	DIGIT	DIA(MI)	DIA(KM)
+	8	8,000	13,800
+Atmosphere = 3
+	DIGIT	DESCRIPTION	EFFECTS
+	3	VThin	S2
+Hydrosphere = 6
+	DIGIT	DESCRIPTION
+	6	60%
+Population = 3
+	POPULATION UNDER 3,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+Government = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Company/Corporation	Rule by a managerial elite
+Law Level = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Low Law	Prohibition of Acid, Fire, Gas weapons
+Tech Level = C
+	DIGIT		
+	C		
+Remarks = Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+{Ix} = { 2 }
+	Starport B = +1
+	TL 12 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+1=2
+(Ex) = (821-1)
+	Resources =  8
+	Labour =  2
+	Infrastructure =  1
+	Efficiency =  -1
+	RU = -16
+[Cx] = [1529]
+	Homogeneity = 1
+	Acceptance = 5
+	Strangeness = 2
+	Symbols = 9
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = NS
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 321
+	Population Multiplier = 3
+	POPULATION UNDER 3,000
+	Planetoid Belts = 2
+	Gas Giants = 1
+W = 15
+	Non Stars In System = 15
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-1 (gas giants)
+	 = 11 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G6 V
+	Stars = 1

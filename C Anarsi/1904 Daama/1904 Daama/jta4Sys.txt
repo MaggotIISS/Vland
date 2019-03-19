@@ -1,0 +1,14 @@
+Hex = 1904
+Name = Daama
+UWP = B576538-A
+Remarks = Ag Ni
+{Ix} = { 2 }
+(Ex) = (846+2)
+[Cx] = [575A]
+N = -
+B = -
+Z = -
+PBG = 401
+W = 8
+A = NaHu
+Stellar = M2 V K4 V

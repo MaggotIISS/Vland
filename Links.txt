@@ -1,0 +1,57 @@
+//=============================================================================
+	VLAND
+	https://wiki.travellerrpg.com/Vland_Sector
+
+A Voskhod
+https://wiki.travellerrpg.com/Voskhod_Subsector
+https://wiki.travellerrpg.com/Voskhod_(world)
+B Vhodan
+https://wiki.travellerrpg.com/Vhodan_Subsector
+https://wiki.travellerrpg.com/Vhodan_(world)
+C Anarsi
+https://wiki.travellerrpg.com/Anarsi_Subsector
+https://wiki.travellerrpg.com/Anarsi_(world)
+D Theton
+https://wiki.travellerrpg.com/Theton_Subsector
+https://wiki.travellerrpg.com/Theton_(world)
+
+E Lalaki Kharir
+https://wiki.travellerrpg.com/Lalaki_Kharir_Subsector
+None
+F Kagamira
+https://wiki.travellerrpg.com/Kagamira_Subsector
+https://wiki.travellerrpg.com/Kagamira_(world)
+G Vland
+https://wiki.travellerrpg.com/Vland_Subsector
+https://wiki.travellerrpg.com/Vland_(world)
+H Shiigus
+https://wiki.travellerrpg.com/Shiigus_Subsector
+https://wiki.travellerrpg.com/Shiigus_(world)
+
+I Dusa
+https://wiki.travellerrpg.com/Dusa_Subsector
+None
+J Akumid
+https://wiki.travellerrpg.com/Akumid_Subsector
+https://wiki.travellerrpg.com/Akumid_(world)
+K Kasear
+https://wiki.travellerrpg.com/Kasear_Subsector
+https://wiki.travellerrpg.com/Kasear_(world)
+L Anakod
+https://wiki.travellerrpg.com/Anakod_Subsector
+https://wiki.travellerrpg.com/Anakod_(world)
+
+M Parsi
+https://wiki.travellerrpg.com/Parsi_Subsector
+https://wiki.travellerrpg.com/Parsi_(world)
+N Daangiilu
+https://wiki.travellerrpg.com/Daangiilu_Subsector
+https://wiki.travellerrpg.com/Daangiilu_(world)
+O Nulisud
+https://wiki.travellerrpg.com/Nulisud_Subsector
+https://wiki.travellerrpg.com/Nulisud_(world)
+P Kakadan
+https://wiki.travellerrpg.com/Kakadan_Subsector
+https://wiki.travellerrpg.com/Kakadan_(world)
+
+//=============================================================================

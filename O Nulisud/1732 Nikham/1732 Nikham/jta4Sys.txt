@@ -1,0 +1,14 @@
+Hex = 1732
+Name = Nikham
+UWP = E89A425-9
+Remarks = Ni Wa
+{Ix} = { -2 }
+(Ex) = (731-4)
+[Cx] = [2237]
+N = B
+B = -
+Z = -
+PBG = 410
+W = 11
+A = ImDv
+Stellar = M3 V

@@ -1,0 +1,14 @@
+Hex = 1505
+Name = Odinaga
+UWP = A2016A9-C
+Remarks = Ic Na Ni Va
+{Ix} = { 1 }
+(Ex) = (B55+2)
+[Cx] = [776D]
+N = B
+B = -
+Z = -
+PBG = 203
+W = 10
+A = ImDv
+Stellar = M0 V M5 V

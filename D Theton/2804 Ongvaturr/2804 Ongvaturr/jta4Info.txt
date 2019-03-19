@@ -1,0 +1,75 @@
+Hex = 2804
+Name = Ongvaturr
+UWP = B989742-7
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 9
+	DIGIT	DIA(MI)	DIA(KM)
+	9	9,000	14,400
+Atmosphere = 8
+	DIGIT	DESCRIPTION	EFFECTS
+	8	Dense	
+Hydrosphere = 9
+	DIGIT	DESCRIPTION
+	9	90%
+Population = 7
+	POPULATION UNDER 40,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+Government = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Representative Democracy	Government by proxy
+Law Level = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Low Law	Prohibition of 'portable' weapons
+Tech Level = 7
+	DIGIT		
+	7		
+Remarks = Ri
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ri		68		678			Rich	
+{Ix} = { 1 }
+	Starport B = +1
+	TL 7 = -1
+	Ri  = +1
+	Importance = Normal (1)+0=1
+(Ex) = (969-3)
+	Resources =  9
+	Labour =  6
+	Infrastructure =  9
+	Efficiency =  -3
+	RU = -1458
+[Cx] = [3813]
+	Homogeneity = 3
+	Acceptance = 8
+	Strangeness = 1
+	Symbols = 3
+N = -
+	No Imperial Nobles
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 402
+	Population Multiplier = 4
+	POPULATION UNDER 40,000,000
+	Planetoid Belts = 0
+	Gas Giants = 2
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-2 (gas giants)
+	 = 6 other worlds
+A = NaVa
+	CODE	DESCRIPTION
+	NaVa	Non-Aligned, Vargr-dominated
+Stellar = M3 V
+	Stars = 1

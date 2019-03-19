@@ -1,0 +1,14 @@
+Hex = 3024
+Name = Bertrand
+UWP = E200666-7
+Remarks = Na Ni Va O:3125
+{Ix} = { -3 }
+(Ex) = (851-4)
+[Cx] = [5346]
+N = B
+B = -
+Z = -
+PBG = 113
+W = 9
+A = ImDv
+Stellar = M1 V

@@ -1,0 +1,70 @@
+Primary = G2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  3
+0 = World  (StormWorld)	Y200000-0
+	  Ring @ Orbit ?
+1 = LGG (60,000 mi dia.)	S=24
+	  RadWorld	  	Y286000-0 @ Orbit B
+	  RadWorld	  	Y259000-0 @ Orbit RWorld  (Hospitable)	Y210377-H
+	  BigWorld	  	F288453-8 @ Orbit L
+2 = World  (Worldlet)	G024455-7
+	  RadWorld	  	Y235000-0 @ Orbit HWorld  (Worldlet)	F08A445-3
+3 = Mainworld	Daangiilu	A565544-D	(Temperate)
+	  Hospitable	  	Y25647B-3 @ Orbit F
+4 = STAR M4 VWorld  (Worldlet)	G257478-8
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  1
+	HZ =  -1
+	4-0 = 
+	4-1 = 
+5 = LGG (70,000 mi dia.)	S=25
+	  BigWorld	  	Y22548A-5 @ Orbit B
+	  IceWorld	  	Y252488-8 @ Orbit F
+	  IceWorld	  	G271436-9 @ Orbit H
+	  Worldlet	  	Y033300-8 @ Orbit I
+	  OuterWorld	  	H268311-5 @ Orbit GWorld  (Worldlet)	G230497-Q
+	  Ring @ Orbit U
+6 = LGG (50,000 mi dia.)	S=23
+	  OuterWorld	  	G210446-4 @ Orbit C
+	  RadWorld	  	Y289000-0 @ Orbit EWorld  (StormWorld)	Y221000-G
+	  Worldlet	  	G021415-5 @ Orbit L
+	  StormWorld	  	Y200000-0 @ Orbit SWorld  (Hospitable)	H28A4BB-P
+	  RadWorld	  	Y225000-0 @ Orbit R
+	  Worldlet	  	Y145100-9 @ Orbit S
+	  IceWorld	  	H221496-4 @ Orbit T
+	  StormWorld	  	Y200000-0 @ Orbit X
+7 = World  (RadWorld)	Y245000-0
+	  Ring @ Orbit ?
+8 = World  (Hospitable)	H256484-AWorld  (BigWorld)	H266457-3
+9 = 
+10 = World  (Hospitable)	Y140468-4
+11 = 
+12 = World  (Inferno)	Y2B0000-0
+	  Ring @ Orbit ?
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 9
+W = 17
+syscount = 2
+min = 0
+count = 11

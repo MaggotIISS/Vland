@@ -1,0 +1,76 @@
+Hex = 3210
+Name = Tasho
+UWP = E425300-A
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 2
+	DIGIT	DESCRIPTION	EFFECTS
+	2	VThin, Tainted	P1, S2
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+Population = 3
+	POPULATION UNDER 7,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+Government = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Government Structure	Family bonds predominate
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+{Ix} = { -1 }
+	Starport E = -1
+	TL 10 = +1
+	Pop < 7 = -1
+	Importance = Unimportant (-1)+0=-1
+(Ex) = (921-5)
+	Resources =  9
+	Labour =  2
+	Infrastructure =  1
+	Efficiency =  -5
+	RU = -90
+[Cx] = [1215]
+	Homogeneity = 1
+	Acceptance = 2
+	Strangeness = 1
+	Symbols = 5
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 722
+	Population Multiplier = 7
+	POPULATION UNDER 7,000
+	Planetoid Belts = 2
+	Gas Giants = 2
+W = 13
+	Non Stars In System = 13
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-2 (gas giants)
+	 = 8 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K1 IV
+	Stars = 1

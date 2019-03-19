@@ -1,0 +1,14 @@
+Hex = 1903
+Name = Gemid
+UWP = A423979-E
+Remarks = Hi In Na Po
+{Ix} = { 4 }
+(Ex) = (H8G+5)
+[Cx] = [AD6F]
+N = -
+B = N
+Z = -
+PBG = 724
+W = 10
+A = CsIm
+Stellar = K0 V

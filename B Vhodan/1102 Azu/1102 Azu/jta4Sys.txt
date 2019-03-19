@@ -1,0 +1,14 @@
+Hex = 1102
+Name = Azu
+UWP = A547857-D
+Remarks = Pa Ph Pi Varg2
+{Ix} = { 2 }
+(Ex) = (B7D+2)
+[Cx] = [8A5D]
+N = -
+B = N
+Z = -
+PBG = 801
+W = 5
+A = CsIm
+Stellar = M1 V M3 V

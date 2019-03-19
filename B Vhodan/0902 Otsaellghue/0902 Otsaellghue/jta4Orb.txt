@@ -1,0 +1,52 @@
+Primary = K9 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Otsaellghue	A425435-E	(Temperate)
+	  StormWorld	  	Y104000-0 @ Orbit TWorld  (BigWorld)	F144202-K
+	  RadWorld	  	Y155000-0 @ Orbit U
+	  StormWorld	  	Y151000-0 @ Orbit V
+1 = LGG (125,000 mi dia.)	S=28
+	  BigWorld	  	H1C63AB-8 @ Orbit E
+	  Inferno	  	Y1B0000-0 @ Orbit F
+	  Hospitable	  	Y178300-8 @ Orbit IWorld  (Inferno)	Y1B0000-G
+	  RadWorld	  	Y100000-0 @ Orbit I
+	  BigWorld	  	Y16A000-0 @ Orbit T
+	  Inferno	  	Y1B0000-0 @ Orbit U
+	  Worldlet	  	H152346-3 @ Orbit X
+2 = 
+3 = LGG (60,000 mi dia.)	S=24
+	  Ring @ Orbit ?
+4 = LGG (70,000 mi dia.)	S=25
+	  BigWorld	  	G19A355-C @ Orbit E
+	  IceWorld	  	H150248-8 @ Orbit G
+	  BigWorld	  	F199376-8 @ Orbit H
+	  IceWorld	  	G110245-9 @ Orbit I
+	  IceWorld	  	G140367-A @ Orbit S
+5 = 
+6 = 
+7 = 
+8 = World  (Worldlet)	H011397-6
+9 = 
+10 = 
+11 = 
+12 = 
+13 = World  (StormWorld)	Y122000-0
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 14
+W = 8
+syscount = 1
+min = 0
+count = 6

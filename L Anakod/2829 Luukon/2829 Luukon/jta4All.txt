@@ -1,0 +1,69 @@
+Primary = K3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (BigWorld)	G258631-8
+1 = 
+2 = World  (Worldlet)	G210650-7
+3 = Mainworld	Luukon	A5779B6-C	(Cold)
+	  Inferno	  	Y2B0000-0 @ Orbit D
+4 = World  (Worldlet)	Y2A6742-8
+5 = World  (Inferno)	Y2B0000-0
+	  RadWorld	  	Y255000-0 @ Orbit S
+	  Worldlet	  	G0107CF-9 @ Orbit T
+	  IceWorld	  	F250343-6 @ Orbit V
+6 = World  (BigWorld)	G230453-9
+7 = World  (StormWorld)	Y200000-0
+8 = LGG (70,000 mi dia.)	S=25
+	  OuterWorld	  	G277502-8 @ Orbit C
+	  Worldlet	  	H289762-6 @ Orbit D
+	  RadWorld	  	Y230000-0 @ Orbit H
+	  IceWorld	  	Y2B0774-6 @ Orbit V
+	  StormWorld	  	Y200000-0 @ Orbit X
+9 = World  (RadWorld)	Y234000-0
+10 = World  (Worldlet)	F064855-7
+11 = 
+12 = World  (Inferno)	Y2B0000-0
+	  RadWorld	  	Y210000-0 @ Orbit U
+	  StormWorld	  	Y200000-0 @ Orbit X
+13 = 
+14 = STAR M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  11
+	HZ =  -1
+	14-0 = 
+	14-1 = 
+	14-2 = 
+	14-3 = 
+	14-4 = 
+	14-5 = 
+	14-6 = 
+	14-7 = 
+	14-8 = 
+	14-9 = 
+	14-10 = 
+	14-11 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 8
+syscount = 2
+min = 0
+W = 11
+Extra Stars = 1
+count = 12

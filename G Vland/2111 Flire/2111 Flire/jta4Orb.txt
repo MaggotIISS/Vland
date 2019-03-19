@@ -1,0 +1,49 @@
+Primary = K8 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = LGG (125,000 mi dia.)	S=28
+	  InnerWorld	  	Y333000-0 @ Orbit G
+	  RadWorld	  	Y448000-0 @ Orbit K
+	  StormWorld	  	H400477-5 @ Orbit R
+	  BigWorld	  	H487862-7 @ Orbit X
+1 = Planetoid belt	F00079C-6World  (Hospitable)	F442123-7
+	  Worldlet	  	Y053532-9 @ Orbit C
+	  Inferno	  	Y4B0000-0 @ Orbit I
+2 = Mainworld	Flire	C779A77-D	(Temperate)
+3 = LGG (80,000 mi dia.)	S=26
+	  Ring @ Orbit ?Planetoid belt	Y00086A-5
+4 = 
+5 = World  (BigWorld)	Y444100-A
+	  Ring @ Orbit ?
+6 = LGG (180,000 mi dia.)	S=29
+	  Worldlet	  	G161475-B @ Orbit D
+	  BigWorld	  	G442564-9 @ Orbit G
+	  StormWorld	  	Y420000-0 @ Orbit I
+	  OuterWorld	  	H4D6768-9 @ Orbit K
+	  RadWorld	  	Y410000-0 @ Orbit T
+7 = 
+8 = 
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = World  (Inferno)	Y4B0000-0
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 13
+W = 9
+syscount = 1
+min = 0
+count = 7

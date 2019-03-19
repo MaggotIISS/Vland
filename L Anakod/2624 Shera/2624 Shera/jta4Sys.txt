@@ -1,0 +1,14 @@
+Hex = 2624
+Name = Shera
+UWP = C6838AB-8
+Remarks = Ri Ph Pz
+{Ix} = { 0 }
+(Ex) = (D78+2)
+[Cx] = [A87A]
+N = BCe
+B = S
+Z = A
+PBG = 603
+W = 7
+A = ImDv
+Stellar = M1 V

@@ -1,0 +1,77 @@
+Hex = 1240
+Name = Nelson
+UWP = E200200-A
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 2
+	DIGIT	DIA(MI)	DIA(KM)
+	2	2,000	3,200
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 2
+	POPULATION UNDER 100
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+Government = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Government Structure	Family bonds predominate
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = Lo Va
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+	Va		0					Vacuum	
+{Ix} = { -1 }
+	Starport E = -1
+	TL 10 = +1
+	Pop < 7 = -1
+	Importance = Unimportant (-1)+0=-1
+(Ex) = (611-5)
+	Resources =  6
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -5
+	RU = -30
+[Cx] = [1115]
+	Homogeneity = 1
+	Acceptance = 1
+	Strangeness = 1
+	Symbols = 5
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 120
+	Population Multiplier = 1
+	POPULATION UNDER 100
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 6
+	Non Stars In System = 6
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 3 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M0 V
+	Stars = 1

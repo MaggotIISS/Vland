@@ -1,0 +1,14 @@
+Hex = 2627
+Name = Taluza
+UWP = D594547-5
+Remarks = Ag Ni
+{Ix} = { -2 }
+(Ex) = (742-2)
+[Cx] = [5355]
+N = BC
+B = S
+Z = -
+PBG = 323
+W = 13
+A = ImDv
+Stellar = K6 V

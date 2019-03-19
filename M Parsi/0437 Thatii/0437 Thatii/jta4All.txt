@@ -1,0 +1,55 @@
+Primary = K8 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (BigWorld)	HDC6377-8World  (Hospitable)	H130372-8
+1 = SGG (30,000 mi dia.)	S=21
+	  InnerWorld	  	Y140000-0 @ Orbit D
+	  BigWorld	  	HE79200-8 @ Orbit H
+	  Inferno	  	Y6B0000-0 @ Orbit O
+	  Worldlet	  	H0353A9-8 @ Orbit T
+2 = 
+3 = Mainworld	Thatii	DA7A437-9	(Cold)
+	Orbits LGG (220,000 mi dia.)	S=30 @ orbit R
+	  Hospitable	  	G332389-8 @ Orbit G
+	  StormWorld	  	Y500000-0 @ Orbit H
+	  Inferno	  	Y4B0000-0 @ Orbit I
+	  BigWorld	  	YD86364-6 @ Orbit L
+	  Inferno	  	Y7B0000-0 @ Orbit S
+4 = LGG (125,000 mi dia.)	S=28
+	  RadWorld	  	Y400000-0 @ Orbit I
+5 = Planetoid belt	H000364-6
+6 = LGG (180,000 mi dia.)	S=29
+	  StormWorld	  	Y851000-0 @ Orbit D
+	  IceWorld	  	H563314-8 @ Orbit S
+	  StormWorld	  	Y601000-0 @ Orbit T
+7 = Planetoid belt	G0003AD-8
+8 = LGG (80,000 mi dia.)	S=26
+	  OuterWorld	  	F586355-8 @ Orbit D
+	  BigWorld	  	GD75335-7 @ Orbit S
+	  StormWorld	  	Y820000-0 @ Orbit U
+	  BigWorld	  	HB76131-4 @ Orbit V
+	  Worldlet	  	G322375-8 @ Orbit W
+9 = 
+10 = World  (RadWorld)	Y6A6000-0
+11 = World  (RadWorld)	Y400000-0
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 10
+W = 11
+syscount = 1
+min = 0
+count = 10

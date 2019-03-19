@@ -1,0 +1,74 @@
+Hex = 0131
+Name = Skasputin
+UWP = C763340-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+Atmosphere = 6
+	DIGIT	DESCRIPTION	EFFECTS
+	6	Standard	
+Hydrosphere = 3
+	DIGIT	DESCRIPTION
+	3	30%
+Population = 3
+	POPULATION UNDER 3,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+Government = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Representative Democracy	Government by proxy
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+{Ix} = { -1 }
+	Pop < 7 = -1
+	Importance = Unimportant (-1)+0=-1
+(Ex) = (B21-5)
+	Resources =  11
+	Labour =  2
+	Infrastructure =  1
+	Efficiency =  -5
+	RU = -110
+[Cx] = [1214]
+	Homogeneity = 1
+	Acceptance = 2
+	Strangeness = 1
+	Symbols = 4
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 324
+	Population Multiplier = 3
+	POPULATION UNDER 3,000
+	Planetoid Belts = 2
+	Gas Giants = 4
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-4 (gas giants)
+	 = 3 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 V
+	Stars = 1

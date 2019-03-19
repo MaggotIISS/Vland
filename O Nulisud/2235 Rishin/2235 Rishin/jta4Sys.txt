@@ -1,0 +1,14 @@
+Hex = 2235
+Name = Rishin
+UWP = E31057B-9
+Remarks = Ni
+{Ix} = { -2 }
+(Ex) = (D42+1)
+[Cx] = [737B]
+N = B
+B = -
+Z = -
+PBG = 824
+W = 14
+A = ImDv
+Stellar = G0 V

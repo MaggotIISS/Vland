@@ -1,0 +1,14 @@
+Hex = 0335
+Name = Nadud
+UWP = D97A350-9
+Remarks = Lo Wa
+{Ix} = { -2 }
+(Ex) = (721-5)
+[Cx] = [1114]
+N = B
+B = -
+Z = -
+PBG = 220
+W = 13
+A = ImDv
+Stellar = M1 V

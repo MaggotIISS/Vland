@@ -1,0 +1,14 @@
+Hex = 1625
+Name = Bashimus
+UWP = A542568-D
+Remarks = He Ni Po Mr
+{Ix} = { 1 }
+(Ex) = (945+1)
+[Cx] = [565D]
+N = B
+B = N
+Z = -
+PBG = 320
+W = 12
+A = ImDv
+Stellar = M4 V

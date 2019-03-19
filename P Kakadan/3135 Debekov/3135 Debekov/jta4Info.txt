@@ -1,0 +1,78 @@
+Hex = 3135
+Name = Debekov
+UWP = B572305-B
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 7
+	DIGIT	DESCRIPTION	EFFECTS
+	7	Standard, Tainted	P1
+Hydrosphere = 2
+	DIGIT	DESCRIPTION
+	2	20%
+Population = 3
+	POPULATION UNDER 9,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+Government = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Government Structure	Family bonds predominate
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+Tech Level = B
+	DIGIT		
+	B		
+Remarks = He Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	He	3459ABC	2479ABC	012				Hell World	
+	Lo				123			Low Population	
+{Ix} = { 1 }
+	Starport B = +1
+	TL 11 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (621-1)
+	Resources =  6
+	Labour =  2
+	Infrastructure =  1
+	Efficiency =  -1
+	RU = -12
+[Cx] = [1439]
+	Homogeneity = 1
+	Acceptance = 4
+	Strangeness = 3
+	Symbols = 9
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 901
+	Population Multiplier = 9
+	POPULATION UNDER 9,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 11
+	Non Stars In System = 11
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 9 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 V
+	Stars = 1

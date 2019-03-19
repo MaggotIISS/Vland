@@ -1,0 +1,14 @@
+Hex = 3022
+Name = Arklin
+UWP = B9CA313-E
+Remarks = Fl Lo
+{Ix} = { 1 }
+(Ex) = (C21-2)
+[Cx] = [142B]
+N = B
+B = -
+Z = -
+PBG = 834
+W = 12
+A = ImDv
+Stellar = M3 III

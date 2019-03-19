@@ -1,0 +1,14 @@
+Hex = 0137
+Name = Shaaki
+UWP = B9B4750-C
+Remarks = Fl
+{Ix} = { 2 }
+(Ex) = (B6C-2)
+[Cx] = [2917]
+N = B
+B = N
+Z = -
+PBG = 620
+W = 16
+A = ImDv
+Stellar = F1 V M1 V

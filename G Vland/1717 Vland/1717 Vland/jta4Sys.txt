@@ -1,0 +1,14 @@
+Hex = 1717
+Name = Vland
+UWP = A967A9A-F
+Remarks = Hi Cs [Vilani]
+{Ix} = { 3 }
+(Ex) = (D9F+5)
+[Cx] = [CD7H]
+N = BEFG
+B = N
+Z = -
+PBG = 310
+W = 7
+A = ImDv
+Stellar = F8 V

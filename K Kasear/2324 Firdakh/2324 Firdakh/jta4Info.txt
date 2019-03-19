@@ -1,0 +1,77 @@
+Hex = 2324
+Name = Firdakh
+UWP = D432451-A
+Starport = D
+	Quality = Poor
+	Yards = No
+	Repairs = Minor damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 3
+	DIGIT	DESCRIPTION	EFFECTS
+	3	VThin	S2
+Hydrosphere = 2
+	DIGIT	DESCRIPTION
+	2	20%
+Population = 4
+	POPULATION UNDER 10,000
+	DIGIT	DESCRIPTION	VALUE
+	4	Ten thousand	0,000
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+Law Level = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Low Law	Prohibition of WMD, Psi weapons
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = Ni Po
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+	Po		2345	0123				Poor	
+{Ix} = { -1 }
+	Starport D = -1
+	TL 10 = +1
+	Pop < 7 = -1
+	Importance = Unimportant (-1)+0=-1
+(Ex) = (832-5)
+	Resources =  8
+	Labour =  3
+	Infrastructure =  2
+	Efficiency =  -5
+	RU = -240
+[Cx] = [1316]
+	Homogeneity = 1
+	Acceptance = 3
+	Strangeness = 1
+	Symbols = 6
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 120
+	Population Multiplier = 1
+	POPULATION UNDER 10,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 14
+	Non Stars In System = 14
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 11 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K9 V
+	Stars = 1

@@ -1,0 +1,39 @@
+E7788CA-5
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+
+Atmosphere = 7
+	DIGIT	DESCRIPTION	EFFECTS
+	7	Standard, Tainted	P1
+
+Hydrosphere = 8
+	DIGIT	DESCRIPTION
+	8	80%
+
+Population = 8
+	POPULATION UNDER 900,000,000
+	DIGIT	DESCRIPTION	VALUE
+	8	Hundred million	00,000,000
+
+Government = C
+	DIGIT	DESCRIPTION	NOTE
+	C	Charismatic Oligarchy	Government by a select religious, mystic, or psionic group, organization, or class enjoying the overwhelming confidence of the citizenry
+
+Law Level = A
+	DIGIT	DESCRIPTION	NOTE
+	A	Extreme Law	Weapon possession prohibited
+
+Tech Level = 5
+	DIGIT		
+	5		
+

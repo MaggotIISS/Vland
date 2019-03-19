@@ -1,0 +1,14 @@
+Hex = 2812
+Name = Alkhaas
+UWP = E99769D-6
+Remarks = Ag Ni Da
+{Ix} = { -2 }
+(Ex) = (852+2)
+[Cx] = [A49A]
+N = BC
+B = -
+Z = A
+PBG = 133
+W = 9
+A = ImDv
+Stellar = M1 V M2 V

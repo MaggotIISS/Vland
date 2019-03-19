@@ -1,0 +1,14 @@
+Hex = 1831
+Name = Mekhe
+UWP = C546567-8
+Remarks = Ag Ni O:1730
+{Ix} = { -1 }
+(Ex) = (E43-1)
+[Cx] = [5458]
+N = BC
+B = -
+Z = -
+PBG = 325
+W = 11
+A = ImDv
+Stellar = K3 V M1 V

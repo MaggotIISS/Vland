@@ -1,0 +1,14 @@
+Hex = 0708
+Name = Voskhod
+UWP = B3109ED-E
+Remarks = Hi In Na Cp Pz
+{Ix} = { 5 }
+(Ex) = (C8H+5)
+[Cx] = [DE9J]
+N = BEF
+B = W
+Z = A
+PBG = 101
+W = 12
+A = ImDv
+Stellar = M1 V M0 V

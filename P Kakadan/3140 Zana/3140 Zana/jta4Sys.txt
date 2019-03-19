@@ -1,0 +1,14 @@
+Hex = 3140
+Name = Zana
+UWP = E653546-7
+Remarks = Ni Po
+{Ix} = { -3 }
+(Ex) = (741-4)
+[Cx] = [4246]
+N = B
+B = -
+Z = -
+PBG = 310
+W = 8
+A = ImDv
+Stellar = K0 V M2 V

@@ -1,0 +1,14 @@
+Hex = 2106
+Name = Hellvaplace
+UWP = DAB5423-8
+Remarks = Fl Ni
+{Ix} = { -3 }
+(Ex) = (731-5)
+[Cx] = [1125]
+N = B
+B = -
+Z = -
+PBG = 901
+W = 10
+A = ImDv
+Stellar = M2 V G2 V

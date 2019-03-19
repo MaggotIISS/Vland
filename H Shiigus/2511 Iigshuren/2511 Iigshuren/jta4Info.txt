@@ -1,0 +1,79 @@
+Hex = 2511
+Name = Iigshuren
+UWP = B66A766-C
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 6
+	DIGIT	DIA(MI)	DIA(KM)
+	6	6,000	9,600
+Atmosphere = 6
+	DIGIT	DESCRIPTION	EFFECTS
+	6	Standard	
+Hydrosphere = A
+	DIGIT	DESCRIPTION
+	A	Water World
+Population = 7
+	POPULATION UNDER 20,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+Government = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Captive Government/Colony	Rule by a leadership answerable to an outside group
+Law Level = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Moderate Law	Pohibition of Machineguns
+Tech Level = C
+	DIGIT		
+	C		
+Remarks = Ri Wa O:2409
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ri		68		678			Rich	
+	Wa	56789		A				Water World	
+	Ruled by 2409 Sardiika
+{Ix} = { 3 }
+	Starport B = +1
+	TL 12 = +1
+	Ri  = +1
+	Importance = Normal (3)+0=3
+(Ex) = (E6D+2)
+	Resources =  14
+	Labour =  6
+	Infrastructure =  13
+	Efficiency =  2
+	RU = 2184
+[Cx] = [6A4B]
+	Homogeneity = 6
+	Acceptance = 10
+	Strangeness = 4
+	Symbols = 11
+N = BC
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 223
+	Population Multiplier = 2
+	POPULATION UNDER 20,000,000
+	Planetoid Belts = 2
+	Gas Giants = 3
+W = 11
+	Non Stars In System = 11
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-3 (gas giants)
+	 = 5 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G5 V
+	Stars = 1

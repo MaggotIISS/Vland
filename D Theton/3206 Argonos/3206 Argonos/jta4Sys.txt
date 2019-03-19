@@ -1,0 +1,14 @@
+Hex = 3206
+Name = Argonos
+UWP = D89A235-8
+Remarks = Lo Wa (minor)
+{Ix} = { -3 }
+(Ex) = (611-5)
+[Cx] = [1136]
+N = B
+B = -
+Z = -
+PBG = 620
+W = 7
+A = ImDv
+Stellar = M0 V

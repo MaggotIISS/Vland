@@ -1,0 +1,63 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Sadniben	C778978-6	(Temperate)
+	Orbits LGG (80,000 mi dia.)	S=26 @ orbit R
+	  Ring @ Orbit ?LGG (70,000 mi dia.)	S=2G
+	  BigWorld	  	GA42563-5 @ Orbit J
+	  Inferno	  	Y7B0000-0 @ Orbit KWorld  (Worldlet)	Y300102-O
+	  Inferno	  	Y9B0000-0 @ Orbit S
+	  Hospitable	  	G423200-5 @ Orbit HWorld  (BigWorld)	HB59278-T
+	  Ring @ Orbit V
+1 = LGG (220,000 mi dia.)	S=30
+	  RadWorld	  	YA65000-0 @ Orbit I
+	  Inferno	  	Y5B0000-0 @ Orbit X
+2 = LGG (220,000 mi dia.)	S=30
+	  Worldlet	  	G04475A-5 @ Orbit C
+	  OuterWorld	  	Y140543-5 @ Orbit D
+	  StormWorld	  	YA20000-0 @ Orbit VLGG (125,000 mi dia.)	S=2E
+	  Ring @ Orbit ?World  (Worldlet)	H05066A-F
+	  IceWorld	  	Y55089E-5 @ Orbit H
+	  RadWorld	  	Y434000-0 @ Orbit I
+	  BigWorld	  	HC10366-5 @ Orbit J
+	  RadWorld	  	Y524000-0 @ Orbit R
+	  BigWorld	  	YF75426-5 @ Orbit VWorld  (RadWorld)	Y645000-U
+	  Ring @ Orbit ?World  (Inferno)	Y5B0000-V
+	  Ring @ Orbit W
+3 = World  (StormWorld)	YA00000-0
+	  IceWorld	  	Y772200-2 @ Orbit T
+4 = World  (StormWorld)	H510197-5
+	  Ring @ Orbit ?
+5 = 
+6 = 
+7 = World  (Inferno)	Y8B0000-0
+	  OuterWorld	  	F863745-5 @ Orbit F
+	  OuterWorld	  	H474764-5 @ Orbit Y
+8 = World  (RadWorld)	Y551000-0
+	  StormWorld	  	Y700000-0 @ Orbit Q
+	  StormWorld	  	G735166-5 @ Orbit S
+	  Worldlet	  	Y020132-5 @ Orbit Y
+9 = 
+10 = World  (Worldlet)	F05388A-5
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 12
+W = 15
+syscount = 1
+min = 0
+count = 8

@@ -1,0 +1,14 @@
+Hex = 3229
+Name = Diikaras
+UWP = AA9A651-F
+Remarks = Ni Oc
+{Ix} = { 1 }
+(Ex) = (A55-3)
+[Cx] = [271B]
+N = B
+B = -
+Z = -
+PBG = 602
+W = 9
+A = ImDv
+Stellar = M2 V

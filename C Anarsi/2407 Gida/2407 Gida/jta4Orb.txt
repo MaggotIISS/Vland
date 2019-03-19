@@ -1,0 +1,47 @@
+Primary = M3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Gida	E200265-9	(Temperate)
+	  Ring @ Orbit ?World  (Inferno)	Y-1B0000-0
+1 = World  (Worldlet)	Y-135185-2
+2 = World  (StormWorld)	Y-161000-0World  (RadWorld)	Y-1B4000-0
+	  Worldlet	  	Y-100120-5 @ Orbit H
+	  RadWorld	  	Y-121000-0 @ Orbit K
+3 = World  (StormWorld)	Y-120000-0
+	  Worldlet	  	F-1B4167-7 @ Orbit H
+4 = World  (BigWorld)	F-100199-8
+	  Worldlet	  	G-16A176-6 @ Orbit F
+	  Worldlet	  	G-131146-8 @ Orbit G
+	  RadWorld	  	Y-100000-0 @ Orbit DWorld  (RadWorld)	Y-184000-I
+	  StormWorld	  	Y-100000-0 @ Orbit K
+	  RadWorld	  	Y-154000-0 @ Orbit T
+	  Worldlet	  	Y-1B6158-7 @ Orbit U
+5 = 
+6 = Planetoid belt	Y-100188-8
+7 = 
+8 = 
+9 = 
+10 = 
+11 = 
+12 = World  (Worldlet)	F-1A6140-8
+	  Worldlet	  	Y-160153-8 @ Orbit D
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 13
+W = 10
+syscount = 1
+min = 0
+count = 7

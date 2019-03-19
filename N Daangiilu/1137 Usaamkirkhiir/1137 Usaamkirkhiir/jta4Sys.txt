@@ -1,0 +1,14 @@
+Hex = 1137
+Name = Usaamkirkhiir
+UWP = E56456A-7
+Remarks = Ag Ni Pr O:1437
+{Ix} = { -2 }
+(Ex) = (742+1)
+[Cx] = [7379]
+N = BcC
+B = -
+Z = -
+PBG = 314
+W = 13
+A = ImDv
+Stellar = K1 V

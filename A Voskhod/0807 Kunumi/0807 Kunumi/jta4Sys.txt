@@ -1,0 +1,14 @@
+Hex = 0807
+Name = Kunumi
+UWP = A554412-D
+Remarks = Ni Pa
+{Ix} = { 1 }
+(Ex) = (934-3)
+[Cx] = [1519]
+N = Bc
+B = -
+Z = -
+PBG = 621
+W = 12
+A = ImDv
+Stellar = K0 V

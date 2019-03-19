@@ -1,0 +1,14 @@
+Hex = 1520
+Name = Shulishu
+UWP = A55259B-D
+Remarks = Ni Po Da
+{Ix} = { 1 }
+(Ex) = (845+3)
+[Cx] = [767F]
+N = B
+B = -
+Z = A
+PBG = 410
+W = 10
+A = ImDv
+Stellar = M0 V K1 V

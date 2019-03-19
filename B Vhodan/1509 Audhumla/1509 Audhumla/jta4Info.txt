@@ -1,0 +1,77 @@
+Hex = 1509
+Name = Audhumla
+UWP = A98A400-E
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 9
+	DIGIT	DIA(MI)	DIA(KM)
+	9	9,000	14,400
+Atmosphere = 8
+	DIGIT	DESCRIPTION	EFFECTS
+	8	Dense	
+Hydrosphere = A
+	DIGIT	DESCRIPTION
+	A	Water World
+Population = 4
+	POPULATION UNDER 20,000
+	DIGIT	DESCRIPTION	VALUE
+	4	Ten thousand	0,000
+Government = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Government Structure	Family bonds predominate
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = E
+	DIGIT		
+	E		
+Remarks = Ni Wa
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+	Wa	56789		A				Water World	
+{Ix} = { 1 }
+	Starport A = +1
+	TL 14 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (734-3)
+	Resources =  7
+	Labour =  3
+	Infrastructure =  4
+	Efficiency =  -3
+	RU = -252
+[Cx] = [1519]
+	Homogeneity = 1
+	Acceptance = 5
+	Strangeness = 1
+	Symbols = 9
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 201
+	Population Multiplier = 2
+	POPULATION UNDER 20,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 7 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V G1 V
+	Stars = 2

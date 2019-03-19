@@ -1,0 +1,76 @@
+Hex = 2923
+Name = Zircon
+UWP = C571116-8
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 7
+	DIGIT	DESCRIPTION	EFFECTS
+	7	Standard, Tainted	P1
+Hydrosphere = 1
+	DIGIT	DESCRIPTION
+	1	10%
+Population = 1
+	POPULATION UNDER 40
+	DIGIT	DESCRIPTION	VALUE
+	1	Tens	0
+Government = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Company/Corporation	Rule by a managerial elite
+Law Level = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Moderate Law	Pohibition of Machineguns
+Tech Level = 8
+	DIGIT		
+	8		
+Remarks = He Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	He	3459ABC	2479ABC	012				Hell World	
+	Lo				123			Low Population	
+{Ix} = { -2 }
+	Pop < 7 = -1
+	Importance = Unimportant (-1)+-1=-2
+(Ex) = (411-3)
+	Resources =  4
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -3
+	RU = -12
+[Cx] = [1147]
+	Homogeneity = 1
+	Acceptance = 1
+	Strangeness = 4
+	Symbols = 7
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 410
+	Population Multiplier = 4
+	POPULATION UNDER 40
+	Planetoid Belts = 1
+	Gas Giants = 0
+W = 7
+	Non Stars In System = 7
+	-1 (mainworld)
+	-1 (planetoid belts)
+	-0 (gas giants)
+	 = 5 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M0 V M6 V
+	Stars = 2

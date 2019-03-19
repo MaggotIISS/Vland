@@ -1,0 +1,56 @@
+Primary = M0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = World  (Inferno)	Y2B0000-0
+1 = Mainworld	Alanidon	D554423-7	(Cold)
+2 = 
+3 = 
+4 = 
+5 = Planetoid belt	H000349-6
+6 = 
+7 = Planetoid belt	H000225-3
+8 = World  (RadWorld)	Y274000-0
+	  Worldlet	  	G010368-5 @ Orbit G
+9 = STAR M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  6
+	HZ =  -1
+	9-0 = 
+	9-1 = 
+	9-2 = 
+	9-3 = 
+	9-4 = 
+	9-5 = 
+	9-6 = 
+10 = World  (Hospitable)	H2A6212-6
+	  IceWorld	  	H281375-6 @ Orbit B
+	  OuterWorld	  	G210334-4 @ Orbit L
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 13
+W = 6
+syscount = 2
+min = 0
+count = 7

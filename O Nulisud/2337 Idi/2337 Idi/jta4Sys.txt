@@ -1,0 +1,14 @@
+Hex = 2337
+Name = Idi
+UWP = A561436-D
+Remarks = Ni
+{Ix} = { 1 }
+(Ex) = (934+1)
+[Cx] = [354C]
+N = B
+B = N
+Z = -
+PBG = 512
+W = 10
+A = ImDv
+Stellar = G8 V M6 V

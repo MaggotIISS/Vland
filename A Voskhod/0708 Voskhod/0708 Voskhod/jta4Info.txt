@@ -1,0 +1,85 @@
+Hex = 0708
+Name = Voskhod
+UWP = B3109ED-E
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 3
+	DIGIT	DIA(MI)	DIA(KM)
+	3	3,000	4,800
+Atmosphere = 1
+	DIGIT	DESCRIPTION	EFFECTS
+	1	Trace	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 9
+	POPULATION UNDER 1,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	9	Billion	,000,000,000
+Government = E
+	DIGIT	DESCRIPTION	NOTE
+	E	Religious Autocracy	Government by a single religious, mystic, or psionic leader weilding absolute power
+Law Level = D
+	DIGIT	DESCRIPTION	NOTE
+	D	Extreme Law	Paramilitary law enforcement
+Tech Level = E
+	DIGIT		
+	E		
+Remarks = Hi In Na Cp Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	In		012479		9ABC			industrial	
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Cp							Subsector Capital	Imperial
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { 5 }
+	Starport B = +1
+	TL 14 = +1
+	Hi  = +1
+	In  = +1
+	Way Station  = +1
+	Importance = Important (6)+-1=5
+(Ex) = (C8H+5)
+	Resources =  12
+	Labour =  8
+	Infrastructure =  17
+	Efficiency =  5
+	RU = 8160
+[Cx] = [DE9J]
+	Homogeneity = 13
+	Acceptance = 14
+	Strangeness = 9
+	Symbols = 19
+N = BEF
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+	F	Duke	In
+B = W
+	DIGIT	DESCRIPTION	ALLEG
+	W	Scout Way Station	Imperial
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 101
+	Population Multiplier = 1
+	POPULATION UNDER 1,000,000,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 10 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V M0 V
+	Stars = 2

@@ -1,0 +1,14 @@
+Hex = 2634
+Name = Wakarsat
+UWP = B68A789-B
+Remarks = Ri Wa
+{Ix} = { 3 }
+(Ex) = (E6D+4)
+[Cx] = [8A6C]
+N = BC
+B = N
+Z = -
+PBG = 814
+W = 13
+A = ImDv
+Stellar = M0 V

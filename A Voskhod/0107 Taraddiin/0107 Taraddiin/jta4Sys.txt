@@ -1,0 +1,14 @@
+Hex = 0107
+Name = Taraddiin
+UWP = C656563-9
+Remarks = Ag Ni Ga O:0110
+{Ix} = { 0 }
+(Ex) = (944-3)
+[Cx] = [2526]
+N = BC
+B = -
+Z = -
+PBG = 311
+W = 13
+A = ImDv
+Stellar = M3 V

@@ -1,0 +1,43 @@
+Primary = M9 III
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	III	Normal Giant	4.6 - 360
+	d10Limit = 8
+	d100Limit = 11
+	d1000Limit = 14
+	Min Orbit = 3
+	HZ =  9
+3 = World  (RadWorld)	Y087000-0
+4 = World  (Hospitable)	H069546-9
+5 = World  (Inferno)	Y0B0000-0World  (RadWorld)	Y040000-0
+	  Ring @ Orbit ?
+6 = Planetoid belt	H000578-9
+7 = Planetoid belt	H000542-B
+8 = World  (BigWorld)	F000135-4
+	  RadWorld	  	Y0A6000-0 @ Orbit H
+	  Inferno	  	Y0B0000-0 @ Orbit K
+9 = Mainworld	Niirka	A300757-F	(Temperate)
+10 = LGG (125,000 mi dia.)	S=28
+	  Hospitable	  	G045200-7 @ Orbit D
+	  Inferno	  	Y0B0000-0 @ Orbit F
+	  Hospitable	  	H040333-9 @ Orbit I
+	  Worldlet	  	Y048311-8 @ Orbit Q
+	  Hospitable	  	Y06869B-8 @ Orbit T
+11 = LGG (70,000 mi dia.)	S=25
+	  StormWorld	  	Y000000-0 @ Orbit E
+	  Worldlet	  	H049634-3 @ Orbit R
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 8
+W = 15
+syscount = 1
+min = 3
+count = 9

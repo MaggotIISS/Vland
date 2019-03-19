@@ -1,0 +1,77 @@
+Hex = 1109
+Name = Suragginsu
+UWP = E433352-A
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 3
+	DIGIT	DESCRIPTION	EFFECTS
+	3	VThin	S2
+Hydrosphere = 3
+	DIGIT	DESCRIPTION
+	3	30%
+Population = 3
+	POPULATION UNDER 7,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+Law Level = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Low Law	Prohibition of 'portable' weapons
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = Lo Po
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+	Po		2345	0123				Poor	
+{Ix} = { -1 }
+	Starport E = -1
+	TL 10 = +1
+	Pop < 7 = -1
+	Importance = Unimportant (-1)+0=-1
+(Ex) = (721-5)
+	Resources =  7
+	Labour =  2
+	Infrastructure =  1
+	Efficiency =  -5
+	RU = -70
+[Cx] = [1216]
+	Homogeneity = 1
+	Acceptance = 2
+	Strangeness = 1
+	Symbols = 6
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 711
+	Population Multiplier = 7
+	POPULATION UNDER 7,000
+	Planetoid Belts = 1
+	Gas Giants = 1
+W = 13
+	Non Stars In System = 13
+	-1 (mainworld)
+	-1 (planetoid belts)
+	-1 (gas giants)
+	 = 10 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = F6 V M8 V
+	Stars = 2

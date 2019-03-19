@@ -1,0 +1,14 @@
+Hex = 3202
+Name = Vutsarrgh
+UWP = D665987-5
+Remarks = Hi Ga Pr
+{Ix} = { -1 }
+(Ex) = (B87-1)
+[Cx] = [9855]
+N = -
+B = -
+Z = -
+PBG = 720
+W = 9
+A = NaVa
+Stellar = M0 V M8 V

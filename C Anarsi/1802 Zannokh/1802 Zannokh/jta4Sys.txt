@@ -1,0 +1,14 @@
+Hex = 1802
+Name = Zannokh
+UWP = B545235-8
+Remarks = Lo
+{Ix} = { -1 }
+(Ex) = (611-3)
+[Cx] = [1136]
+N = -
+B = -
+Z = -
+PBG = 920
+W = 13
+A = NaVa
+Stellar = G8 V

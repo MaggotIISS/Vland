@@ -1,0 +1,77 @@
+Hex = 2539
+Name = Nunaat
+UWP = B624248-C
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 6
+	DIGIT	DIA(MI)	DIA(KM)
+	6	6,000	9,600
+Atmosphere = 2
+	DIGIT	DESCRIPTION	EFFECTS
+	2	VThin, Tainted	P1, S2
+Hydrosphere = 4
+	DIGIT	DESCRIPTION
+	4	40%
+Population = 2
+	POPULATION UNDER 900
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+Government = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Representative Democracy	Government by proxy
+Law Level = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	High Law	Open display of weapons prohibited
+Tech Level = C
+	DIGIT		
+	C		
+Remarks = Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+{Ix} = { 1 }
+	Starport B = +1
+	TL 12 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (A11+1)
+	Resources =  10
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  1
+	RU = 10
+[Cx] = [235C]
+	Homogeneity = 2
+	Acceptance = 3
+	Strangeness = 5
+	Symbols = 12
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 924
+	Population Multiplier = 9
+	POPULATION UNDER 900
+	Planetoid Belts = 2
+	Gas Giants = 4
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-4 (gas giants)
+	 = 2 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M0 V
+	Stars = 1

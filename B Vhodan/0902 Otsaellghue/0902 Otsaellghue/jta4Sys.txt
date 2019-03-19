@@ -1,0 +1,14 @@
+Hex = 0902
+Name = Otsaellghue
+UWP = A425435-E
+Remarks = Ni Varg9
+{Ix} = { 1 }
+(Ex) = (934-1)
+[Cx] = [253C]
+N = -
+B = N
+Z = -
+PBG = 303
+W = 8
+A = CsIm
+Stellar = K9 V

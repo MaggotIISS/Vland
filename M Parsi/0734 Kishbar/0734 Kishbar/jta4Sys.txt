@@ -1,0 +1,14 @@
+Hex = 0734
+Name = Kishbar
+UWP = B301310-D
+Remarks = Ic Lo Va
+{Ix} = { 1 }
+(Ex) = (721-3)
+[Cx] = [1418]
+N = B
+B = -
+Z = -
+PBG = 720
+W = 10
+A = ImDv
+Stellar = M2 V

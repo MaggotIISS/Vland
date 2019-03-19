@@ -1,0 +1,14 @@
+Hex = 2536
+Name = Linissa
+UWP = E200777-8
+Remarks = Na Va Pi
+{Ix} = { -2 }
+(Ex) = (A66-2)
+[Cx] = [7558]
+N = BD
+B = -
+Z = -
+PBG = 710
+W = 12
+A = ImDv
+Stellar = G9 V

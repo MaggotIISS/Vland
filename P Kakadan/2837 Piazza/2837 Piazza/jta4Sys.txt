@@ -1,0 +1,14 @@
+Hex = 2837
+Name = Piazza
+UWP = C794685-6
+Remarks = Ag Ni
+{Ix} = { -1 }
+(Ex) = (853-3)
+[Cx] = [4534]
+N = BC
+B = -
+Z = -
+PBG = 822
+W = 12
+A = ImDv
+Stellar = K4 V M3 V

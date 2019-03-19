@@ -1,0 +1,14 @@
+Hex = 1804
+Name = Kashiin
+UWP = B54089E-8
+Remarks = De He Po Ph Pi Pz
+{Ix} = { 0 }
+(Ex) = (C78+4)
+[Cx] = [C89C]
+N = -
+B = N
+Z = A
+PBG = 620
+W = 12
+A = CsIm
+Stellar = M2 V M8 V

@@ -1,0 +1,58 @@
+Primary = K3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (BigWorld)	H-246567-4World  (Inferno)	Y-2B0000-0
+1 = World  (Hospitable)	Y-255798-5
+2 = World  (BigWorld)	F-287300-7
+	  Ring @ Orbit ?World  (RadWorld)	Y-278000-0
+3 = Mainworld	Trilorn	C100858-C	(Cold)World  (BigWorld)	Y-247632-A
+	  RadWorld	  	Y-296000-0 @ Orbit U
+4 = World  (BigWorld)	H-232361-7
+	  Ring @ Orbit ?
+5 = 
+6 = Planetoid belt	H-200762-6
+7 = 
+8 = 
+9 = World  (RadWorld)	Y-2A4000-0
+	  StormWorld	  	Y-243211-6 @ Orbit R
+10 = STAR M5 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 0
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  7
+	HZ =  -1
+	10-0 = 
+	10-1 = 
+	10-2 = 
+	10-3 = 
+	10-4 = 
+	10-5 = 
+	10-6 = 
+	10-7 = 
+11 = World  (Hospitable)	F-257400-9
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 11
+W = 11
+syscount = 2
+min = 0
+count = 9

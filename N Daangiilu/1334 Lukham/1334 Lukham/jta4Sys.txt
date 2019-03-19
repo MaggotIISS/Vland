@@ -1,0 +1,14 @@
+Hex = 1334
+Name = Lukham
+UWP = A564ABE-F
+Remarks = Hi Cp Pz
+{Ix} = { 3 }
+(Ex) = (E9F+5)
+[Cx] = [ED9K]
+N = BEF
+B = -
+Z = A
+PBG = 602
+W = 9
+A = ImDv
+Stellar = K1 V K6 V

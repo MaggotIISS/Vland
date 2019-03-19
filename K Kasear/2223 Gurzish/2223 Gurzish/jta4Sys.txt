@@ -1,0 +1,14 @@
+Hex = 2223
+Name = Gurzish
+UWP = D76A326-9
+Remarks = Lo Wa
+{Ix} = { -2 }
+(Ex) = (621-3)
+[Cx] = [2148]
+N = B
+B = S
+Z = -
+PBG = 401
+W = 12
+A = ImDv
+Stellar = M2 V M8 V

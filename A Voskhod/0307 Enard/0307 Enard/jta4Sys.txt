@@ -1,0 +1,14 @@
+Hex = 0307
+Name = Enard
+UWP = C8A37AC-9
+Remarks = Fl Pz
+{Ix} = { 0 }
+(Ex) = (A69+3)
+[Cx] = [A78C]
+N = B
+B = S
+Z = A
+PBG = 501
+W = 9
+A = ImDv
+Stellar = M1 V M7 V

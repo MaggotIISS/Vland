@@ -1,0 +1,80 @@
+Hex = 3117
+Name = Altman
+UWP = A561674-B
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 6
+	DIGIT	DESCRIPTION	EFFECTS
+	6	Standard	
+Hydrosphere = 1
+	DIGIT	DESCRIPTION
+	1	10%
+Population = 6
+	POPULATION UNDER 7,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Balkanization	Rival governments continually compete for control of the world
+Law Level = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Moderate Law	Laser, Beam weapons prohibited
+Tech Level = B
+	DIGIT		
+	B		
+Remarks = Ni Ri
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+	Ri		68		678			Rich	
+{Ix} = { 2 }
+	Starport A = +1
+	TL 11 = +1
+	Ri  = +1
+	Pop < 7 = -1
+	Importance = Normal (2)+0=2
+(Ex) = (956+1)
+	Resources =  9
+	Labour =  5
+	Infrastructure =  6
+	Efficiency =  1
+	RU = 270
+[Cx] = [4839]
+	Homogeneity = 4
+	Acceptance = 8
+	Strangeness = 3
+	Symbols = 9
+N = BC
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 710
+	Population Multiplier = 7
+	POPULATION UNDER 7,000,000
+	Planetoid Belts = 1
+	Gas Giants = 0
+W = 4
+	Non Stars In System = 4
+	-1 (mainworld)
+	-1 (planetoid belts)
+	-0 (gas giants)
+	 = 2 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K6 V
+	Stars = 1

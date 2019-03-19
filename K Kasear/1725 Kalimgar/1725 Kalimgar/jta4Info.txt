@@ -1,0 +1,79 @@
+Hex = 1725
+Name = Kalimgar
+UWP = B799667-B
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+Atmosphere = 9
+	DIGIT	DESCRIPTION	EFFECTS
+	9	Dense, Tainted	P1
+Hydrosphere = 9
+	DIGIT	DESCRIPTION
+	9	90%
+Population = 6
+	POPULATION UNDER 8,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Captive Government/Colony	Rule by a leadership answerable to an outside group
+Law Level = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Moderate Law	Prohibition of Pistols
+Tech Level = B
+	DIGIT		
+	B		
+Remarks = Ni O:1825
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+	Ruled by 1825 Karfir
+{Ix} = { 2 }
+	Starport B = +1
+	TL 11 = +1
+	Pop < 7 = -1
+	Way Station  = +1
+	Importance = Normal (2)+0=2
+(Ex) = (E56+2)
+	Resources =  14
+	Labour =  5
+	Infrastructure =  6
+	Efficiency =  2
+	RU = 840
+[Cx] = [685B]
+	Homogeneity = 6
+	Acceptance = 8
+	Strangeness = 5
+	Symbols = 11
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = W
+	DIGIT	DESCRIPTION	ALLEG
+	W	Scout Way Station	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 824
+	Population Multiplier = 8
+	POPULATION UNDER 8,000,000
+	Planetoid Belts = 2
+	Gas Giants = 4
+W = 13
+	Non Stars In System = 13
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-4 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K8 V
+	Stars = 1

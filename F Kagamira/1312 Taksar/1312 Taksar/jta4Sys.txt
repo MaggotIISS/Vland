@@ -1,0 +1,14 @@
+Hex = 1312
+Name = Taksar
+UWP = C432345-A
+Remarks = Lo Po
+{Ix} = { 0 }
+(Ex) = (621-2)
+[Cx] = [1338]
+N = B
+B = -
+Z = -
+PBG = 110
+W = 10
+A = ImDv
+Stellar = K4 V

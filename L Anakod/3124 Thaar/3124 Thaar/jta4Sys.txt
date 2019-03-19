@@ -1,0 +1,14 @@
+Hex = 3124
+Name = Thaar
+UWP = D87A79A-7
+Remarks = Wa Pi
+{Ix} = { -2 }
+(Ex) = (966+1)
+[Cx] = [9579]
+N = BD
+B = S
+Z = -
+PBG = 802
+W = 7
+A = ImDv
+Stellar = M1 V M6 V

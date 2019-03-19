@@ -1,0 +1,14 @@
+Hex = 2138
+Name = Istuary
+UWP = B582ABA-E
+Remarks = Hi Pz
+{Ix} = { 3 }
+(Ex) = (G9F+5)
+[Cx] = [CD7G]
+N = BE
+B = -
+Z = A
+PBG = 122
+W = 14
+A = ImDv
+Stellar = M1 V

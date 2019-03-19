@@ -1,0 +1,14 @@
+Hex = 3117
+Name = Altman
+UWP = A561674-B
+Remarks = Ni Ri
+{Ix} = { 2 }
+(Ex) = (956+1)
+[Cx] = [4839]
+N = BC
+B = N
+Z = -
+PBG = 710
+W = 4
+A = ImDv
+Stellar = K6 V

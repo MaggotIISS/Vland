@@ -1,0 +1,77 @@
+Hex = 2610
+Name = Malokh
+UWP = E57167B-6
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 7
+	DIGIT	DESCRIPTION	EFFECTS
+	7	Standard, Tainted	P1
+Hydrosphere = 1
+	DIGIT	DESCRIPTION
+	1	10%
+Population = 6
+	POPULATION UNDER 8,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Balkanization	Rival governments continually compete for control of the world
+Law Level = B
+	DIGIT	DESCRIPTION	NOTE
+	B	Extreme Law	Continental passports required
+Tech Level = 6
+	DIGIT		
+	6		
+Remarks = He Ni
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	He	3459ABC	2479ABC	012				Hell World	
+	Ni				456			Non Industrial	
+{Ix} = { -3 }
+	Starport E = -1
+	TL 6 = -1
+	Pop < 7 = -1
+	Importance = Unimportant (-3)+0=-3
+(Ex) = (851-1)
+	Resources =  8
+	Labour =  5
+	Infrastructure =  1
+	Efficiency =  -1
+	RU = -40
+[Cx] = [8378]
+	Homogeneity = 8
+	Acceptance = 3
+	Strangeness = 7
+	Symbols = 8
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 801
+	Population Multiplier = 8
+	POPULATION UNDER 8,000,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 8 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = F8 V M2 V
+	Stars = 2

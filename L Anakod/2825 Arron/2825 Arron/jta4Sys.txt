@@ -1,0 +1,14 @@
+Hex = 2825
+Name = Arron
+UWP = D424246-9
+Remarks = Lo An
+{Ix} = { -2 }
+(Ex) = (611-3)
+[Cx] = [1148]
+N = B
+B = S
+Z = -
+PBG = 920
+W = 9
+A = ImDv
+Stellar = F3 V

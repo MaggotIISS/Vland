@@ -1,0 +1,79 @@
+Hex = 1107
+Name = Sikilar
+UWP = B4328DH-A
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 3
+	DIGIT	DESCRIPTION	EFFECTS
+	3	VThin	S2
+Hydrosphere = 2
+	DIGIT	DESCRIPTION
+	2	20%
+Population = 8
+	POPULATION UNDER 700,000,000
+	DIGIT	DESCRIPTION	VALUE
+	8	Hundred million	00,000,000
+Government = D
+	DIGIT	DESCRIPTION	NOTE
+	D	Religious Dictatorship	With little or no regard for the needs of the citizenry
+Law Level = H
+	DIGIT	DESCRIPTION	NOTE
+	H	Extreme Law	Legalized oppressive practices
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = Na Po Ph Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Po		2345	0123				Poor	
+	Ph				8			Pre High	
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { 2 }
+	Starport B = +1
+	TL 10 = +1
+	Importance = Normal (2)+0=2
+(Ex) = (E7B+5)
+	Resources =  14
+	Labour =  7
+	Infrastructure =  11
+	Efficiency =  5
+	RU = 5390
+[Cx] = [DAAF]
+	Homogeneity = 13
+	Acceptance = 10
+	Strangeness = 10
+	Symbols = 15
+N = Be
+	CODE	RANK	TC
+	B	Knight	any
+	e	Viscount	Ph
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 722
+	Population Multiplier = 7
+	POPULATION UNDER 700,000,000
+	Planetoid Belts = 2
+	Gas Giants = 2
+W = 7
+	Non Stars In System = 7
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-2 (gas giants)
+	 = 2 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G2 V
+	Stars = 1

@@ -1,0 +1,75 @@
+Hex = 2918
+Name = Beroni
+UWP = C563777-8
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 6
+	DIGIT	DESCRIPTION	EFFECTS
+	6	Standard	
+Hydrosphere = 3
+	DIGIT	DESCRIPTION
+	3	30%
+Population = 7
+	POPULATION UNDER 60,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+Government = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Balkanization	Rival governments continually compete for control of the world
+Law Level = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Moderate Law	Prohibition of Pistols
+Tech Level = 8
+	DIGIT		
+	8		
+Remarks = Ri
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ri		68		678			Rich	
+{Ix} = { 0 }
+	Ri  = +1
+	Importance = Unimportant (1)+-1=0
+(Ex) = (A68+1)
+	Resources =  10
+	Labour =  6
+	Infrastructure =  8
+	Efficiency =  1
+	RU = 480
+[Cx] = [7758]
+	Homogeneity = 7
+	Acceptance = 7
+	Strangeness = 5
+	Symbols = 8
+N = BC
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 601
+	Population Multiplier = 6
+	POPULATION UNDER 60,000,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 8 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V M5 V
+	Stars = 2

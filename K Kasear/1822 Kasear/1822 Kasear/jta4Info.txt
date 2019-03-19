@@ -1,0 +1,82 @@
+Hex = 1822
+Name = Kasear
+UWP = A5479AE-E
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 4
+	DIGIT	DESCRIPTION	EFFECTS
+	4	Thin, Tainted	P1, S1
+Hydrosphere = 7
+	DIGIT	DESCRIPTION
+	7	70%
+Population = 9
+	POPULATION UNDER 2,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	9	Billion	,000,000,000
+Government = A
+	DIGIT	DESCRIPTION	NOTE
+	A	Charismatic Dictatorship	Government by a single leader enjoying the confidence of the citizens
+Law Level = E
+	DIGIT	DESCRIPTION	NOTE
+	E	Extreme Law	Full-fledged police state
+Tech Level = E
+	DIGIT		
+	E		
+Remarks = Hi In Cp Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	In		012479		9ABC			industrial	
+	Cp							Subsector Capital	Imperial
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { 4 }
+	Starport A = +1
+	TL 14 = +1
+	Hi  = +1
+	In  = +1
+	Importance = Important (5)+-1=4
+(Ex) = (D8G+5)
+	Resources =  13
+	Labour =  8
+	Infrastructure =  16
+	Efficiency =  5
+	RU = 8320
+[Cx] = [DD9J]
+	Homogeneity = 13
+	Acceptance = 13
+	Strangeness = 9
+	Symbols = 19
+N = BEF
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+	F	Duke	In
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 220
+	Population Multiplier = 2
+	POPULATION UNDER 2,000,000,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 11
+	Non Stars In System = 11
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 8 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G5 V M2 V
+	Stars = 2

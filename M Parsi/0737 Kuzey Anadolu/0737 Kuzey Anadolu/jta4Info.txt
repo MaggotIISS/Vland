@@ -1,0 +1,78 @@
+Hex = 0737
+Name = Kuzey Anadolu
+UWP = C50069D-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 6
+	POPULATION UNDER 4,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	Impersonal Bureaucracy	Impersonal agencies rule
+Law Level = D
+	DIGIT	DESCRIPTION	NOTE
+	D	Extreme Law	Paramilitary law enforcement
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = Na Ni Va Da
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Ni				456			Non Industrial	
+	Va		0					Vacuum	
+	Da				0123456			Dangerous	Amber Zone
+{Ix} = { -1 }
+	Pop < 7 = -1
+	Importance = Unimportant (-1)+0=-1
+(Ex) = (B53+3)
+	Resources =  11
+	Labour =  5
+	Infrastructure =  3
+	Efficiency =  3
+	RU = 495
+[Cx] = [A59D]
+	Homogeneity = 10
+	Acceptance = 5
+	Strangeness = 9
+	Symbols = 13
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 403
+	Population Multiplier = 4
+	POPULATION UNDER 4,000,000
+	Planetoid Belts = 0
+	Gas Giants = 3
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-3 (gas giants)
+	 = 5 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K5 V K3 V
+	Stars = 2

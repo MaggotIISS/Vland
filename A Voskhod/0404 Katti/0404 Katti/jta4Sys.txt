@@ -1,0 +1,14 @@
+Hex = 0404
+Name = Katti
+UWP = A8D8210-D
+Remarks = Lo
+{Ix} = { 1 }
+(Ex) = (811-3)
+[Cx] = [1318]
+N = B
+B = -
+Z = -
+PBG = 404
+W = 8
+A = ImDv
+Stellar = M3 V

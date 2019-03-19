@@ -1,0 +1,76 @@
+Hex = 1215
+Name = Siruga
+UWP = C100559-D
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 1
+	DIGIT	DIA(MI)	DIA(KM)
+	1	1,000	1,600
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 5
+	POPULATION UNDER 200,000
+	DIGIT	DESCRIPTION	VALUE
+	5	Hundred thousand	00,000
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+Law Level = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	High Law	Weapons outside the home prohibited
+Tech Level = D
+	DIGIT		
+	D		
+Remarks = Ni Va
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+	Va		0					Vacuum	
+{Ix} = { 0 }
+	TL 13 = +1
+	Pop < 7 = -1
+	Importance = Unimportant (0)+0=0
+(Ex) = (844+1)
+	Resources =  8
+	Labour =  4
+	Infrastructure =  4
+	Efficiency =  1
+	RU = 128
+[Cx] = [656E]
+	Homogeneity = 6
+	Acceptance = 5
+	Strangeness = 6
+	Symbols = 14
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 201
+	Population Multiplier = 2
+	POPULATION UNDER 200,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 13
+	Non Stars In System = 13
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 11 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M0 V K3 V
+	Stars = 2

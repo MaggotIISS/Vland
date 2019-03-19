@@ -1,0 +1,14 @@
+Hex = 2918
+Name = Beroni
+UWP = C563777-8
+Remarks = Ri
+{Ix} = { 0 }
+(Ex) = (A68+1)
+[Cx] = [7758]
+N = BC
+B = -
+Z = -
+PBG = 601
+W = 10
+A = ImDv
+Stellar = M1 V M5 V

@@ -1,0 +1,65 @@
+Primary = K3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = STAR M1 VWorld  (Worldlet)	H020254-8
+	  Ring @ Orbit ?World  (StormWorld)	H736100-5
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	NO Orbits
+1 = World  (BigWorld)	HC75342-5World  (StormWorld)	Y946000-0
+	  StormWorld	  	Y800276-6 @ Orbit R
+	  Worldlet	  	F07789B-9 @ Orbit HWorld  (StormWorld)	YC62000-0World  (Inferno)	Y4B0000-T
+2 = LGG (90,000 mi dia.)	S=27
+	  StormWorld	  	G541175-5 @ Orbit F
+	  RadWorld	  	Y855000-0 @ Orbit G
+	  StormWorld	  	Y800000-0 @ Orbit H
+	  BigWorld	  	GH00885-6 @ Orbit J
+	  Worldlet	  	Y065221-A @ Orbit VWorld  (Worldlet)	G18927B-P
+	  RadWorld	  	Y678000-0 @ Orbit R
+	  StormWorld	  	Y402499-8 @ Orbit S
+	  RadWorld	  	Y810000-0 @ Orbit T
+	  Inferno	  	Y4B0000-0 @ Orbit U
+	  StormWorld	  	Y701345-7 @ Orbit V
+3 = Mainworld	Luukon	A5779B6-C	(Cold)
+	Orbits SGG (30,000 mi dia.)	S=21 @ orbit R
+	  StormWorld	  	H7004CF-A @ Orbit C
+	  RadWorld	  	Y544000-0 @ Orbit I
+	  Inferno	  	Y7B0000-0 @ Orbit S
+	  StormWorld	  	Y901000-0 @ Orbit U
+4 = 
+5 = 
+6 = 
+7 = World  (BigWorld)	HE00448-8
+	  Worldlet	  	Y19A533-8 @ Orbit E
+8 = World  (Hospitable)	G33277B-6
+	  StormWorld	  	Y32517C-B @ Orbit K
+	  Worldlet	  	H3A6567-A @ Orbit S
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 14
+syscount = 2
+min = 0
+W = 11
+Extra Stars = 1
+count = 6

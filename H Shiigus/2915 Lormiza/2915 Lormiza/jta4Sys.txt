@@ -1,0 +1,14 @@
+Hex = 2915
+Name = Lormiza
+UWP = B435652-D
+Remarks = Ni
+{Ix} = { 1 }
+(Ex) = (955-3)
+[Cx] = [2719]
+N = B
+B = -
+Z = -
+PBG = 910
+W = 12
+A = ImDv
+Stellar = M0 V M6 V

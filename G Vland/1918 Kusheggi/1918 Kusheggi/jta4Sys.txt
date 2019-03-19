@@ -1,0 +1,14 @@
+Hex = 1918
+Name = Kusheggi
+UWP = E596778-5
+Remarks = Ag Pi
+{Ix} = { -1 }
+(Ex) = (966-1)
+[Cx] = [7655]
+N = BCD
+B = -
+Z = -
+PBG = 420
+W = 7
+A = ImDv
+Stellar = F8 V

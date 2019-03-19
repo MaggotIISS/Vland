@@ -1,0 +1,47 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Kummus	C434520-9	(Temperate)
+	  Worldlet	  	H0F6442-6 @ Orbit I
+1 = LGG (50,000 mi dia.)	S=23
+	  RadWorld	  	Y177000-0 @ Orbit P
+	  Inferno	  	Y1B0000-0 @ Orbit R
+	  Hospitable	  	G145478-8 @ Orbit S
+2 = LGG (70,000 mi dia.)	S=25
+	  Worldlet	  	F19A466-8 @ Orbit Q
+	  RadWorld	  	Y179000-0 @ Orbit S
+	  OuterWorld	  	Y000200-4 @ Orbit T
+	  StormWorld	  	Y100000-0 @ Orbit V
+3 = 
+4 = World  (Worldlet)	G110379-5
+5 = World  (StormWorld)	Y104000-0
+	  OuterWorld	  	F157101-8 @ Orbit H
+	  IceWorld	  	F1204BA-2 @ Orbit K
+6 = World  (Worldlet)	G132488-3
+7 = World  (StormWorld)	Y100000-0
+8 = 
+9 = 
+10 = World  (StormWorld)	Y153000-0
+	  Ring @ Orbit ?
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 12
+W = 8
+syscount = 1
+min = 0
+count = 8

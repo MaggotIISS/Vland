@@ -1,0 +1,77 @@
+Hex = 1931
+Name = Shorlon
+UWP = D430546-9
+Starport = D
+	Quality = Poor
+	Yards = No
+	Repairs = Minor damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 3
+	DIGIT	DESCRIPTION	EFFECTS
+	3	VThin	S2
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 5
+	POPULATION UNDER 200,000
+	DIGIT	DESCRIPTION	VALUE
+	5	Hundred thousand	00,000
+Government = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Representative Democracy	Government by proxy
+Law Level = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Moderate Law	Pohibition of Machineguns
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = De Ni Po
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	De	23456789	0					Desert	
+	Ni				456			Non Industrial	
+	Po		2345	0123				Poor	
+{Ix} = { -2 }
+	Starport D = -1
+	Pop < 7 = -1
+	Importance = Unimportant (-2)+0=-2
+(Ex) = (942-3)
+	Resources =  9
+	Labour =  4
+	Infrastructure =  2
+	Efficiency =  -3
+	RU = -216
+[Cx] = [4348]
+	Homogeneity = 4
+	Acceptance = 3
+	Strangeness = 4
+	Symbols = 8
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 202
+	Population Multiplier = 2
+	POPULATION UNDER 200,000
+	Planetoid Belts = 0
+	Gas Giants = 2
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-2 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V
+	Stars = 1

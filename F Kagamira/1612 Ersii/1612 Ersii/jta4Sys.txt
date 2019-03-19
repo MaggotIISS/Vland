@@ -1,0 +1,14 @@
+Hex = 1612
+Name = Ersii
+UWP = E561431-7
+Remarks = Ni
+{Ix} = { -3 }
+(Ex) = (631-5)
+[Cx] = [1113]
+N = B
+B = -
+Z = -
+PBG = 210
+W = 12
+A = ImDv
+Stellar = F6 V

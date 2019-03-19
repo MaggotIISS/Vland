@@ -1,0 +1,191 @@
+
+1722 Asanik      
+	(Knight) Mu
+
+
+1725 Kalimgar    
+	(Knight) Kam
+
+
+1726 Gunavarum   
+	(Knight) Khii
+
+
+1728 Ashok       
+	(Knight) AGumPaa
+
+
+1729 Kargem      
+	(Knight) AgSheIDanShu
+
+
+1730 Lurkha      
+	(Knight) IDinDuk
+	(Baronet) AlKimShu
+	(Marquis) IkKhaKhiUg
+	(Viscount) SheLasGiiDiishShii
+
+
+1821 Iikhok      
+	(Knight) GiAagKhiIkh
+
+
+1822 Kasear      
+	(Knight) AakShuAdMiiArDi
+	(Count) ShuKa
+	(Duke) InKhumLaAkhLiKhir
+
+
+1825 Karfir      
+	(Knight) Ka
+	(Count) Am
+
+
+1830 Sindal      
+	(Knight) LaUdMuMuun
+
+
+1923 Sagida      
+	(Knight) IiKar
+	(Count) UE
+
+
+1928 Nimmer      
+	(Knight) ImKagKaIshMim
+
+
+1929 Sakhem      
+	(Knight) KaGar
+
+
+1930 Ziirkago    
+	(Knight) KiKiirKiishGiKhem
+	(Baron) Il
+
+
+2022 Emrim       
+	(Knight) Ki
+
+
+2023 Zhattar     
+	(Knight) GaUugKaGaA
+
+
+2027 Gaarluzargu 
+	(Knight) Ug
+	(Baron) GirKhipNaIkGashKin
+	(Marquis) DaKeUlGak
+
+
+2029 Gabik       
+	(Knight) SiAKenPiimShu
+
+
+2030 Duusan      
+	(Knight) ShiiAkDiKiBaGa
+
+
+2122 Lekkon      
+	(Knight) IsShiUug
+
+
+2123 Blikig      
+	(Knight) ADir
+	(Baron) EAl
+
+
+2124 Razzun      
+	(Knight) DunDii
+	(Marquis) DirMuuLaIIg
+
+
+2125 Shib        
+	(Knight) UsLen
+
+
+2126 Dekhuun     
+	(Knight) IiKi
+	(Baron) LaIdDiUNuDi
+	(Marquis) IlSii
+
+
+2129 Gunnar      
+	(Knight) UugKumKaAdBar
+	(Marquis) RuuUk
+
+
+2221 Karlum      
+	(Knight) SinGaAIlDaaId
+
+
+2222 Markassar   
+	(Knight) NanMiIk
+	(Baronet) NiisShiKamShiiAdMek
+	(Marquis) UkGiIgBamKidLii
+	(Viscount) EkMa
+
+
+2223 Gurzish     
+	(Knight) Am
+
+
+2225 Iamone      
+	(Knight) AshMuUUlKur
+	(Count) DeUEk
+
+
+2227 Zikurag     
+	(Knight) AkBaShuDiKiGir
+
+
+2229 Munakhiin   
+	(Knight) UdLenMiUkSe
+	(Marquis) ADiAlLiUm
+
+
+2321 Gikarlum    
+	(Knight) UAamKaaKashGesh
+
+
+2322 Hefas       
+	(Knight) GiAdDe
+	(Count) ImShash
+
+
+2323 Zruub       
+	(Knight) EGuMasSheKaEk
+
+
+2324 Firdakh     
+	(Knight) GuBaaUuSamMaAm
+
+
+2325 Derkhuun    
+	(Knight) UudKuMig
+
+
+2328 Fharnas     
+	(Knight) DiUlKaarKigDu
+	(Count) DesSha
+
+
+2329 Tobrun      
+	(Knight) IshZiLiinMug
+
+
+2330 Umzgaa      
+	(Knight) Si
+
+
+2425 Martle      
+	(Knight) I
+	(Count) InMasLiiBa
+
+
+2426 Khanaddar   
+	(Knight) KhinKiMiiShiShir
+
+
+2429 Irgar       
+	(Knight) URushGarKhaIkSar
+

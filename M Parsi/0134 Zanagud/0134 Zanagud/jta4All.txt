@@ -1,0 +1,58 @@
+Primary = M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Zanagud	E66A686-7	(Temperate)
+	  Inferno	  	Y3B0000-0 @ Orbit B
+	  Worldlet	  	G0A6224-6 @ Orbit TSGG (30,000 mi dia.)	S=2D
+	  Inferno	  	Y7B0000-0 @ Orbit BWorld  (Inferno)	Y7B0000-G
+	  Worldlet	  	G3105AD-6 @ Orbit EWorld  (BigWorld)	HC8A356-H
+	  Worldlet	  	G044542-6 @ Orbit YWorld  (BigWorld)	FF9A588-J
+	  StormWorld	  	H6001BC-6 @ Orbit P
+	  Hospitable	  	G540235-6 @ Orbit EWorld  (BigWorld)	YH68000-Q
+	  BigWorld	  	YE00252-6 @ Orbit R
+	  Inferno	  	Y5B0000-0 @ Orbit S
+	  BigWorld	  	GD94512-6 @ Orbit T
+	  Worldlet	  	H38A466-6 @ Orbit V
+	  Inferno	  	Y9B0000-0 @ Orbit W
+1 = World  (RadWorld)	Y935000-0
+	  Ring @ Orbit ?
+2 = Planetoid belt	F000543-3World  (Inferno)	Y7B0000-0
+3 = 
+4 = LGG (90,000 mi dia.)	S=27
+	  OuterWorld	  	Y368542-6 @ Orbit J
+	  OuterWorld	  	G367554-6 @ Orbit U
+	  BigWorld	  	G340586-5 @ Orbit Y
+5 = LGG (80,000 mi dia.)	S=26
+	  StormWorld	  	Y354000-0 @ Orbit F
+	  OuterWorld	  	Y399565-6 @ Orbit Q
+	  StormWorld	  	Y312000-0 @ Orbit T
+	  RadWorld	  	Y330000-0 @ Orbit V
+	  Worldlet	  	H277200-6 @ Orbit W
+6 = Planetoid belt	H000201-6
+7 = 
+8 = World  (Hospitable)	Y743595-5
+	  Ring @ Orbit ?
+9 = 
+10 = 
+11 = 
+12 = World  (BigWorld)	FG74334-6
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 12
+W = 14
+syscount = 1
+min = 0
+count = 8

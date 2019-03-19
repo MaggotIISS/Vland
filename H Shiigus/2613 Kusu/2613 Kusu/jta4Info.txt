@@ -1,0 +1,78 @@
+Hex = 2613
+Name = Kusu
+UWP = A541676-B
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 4
+	DIGIT	DESCRIPTION	EFFECTS
+	4	Thin, Tainted	P1, S1
+Hydrosphere = 1
+	DIGIT	DESCRIPTION
+	1	10%
+Population = 6
+	POPULATION UNDER 2,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Balkanization	Rival governments continually compete for control of the world
+Law Level = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Moderate Law	Pohibition of Machineguns
+Tech Level = B
+	DIGIT		
+	B		
+Remarks = He Ni Po
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	He	3459ABC	2479ABC	012				Hell World	
+	Ni				456			Non Industrial	
+	Po		2345	0123				Poor	
+{Ix} = { 1 }
+	Starport A = +1
+	TL 11 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (A55+1)
+	Resources =  10
+	Labour =  5
+	Infrastructure =  5
+	Efficiency =  1
+	RU = 250
+[Cx] = [574A]
+	Homogeneity = 5
+	Acceptance = 7
+	Strangeness = 4
+	Symbols = 10
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 202
+	Population Multiplier = 2
+	POPULATION UNDER 2,000,000
+	Planetoid Belts = 0
+	Gas Giants = 2
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-2 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K3 IV
+	Stars = 1

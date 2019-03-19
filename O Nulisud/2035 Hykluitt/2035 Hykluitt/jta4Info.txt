@@ -1,0 +1,84 @@
+Hex = 2035
+Name = Hykluitt
+UWP = B5409BA-C
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 4
+	DIGIT	DESCRIPTION	EFFECTS
+	4	Thin, Tainted	P1, S1
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 9
+	POPULATION UNDER 8,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	9	Billion	,000,000,000
+Government = B
+	DIGIT	DESCRIPTION	NOTE
+	B	Non-Charismatic Dictatorship	Government by the successor to a charismatic dictator
+Law Level = A
+	DIGIT	DESCRIPTION	NOTE
+	A	Extreme Law	Weapon possession prohibited
+Tech Level = C
+	DIGIT		
+	C		
+Remarks = De He Hi In Po Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	De	23456789	0					Desert	
+	He	3459ABC	2479ABC	012				Hell World	
+	Hi				9ABC			High Population	
+	In		012479		9ABC			industrial	
+	Po		2345	0123				Poor	
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { 4 }
+	Starport B = +1
+	TL 12 = +1
+	Hi  = +1
+	In  = +1
+	Importance = Important (4)+0=4
+(Ex) = (F8F+5)
+	Resources =  15
+	Labour =  8
+	Infrastructure =  15
+	Efficiency =  5
+	RU = 9000
+[Cx] = [BD7E]
+	Homogeneity = 11
+	Acceptance = 13
+	Strangeness = 7
+	Symbols = 14
+N = BEf
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+	f	Duke	In
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 804
+	Population Multiplier = 8
+	POPULATION UNDER 8,000,000,000
+	Planetoid Belts = 0
+	Gas Giants = 4
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-4 (gas giants)
+	 = 4 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V
+	Stars = 1

@@ -1,0 +1,83 @@
+Hex = 2931
+Name = Icuspin
+UWP = A200976-F
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 2
+	DIGIT	DIA(MI)	DIA(KM)
+	2	2,000	3,200
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 9
+	POPULATION UNDER 8,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	9	Billion	,000,000,000
+Government = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Balkanization	Rival governments continually compete for control of the world
+Law Level = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Moderate Law	Pohibition of Machineguns
+Tech Level = F
+	DIGIT		
+	F		
+Remarks = Hi In Na Va Cp
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	In		012479		9ABC			industrial	
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Va		0					Vacuum	
+	Cp							Subsector Capital	Imperial
+{Ix} = { 4 }
+	Starport A = +1
+	TL 15 = +1
+	Hi  = +1
+	In  = +1
+	Importance = Important (5)+-1=4
+(Ex) = (D8G+3)
+	Resources =  13
+	Labour =  8
+	Infrastructure =  16
+	Efficiency =  3
+	RU = 4992
+[Cx] = [8D4E]
+	Homogeneity = 8
+	Acceptance = 13
+	Strangeness = 4
+	Symbols = 14
+N = BEF
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+	F	Duke	In
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 820
+	Population Multiplier = 8
+	POPULATION UNDER 8,000,000,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 13
+	Non Stars In System = 13
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 10 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 V
+	Stars = 1

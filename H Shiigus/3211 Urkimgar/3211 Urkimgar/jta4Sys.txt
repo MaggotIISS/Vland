@@ -1,0 +1,14 @@
+Hex = 3211
+Name = Urkimgar
+UWP = C577400-A
+Remarks = Ni Pa
+{Ix} = { 0 }
+(Ex) = (733-4)
+[Cx] = [1415]
+N = Bc
+B = -
+Z = -
+PBG = 410
+W = 11
+A = ImDv
+Stellar = M1 V

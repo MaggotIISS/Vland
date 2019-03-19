@@ -1,0 +1,14 @@
+Hex = 2432
+Name = Korm
+UWP = B987867-A
+Remarks = Ri Pa Ph Mr
+{Ix} = { 3 }
+(Ex) = (D7C+3)
+[Cx] = [8B5A]
+N = BcCe
+B = N
+Z = -
+PBG = 503
+W = 13
+A = ImDv
+Stellar = M0 V

@@ -1,0 +1,76 @@
+Hex = 2106
+Name = Hellvaplace
+UWP = DAB5423-8
+Starport = D
+	Quality = Poor
+	Yards = No
+	Repairs = Minor damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = A
+	DIGIT	DIA(MI)	DIA(KM)
+	A	10,000	16,000
+Atmosphere = B
+	DIGIT	DESCRIPTION	EFFECTS
+	B	Corrosive	C1 P1
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+Population = 4
+	POPULATION UNDER 90,000
+	DIGIT	DESCRIPTION	VALUE
+	4	Ten thousand	0,000
+Government = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Participating Democracy	Rule by popular vote
+Law Level = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Low Law	Prohibition of Acid, Fire, Gas weapons
+Tech Level = 8
+	DIGIT		
+	8		
+Remarks = Fl Ni
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Fl		ABC	123456789A				Fluid	
+	Ni				456			Non Industrial	
+{Ix} = { -3 }
+	Starport D = -1
+	Pop < 7 = -1
+	Importance = Unimportant (-2)+-1=-3
+(Ex) = (731-5)
+	Resources =  7
+	Labour =  3
+	Infrastructure =  1
+	Efficiency =  -5
+	RU = -105
+[Cx] = [1125]
+	Homogeneity = 1
+	Acceptance = 1
+	Strangeness = 2
+	Symbols = 5
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 901
+	Population Multiplier = 9
+	POPULATION UNDER 90,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 8 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 V G2 V
+	Stars = 2

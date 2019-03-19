@@ -1,0 +1,46 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Maran	B552A78-E	(Temperate)
+	  Worldlet	  	H0107A9-B @ Orbit D
+1 = LGG (50,000 mi dia.)	S=23
+	  RadWorld	  	Y200000-0 @ Orbit C
+	  Worldlet	  	F044854-8 @ Orbit S
+2 = World  (Hospitable)	H2A5443-A
+	  Ring @ Orbit ?
+3 = Planetoid belt	F000114-B
+4 = LGG (60,000 mi dia.)	S=24
+	  RadWorld	  	Y289000-0 @ Orbit D
+	  Worldlet	  	Y079300-7 @ Orbit F
+	  StormWorld	  	H2125DG-9 @ Orbit T
+	  IceWorld	  	H230530-5 @ Orbit W
+5 = World  (Inferno)	Y2B0000-0
+	  Ring @ Orbit ?
+6 = 
+7 = 
+8 = World  (Worldlet)	H042654-7
+	  Ring @ Orbit ?
+9 = Planetoid belt	F000569-7
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 12
+W = 8
+syscount = 1
+min = 0
+count = 8

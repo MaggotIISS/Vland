@@ -1,0 +1,14 @@
+Hex = 1311
+Name = Kema
+UWP = E100233-A
+Remarks = Lo Va
+{Ix} = { -1 }
+(Ex) = (511-4)
+[Cx] = [1127]
+N = B
+B = -
+Z = -
+PBG = 810
+W = 8
+A = ImDv
+Stellar = M2 V

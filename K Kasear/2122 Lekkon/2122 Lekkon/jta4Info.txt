@@ -1,0 +1,80 @@
+Hex = 2122
+Name = Lekkon
+UWP = B540510-B
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 4
+	DIGIT	DESCRIPTION	EFFECTS
+	4	Thin, Tainted	P1, S1
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 5
+	POPULATION UNDER 900,000
+	DIGIT	DESCRIPTION	VALUE
+	5	Hundred thousand	00,000
+Government = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Company/Corporation	Rule by a managerial elite
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = B
+	DIGIT		
+	B		
+Remarks = De He Ni Po
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	De	23456789	0					Desert	
+	He	3459ABC	2479ABC	012				Hell World	
+	Ni				456			Non Industrial	
+	Po		2345	0123				Poor	
+{Ix} = { 1 }
+	Starport B = +1
+	TL 11 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (945-3)
+	Resources =  9
+	Labour =  4
+	Infrastructure =  5
+	Efficiency =  -3
+	RU = -540
+[Cx] = [1616]
+	Homogeneity = 1
+	Acceptance = 6
+	Strangeness = 1
+	Symbols = 6
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 902
+	Population Multiplier = 9
+	POPULATION UNDER 900,000
+	Planetoid Belts = 0
+	Gas Giants = 2
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-2 (gas giants)
+	 = 9 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K8 V M1 V
+	Stars = 2

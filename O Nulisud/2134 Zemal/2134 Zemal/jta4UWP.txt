@@ -1,0 +1,39 @@
+C699124-A
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+
+Size = 6
+	DIGIT	DIA(MI)	DIA(KM)
+	6	6,000	9,600
+
+Atmosphere = 9
+	DIGIT	DESCRIPTION	EFFECTS
+	9	Dense, Tainted	P1
+
+Hydrosphere = 9
+	DIGIT	DESCRIPTION
+	9	90%
+
+Population = 1
+	POPULATION UNDER 40
+	DIGIT	DESCRIPTION	VALUE
+	1	Tens	0
+
+Government = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Participating Democracy	Rule by popular vote
+
+Law Level = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Moderate Law	Laser, Beam weapons prohibited
+
+Tech Level = A
+	DIGIT		
+	A		
+

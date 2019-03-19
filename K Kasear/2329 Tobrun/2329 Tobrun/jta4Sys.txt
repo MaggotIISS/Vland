@@ -1,0 +1,14 @@
+Hex = 2329
+Name = Tobrun
+UWP = B400554-E
+Remarks = Ni Va
+{Ix} = { 1 }
+(Ex) = (845-1)
+[Cx] = [363C]
+N = B
+B = -
+Z = -
+PBG = 410
+W = 15
+A = ImDv
+Stellar = F8 V M9 V

@@ -1,0 +1,14 @@
+Hex = 1114
+Name = Gukhaga
+UWP = A877576-D
+Remarks = Ag Ni
+{Ix} = { 2 }
+(Ex) = (846+1)
+[Cx] = [474C]
+N = BC
+B = -
+Z = -
+PBG = 310
+W = 17
+A = ImDv
+Stellar = G4 V M6 V

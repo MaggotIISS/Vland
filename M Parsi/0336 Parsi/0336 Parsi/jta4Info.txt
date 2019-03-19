@@ -1,0 +1,80 @@
+Hex = 0336
+Name = Parsi
+UWP = A989A9C-F
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 9
+	DIGIT	DIA(MI)	DIA(KM)
+	9	9,000	14,400
+Atmosphere = 8
+	DIGIT	DESCRIPTION	EFFECTS
+	8	Dense	
+Hydrosphere = 9
+	DIGIT	DESCRIPTION
+	9	90%
+Population = A
+	POPULATION UNDER 20,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	A	Ten billion	0,000,000,000
+Government = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	Impersonal Bureaucracy	Impersonal agencies rule
+Law Level = C
+	DIGIT	DESCRIPTION	NOTE
+	C	Extreme Law	Unrestricted invasion of privacy
+Tech Level = F
+	DIGIT		
+	F		
+Remarks = Hi Cp Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	Cp							Subsector Capital	Imperial
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { 3 }
+	Starport A = +1
+	TL 15 = +1
+	Hi  = +1
+	Importance = Normal (4)+-1=3
+(Ex) = (J9F+5)
+	Resources =  19
+	Labour =  9
+	Infrastructure =  15
+	Efficiency =  5
+	RU = 12825
+[Cx] = [DD8J]
+	Homogeneity = 13
+	Acceptance = 13
+	Strangeness = 8
+	Symbols = 19
+N = BEF
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+	F	Duke	In
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 224
+	Population Multiplier = 2
+	POPULATION UNDER 20,000,000,000
+	Planetoid Belts = 2
+	Gas Giants = 4
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-4 (gas giants)
+	 = 5 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K9 V
+	Stars = 1

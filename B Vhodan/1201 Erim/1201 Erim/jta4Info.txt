@@ -1,0 +1,74 @@
+Hex = 1201
+Name = Erim
+UWP = D573785-5
+Starport = D
+	Quality = Poor
+	Yards = No
+	Repairs = Minor damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 7
+	DIGIT	DESCRIPTION	EFFECTS
+	7	Standard, Tainted	P1
+Hydrosphere = 3
+	DIGIT	DESCRIPTION
+	3	30%
+Population = 7
+	POPULATION UNDER 80,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+Government = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+Tech Level = 5
+	DIGIT		
+	5		
+Remarks = Pi
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Pi		012479		78			Pre Industrial	
+{Ix} = { -2 }
+	Starport D = -1
+	TL 5 = -1
+	Importance = Unimportant (-2)+0=-2
+(Ex) = (965-4)
+	Resources =  9
+	Labour =  6
+	Infrastructure =  5
+	Efficiency =  -4
+	RU = -1080
+[Cx] = [5533]
+	Homogeneity = 5
+	Acceptance = 5
+	Strangeness = 3
+	Symbols = 3
+N = -
+	No Imperial Nobles
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 801
+	Population Multiplier = 8
+	POPULATION UNDER 80,000,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 7 other worlds
+A = NaHu
+	CODE	DESCRIPTION
+	NaHu	Non-Aligned, Human-dominated
+Stellar = M1 V K0 V
+	Stars = 2

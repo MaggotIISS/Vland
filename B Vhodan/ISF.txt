@@ -1,0 +1,305 @@
+Vland/B Vhodan
+
+0909 Jiinasha - C200789-A
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 10
+  TROOP FORCES
+0001-0000-1(1)-A
+
+
+
+---HI POP TARGET---
+1007 Laaru - C69A9CC-C
+	SDB Squadrons = 120
+	Starship Squadrons = 2
+	Troop CF = 50
+	Defence CF = 1200
+  TROOP FORCES
+0001-5000-50(50)-C
+
+
+
+1102 Azu - A547857-D
+	SDB Squadrons = 15
+	Starship Squadrons = 2
+	Troop CF = 20
+	Defence CF = 150
+  TROOP FORCES
+0001-4000-20(20)-D
+
+
+
+1107 Sikilar - B4328DH-A
+	SDB Squadrons = 10
+	Starship Squadrons = 1
+	Troop CF = 5
+	Defence CF = 100
+  TROOP FORCES
+0001-2000-5(5)-A
+
+
+
+---HI POP TARGET---
+1108 Vakhoneri - C76A9AB-C
+	SDB Squadrons = 120
+	Starship Squadrons = 2
+	Troop CF = 50
+	Defence CF = 1200
+  TROOP FORCES
+0001-5000-50(50)-C
+
+
+
+1202 Anghurr - C4308AA-7
+	SDB Squadrons = 5
+	Troop CF = 5
+	Defence CF = 50
+  TROOP FORCES
+0001-2000-5(5)-7
+
+
+
+---HI POP TARGET---
+1208 Vhodan - A758A8A-D
+	SDB Squadrons = 1500
+	Starship Squadrons = 5
+	Troop CF = 1000
+	Defence CF = 15000
+  TROOP FORCES
+0001-7000-500(500)-D
+0002-7000-500(500)-D
+
+
+
+1309 Enpar Konal - E57778A-6
+	Defence CF = 2
+
+1403 Deraan - B426649-C
+	Defence CF = 2
+
+1405 Diiron - B89A8AA-C
+	SDB Squadrons = 12
+	Starship Squadrons = 1
+	Troop CF = 10
+	Defence CF = 120
+  TROOP FORCES
+0001-3000-10(10)-C
+
+
+
+1406 Timat - B98A779-9
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 10
+  TROOP FORCES
+0001-0000-1(1)-9
+
+
+
+---HI POP TARGET---
+1407 Guusimka - E539A77-C
+	SDB Squadrons = 1200
+	Starship Squadrons = 4
+	Troop CF = 500
+	Defence CF = 12000
+  TROOP FORCES
+0001-7000-500(500)-C
+
+
+
+---HI POP TARGET---
+1408 Maran - B552A78-E
+	SDB Squadrons = 1500
+	Starship Squadrons = 5
+	Troop CF = 1000
+	Defence CF = 15000
+  TROOP FORCES
+0001-7000-500(500)-E
+0002-7000-500(500)-E
+
+
+
+1505 Odinaga - A2016A9-C
+	Defence CF = 2
+
+1604 Gamgilebo - B000756-B
+	SDB Squadrons = 1
+	Troop CF = 2
+	Defence CF = 12
+  TROOP FORCES
+0001-1000-2(2)-B
+
+
+
+1606 Dannar - C2006A8-A
+	Defence CF = 1
+
+1608 Riinel - E746651-7
+	Defence CF = 1
+
+1609 Sakkuum - C3107AB-A
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 10
+  TROOP FORCES
+0001-0000-1(1)-A
+
+
+
+
+1007-C69A9CC-C
+Commodore Girshasnuusgignun
+	Prec 12
+	Plan  2
+	Tactics -1
+	C001-1U-730-7-C
+
+1007-C69A9CC-C
+Commodore Idgueib
+	Prec 13
+	Plan  5
+	Tactics -1
+	C002-1U-730-7-C
+
+1102-A547857-D
+Commodore Iamkhaairsisaa
+	Prec 3
+	Plan  5
+	Tactics 1
+	C001-2U-630-6-D
+
+1102-A547857-D
+Commodore Imkuugagiiiil
+	Prec 14
+	Plan  5
+	Tactics 1
+	C002-2U-630-6-D
+
+1107-B4328DH-A
+Commodore Ekh
+	Prec 13
+	Plan  5
+	Tactics 0
+	C001-1U-630-6-A
+
+1108-C76A9AB-C
+Commodore Agkuaadleskishgaar
+	Prec 8
+	Plan  5
+	Tactics -2
+	C001-1U-730-7-C
+
+1108-C76A9AB-C
+Commodore Lasushshig
+	Prec 14
+	Plan  5
+	Tactics 2
+	C002-1U-730-7-C
+
+1208-A758A8A-D
+Commodore Ug
+	Prec 11
+	Plan  4
+	Tactics -1
+	C001-2U-840-8-D
+
+1208-A758A8A-D
+Commodore Kesardar
+	Prec 9
+	Plan  0
+	Tactics -2
+	C002-2U-840-8-D
+
+1208-A758A8A-D
+Commodore Shadamkeiashan
+	Prec 5
+	Plan  4
+	Tactics 0
+	C003-2U-840-8-D
+
+1208-A758A8A-D
+Commodore Andukikhuu
+	Prec 13
+	Plan  2
+	Tactics 0
+	C004-2U-840-8-D
+
+1208-A758A8A-D
+Commodore Agki
+	Prec 6
+	Plan  5
+	Tactics 2
+	C005-2U-840-8-D
+
+1405-B89A8AA-C
+Commodore Ugdiuumlainli
+	Prec 15
+	Plan  2
+	Tactics -1
+	C001-1U-630-6-C
+
+1407-E539A77-C
+Commodore Arlirgaulkashlaa
+	Prec 10
+	Plan  4
+	Tactics -1
+	C001-1U-840-8-C
+
+1407-E539A77-C
+Commodore Eskagkhukla
+	Prec 11
+	Plan  1
+	Tactics 0
+	C002-1U-840-8-C
+
+1407-E539A77-C
+Commodore Kirkhurkubanaa
+	Prec 9
+	Plan  2
+	Tactics 1
+	C003-1U-840-8-C
+
+1407-E539A77-C
+Commodore Luur
+	Prec 6
+	Plan  2
+	Tactics -1
+	C004-1U-840-8-C
+
+1408-B552A78-E
+Commodore Igdirkhiiiikli
+	Prec 12
+	Plan  3
+	Tactics 1
+	C001-3U-840-8-E
+
+1408-B552A78-E
+Commodore Karsiish
+	Prec 9
+	Plan  5
+	Tactics 2
+	C002-3U-840-8-E
+
+1408-B552A78-E
+Commodore Baanmaasga
+	Prec 16
+	Plan  5
+	Tactics 2
+	C003-3U-840-8-E
+
+1408-B552A78-E
+Commodore Ikaargiishshau
+	Prec 10
+	Plan  4
+	Tactics 1
+	C004-3U-840-8-E
+
+1408-B552A78-E
+Commodore Shadukauku
+	Prec 8
+	Plan  3
+	Tactics 2
+	C005-3U-840-8-E
+
+

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<!--
+comment
+//http://www.w3schools.com/xsl/xsl_w3celementref.asp
+-->
+<html>
+  <head>
+    <title id="titleid">
+      3134-Troop
+    </title>
+    <META http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <script id="loadxmldoc">
+      function loadXMLDoc(filename)
+      {
+        if (window.ActiveXObject)
+        {
+          xhttp = new ActiveXObject("Msxml2.XMLHTTP");
+        }
+        else
+        {
+          xhttp = new XMLHttpRequest();
+        }
+        xhttp.open("GET", filename, false);
+        try {
+          xhttp.responseType = "msxml-document"
+        } catch (err) {
+        } // Helping IE11
+        xhttp.send("");
+        return xhttp.responseXML;
+      }
+
+      function displayResult()
+      {
+        xml = loadXMLDoc(3134 Toborit.xml);
+        xsl = loadXMLDoc(../StyleTable.xsl);
+        // code for IE
+        if (window.ActiveXObject || xhttp.responseType == "msxml-document")
+        {
+          ex = xml.transformNode(xsl);
+          document.getElementById("example").innerHTML = ex;
+        }
+        // code for Chrome, Firefox, Opera, etc.
+        else if (document.implementation && document.implementation.createDocument)
+        {
+          xsltProcessor = new XSLTProcessor();
+          xsltProcessor.importStylesheet(xsl);
+          resultDocument = xsltProcessor.transformToFragment(xml, document);
+          document.getElementById("example").appendChild(resultDocument);
+        }
+      }
+
+    </script>
+    <script id="headscripts">script</script>
+  </head>
+  <body>
+    <header id="header">
+      
+    </header>
+    <h2>3134-Troop</h2><br/>
+    <div>
+      C://T5/Vland/P Kakadan/3134 Toborit/3134 Toborit/3134-Troop.gif<br/>
+      <img id="picture" src="file:///C://T5/Vland/P Kakadan/3134 Toborit/3134 Toborit/3134-Troop.gif" width="WIDTH" height="HEIGHT" alt="file:///C://T5/Vland/P Kakadan/3134 Toborit/3134 Toborit/3134-Troop.gif"/><br/>
+    </div>
+    <div>
+      <br/>
+      <button id="button" onclick="displayButton()">EDIT</button><br/>
+      <script id="displayButton">
+        function displayButton() {
+          document.getElementById("button").innerHTML = "EDITING";
+        }
+      </script>
+      //	3134 Toborit<br/> ////////////////////////////////////////////////////////////////////////////////<br/> // Rearden<br/> FC<br/> 0 = <br/> 1 = <br/> 2 = <br/> 3 = <br/> 4 = <br/> 5 = <br/> 6 = <br/> 7 = <br/> 8 = <br/> 9 = <br/> BC<br/> 0 = 3134 Toborit<br/> 1 = <br/> 2 = Size<br/> 3 = Quality<br/> 4 = Armament<br/> 5 = Mobility<br/> 6 = Type<br/> 7 = CF<br/> 8 = TF<br/> 9 = TL<br/> <br/> <br/>
+      <br/>
+    </div>
+    <footer id="footer">
+      <br><br/>
+    </footer>
+  </body>
+</html>

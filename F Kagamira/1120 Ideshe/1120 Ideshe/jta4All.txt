@@ -1,0 +1,68 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Ideshe	B969657-B	(Temperate)World  (RadWorld)	Y630000-0
+1 = World  (Inferno)	Y6B0000-0
+	  Hospitable	  	Y000599-3 @ Orbit K
+	  Hospitable	  	G674577-8 @ Orbit T
+2 = World  (StormWorld)	Y656000-0
+	  Worldlet	  	Y010543-A @ Orbit F
+	  Worldlet	  	G3325CB-6 @ Orbit U
+3 = Planetoid belt	H000514-8
+4 = Planetoid belt	H000134-6
+5 = World  (Worldlet)	G030534-7
+	  IceWorld	  	H5605DH-6 @ Orbit F
+	  IceWorld	  	G6A0310-A @ Orbit H
+6 = 
+7 = World  (BigWorld)	F694442-9
+8 = World  (Hospitable)	G598547-7
+	  Worldlet	  	Y0695D8-6 @ Orbit C
+	  RadWorld	  	Y477000-0 @ Orbit F
+9 = 
+10 = 
+11 = 
+12 = 
+13 = STAR G6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  10
+	HZ =  -1
+	13-0 = 
+	13-1 = 
+	13-2 = 
+	13-3 = 
+	13-4 = 
+	13-5 = 
+	13-6 = 
+	13-7 = 
+	13-8 = 
+	13-9 = 
+	13-10 = 
+14 = World  (RadWorld)	Y687000-0
+	  RadWorld	  	Y658000-0 @ Orbit F
+	  Worldlet	  	H100349-9 @ Orbit P
+	  RadWorld	  	Y665000-0 @ Orbit U
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 10
+W = 10
+syscount = 2
+min = 0
+count = 10

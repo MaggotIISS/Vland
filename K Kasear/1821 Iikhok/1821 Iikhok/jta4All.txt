@@ -1,0 +1,62 @@
+Primary = M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Iikhok	B43449A-D	(Temperate)
+	  Hospitable	  	G142398-9 @ Orbit GLGG (60,000 mi dia.)	S=2D
+	  Ring @ Orbit ?World  (RadWorld)	Y258000-E
+	  StormWorld	  	Y500000-0 @ Orbit F
+	  StormWorld	  	Y600000-0 @ Orbit H
+	  StormWorld	  	Y800000-0 @ Orbit Q
+	  StormWorld	  	Y600000-0 @ Orbit U
+	  StormWorld	  	YB00000-0 @ Orbit V
+1 = LGG (80,000 mi dia.)	S=26
+	  StormWorld	  	Y414000-0 @ Orbit I
+	  Worldlet	  	H38A351-8 @ Orbit K
+	  BigWorld	  	GF5538C-6 @ Orbit S
+	  StormWorld	  	Y521000-0 @ Orbit U
+	  RadWorld	  	Y4A6000-0 @ Orbit W
+2 = LGG (90,000 mi dia.)	S=27
+	  Worldlet	  	Y0473A8-8 @ Orbit D
+	  BigWorld	  	HB35384-8 @ Orbit F
+	  IceWorld	  	Y880200-3 @ Orbit CPlanetoid belt	F000352-7World  (Inferno)	YAB0000-H
+	  StormWorld	  	Y401000-0 @ Orbit J
+	  RadWorld	  	Y747000-0 @ Orbit Q
+	  BigWorld	  	H978334-8 @ Orbit R
+	  OuterWorld	  	HAB6399-8 @ Orbit U
+	  RadWorld	  	Y589000-0 @ Orbit V
+3 = Planetoid belt	G00039A-3World  (Worldlet)	H352301-6
+4 = World  (Inferno)	YBB0000-0World  (Hospitable)	G767330-3
+5 = 
+6 = World  (Worldlet)	Y000000-0
+	  RadWorld	  	Y410000-0 @ Orbit S
+	  RadWorld	  	Y86A000-0 @ Orbit T
+7 = LGG (90,000 mi dia.)	S=27
+	  BigWorld	  	YG21357-3 @ Orbit U
+8 = World  (StormWorld)	Y200000-0
+9 = 
+10 = World  (Hospitable)	F755397-A
+11 = 
+12 = 
+13 = 
+14 = 
+15 = World  (BigWorld)	FF10340-4
+	  Worldlet	  	H06438B-4 @ Orbit I
+	  IceWorld	  	H774300-8 @ Orbit R
+	  IceWorld	  	G9C0355-6 @ Orbit T
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 10
+syscount = 1
+min = 0
+W = 16
+Extra Stars = 0
+count = 10

@@ -1,0 +1,78 @@
+Hex = 0835
+Name = Zhirka
+UWP = E000110-A
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 0
+	DIGIT	DIA(MI)	DIA(KM)
+	0	Asteroid Belt	varies
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 1
+	POPULATION UNDER 60
+	DIGIT	DESCRIPTION	VALUE
+	1	Tens	0
+Government = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Company/Corporation	Rule by a managerial elite
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = As Lo Va
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	As	0	0	0				Asteroid	
+	Lo				123			Low Population	
+	Va		0					Vacuum	
+{Ix} = { -1 }
+	Starport E = -1
+	TL 10 = +1
+	Pop < 7 = -1
+	Importance = Unimportant (-1)+0=-1
+(Ex) = (411-5)
+	Resources =  4
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -5
+	RU = -20
+[Cx] = [1115]
+	Homogeneity = 1
+	Acceptance = 1
+	Strangeness = 1
+	Symbols = 5
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 610
+	Population Multiplier = 6
+	POPULATION UNDER 60
+	Planetoid Belts = 1
+	Gas Giants = 0
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-1 (planetoid belts)
+	-0 (gas giants)
+	 = 10 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 V M9 V
+	Stars = 2

@@ -1,0 +1,14 @@
+Hex = 2007
+Name = Kaaka
+UWP = C898662-8
+Remarks = Ag Ni An O:2205
+{Ix} = { -1 }
+(Ex) = (953-5)
+[Cx] = [2514]
+N = BC
+B = S
+Z = -
+PBG = 901
+W = 7
+A = ImDv
+Stellar = F7 V M8 V

@@ -1,0 +1,14 @@
+Hex = 1116
+Name = Darmagu
+UWP = B412312-D
+Remarks = Ic Lo
+{Ix} = { 1 }
+(Ex) = (621-3)
+[Cx] = [1419]
+N = B
+B = -
+Z = -
+PBG = 901
+W = 11
+A = ImDv
+Stellar = M3 V K5 V

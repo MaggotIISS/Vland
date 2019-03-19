@@ -1,0 +1,54 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Gaska Khiin	C544577-9	(Temperate)
+1 = World  (RadWorld)	Y240000-0
+2 = LGG (70,000 mi dia.)	S=25
+	  Worldlet	  	F27A330-8 @ Orbit H
+	  StormWorld	  	Y200000-0 @ Orbit J
+	  Worldlet	  	Y240452-8 @ Orbit S
+3 = LGG (180,000 mi dia.)	S=29
+	  RadWorld	  	Y277000-0 @ Orbit G
+	  StormWorld	  	Y262000-0 @ Orbit T
+	  Worldlet	  	Y2B6410-7 @ Orbit U
+	  Worldlet	  	G2A2369-8 @ Orbit Y
+4 = LGG (70,000 mi dia.)	S=25
+	  Worldlet	  	Y237300-8 @ Orbit I
+	  Worldlet	  	Y0544B7-5 @ Orbit R
+	  IceWorld	  	F270486-6 @ Orbit S
+	  RadWorld	  	Y268000-0 @ Orbit Y
+5 = World  (Hospitable)	Y210204-8
+6 = World  (Worldlet)	G07A474-7
+	  RadWorld	  	Y26A000-0 @ Orbit F
+	  StormWorld	  	Y240000-0 @ Orbit PWorld  (StormWorld)	Y200000-H
+	  Worldlet	  	H240445-8 @ Orbit O
+	  OuterWorld	  	H241122-7 @ Orbit P
+	  IceWorld	  	Y270436-4 @ Orbit U
+7 = World  (RadWorld)	Y245000-0
+	  Worldlet	  	H0664BA-8 @ Orbit I
+8 = 
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = World  (Worldlet)	F267435-8
+	  Worldlet	  	H077431-5 @ Orbit U
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 11
+W = 12
+syscount = 1
+min = 0
+count = 9

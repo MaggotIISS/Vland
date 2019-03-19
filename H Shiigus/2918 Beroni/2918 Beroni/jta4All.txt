@@ -1,0 +1,67 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Beroni	C563777-8	(Temperate)
+	  Hospitable	  	Y265377-4 @ Orbit UWorld  (BigWorld)	H274225-7
+1 = World  (BigWorld)	G2A6677-7
+2 = World  (StormWorld)	F282263-7
+	  IceWorld	  	Y2705AD-7 @ Orbit D
+	  IceWorld	  	H280684-7 @ Orbit J
+	  RadWorld	  	Y2B6000-0 @ Orbit O
+3 = World  (RadWorld)	Y246000-0
+4 = World  (StormWorld)	Y234000-0
+	  StormWorld	  	Y202000-0 @ Orbit UWorld  (Hospitable)	Y254000-H
+	  Worldlet	  	G077300-7 @ Orbit R
+	  OuterWorld	  	Y2A6101-7 @ Orbit S
+	  OuterWorld	  	Y296114-7 @ Orbit X
+5 = World  (BigWorld)	F258599-6
+6 = LGG (125,000 mi dia.)	S=28
+	  IceWorld	  	H1506AE-7 @ Orbit D
+	  RadWorld	  	Y268000-0 @ Orbit F
+	  IceWorld	  	G2006A9-7 @ Orbit G
+	  StormWorld	  	Y254000-0 @ Orbit Q
+7 = 
+8 = 
+9 = 
+10 = 
+11 = STAR M5 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 0
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  8
+	HZ =  -1
+	11-0 = 
+	11-1 = 
+	11-2 = 
+	11-3 = 
+	11-4 = 
+	11-5 = 
+	11-6 = 
+	11-7 = 
+	11-8 = 
+12 = 
+13 = World  (BigWorld)	Y2A4632-7
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 11
+W = 10
+syscount = 2
+min = 0
+count = 9

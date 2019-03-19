@@ -1,0 +1,14 @@
+Hex = 0205
+Name = Khankari
+UWP = B885411-B
+Remarks = Ni Ga Pa
+{Ix} = { 1 }
+(Ex) = (734-3)
+[Cx] = [1517]
+N = Bc
+B = -
+Z = -
+PBG = 110
+W = 13
+A = ImDv
+Stellar = M2 V

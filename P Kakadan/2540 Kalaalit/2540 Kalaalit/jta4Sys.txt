@@ -1,0 +1,14 @@
+Hex = 2540
+Name = Kalaalit
+UWP = A7698B9-D
+Remarks = Ri Ph Pz
+{Ix} = { 3 }
+(Ex) = (B7E+4)
+[Cx] = [9B6E]
+N = BCe
+B = N
+Z = A
+PBG = 510
+W = 6
+A = ImDv
+Stellar = M3 V

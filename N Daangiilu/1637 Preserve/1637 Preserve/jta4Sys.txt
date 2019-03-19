@@ -1,0 +1,14 @@
+Hex = 1637
+Name = Preserve
+UWP = D551222-7
+Remarks = Lo Po
+{Ix} = { -3 }
+(Ex) = (411-5)
+[Cx] = [1113]
+N = B
+B = -
+Z = -
+PBG = 501
+W = 11
+A = ImDv
+Stellar = M1 V

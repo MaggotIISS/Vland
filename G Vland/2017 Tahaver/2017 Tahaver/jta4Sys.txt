@@ -1,0 +1,14 @@
+Hex = 2017
+Name = Tahaver
+UWP = B769A78-B
+Remarks = Hi (Tahavi)
+{Ix} = { 3 }
+(Ex) = (D9E+3)
+[Cx] = [AD5B]
+N = BE
+B = -
+Z = -
+PBG = 110
+W = 13
+A = ImDv
+Stellar = M2 V

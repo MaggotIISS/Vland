@@ -1,0 +1,14 @@
+Hex = 1107
+Name = Sikilar
+UWP = B4328DH-A
+Remarks = Na Po Ph Pz
+{Ix} = { 2 }
+(Ex) = (E7B+5)
+[Cx] = [DAAF]
+N = Be
+B = -
+Z = A
+PBG = 722
+W = 7
+A = ImDv
+Stellar = G2 V

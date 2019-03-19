@@ -1,0 +1,14 @@
+Hex = 2310
+Name = Barshun
+UWP = B510683-B
+Remarks = Na Ni
+{Ix} = { 1 }
+(Ex) = (A55-2)
+[Cx] = [3728]
+N = B
+B = -
+Z = -
+PBG = 620
+W = 12
+A = ImDv
+Stellar = F8 V M8 V

@@ -1,0 +1,14 @@
+Hex = 1523
+Name = Ilma
+UWP = D510744-7
+Remarks = Na Pi Di (Qiceteu)
+{Ix} = { -2 }
+(Ex) = (966-4)
+[Cx] = [5535]
+N = BD
+B = S
+Z = -
+PBG = 601
+W = 9
+A = ImDv
+Stellar = M0 V

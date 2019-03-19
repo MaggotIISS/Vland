@@ -1,0 +1,83 @@
+Hex = 2425
+Name = Martle
+UWP = C54099B-A
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = Yes
+	possBases = S
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 4
+	DIGIT	DESCRIPTION	EFFECTS
+	4	Thin, Tainted	P1, S1
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 9
+	POPULATION UNDER 4,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	9	Billion	,000,000,000
+Government = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	Impersonal Bureaucracy	Impersonal agencies rule
+Law Level = B
+	DIGIT	DESCRIPTION	NOTE
+	B	Extreme Law	Continental passports required
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = De He Hi In Po Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	De	23456789	0					Desert	
+	He	3459ABC	2479ABC	012				Hell World	
+	Hi				9ABC			High Population	
+	In		012479		9ABC			industrial	
+	Po		2345	0123				Poor	
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { 3 }
+	TL 10 = +1
+	Hi  = +1
+	In  = +1
+	Importance = Normal (3)+0=3
+(Ex) = (H8D+5)
+	Resources =  17
+	Labour =  8
+	Infrastructure =  13
+	Efficiency =  5
+	RU = 8840
+[Cx] = [BC7C]
+	Homogeneity = 11
+	Acceptance = 12
+	Strangeness = 7
+	Symbols = 12
+N = BE
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 424
+	Population Multiplier = 4
+	POPULATION UNDER 4,000,000,000
+	Planetoid Belts = 2
+	Gas Giants = 4
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-4 (gas giants)
+	 = 3 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M0 V
+	Stars = 1

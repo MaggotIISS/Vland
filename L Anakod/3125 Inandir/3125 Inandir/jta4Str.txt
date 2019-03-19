@@ -1,0 +1,80 @@
+SDB Squadrons = 1200
+	DEFENCE
+	  Hide in Water
+	  Defend vs Invaders
+	  Defend Homeworld
+	  Defend 2 Gas Giants
+	  Defend Bases
+	TL/POP
+	====================
+	TL/Pop	7	8	9	A	
+	7	1	5	50	500	
+	8	1	5	50	500	
+	9	1	10	100	1000	
+	A	1	10	100	1000	
+	B	1	12	120	1200	
+	C	1	12	120	1200	
+	D	1	15	150	1500	
+	E	1	15	150	1500	
+	F	1	20	200	2000	
+Starship Squadrons = 4
+	ATTACK
+	  Attack vs Defenders
+	  Attack Homeworld
+	  Attack 2 Gas Giants
+	  Attack Bases
+	SQUADRONS/TL
+	====================
+	Squadrons/TL	9	A	B	C	D	E	F	
+	10	1	1	1	1	1	1	1	
+	12	1	1	1	1	1	2	2	
+	15	1	1	1	2	2	2	2	
+	20	1	1	2	2	2	2	2	
+	50	1	2	2	2	2	2	2	
+	100	2	2	2	2	2	2	2	
+	120	2	2	2	2	2	3	3	
+	150	2	2	2	3	3	3	3	
+	200	2	2	3	3	3	3	3	
+	500	2	3	3	3	3	4	4	
+	1000	3	3	3	4	4	4	4	
+	1200	3	3	4	4	4	5	5	
+	1500	3	3	4	4	5	5	5	
+	2000	3	3	4	4	5	5	6	
+Defence CF = 12000
+	DEFENCE
+	  Defend Starport
+	  Defend vs Invaders
+	  Go Hidden
+	TL/POP
+	====================
+	TL/Pop	6	7	8	9	A	
+	6	1	2	20	200	2000	
+	7	1	5	50	500	5000	
+	8	1	5	50	500	5000	
+	9	1	10	100	1000	10000	
+	A	1	10	100	1000	10000	
+	B	2	12	120	1200	12000	
+	C	2	12	120	1200	12000	
+	D	2	15	150	1500	15000	
+	E	2	15	150	1500	15000	
+	F	2	20	200	2000	20000	
+Troop CF = 500
+	ATTACK
+	  Attack Starport
+	  Attack vs Invaders
+	  Attack Hidden
+	TL/POP
+	====================
+	TL/Pop	7	8	9	A	
+	7	1	5	20	100	
+	8	1	5	20	100	
+	9	1	5	20	100	
+	A	1	5	20	100	
+	B	2	10	50	500	
+	C	2	10	50	500	
+	D	5	20	100	1000	
+	E	5	20	100	1000	
+	F	10	50	500	2000	
+Refuelling options
+	REFUELLING
+	  Refuel at Gas Giant

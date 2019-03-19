@@ -1,0 +1,14 @@
+Hex = 3213
+Name = Ami
+UWP = E567500-8
+Remarks = Ag Ni Pr
+{Ix} = { -2 }
+(Ex) = (942-5)
+[Cx] = [1313]
+N = BcC
+B = -
+Z = -
+PBG = 202
+W = 15
+A = ImDv
+Stellar = M1 V M3 V

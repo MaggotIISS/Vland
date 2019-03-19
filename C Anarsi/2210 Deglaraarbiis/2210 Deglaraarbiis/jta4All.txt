@@ -1,0 +1,68 @@
+Primary = K2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = Planetoid belt	H0006BE-5
+1 = STAR G4 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	NO Orbits
+2 = Mainworld	Deglaraarbiis	E737725-7	(Temperate)
+3 = LGG (90,000 mi dia.)	S=27
+	  BigWorld	  	Y469641-6 @ Orbit D
+	  RadWorld	  	Y227000-0 @ Orbit E
+	  Worldlet	  	G1956A5-6 @ Orbit K
+	  Inferno	  	Y4B0000-0 @ Orbit P
+	  StormWorld	  	Y421000-0 @ Orbit R
+4 = LGG (90,000 mi dia.)	S=27
+	  RadWorld	  	Y224000-0 @ Orbit F
+	  Worldlet	  	H08A520-6 @ Orbit L
+5 = World  (Worldlet)	G067674-5
+	  Worldlet	  	Y1A6442-4 @ Orbit X
+6 = STAR K4 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  3
+	HZ =  -1
+	6-0 = 
+	6-1 = 
+	6-2 = 
+	6-3 = 
+7 = 
+8 = 
+9 = 
+10 = World  (Hospitable)	H445466-6
+	  RadWorld	  	Y47A000-0 @ Orbit Q
+	  Worldlet	  	G0A5536-6 @ Orbit V
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 2
+Unfilled = 12
+W = 6
+syscount = 3
+min = 0
+count = 8

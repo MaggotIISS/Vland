@@ -1,0 +1,52 @@
+Primary = M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Niitomok	C552595-9	(Temperate)
+	  RadWorld	  	Y200000-0 @ Orbit QLGG (90,000 mi dia.)	S=2F
+	  StormWorld	  	Y800000-0 @ Orbit VWorld  (StormWorld)	Y500000-G
+	  RadWorld	  	Y400000-0 @ Orbit I
+	  BigWorld	  	YD794BC-5 @ Orbit CWorld  (BigWorld)	FD67452-K
+	  BigWorld	  	HH89497-6 @ Orbit T
+	  BigWorld	  	HD684BB-8 @ Orbit V
+1 = 
+2 = 
+3 = World  (Hospitable)	F7B6479-8
+	  IceWorld	  	H52048B-8 @ Orbit E
+	  Worldlet	  	Y0A64CE-6 @ Orbit F
+	  StormWorld	  	Y662000-0 @ Orbit G
+4 = 
+5 = 
+6 = World  (BigWorld)	HC7338B-6
+	  OuterWorld	  	F625203-7 @ Orbit R
+	  RadWorld	  	Y833000-0 @ Orbit U
+	  Worldlet	  	Y0874EG-8 @ Orbit V
+7 = World  (Worldlet)	Y267488-5
+	  Worldlet	  	G2A5455-6 @ Orbit I
+8 = 
+9 = 
+10 = World  (Worldlet)	G049458-8
+	  IceWorld	  	H5704AB-8 @ Orbit D
+	  StormWorld	  	Y736000-0 @ Orbit G
+	  OuterWorld	  	H520404-4 @ Orbit S
+11 = World  (Worldlet)	G042487-4
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 14
+W = 9
+syscount = 1
+min = 0
+count = 6

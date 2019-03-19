@@ -1,0 +1,14 @@
+Hex = 1003
+Name = Anaanika
+UWP = B54057A-8
+Remarks = De He Ni Po
+{Ix} = { -1 }
+(Ex) = (943+1)
+[Cx] = [747A]
+N = -
+B = -
+Z = -
+PBG = 911
+W = 8
+A = NaHu
+Stellar = M1 V

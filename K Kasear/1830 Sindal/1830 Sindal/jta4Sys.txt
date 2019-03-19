@@ -1,0 +1,14 @@
+Hex = 1830
+Name = Sindal
+UWP = C9B8332-A
+Remarks = Fl Lo
+{Ix} = { 0 }
+(Ex) = (621-4)
+[Cx] = [1316]
+N = B
+B = -
+Z = -
+PBG = 801
+W = 13
+A = ImDv
+Stellar = G6 V M3 V

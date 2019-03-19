@@ -1,0 +1,86 @@
+1701 Taksarrgh
+1703 Dathsuts
+1704 Rronaetuts
+1705 Ugarun
+1708 Zelaklaka
+1709 Zigaadig
+1710 Tollori
+1801 Newcastle
+1802 Zannokh
+1803 Ronni
+1804 Kashiin
+1807 Ranilson
+1810 Eshu
+1901 Ghurrllekh
+1903 Gemid
+1904 Daama
+1906 Envar
+1907 Kakkin
+1909 Nashazi
+2005 Gadushan
+2006 Niitomok
+2007 Kaaka
+2008 Morimur
+2101 Miiko Belt
+2103 Hteh Hut
+2105 Ninnigam
+2106 Hellvaplace
+2107 Sadniben
+2203 Angvae
+2205 Anarsi
+2208 Kuzashamir
+2210 Deglaraarbiis
+2301 Knaeghzoka
+2306 Nelak
+2308 Bolziin
+2309 Moribur
+2310 Barshun
+2402 Kfoerudzo
+2406 Derekam
+2407 Gida
+2408 Shabii
+2409 Sardiika
+2410 Karamursel
+C:\T5\Vland\C Anarsi\1701 Taksarrgh\1701 Taksarrgh
+C:\T5\Vland\C Anarsi\1703 Dathsuts\1703 Dathsuts
+C:\T5\Vland\C Anarsi\1704 Rronaetuts\1704 Rronaetuts
+C:\T5\Vland\C Anarsi\1705 Ugarun\1705 Ugarun
+C:\T5\Vland\C Anarsi\1708 Zelaklaka\1708 Zelaklaka
+C:\T5\Vland\C Anarsi\1709 Zigaadig\1709 Zigaadig
+C:\T5\Vland\C Anarsi\1710 Tollori\1710 Tollori
+C:\T5\Vland\C Anarsi\1801 Newcastle\1801 Newcastle
+C:\T5\Vland\C Anarsi\1802 Zannokh\1802 Zannokh
+C:\T5\Vland\C Anarsi\1803 Ronni\1803 Ronni
+C:\T5\Vland\C Anarsi\1804 Kashiin\1804 Kashiin
+C:\T5\Vland\C Anarsi\1807 Ranilson\1807 Ranilson
+C:\T5\Vland\C Anarsi\1810 Eshu\1810 Eshu
+C:\T5\Vland\C Anarsi\1901 Ghurrllekh\1901 Ghurrllekh
+C:\T5\Vland\C Anarsi\1903 Gemid\1903 Gemid
+C:\T5\Vland\C Anarsi\1904 Daama\1904 Daama
+C:\T5\Vland\C Anarsi\1906 Envar\1906 Envar
+C:\T5\Vland\C Anarsi\1907 Kakkin\1907 Kakkin
+C:\T5\Vland\C Anarsi\1909 Nashazi\1909 Nashazi
+C:\T5\Vland\C Anarsi\2005 Gadushan\2005 Gadushan
+C:\T5\Vland\C Anarsi\2006 Niitomok\2006 Niitomok
+C:\T5\Vland\C Anarsi\2007 Kaaka\2007 Kaaka
+C:\T5\Vland\C Anarsi\2008 Morimur\2008 Morimur
+C:\T5\Vland\C Anarsi\2101 Miiko Belt\2101 Miiko Belt
+C:\T5\Vland\C Anarsi\2103 Hteh Hut\2103 Hteh Hut
+C:\T5\Vland\C Anarsi\2105 Ninnigam\2105 Ninnigam
+C:\T5\Vland\C Anarsi\2106 Hellvaplace\2106 Hellvaplace
+C:\T5\Vland\C Anarsi\2107 Sadniben\2107 Sadniben
+C:\T5\Vland\C Anarsi\2203 Angvae\2203 Angvae
+C:\T5\Vland\C Anarsi\2205 Anarsi\2205 Anarsi
+C:\T5\Vland\C Anarsi\2208 Kuzashamir\2208 Kuzashamir
+C:\T5\Vland\C Anarsi\2210 Deglaraarbiis\2210 Deglaraarbiis
+C:\T5\Vland\C Anarsi\2301 Knaeghzoka\2301 Knaeghzoka
+C:\T5\Vland\C Anarsi\2306 Nelak\2306 Nelak
+C:\T5\Vland\C Anarsi\2308 Bolziin\2308 Bolziin
+C:\T5\Vland\C Anarsi\2309 Moribur\2309 Moribur
+C:\T5\Vland\C Anarsi\2310 Barshun\2310 Barshun
+C:\T5\Vland\C Anarsi\2402 Kfoerudzo\2402 Kfoerudzo
+C:\T5\Vland\C Anarsi\2406 Derekam\2406 Derekam
+C:\T5\Vland\C Anarsi\2407 Gida\2407 Gida
+C:\T5\Vland\C Anarsi\2408 Shabii\2408 Shabii
+C:\T5\Vland\C Anarsi\2409 Sardiika\2409 Sardiika
+C:\T5\Vland\C Anarsi\2410 Karamursel\2410 Karamursel

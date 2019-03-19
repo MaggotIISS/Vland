@@ -1,0 +1,50 @@
+Primary = M3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Lalaki	A9B4785-D	(Hot)
+	  RadWorld	  	Y350000-0 @ Orbit SWorld  (BigWorld)	G633432-E
+	  Ring @ Orbit H
+1 = World  (RadWorld)	Y666000-0
+	  Hospitable	  	H110220-4 @ Orbit SWorld  (StormWorld)	Y581000-0
+2 = LGG (70,000 mi dia.)	S=25
+	  StormWorld	  	G682234-8 @ Orbit D
+	  Worldlet	  	F066553-5 @ Orbit F
+	  Worldlet	  	G09A6BC-8 @ Orbit K
+	  BigWorld	  	G621520-7 @ Orbit Q
+	  BigWorld	  	Y665665-B @ Orbit T
+3 = LGG (60,000 mi dia.)	S=24
+	  BigWorld	  	F69A420-B @ Orbit D
+	  Worldlet	  	F08669D-7 @ Orbit G
+	  StormWorld	  	Y626000-0 @ Orbit W
+4 = 
+5 = World  (Inferno)	Y6B0000-0
+6 = World  (StormWorld)	F504253-5
+7 = 
+8 = 
+9 = 
+10 = World  (BigWorld)	Y6876AA-A
+	  Worldlet	  	G057653-8 @ Orbit C
+	  RadWorld	  	Y600000-0 @ Orbit H
+	  IceWorld	  	H3306A7-8 @ Orbit S
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = World  (Hospitable)	G622688-5
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 12
+W = 10
+syscount = 1
+min = 0
+count = 8

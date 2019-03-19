@@ -1,0 +1,81 @@
+Hex = 2319
+Name = Shudi
+UWP = A7669BB-A
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+Atmosphere = 6
+	DIGIT	DESCRIPTION	EFFECTS
+	6	Standard	
+Hydrosphere = 6
+	DIGIT	DESCRIPTION
+	6	60%
+Population = 9
+	POPULATION UNDER 5,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	9	Billion	,000,000,000
+Government = B
+	DIGIT	DESCRIPTION	NOTE
+	B	Non-Charismatic Dictatorship	Government by the successor to a charismatic dictator
+Law Level = B
+	DIGIT	DESCRIPTION	NOTE
+	B	Extreme Law	Continental passports required
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = Hi Ga Pr Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	Ga	678	568	567				Garden World	
+	Pr		68		59			Pre Rich	
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { 3 }
+	Starport A = +1
+	TL 10 = +1
+	Hi  = +1
+	Importance = Normal (3)+0=3
+(Ex) = (J8D+5)
+	Resources =  19
+	Labour =  8
+	Infrastructure =  13
+	Efficiency =  5
+	RU = 9880
+[Cx] = [BC7C]
+	Homogeneity = 11
+	Acceptance = 12
+	Strangeness = 7
+	Symbols = 12
+N = BcE
+	CODE	RANK	TC
+	B	Knight	any
+	c	Baronet	Pa Pr
+	E	Count	Hi
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 525
+	Population Multiplier = 5
+	POPULATION UNDER 5,000,000,000
+	Planetoid Belts = 2
+	Gas Giants = 5
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-5 (gas giants)
+	 = 4 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G6 V G2 V
+	Stars = 2

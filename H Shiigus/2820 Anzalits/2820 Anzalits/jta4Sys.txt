@@ -1,0 +1,14 @@
+Hex = 2820
+Name = Anzalits
+UWP = EA9A210-9
+Remarks = Lo Oc
+{Ix} = { -2 }
+(Ex) = (B11-5)
+[Cx] = [1114]
+N = B
+B = -
+Z = -
+PBG = 734
+W = 16
+A = ImDv
+Stellar = M3 V M7 V

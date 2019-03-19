@@ -1,0 +1,14 @@
+Hex = 3111
+Name = Kalanuu
+UWP = D754544-7
+Remarks = Ag Ni
+{Ix} = { -2 }
+(Ex) = (742-4)
+[Cx] = [3335]
+N = BC
+B = -
+Z = -
+PBG = 624
+W = 9
+A = ImDv
+Stellar = M1 V

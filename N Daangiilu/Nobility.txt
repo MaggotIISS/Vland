@@ -1,0 +1,7 @@
+B Knight = 44
+c Baronet = 4
+C Baron = 11
+D Marquis = 3
+e Viscount = 2
+E Count = 4
+F Duke = 1

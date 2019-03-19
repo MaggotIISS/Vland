@@ -1,0 +1,14 @@
+Hex = 2826
+Name = Zafron
+UWP = E575426-7
+Remarks = Ni Pa
+{Ix} = { -3 }
+(Ex) = (631-4)
+[Cx] = [3146]
+N = Bc
+B = -
+Z = -
+PBG = 735
+W = 11
+A = ImDv
+Stellar = F4 V

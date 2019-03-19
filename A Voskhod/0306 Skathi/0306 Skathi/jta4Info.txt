@@ -1,0 +1,82 @@
+Hex = 0306
+Name = Skathi
+UWP = B585698-9
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 8
+	DIGIT	DESCRIPTION	EFFECTS
+	8	Dense	
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+Population = 6
+	POPULATION UNDER 2,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	Impersonal Bureaucracy	Impersonal agencies rule
+Law Level = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	High Law	Open display of weapons prohibited
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = Ag Ni Ri
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ag		456789	45678	567			Agricultural	
+	Ni				456			Non Industrial	
+	Ri		68		678			Rich	
+{Ix} = { 3 }
+	Starport B = +1
+	Ag  = +1
+	Ri  = +1
+	Pop < 7 = -1
+	Importance = Normal (2)+1=3
+(Ex) = (957+3)
+	Resources =  9
+	Labour =  5
+	Infrastructure =  7
+	Efficiency =  3
+	RU = 945
+[Cx] = [6959]
+	Homogeneity = 6
+	Acceptance = 9
+	Strangeness = 5
+	Symbols = 9
+N = BC
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+B = NS
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 210
+	Population Multiplier = 2
+	POPULATION UNDER 2,000,000
+	Planetoid Belts = 1
+	Gas Giants = 0
+W = 14
+	Non Stars In System = 14
+	-1 (mainworld)
+	-1 (planetoid belts)
+	-0 (gas giants)
+	 = 12 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M0 V K0 V
+	Stars = 2

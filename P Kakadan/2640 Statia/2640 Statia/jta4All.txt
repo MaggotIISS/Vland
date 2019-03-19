@@ -1,0 +1,52 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = World  (BigWorld)	F059100-4
+	  Ring @ Orbit ?World  (Inferno)	Y0B0000-0
+1 = Mainworld	Statia	B300440-D	(Cold)
+	  Worldlet	  	Y089336-6 @ Orbit U
+2 = World  (RadWorld)	Y030000-0
+	  RadWorld	  	Y0A6000-0 @ Orbit R
+	  StormWorld	  	Y034000-0 @ Orbit EWorld  (BigWorld)	H000321-5World  (Inferno)	Y0B0000-T
+	  StormWorld	  	Y056000-0 @ Orbit U
+3 = World  (BigWorld)	H0333DF-8
+	  Ring @ Orbit ?World  (Inferno)	Y0B0000-F
+	  Worldlet	  	H034200-7 @ Orbit G
+4 = World  (Worldlet)	Y000353-7
+	  OuterWorld	  	Y04038B-9 @ Orbit U
+	  OuterWorld	  	Y086321-C @ Orbit V
+5 = World  (StormWorld)	Y002000-0
+	  Worldlet	  	H036399-B @ Orbit G
+	  IceWorld	  	F040342-8 @ Orbit I
+	  OuterWorld	  	F04937B-6 @ Orbit U
+6 = 
+7 = World  (Worldlet)	Y077000-0
+	  Ring @ Orbit ?
+8 = Planetoid belt	F000200-3
+9 = World  (RadWorld)	Y030000-0
+	  IceWorld	  	H0403CD-5 @ Orbit G
+	  Worldlet	  	Y075397-9 @ Orbit J
+	  StormWorld	  	Y034000-0 @ Orbit T
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 11
+W = 13
+syscount = 1
+min = 0
+count = 9

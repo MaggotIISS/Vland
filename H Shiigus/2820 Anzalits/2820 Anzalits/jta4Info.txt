@@ -1,0 +1,76 @@
+Hex = 2820
+Name = Anzalits
+UWP = EA9A210-9
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = A
+	DIGIT	DIA(MI)	DIA(KM)
+	A	10,000	16,000
+Atmosphere = 9
+	DIGIT	DESCRIPTION	EFFECTS
+	9	Dense, Tainted	P1
+Hydrosphere = A
+	DIGIT	DESCRIPTION
+	A	Water World
+Population = 2
+	POPULATION UNDER 700
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+Government = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Company/Corporation	Rule by a managerial elite
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = Lo Oc
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+	Oc	ABC		A				Ocean World	
+{Ix} = { -2 }
+	Starport E = -1
+	Pop < 7 = -1
+	Importance = Unimportant (-2)+0=-2
+(Ex) = (B11-5)
+	Resources =  11
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -5
+	RU = -55
+[Cx] = [1114]
+	Homogeneity = 1
+	Acceptance = 1
+	Strangeness = 1
+	Symbols = 4
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 734
+	Population Multiplier = 7
+	POPULATION UNDER 700
+	Planetoid Belts = 3
+	Gas Giants = 4
+W = 16
+	Non Stars In System = 16
+	-1 (mainworld)
+	-3 (planetoid belts)
+	-4 (gas giants)
+	 = 8 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M3 V M7 V
+	Stars = 2

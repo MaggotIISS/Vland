@@ -1,0 +1,57 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Zruub	E553531-7	(Hot)LGG (60,000 mi dia.)	S=24
+	  StormWorld	  	Y710000-0 @ Orbit D
+	  BigWorld	  	YE50467-6 @ Orbit GWorld  (RadWorld)	Y865000-F
+	  Worldlet	  	H099210-6 @ Orbit G
+	  Hospitable	  	F64349D-6 @ Orbit QWorld  (Hospitable)	F422489-H
+	  BigWorld	  	YJA648A-6 @ Orbit K
+	  StormWorld	  	Y962000-0 @ Orbit O
+	  Inferno	  	YAB0000-0 @ Orbit T
+	  Inferno	  	Y7B0000-0 @ Orbit V
+1 = World  (BigWorld)	YD9A466-6
+	  Inferno	  	YBB0000-0 @ Orbit I
+2 = World  (RadWorld)	Y230000-0
+3 = World  (Inferno)	Y9B0000-0
+	  Ring @ Orbit ?
+4 = LGG (80,000 mi dia.)	S=26
+	  StormWorld	  	Y412000-0 @ Orbit F
+	  BigWorld	  	YH9A486-6 @ Orbit X
+5 = LGG (80,000 mi dia.)	S=26
+	  StormWorld	  	Y246000-0 @ Orbit H
+	  IceWorld	  	G2A026A-4 @ Orbit I
+	  OuterWorld	  	Y258346-6 @ Orbit J
+	  StormWorld	  	Y200000-0 @ Orbit S
+	  BigWorld	  	H2954BB-6 @ Orbit T
+6 = World  (StormWorld)	Y623000-0
+7 = World  (Worldlet)	F372441-6
+	  Ring @ Orbit ?
+8 = World  (Hospitable)	Y130435-5
+	  RadWorld	  	Y975000-0 @ Orbit U
+9 = World  (Worldlet)	Y064434-6
+10 = World  (Inferno)	Y6B0000-0
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = World  (BigWorld)	YE774A9-6
+	  Worldlet	  	H258255-6 @ Orbit I
+	  Worldlet	  	H335477-5 @ Orbit T
+17 = 
+18 = 
+19 = 
+Unfilled = 8
+syscount = 1
+min = 0
+W = 15
+Extra Stars = 0
+count = 12

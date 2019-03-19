@@ -1,0 +1,77 @@
+Hex = 2806
+Name = Paval
+UWP = B581212-B
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 8
+	DIGIT	DESCRIPTION	EFFECTS
+	8	Dense	
+Hydrosphere = 1
+	DIGIT	DESCRIPTION
+	1	10%
+Population = 2
+	POPULATION UNDER 700
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+Government = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Company/Corporation	Rule by a managerial elite
+Law Level = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Low Law	Prohibition of 'portable' weapons
+Tech Level = B
+	DIGIT		
+	B		
+Remarks = Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+{Ix} = { 1 }
+	Starport B = +1
+	TL 11 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (A11-3)
+	Resources =  10
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -3
+	RU = -30
+[Cx] = [1317]
+	Homogeneity = 1
+	Acceptance = 3
+	Strangeness = 1
+	Symbols = 7
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 724
+	Population Multiplier = 7
+	POPULATION UNDER 700
+	Planetoid Belts = 2
+	Gas Giants = 4
+W = 15
+	Non Stars In System = 15
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-4 (gas giants)
+	 = 8 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M3 V
+	Stars = 1

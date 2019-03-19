@@ -1,0 +1,74 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Raltaedz	B430264-D	(Temperate)
+1 = LGG (80,000 mi dia.)	S=26
+	  StormWorld	  	Y110000-0 @ Orbit B
+	  Worldlet	  	F074120-8 @ Orbit E
+	  Hospitable	  	Y130110-A @ Orbit F
+	  Hospitable	  	G155157-8 @ Orbit IWorld  (BigWorld)	G140167-G
+	  StormWorld	  	Y110000-0 @ Orbit H
+	  RadWorld	  	Y133000-0 @ Orbit R
+	  Hospitable	  	F1A3199-5 @ Orbit S
+	  Hospitable	  	Y183153-B @ Orbit QWorld  (Worldlet)	Y1A6133-T
+	  StormWorld	  	Y100000-0 @ Orbit DWorld  (RadWorld)	Y153000-U
+	  Hospitable	  	G123172-A @ Orbit X
+2 = LGG (60,000 mi dia.)	S=24
+	  OuterWorld	  	F18A1BB-A @ Orbit E
+	  IceWorld	  	Y191000-0 @ Orbit H
+	  BigWorld	  	G13016B-C @ Orbit U
+3 = LGG (90,000 mi dia.)	S=27
+	  BigWorld	  	F19A198-6 @ Orbit HWorld  (Hospitable)	G1A31AC-C
+	  StormWorld	  	Y100000-0 @ Orbit E
+	  OuterWorld	  	H176177-B @ Orbit RWorld  (StormWorld)	Y100000-P
+	  StormWorld	  	Y112000-0 @ Orbit R
+	  IceWorld	  	Y00017C-7 @ Orbit T
+	  BigWorld	  	Y1B6168-8 @ Orbit U
+	  BigWorld	  	Y100110-5 @ Orbit V
+4 = LGG (70,000 mi dia.)	S=25
+	  Worldlet	  	H000126-2 @ Orbit B
+	  BigWorld	  	H19A100-C @ Orbit D
+	  IceWorld	  	Y160189-7 @ Orbit VWorld  (StormWorld)	Y143000-E
+	  RadWorld	  	Y155000-0 @ Orbit F
+	  RadWorld	  	Y110000-0 @ Orbit DWorld  (StormWorld)	Y100000-G
+	  RadWorld	  	Y164000-0 @ Orbit H
+	  BigWorld	  	Y169000-0 @ Orbit I
+	  StormWorld	  	Y140000-0 @ Orbit J
+	  OuterWorld	  	H184137-5 @ Orbit L
+	  IceWorld	  	Y180101-4 @ Orbit EWorld  (RadWorld)	Y1C6000-R
+	  RadWorld	  	Y1A6000-0 @ Orbit S
+	  BigWorld	  	H153153-6 @ Orbit T
+	  RadWorld	  	Y110000-0 @ Orbit U
+	  RadWorld	  	Y18A000-0 @ Orbit V
+	  Worldlet	  	G067100-8 @ Orbit W
+5 = World  (Worldlet)	H010133-B
+	  IceWorld	  	F140143-5 @ Orbit E
+6 = 
+7 = 
+8 = World  (StormWorld)	Y103000-0
+	  IceWorld	  	G194152-7 @ Orbit G
+	  IceWorld	  	H161169-9 @ Orbit H
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 13
+W = 15
+syscount = 1
+min = 0
+count = 7

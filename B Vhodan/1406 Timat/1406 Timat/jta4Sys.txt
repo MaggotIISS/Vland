@@ -1,0 +1,14 @@
+Hex = 1406
+Name = Timat
+UWP = B98A779-9
+Remarks = Ri Wa
+{Ix} = { 3 }
+(Ex) = (C6C+4)
+[Cx] = [8A6A]
+N = BC
+B = NS
+Z = -
+PBG = 921
+W = 12
+A = ImDv
+Stellar = M0 V

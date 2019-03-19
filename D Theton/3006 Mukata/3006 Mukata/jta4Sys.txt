@@ -1,0 +1,14 @@
+Hex = 3006
+Name = Mukata
+UWP = B310456-E
+Remarks = Ni Da
+{Ix} = { 1 }
+(Ex) = (734+1)
+[Cx] = [354D]
+N = B
+B = -
+Z = A
+PBG = 101
+W = 6
+A = ImDv
+Stellar = F0 V M3 V

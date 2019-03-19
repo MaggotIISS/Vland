@@ -1,0 +1,14 @@
+Hex = 2612
+Name = Gaska Khiin
+UWP = C544577-9
+Remarks = Ag Ni
+{Ix} = { 0 }
+(Ex) = (C44+1)
+[Cx] = [5559]
+N = BC
+B = S
+Z = -
+PBG = 823
+W = 12
+A = ImDv
+Stellar = M1 V

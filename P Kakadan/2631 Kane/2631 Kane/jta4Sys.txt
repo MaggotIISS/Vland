@@ -1,0 +1,14 @@
+Hex = 2631
+Name = Kane
+UWP = E789ABE-A
+Remarks = Hi Pz
+{Ix} = { 1 }
+(Ex) = (H9B+5)
+[Cx] = [EB9E]
+N = BE
+B = -
+Z = A
+PBG = 723
+W = 10
+A = ImDv
+Stellar = K9 V

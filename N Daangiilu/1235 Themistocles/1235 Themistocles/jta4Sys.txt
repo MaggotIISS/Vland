@@ -1,0 +1,14 @@
+Hex = 1235
+Name = Themistocles
+UWP = B433562-D
+Remarks = Ni Po O:1334
+{Ix} = { 1 }
+(Ex) = (845-3)
+[Cx] = [1619]
+N = B
+B = S
+Z = -
+PBG = 701
+W = 7
+A = ImDv
+Stellar = F6 V M1 V

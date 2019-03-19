@@ -1,0 +1,53 @@
+Primary = M3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Katti	A8D8210-D	(Temperate)LGG (70,000 mi dia.)	S=25
+	  Worldlet	  	Y099199-4 @ Orbit D
+	  Inferno	  	Y7B0000-0 @ Orbit F
+	  RadWorld	  	YBB6000-0 @ Orbit UWorld  (RadWorld)	Y788000-T
+	  Inferno	  	Y7B0000-0 @ Orbit U
+	  StormWorld	  	Y601000-0 @ Orbit Y
+1 = LGG (125,000 mi dia.)	S=28
+	  Worldlet	  	G08A167-9 @ Orbit G
+	  StormWorld	  	Y525000-0 @ Orbit Q
+	  StormWorld	  	Y520000-0 @ Orbit R
+	  Hospitable	  	Y5521B8-4 @ Orbit U
+	  RadWorld	  	Y48A000-0 @ Orbit W
+2 = 
+3 = SGG (40,000 mi dia.)	S=22
+	  Ring @ Orbit ?
+4 = 
+5 = LGG (125,000 mi dia.)	S=28
+	  OuterWorld	  	H536100-9 @ Orbit E
+	  IceWorld	  	H484142-6 @ Orbit G
+	  OuterWorld	  	Y000173-B @ Orbit L
+	  StormWorld	  	Y510000-0 @ Orbit S
+	  StormWorld	  	Y582000-0 @ Orbit W
+6 = World  (Inferno)	Y8B0000-0
+	  RadWorld	  	Y755000-0 @ Orbit U
+7 = 
+8 = 
+9 = 
+10 = World  (Worldlet)	F022130-6
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 14
+W = 8
+syscount = 1
+min = 0
+count = 6

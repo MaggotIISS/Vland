@@ -1,0 +1,54 @@
+Primary = M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Kanat	B567359-B	(Hot)
+	  Ring @ Orbit ?World  (StormWorld)	Y254000-G
+	  Worldlet	  	H055210-7 @ Orbit IWorld  (Inferno)	Y2B0000-W
+1 = World  (RadWorld)	Y2B6000-0
+	  Ring @ Orbit ?World  (Worldlet)	G169240-L
+	  Ring @ Orbit Y
+2 = SGG (40,000 mi dia.)	S=22
+	  Worldlet	  	Y010266-4 @ Orbit F
+	  RadWorld	  	Y244000-0 @ Orbit G
+	  Worldlet	  	H0A6267-3 @ Orbit QWorld  (Inferno)	Y2B0000-H
+	  BigWorld	  	F2C6244-A @ Orbit I
+3 = LGG (60,000 mi dia.)	S=24
+	  Ring @ Orbit ?World  (Worldlet)	Y075220-L
+	  Worldlet	  	H010266-2 @ Orbit O
+	  Worldlet	  	Y110264-7 @ Orbit S
+	  RadWorld	  	Y258000-0 @ Orbit U
+4 = Planetoid belt	G000255-4World  (BigWorld)	G2402A8-5
+	  Ring @ Orbit ?
+5 = LGG (90,000 mi dia.)	S=27
+	  OuterWorld	  	Y257233-7 @ Orbit I
+	  Worldlet	  	G124230-6 @ Orbit W
+6 = 
+7 = 
+8 = 
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = World  (StormWorld)	Y232000-0
+	  IceWorld	  	Y220212-3 @ Orbit H
+	  StormWorld	  	Y252000-0 @ Orbit I
+	  Worldlet	  	Y000289-5 @ Orbit S
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 13
+W = 13
+syscount = 1
+min = 0
+count = 7

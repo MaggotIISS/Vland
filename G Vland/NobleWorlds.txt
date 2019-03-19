@@ -1,0 +1,165 @@
+
+1716 Enaa       
+	(Knight) IGeAshMir
+	(Marquis) GeImShem
+	(Viscount) KinDuIm
+
+
+1717 Vland      
+	(Knight) ImMiiDasMumZaMi
+	(Count) AsLii
+	(Duke) IdMamKhaaIz
+	(Archduke) IlBiEAgKaIk
+
+
+1718 Kirma      
+	(Knight) IigBiIg
+
+
+1719 Sazisi     
+	(Knight) UAkNanLiI
+	(Baron) KhigKaKeLuAam
+
+
+1811 Anaam      
+	(Knight) A
+	(Marquis) IgGa
+
+
+1813 Khusher    
+	(Knight) AkKegDeAsh
+	(Baron) ShiLarGiNemLan
+	(Marquis) AshShaGashDaNiAk
+
+
+1816 Shinla     
+	(Knight) Iz
+	(Baron) UShaGiDiiIkShan
+	(Viscount) MuGenLashLi
+
+
+1817 Tauri      
+	(Knight) IbGiIdMii
+	(Count) DaaIikShiinGam
+
+
+1819 Dusu       
+	(Knight) I
+
+
+1820 Kha        
+	(Knight) ShuShamPe
+	(Baron) MeshLar
+
+
+1915 Giinam     
+	(Knight) I
+
+
+1916 Kipii      
+	(Knight) UukhNa
+
+
+1918 Kusheggi   
+	(Knight) KuuShirGiU
+	(Baron) SurNaAAIp
+	(Marquis) AGiGeUgKuuIg
+
+
+1919 Khula      
+	(Knight) GinGiKhidKerDig
+	(Count) AKiGish
+	(Duke) Ukh
+
+
+1920 Inkha      
+	(Knight) IdLamSir
+	(Baronet) AlParGaar
+
+
+2013 Isbudin    
+	(Knight) DuuASu
+	(Count) UukKhaDe
+
+
+2016 Zurrian    
+	(Knight) ImLamKaarGimSuu
+	(Baronet) AdGiUmKiGam
+
+
+2017 Tahaver    
+	(Knight) KiMinKiiLish
+	(Count) Ik
+
+
+2019 Lobode     
+	(Knight) Id
+	(Baron) AdGinKuuMesSi
+
+
+2020 Shushguum  
+	(Knight) I
+
+
+2111 Flire      
+	(Knight) IigKhuuAshGu
+	(Count) AmShenGiiKi
+
+
+2113 Ishala     
+	(Knight) KhiIShiMumPid
+	(Baron) LaEmLarDeMi
+
+
+2115 Zedu Gisla 
+	(Knight) NiUuIikKurGi
+
+
+2117 Uri        
+	(Knight) NaA
+
+
+2120 Pyam       
+	(Knight) EshBaaAnShi
+
+
+2211 Irila      
+	(Knight) AgKha
+	(Baronet) GaAmMuusKhi
+
+
+2216 Ashbakha   
+	(Knight) AadDirShukMashGemGim
+
+
+2314 Dangasha   
+	(Knight) Si
+
+
+2316 Kagush     
+	(Knight) Al
+
+
+2319 Shudi      
+	(Knight) IMaarGi
+	(Baronet) ShiAGi
+	(Count) Ik
+
+
+2320 Gidapisek  
+	(Knight) AkReEsKi
+
+
+2412 Ansin      
+	(Knight) KagKi
+	(Count) AAkLudGiish
+
+
+2416 Liisurkhish
+	(Knight) PimShaGishGaShaa
+	(Baron) ShadKaAgGaKhir
+
+
+2419 Nasha      
+	(Knight) SheLuurKiIASha
+

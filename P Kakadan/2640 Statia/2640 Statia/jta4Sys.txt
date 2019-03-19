@@ -1,0 +1,14 @@
+Hex = 2640
+Name = Statia
+UWP = B300440-D
+Remarks = Ni Va
+{Ix} = { 1 }
+(Ex) = (734-3)
+[Cx] = [1518]
+N = B
+B = -
+Z = -
+PBG = 310
+W = 13
+A = ImDv
+Stellar = M1 V

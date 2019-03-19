@@ -1,0 +1,14 @@
+Hex = 1236
+Name = Fymur
+UWP = C55178B-8
+Remarks = Po
+{Ix} = { -1 }
+(Ex) = (A67+1)
+[Cx] = [967A]
+N = B
+B = -
+Z = -
+PBG = 610
+W = 15
+A = ImDv
+Stellar = M1 V

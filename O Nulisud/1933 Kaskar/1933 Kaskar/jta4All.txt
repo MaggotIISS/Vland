@@ -1,0 +1,75 @@
+Primary = K6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (RadWorld)	Y365000-0World  (Inferno)	Y3B0000-0
+1 = World  (Hospitable)	Y355577-6
+	  RadWorld	  	Y366000-0 @ Orbit E
+	  Hospitable	  	Y324400-6 @ Orbit G
+2 = Mainworld	Kaskar	C673664-7	(Temperate)
+3 = World  (Hospitable)	Y3995A9-6World  (Inferno)	Y3B0000-0
+4 = World  (Worldlet)	Y000402-6
+	  IceWorld	  	H340540-6 @ Orbit G
+	  Worldlet	  	H040330-6 @ Orbit VWorld  (Worldlet)	H010574-I
+	  Worldlet	  	G010200-6 @ Orbit K
+	  RadWorld	  	Y367000-0 @ Orbit Q
+	  RadWorld	  	Y356000-0 @ Orbit W
+5 = 
+6 = LGG (50,000 mi dia.)	S=23
+	  OuterWorld	  	Y3B4578-4 @ Orbit H
+	  OuterWorld	  	Y000000-0 @ Orbit J
+	  BigWorld	  	Y300569-6 @ Orbit K
+	  StormWorld	  	Y300000-0 @ Orbit V
+	  IceWorld	  	G3805AA-6 @ Orbit W
+7 = World  (Inferno)	Y3B0000-0
+	  OuterWorld	  	F399587-6 @ Orbit H
+8 = 
+9 = 
+10 = World  (Worldlet)	H065556-6
+	  Worldlet	  	Y358576-6 @ Orbit U
+11 = World  (RadWorld)	Y355000-0
+	  OuterWorld	  	G300579-3 @ Orbit G
+	  RadWorld	  	Y37A000-0 @ Orbit X
+12 = 
+13 = 
+14 = 
+15 = STAR M0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  12
+	HZ =  -1
+	15-0 = 
+	15-1 = 
+	15-2 = 
+	15-3 = 
+	15-4 = 
+	15-5 = 
+	15-6 = 
+	15-7 = 
+	15-8 = 
+	15-9 = 
+	15-10 = 
+	15-11 = 
+	15-12 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 10
+syscount = 2
+min = 0
+W = 12
+Extra Stars = 1
+count = 10

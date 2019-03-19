@@ -1,0 +1,14 @@
+Hex = 0306
+Name = Skathi
+UWP = B585698-9
+Remarks = Ag Ni Ri
+{Ix} = { 3 }
+(Ex) = (957+3)
+[Cx] = [6959]
+N = BC
+B = NS
+Z = -
+PBG = 210
+W = 14
+A = ImDv
+Stellar = M0 V K0 V

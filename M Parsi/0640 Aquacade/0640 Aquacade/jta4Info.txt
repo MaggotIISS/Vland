@@ -1,0 +1,78 @@
+Hex = 0640
+Name = Aquacade
+UWP = A67A224-F
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 6
+	DIGIT	DIA(MI)	DIA(KM)
+	6	6,000	9,600
+Atmosphere = 7
+	DIGIT	DESCRIPTION	EFFECTS
+	7	Standard, Tainted	P1
+Hydrosphere = A
+	DIGIT	DESCRIPTION
+	A	Water World
+Population = 2
+	POPULATION UNDER 100
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+Government = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Participating Democracy	Rule by popular vote
+Law Level = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Moderate Law	Laser, Beam weapons prohibited
+Tech Level = F
+	DIGIT		
+	F		
+Remarks = Lo Wa
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+	Wa	56789		A				Water World	
+{Ix} = { 1 }
+	Starport A = +1
+	TL 15 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (611-1)
+	Resources =  6
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -1
+	RU = -6
+[Cx] = [133D]
+	Homogeneity = 1
+	Acceptance = 3
+	Strangeness = 3
+	Symbols = 13
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 120
+	Population Multiplier = 1
+	POPULATION UNDER 100
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 8
+	Non Stars In System = 8
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 5 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 V
+	Stars = 1

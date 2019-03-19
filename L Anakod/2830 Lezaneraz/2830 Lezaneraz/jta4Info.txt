@@ -1,0 +1,77 @@
+Hex = 2830
+Name = Lezaneraz
+UWP = E547455-8
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 4
+	DIGIT	DESCRIPTION	EFFECTS
+	4	Thin, Tainted	P1, S1
+Hydrosphere = 7
+	DIGIT	DESCRIPTION
+	7	70%
+Population = 4
+	POPULATION UNDER 20,000
+	DIGIT	DESCRIPTION	VALUE
+	4	Ten thousand	0,000
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+Tech Level = 8
+	DIGIT		
+	8		
+Remarks = Ni Pa
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+	Pa		456789	45678	48			Pre Agricultural	
+{Ix} = { -3 }
+	Starport E = -1
+	Pop < 7 = -1
+	Importance = Unimportant (-2)+-1=-3
+(Ex) = (831-5)
+	Resources =  8
+	Labour =  3
+	Infrastructure =  1
+	Efficiency =  -5
+	RU = -120
+[Cx] = [2136]
+	Homogeneity = 2
+	Acceptance = 1
+	Strangeness = 3
+	Symbols = 6
+N = Bc
+	CODE	RANK	TC
+	B	Knight	any
+	c	Baronet	Pa Pr
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 202
+	Population Multiplier = 2
+	POPULATION UNDER 20,000
+	Planetoid Belts = 0
+	Gas Giants = 2
+W = 7
+	Non Stars In System = 7
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-2 (gas giants)
+	 = 4 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 V
+	Stars = 1

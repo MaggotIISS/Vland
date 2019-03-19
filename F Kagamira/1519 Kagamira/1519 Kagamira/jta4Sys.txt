@@ -1,0 +1,14 @@
+Hex = 1519
+Name = Kagamira
+UWP = B577A83-E
+Remarks = Hi In Cp
+{Ix} = { 4 }
+(Ex) = (K9G+1)
+[Cx] = [7E2B]
+N = BEF
+B = N
+Z = -
+PBG = 525
+W = 10
+A = ImDv
+Stellar = G4 V

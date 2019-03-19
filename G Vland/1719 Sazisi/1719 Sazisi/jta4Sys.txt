@@ -1,0 +1,14 @@
+Hex = 1719
+Name = Sazisi
+UWP = E586720-6
+Remarks = Ag Ri
+{Ix} = { 0 }
+(Ex) = (967-4)
+[Cx] = [2711]
+N = BC
+B = -
+Z = -
+PBG = 703
+W = 7
+A = ImDv
+Stellar = M0 V M2 V

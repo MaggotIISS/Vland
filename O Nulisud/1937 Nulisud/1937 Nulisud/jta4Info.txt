@@ -1,0 +1,79 @@
+Hex = 1937
+Name = Nulisud
+UWP = A8A368A-D
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 8
+	DIGIT	DIA(MI)	DIA(KM)
+	8	8,000	13,800
+Atmosphere = A
+	DIGIT	DESCRIPTION	EFFECTS
+	A	Exotic	P1
+Hydrosphere = 3
+	DIGIT	DESCRIPTION
+	3	30%
+Population = 6
+	POPULATION UNDER 4,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit
+Law Level = A
+	DIGIT	DESCRIPTION	NOTE
+	A	Extreme Law	Weapon possession prohibited
+Tech Level = D
+	DIGIT		
+	D		
+Remarks = Fl Ni Cp
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Fl		ABC	123456789A				Fluid	
+	Ni				456			Non Industrial	
+	Cp							Subsector Capital	Imperial
+{Ix} = { 1 }
+	Starport A = +1
+	TL 13 = +1
+	Pop < 7 = -1
+	Importance = Normal (2)+-1=1
+(Ex) = (B55+3)
+	Resources =  11
+	Labour =  5
+	Infrastructure =  5
+	Efficiency =  3
+	RU = 825
+[Cx] = [877F]
+	Homogeneity = 8
+	Acceptance = 7
+	Strangeness = 7
+	Symbols = 15
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 421
+	Population Multiplier = 4
+	POPULATION UNDER 4,000,000
+	Planetoid Belts = 2
+	Gas Giants = 1
+W = 15
+	Non Stars In System = 15
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-1 (gas giants)
+	 = 11 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K3 V
+	Stars = 1

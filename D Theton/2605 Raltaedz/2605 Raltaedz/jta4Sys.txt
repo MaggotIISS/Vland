@@ -1,0 +1,14 @@
+Hex = 2605
+Name = Raltaedz
+UWP = B430264-D
+Remarks = De Lo Po O:2205
+{Ix} = { 1 }
+(Ex) = (811-1)
+[Cx] = [133B]
+N = B
+B = -
+Z = -
+PBG = 504
+W = 15
+A = ImDv
+Stellar = M1 V

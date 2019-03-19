@@ -1,0 +1,14 @@
+Hex = 2611
+Name = Kimii
+UWP = D403750-8
+Remarks = Ic Na Va Pi
+{Ix} = { -2 }
+(Ex) = (A66-5)
+[Cx] = [2513]
+N = BD
+B = -
+Z = -
+PBG = 901
+W = 9
+A = ImDv
+Stellar = K2 V M3 V

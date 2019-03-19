@@ -1,0 +1,14 @@
+Hex = 2508
+Name = Nii
+UWP = E42558C-7
+Remarks = Ni Da
+{Ix} = { -3 }
+(Ex) = (741+1)
+[Cx] = [828A]
+N = B
+B = -
+Z = A
+PBG = 110
+W = 14
+A = ImDv
+Stellar = M1 V

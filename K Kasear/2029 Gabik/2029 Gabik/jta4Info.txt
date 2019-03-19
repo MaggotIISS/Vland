@@ -1,0 +1,79 @@
+Hex = 2029
+Name = Gabik
+UWP = B512100-D
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 1
+	DIGIT	DESCRIPTION	EFFECTS
+	1	Trace	S3
+Hydrosphere = 2
+	DIGIT	DESCRIPTION
+	2	20%
+Population = 1
+	POPULATION UNDER 80
+	DIGIT	DESCRIPTION	VALUE
+	1	Tens	0
+Government = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Government Structure	Family bonds predominate
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = D
+	DIGIT		
+	D		
+Remarks = Ic Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ic		01	123456789A				Ice Capped	
+	Lo				123			Low Population	
+{Ix} = { 2 }
+	Starport B = +1
+	TL 13 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+1=2
+(Ex) = (911-2)
+	Resources =  9
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -2
+	RU = -18
+[Cx] = [1318]
+	Homogeneity = 1
+	Acceptance = 3
+	Strangeness = 1
+	Symbols = 8
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = NS
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 833
+	Population Multiplier = 8
+	POPULATION UNDER 80
+	Planetoid Belts = 3
+	Gas Giants = 3
+W = 11
+	Non Stars In System = 11
+	-1 (mainworld)
+	-3 (planetoid belts)
+	-3 (gas giants)
+	 = 4 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = F2 V
+	Stars = 1

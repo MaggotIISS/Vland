@@ -1,0 +1,14 @@
+Hex = 2328
+Name = Fharnas
+UWP = D8D8A97-B
+Remarks = Hi
+{Ix} = { 1 }
+(Ex) = (D9C+1)
+[Cx] = [AB5B]
+N = BE
+B = S
+Z = -
+PBG = 901
+W = 9
+A = ImDv
+Stellar = M0 V

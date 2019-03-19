@@ -1,0 +1,14 @@
+Hex = 2232
+Name = Gikarlum
+UWP = B999542-A
+Remarks = Ni
+{Ix} = { 1 }
+(Ex) = (845-3)
+[Cx] = [1616]
+N = B
+B = S
+Z = -
+PBG = 810
+W = 15
+A = ImDv
+Stellar = G2 V M3 V

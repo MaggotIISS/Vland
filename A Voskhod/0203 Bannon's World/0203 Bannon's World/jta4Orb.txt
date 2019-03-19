@@ -1,0 +1,61 @@
+Primary = M3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = World  (Hospitable)	F548242-8World  (RadWorld)	Y8B6000-0
+1 = Mainworld	Bannon's World	E100488-A	(Cold)
+	Orbits LGG (60,000 mi dia.)	S=24 @ orbit R
+	  Inferno	  	YAB0000-0 @ Orbit S
+	  RadWorld	  	Y85A000-0 @ Orbit T
+	  BigWorld	  	GC55342-9 @ Orbit V
+2 = World  (Worldlet)	H2403A8-8
+	  Worldlet	  	Y0A6357-9 @ Orbit G
+	  StormWorld	  	Y933000-0 @ Orbit HWorld  (Worldlet)	G026387-O
+	  Ring @ Orbit P
+3 = Planetoid belt	Y00038B-7World  (Worldlet)	G031366-9
+4 = World  (StormWorld)	Y624000-0World  (Worldlet)	Y053000-0
+	  Ring @ Orbit ?
+5 = Planetoid belt	F0003BC-7
+6 = STAR K6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  3
+	HZ =  -1
+	6-0 = 
+	6-1 = 
+	6-2 = 
+	6-3 = 
+7 = World  (Hospitable)	G58739A-3
+	  Worldlet	  	F200378-9 @ Orbit U
+	  StormWorld	  	Y800000-0 @ Orbit V
+	  RadWorld	  	Y785000-0 @ Orbit W
+8 = 
+9 = 
+10 = World  (Worldlet)	H0C6222-5
+11 = 
+12 = 
+13 = 
+14 = World  (Hospitable)	H766325-7
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 10
+W = 13
+syscount = 2
+min = 0
+count = 10

@@ -1,0 +1,79 @@
+Hex = 0107
+Name = Taraddiin
+UWP = C656563-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 6
+	DIGIT	DIA(MI)	DIA(KM)
+	6	6,000	9,600
+Atmosphere = 5
+	DIGIT	DESCRIPTION	EFFECTS
+	5	This	S1
+Hydrosphere = 6
+	DIGIT	DESCRIPTION
+	6	60%
+Population = 5
+	POPULATION UNDER 300,000
+	DIGIT	DESCRIPTION	VALUE
+	5	Hundred thousand	00,000
+Government = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Captive Government/Colony	Rule by a leadership answerable to an outside group
+Law Level = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Low Law	Prohibition of Acid, Fire, Gas weapons
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = Ag Ni Ga O:0110
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ag		456789	45678	567			Agricultural	
+	Ni				456			Non Industrial	
+	Ga	678	568	567				Garden World	
+	Ruled by 0110 Ossin
+{Ix} = { 0 }
+	Ag  = +1
+	Pop < 7 = -1
+	Importance = Unimportant (0)+0=0
+(Ex) = (944-3)
+	Resources =  9
+	Labour =  4
+	Infrastructure =  4
+	Efficiency =  -3
+	RU = -432
+[Cx] = [2526]
+	Homogeneity = 2
+	Acceptance = 5
+	Strangeness = 2
+	Symbols = 6
+N = BC
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 311
+	Population Multiplier = 3
+	POPULATION UNDER 300,000
+	Planetoid Belts = 1
+	Gas Giants = 1
+W = 13
+	Non Stars In System = 13
+	-1 (mainworld)
+	-1 (planetoid belts)
+	-1 (gas giants)
+	 = 10 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M3 V
+	Stars = 1

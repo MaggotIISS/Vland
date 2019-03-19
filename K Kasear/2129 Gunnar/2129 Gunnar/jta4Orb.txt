@@ -1,0 +1,44 @@
+Primary = M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = World  (Worldlet)	F-34645A-3World  (Hospitable)	G-36A342-8
+	  Worldlet	  	Y-344443-5 @ Orbit E
+	  Inferno	  	Y-3B0000-0 @ Orbit HWorld  (Hospitable)	H-3446AA-H
+	  InnerWorld	  	F-3D22AF-6 @ Orbit J
+	  RadWorld	  	Y-324000-0 @ Orbit TWorld  (Hospitable)	H-364655-S
+	  Worldlet	  	H-310678-8 @ Orbit Y
+1 = 
+2 = 
+3 = World  (Worldlet)	H-320538-8
+	  Inferno	  	Y-3B0000-0 @ Orbit G
+	  InnerWorld	  	H-386266-8 @ Orbit W
+	  InnerWorld	  	Y-376151-7 @ Orbit Y
+4 = 
+5 = World  (BigWorld)	H-300656-5
+6 = Asteroid Belt	Gunnar	D000788-9	(Cold)
+7 = World  (Inferno)	Y-3B0000-0
+8 = 
+9 = 
+10 = 
+11 = 
+12 = 
+13 = World  (StormWorld)	H-3622CC-4
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 14
+syscount = 1
+min = 0
+W = 10
+Extra Stars = 0
+count = 6

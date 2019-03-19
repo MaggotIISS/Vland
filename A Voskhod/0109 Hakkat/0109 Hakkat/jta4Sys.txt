@@ -1,0 +1,14 @@
+Hex = 0109
+Name = Hakkat
+UWP = C658887-6
+Remarks = Pa Ph
+{Ix} = { -1 }
+(Ex) = (A76-1)
+[Cx] = [8756]
+N = Bce
+B = S
+Z = -
+PBG = 823
+W = 13
+A = ImDv
+Stellar = G1 V

@@ -1,0 +1,34 @@
+Primary = M4 III
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	III	Normal Giant	4.6 - 360
+	d10Limit = 6
+	d100Limit = 9
+	d1000Limit = 12
+	Min Orbit = 4
+	HZ =  8
+4 = Planetoid belt	F-100641-5
+5 = Planetoid belt	H-100688-9
+6 = 
+7 = 
+8 = Mainworld	Jiinasha	C200789-A	(Temperate)
+	  StormWorld	  	G-136265-3 @ Orbit U
+9 = 
+10 = 
+11 = 
+12 = World  (StormWorld)	F-15518B-3
+	  RadWorld	  	Y-110000-0 @ Orbit E
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 12
+W = 7
+syscount = 1
+min = 4
+count = 4

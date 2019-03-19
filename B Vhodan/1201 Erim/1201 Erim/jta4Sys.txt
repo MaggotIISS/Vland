@@ -1,0 +1,14 @@
+Hex = 1201
+Name = Erim
+UWP = D573785-5
+Remarks = Pi
+{Ix} = { -2 }
+(Ex) = (965-4)
+[Cx] = [5533]
+N = -
+B = -
+Z = -
+PBG = 801
+W = 9
+A = NaHu
+Stellar = M1 V K0 V

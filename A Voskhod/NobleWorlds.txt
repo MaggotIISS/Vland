@@ -1,0 +1,166 @@
+
+0101 Aakhorn  
+	(Knight) AsKuKhaE
+	(Baron) IgShaGuu
+
+
+0102 Rokii    
+	(Knight) I
+
+
+0104 Maluuf   
+	(Knight) GudLiirGurKuu
+
+
+0105 Gikkon   
+	(Knight) Kaag
+
+
+0107 Taraddiin
+	(Knight) KuA
+	(Baron) SerGanSerKhiIAk
+
+
+0109 Hakkat   
+	(Knight) IidGuurKaKamDiMush
+	(Baronet) ILaGi
+	(Viscount) U
+
+
+0110 Ossin    
+	(Knight) GeIk
+	(Marquis) GiirNerLuLanZiUs
+	(Viscount) AsRadDinKhishLiin
+
+
+0202 Kalkako  
+	(Knight) IKhi
+	(Baronet) Ash
+
+
+0203 Bannon's 
+	(Knight) Ka
+
+
+0205 Khankari 
+	(Knight) Gii
+	(Baronet) AkhMishLiKiIsh
+
+
+0209 Lankhi   
+	(Knight) KashKiiUsKisDeAd
+	(Baron) AkhShaIilGuuAadKhe
+
+
+0210 Khalgun  
+	(Knight) AmLiPuIm
+	(Baron) IgShiiKiUpGuuKhuug
+	(Marquis) As
+
+
+0303 Anert    
+	(Knight) KiishDiiUmShiLis
+
+
+0306 Skathi   
+	(Knight) KarSharZemKiig
+	(Baron) GuLishZaaAashMiim
+
+
+0307 Enard    
+	(Knight) EkZumKiIAg
+
+
+0402 Kuk      
+	(Knight) UdKemKuugShe
+
+
+0403 Apkeraas 
+	(Knight) KiKa
+
+
+0404 Katti    
+	(Knight) UkhZirKham
+
+
+0408 Shaddukan
+	(Knight) DuIiz
+
+
+0502 Lugaluru 
+	(Knight) SiiIKuDaDaA
+
+
+0506 Gamibuu  
+	(Knight) KamMirShusGunGugLin
+
+
+0507 Kharta   
+	(Knight) UgLamMaKhu
+
+
+0508 Arfaan   
+	(Knight) GaAgSha
+	(Baronet) GiKiIA
+
+
+0601 Athanuez 
+	(Knight) MuAgDakKiiMuIb
+	(Marquis) GarKhaadGaapShi
+	(Viscount) Gug
+
+
+0605 Sheshat  
+	(Knight) AkGuIikhDuuAaDi
+
+
+0610 Rakurram 
+	(Knight) IikhShiNaDaIshSish
+
+
+0701 Taegzdueg
+	
+
+
+0703 Khigapka 
+	
+
+
+0705 Shukhuge 
+	(Knight) UPiUl
+	(Marquis) ImKirShaKheLa
+	(Viscount) DishNiIilDa
+
+
+0707 Lenordi  
+	(Knight) KuEzGaA
+
+
+0708 Voskhod  
+	(Knight) AmZerGiKisKi
+	(Count) UEAkhKaKi
+	(Duke) GerShiAA
+
+
+0709 Kharzet  
+	(Knight) IlKuuLiIUu
+	(Baronet) DuKharKasShaGa
+	(Baron) DaUlSaaKhaKiirBar
+
+
+0801 Ogerrgh  
+	
+
+
+0804 Kegirur  
+	
+
+
+0806 Gadiga   
+	(Knight) Da
+
+
+0807 Kunumi   
+	(Knight) SheUumGuBe
+	(Baronet) DishGiishKhiisNi
+

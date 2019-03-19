@@ -1,0 +1,14 @@
+Hex = 1534
+Name = Senkon
+UWP = D510100-9
+Remarks = Lo
+{Ix} = { -2 }
+(Ex) = (811-5)
+[Cx] = [1114]
+N = B
+B = -
+Z = -
+PBG = 623
+W = 9
+A = ImDv
+Stellar = G6 V M3 V

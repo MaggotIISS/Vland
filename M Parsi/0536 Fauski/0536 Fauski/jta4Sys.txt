@@ -1,0 +1,14 @@
+Hex = 0536
+Name = Fauski
+UWP = A420751-E
+Remarks = De He Na Po Pi
+{Ix} = { 2 }
+(Ex) = (A6D-2)
+[Cx] = [391A]
+N = BD
+B = N
+Z = -
+PBG = 401
+W = 5
+A = ImDv
+Stellar = K0 V M1 V

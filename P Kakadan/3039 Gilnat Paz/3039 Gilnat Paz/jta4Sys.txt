@@ -1,0 +1,14 @@
+Hex = 3039
+Name = Gilnat Paz
+UWP = A535300-E
+Remarks = Lo
+{Ix} = { 1 }
+(Ex) = (821-3)
+[Cx] = [1419]
+N = B
+B = -
+Z = -
+PBG = 721
+W = 11
+A = ImDv
+Stellar = M1 V

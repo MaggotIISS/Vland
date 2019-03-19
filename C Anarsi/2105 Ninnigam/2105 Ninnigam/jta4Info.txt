@@ -1,0 +1,73 @@
+Hex = 2105
+Name = Ninnigam
+UWP = C9D57A6-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 9
+	DIGIT	DIA(MI)	DIA(KM)
+	9	9,000	14,400
+Atmosphere = D
+	DIGIT	DESCRIPTION	EFFECTS
+	D	Dense, High	varies
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+Population = 7
+	POPULATION UNDER 70,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+Government = A
+	DIGIT	DESCRIPTION	NOTE
+	A	Charismatic Dictatorship	Government by a single leader enjoying the confidence of the citizens
+Law Level = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Moderate Law	Pohibition of Machineguns
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = 
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+{Ix} = { 0 }
+	Importance = Unimportant (0)+0=0
+(Ex) = (A69-1)
+	Resources =  10
+	Labour =  6
+	Infrastructure =  9
+	Efficiency =  -1
+	RU = -540
+[Cx] = [6748]
+	Homogeneity = 6
+	Acceptance = 7
+	Strangeness = 4
+	Symbols = 8
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 710
+	Population Multiplier = 7
+	POPULATION UNDER 70,000,000
+	Planetoid Belts = 1
+	Gas Giants = 0
+W = 13
+	Non Stars In System = 13
+	-1 (mainworld)
+	-1 (planetoid belts)
+	-0 (gas giants)
+	 = 11 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V
+	Stars = 1

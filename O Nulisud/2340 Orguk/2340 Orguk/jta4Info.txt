@@ -1,0 +1,79 @@
+Hex = 2340
+Name = Orguk
+UWP = E545632-6
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 4
+	DIGIT	DESCRIPTION	EFFECTS
+	4	Thin, Tainted	P1, S1
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+Population = 6
+	POPULATION UNDER 6,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Self-Perpetuating Oligarchy	Rule by a restricted minority with little or no input from the masses
+Law Level = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Low Law	Prohibition of 'portable' weapons
+Tech Level = 6
+	DIGIT		
+	6		
+Remarks = Ag Ni
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ag		456789	45678	567			Agricultural	
+	Ni				456			Non Industrial	
+{Ix} = { -2 }
+	Starport E = -1
+	TL 6 = -1
+	Ag  = +1
+	Pop < 7 = -1
+	Importance = Unimportant (-2)+0=-2
+(Ex) = (852-5)
+	Resources =  8
+	Labour =  5
+	Infrastructure =  2
+	Efficiency =  -5
+	RU = -400
+[Cx] = [2412]
+	Homogeneity = 2
+	Acceptance = 4
+	Strangeness = 1
+	Symbols = 2
+N = BC
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 620
+	Population Multiplier = 6
+	POPULATION UNDER 6,000,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 7
+	Non Stars In System = 7
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 4 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M3 V
+	Stars = 1

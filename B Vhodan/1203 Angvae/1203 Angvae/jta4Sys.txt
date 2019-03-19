@@ -1,0 +1,14 @@
+Hex = 1203
+Name = Angvae
+UWP = C422377-9
+Remarks = He Lo Po Varg5
+{Ix} = { -1 }
+(Ex) = (C21-1)
+[Cx] = [3259]
+N = -
+B = -
+Z = -
+PBG = 834
+W = 14
+A = CsIm
+Stellar = F3 V K0 V

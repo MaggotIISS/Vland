@@ -1,0 +1,77 @@
+Hex = 0635
+Name = Savvud
+UWP = C545499-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 4
+	DIGIT	DESCRIPTION	EFFECTS
+	4	Thin, Tainted	P1, S1
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+Population = 4
+	POPULATION UNDER 60,000
+	DIGIT	DESCRIPTION	VALUE
+	4	Ten thousand	0,000
+Government = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	Impersonal Bureaucracy	Impersonal agencies rule
+Law Level = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	High Law	Weapons outside the home prohibited
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = Ni Pa
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+	Pa		456789	45678	48			Pre Agricultural	
+{Ix} = { -1 }
+	Pop < 7 = -1
+	Importance = Unimportant (-1)+0=-1
+(Ex) = (732+1)
+	Resources =  7
+	Labour =  3
+	Infrastructure =  2
+	Efficiency =  1
+	RU = 42
+[Cx] = [536A]
+	Homogeneity = 5
+	Acceptance = 3
+	Strangeness = 6
+	Symbols = 10
+N = Bc
+	CODE	RANK	TC
+	B	Knight	any
+	c	Baronet	Pa Pr
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 601
+	Population Multiplier = 6
+	POPULATION UNDER 60,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 14
+	Non Stars In System = 14
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 12 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V
+	Stars = 1

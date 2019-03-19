@@ -1,0 +1,14 @@
+Hex = 0906
+Name = Iishashun
+UWP = C62546A-A
+Remarks = Ni O:0708
+{Ix} = { 0 }
+(Ex) = (A33+2)
+[Cx] = [647C]
+N = B
+B = -
+Z = -
+PBG = 713
+W = 10
+A = ImDv
+Stellar = K3 V

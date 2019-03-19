@@ -1,0 +1,14 @@
+Hex = 2440
+Name = Shuurdiikha
+UWP = C652569-9
+Remarks = Ni Po O:2540
+{Ix} = { -1 }
+(Ex) = (843+1)
+[Cx] = [646A]
+N = B
+B = S
+Z = -
+PBG = 810
+W = 11
+A = ImDv
+Stellar = F8 V M5 V

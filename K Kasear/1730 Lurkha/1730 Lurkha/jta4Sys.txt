@@ -1,0 +1,14 @@
+Hex = 1730
+Name = Lurkha
+UWP = B6748AA-A
+Remarks = Pa Ph An Pi Pz
+{Ix} = { 2 }
+(Ex) = (C7B+4)
+[Cx] = [AA7C]
+N = BcDe
+B = S
+Z = A
+PBG = 120
+W = 9
+A = ImDv
+Stellar = F7 V

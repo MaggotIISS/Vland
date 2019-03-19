@@ -1,0 +1,14 @@
+Hex = 2513
+Name = Shiigus
+UWP = A5717CB-B
+Remarks = He Cp Pi Pz
+{Ix} = { 2 }
+(Ex) = (A6C+4)
+[Cx] = [997D]
+N = BD
+B = N
+Z = A
+PBG = 101
+W = 15
+A = ImDv
+Stellar = F5 V M9 V

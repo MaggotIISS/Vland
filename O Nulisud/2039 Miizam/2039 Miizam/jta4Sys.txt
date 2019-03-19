@@ -1,0 +1,14 @@
+Hex = 2039
+Name = Miizam
+UWP = B573577-B
+Remarks = Ni
+{Ix} = { 1 }
+(Ex) = (845+1)
+[Cx] = [565B]
+N = B
+B = -
+Z = -
+PBG = 310
+W = 5
+A = ImDv
+Stellar = M2 V M0 V

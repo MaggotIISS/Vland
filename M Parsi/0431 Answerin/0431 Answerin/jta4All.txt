@@ -1,0 +1,71 @@
+Primary = F7 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	F	Yellow-White	6,000-7,500
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 3
+	d1000Limit = 7
+	Min Orbit = 0
+	HZ =  4
+0 = World  (Worldlet)	H010110-6
+	  Worldlet	  	G03169A-6 @ Orbit CWorld  (Worldlet)	H05368B-8
+1 = 
+2 = World  (BigWorld)	G2A6233-6
+3 = Planetoid belt	F000896-8
+4 = Mainworld	Answerin	B584A85-E	(Temperate)
+	  Worldlet	  	G041378-5 @ Orbit G
+5 = Planetoid belt	F00089E-3
+6 = World  (BigWorld)	F2A58B6-7
+	  RadWorld	  	Y288000-0 @ Orbit L
+	  Worldlet	  	G15587B-7 @ Orbit U
+7 = World  (StormWorld)	Y214000-0
+	  Worldlet	  	Y200232-9 @ Orbit C
+	  Worldlet	  	Y0349A8-3 @ Orbit F
+	  RadWorld	  	Y200000-0 @ Orbit R
+8 = World  (Worldlet)	F0327B7-8
+	  RadWorld	  	Y28A000-0 @ Orbit C
+	  RadWorld	  	Y235000-0 @ Orbit H
+	  Worldlet	  	G264357-A @ Orbit W
+9 = 
+10 = World  (RadWorld)	Y2A6000-0
+	  Worldlet	  	H083486-4 @ Orbit S
+	  Worldlet	  	H241637-6 @ Orbit V
+11 = 
+12 = 
+13 = 
+14 = 
+15 = STAR G0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  12
+	HZ =  -1
+	15-0 = 
+	15-1 = 
+	15-2 = 
+	15-3 = 
+	15-4 = 
+	15-5 = 
+	15-6 = 
+	15-7 = 
+	15-8 = 
+	15-9 = 
+	15-10 = 
+	15-11 = 
+	15-12 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 10
+W = 10
+syscount = 2
+min = 0
+count = 10

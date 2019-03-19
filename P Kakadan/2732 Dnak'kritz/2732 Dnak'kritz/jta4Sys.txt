@@ -1,0 +1,14 @@
+Hex = 2732
+Name = Dnak'kritz
+UWP = D582758-7
+Remarks = Ri
+{Ix} = { -1 }
+(Ex) = (967-1)
+[Cx] = [7657]
+N = BC
+B = S
+Z = -
+PBG = 104
+W = 7
+A = ImDv
+Stellar = G0 V M2 V

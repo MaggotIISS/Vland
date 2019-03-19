@@ -1,0 +1,14 @@
+Hex = 2604
+Name = Fongknoe
+UWP = C300877-8
+Remarks = Na Va Ph Pi
+{Ix} = { -1 }
+(Ex) = (B77-1)
+[Cx] = [8758]
+N = -
+B = -
+Z = -
+PBG = 801
+W = 10
+A = NaVa
+Stellar = M0 V

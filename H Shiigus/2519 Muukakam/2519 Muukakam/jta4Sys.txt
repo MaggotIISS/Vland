@@ -1,0 +1,14 @@
+Hex = 2519
+Name = Muukakam
+UWP = B52368C-A
+Remarks = Na Ni Po Da
+{Ix} = { 1 }
+(Ex) = (A55+4)
+[Cx] = [978D]
+N = B
+B = -
+Z = A
+PBG = 511
+W = 7
+A = ImDv
+Stellar = M1 V

@@ -1,0 +1,53 @@
+Primary = G6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  3
+0 = World  (Hospitable)	F2454DF-9World  (Inferno)	Y2B0000-0
+	  Worldlet	  	Y298454-7 @ Orbit Q
+1 = LGG (60,000 mi dia.)	S=24
+	  BigWorld	  	G2A3452-7 @ Orbit H
+	  RadWorld	  	Y2B6000-0 @ Orbit R
+2 = LGG (80,000 mi dia.)	S=26
+	  Inferno	  	Y2B0000-0 @ Orbit S
+	  RadWorld	  	Y260000-0 @ Orbit T
+3 = Mainworld	Shushguum	B522577-B	(Temperate)
+	  Ring @ Orbit ?World  (StormWorld)	Y232000-0
+4 = SGG (30,000 mi dia.)	S=21
+	  BigWorld	  	Y289463-A @ Orbit F
+	  StormWorld	  	Y236000-0 @ Orbit K
+	  Hospitable	  	G257496-6 @ Orbit T
+	  StormWorld	  	Y210000-0 @ Orbit W
+5 = LGG (125,000 mi dia.)	S=28
+	  BigWorld	  	F256361-A @ Orbit G
+	  RadWorld	  	Y200000-0 @ Orbit H
+	  StormWorld	  	Y210000-0 @ Orbit Y
+6 = Planetoid belt	F000414-8
+7 = Planetoid belt	H000443-8
+8 = World  (Inferno)	Y2B0000-0
+	  RadWorld	  	Y223000-0 @ Orbit F
+	  OuterWorld	  	Y200451-6 @ Orbit J
+	  OuterWorld	  	G200477-4 @ Orbit Q
+9 = 
+10 = World  (Worldlet)	G1684CC-4
+	  Ring @ Orbit ?
+11 = 
+12 = 
+13 = World  (RadWorld)	Y210000-0
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 9
+W = 13
+syscount = 1
+min = 0
+count = 11

@@ -1,0 +1,14 @@
+Hex = 0508
+Name = Arfaan
+UWP = B767400-C
+Remarks = Ni Ga Pa
+{Ix} = { 1 }
+(Ex) = (A34-3)
+[Cx] = [1517]
+N = Bc
+B = -
+Z = -
+PBG = 713
+W = 11
+A = ImDv
+Stellar = M1 V

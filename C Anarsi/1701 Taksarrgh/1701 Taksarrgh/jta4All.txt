@@ -1,0 +1,40 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Taksarrgh	B624697-A	(Temperate)World  (StormWorld)	Y302000-0World  (StormWorld)	Y372000-0
+1 = World  (Worldlet)	F168557-7
+2 = 
+3 = Planetoid belt	F000102-5
+4 = World  (Inferno)	Y3B0000-0
+	  RadWorld	  	Y322000-0 @ Orbit F
+	  OuterWorld	  	Y348133-3 @ Orbit T
+5 = World  (BigWorld)	H357579-8
+6 = 
+7 = 
+8 = 
+9 = 
+10 = 
+11 = World  (Inferno)	Y3B0000-0
+	  IceWorld	  	Y00057A-6 @ Orbit P
+	  IceWorld	  	H392521-8 @ Orbit S
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 14
+W = 8
+syscount = 1
+min = 0
+count = 6

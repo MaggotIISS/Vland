@@ -1,0 +1,76 @@
+Hex = 0711
+Name = Rishiin
+UWP = C539332-B
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 3
+	DIGIT	DESCRIPTION	EFFECTS
+	3	VThin	S2
+Hydrosphere = 9
+	DIGIT	DESCRIPTION
+	9	90%
+Population = 3
+	POPULATION UNDER 6,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+Government = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Self-Perpetuating Oligarchy	Rule by a restricted minority with little or no input from the masses
+Law Level = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Low Law	Prohibition of 'portable' weapons
+Tech Level = B
+	DIGIT		
+	B		
+Remarks = Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+{Ix} = { 0 }
+	TL 11 = +1
+	Pop < 7 = -1
+	Importance = Unimportant (0)+0=0
+(Ex) = (621-4)
+	Resources =  6
+	Labour =  2
+	Infrastructure =  1
+	Efficiency =  -4
+	RU = -48
+[Cx] = [1317]
+	Homogeneity = 1
+	Acceptance = 3
+	Strangeness = 1
+	Symbols = 7
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 610
+	Population Multiplier = 6
+	POPULATION UNDER 6,000
+	Planetoid Belts = 1
+	Gas Giants = 0
+W = 14
+	Non Stars In System = 14
+	-1 (mainworld)
+	-1 (planetoid belts)
+	-0 (gas giants)
+	 = 12 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 V M7 V
+	Stars = 2

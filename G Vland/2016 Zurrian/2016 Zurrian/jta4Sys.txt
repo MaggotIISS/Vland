@@ -1,0 +1,14 @@
+Hex = 2016
+Name = Zurrian
+UWP = C563536-9
+Remarks = Ni Pr
+{Ix} = { -1 }
+(Ex) = (943-2)
+[Cx] = [4448]
+N = Bc
+B = S
+Z = -
+PBG = 402
+W = 10
+A = ImDv
+Stellar = M1 V M1 V

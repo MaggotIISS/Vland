@@ -1,0 +1,14 @@
+Hex = 1736
+Name = Ake
+UWP = C528433-A
+Remarks = Ni
+{Ix} = { 0 }
+(Ex) = (733-3)
+[Cx] = [1427]
+N = B
+B = S
+Z = -
+PBG = 301
+W = 12
+A = ImDv
+Stellar = M1 V A9 V

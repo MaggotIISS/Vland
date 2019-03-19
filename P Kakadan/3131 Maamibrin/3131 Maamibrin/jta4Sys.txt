@@ -1,0 +1,14 @@
+Hex = 3131
+Name = Maamibrin
+UWP = B5629CA-C
+Remarks = Hi Pr Pz
+{Ix} = { 3 }
+(Ex) = (D8E+5)
+[Cx] = [BC7E]
+N = BcE
+B = -
+Z = A
+PBG = 120
+W = 13
+A = ImDv
+Stellar = F7 V

@@ -1,0 +1,14 @@
+Hex = 0502
+Name = Lugaluru
+UWP = C859443-A
+Remarks = Ni
+{Ix} = { 0 }
+(Ex) = (733-3)
+[Cx] = [1427]
+N = B
+B = -
+Z = -
+PBG = 201
+W = 9
+A = ImDv
+Stellar = M0 V

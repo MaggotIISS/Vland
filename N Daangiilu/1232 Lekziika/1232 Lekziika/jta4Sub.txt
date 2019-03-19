@@ -1,0 +1,4 @@
+N DAANGIILU
+
+	WORLDS IN SUBSECTOR = 44
+	ImDv: "Third Imperium, Domain of Vland" = 44 worlds

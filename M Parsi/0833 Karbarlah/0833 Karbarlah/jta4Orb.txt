@@ -1,0 +1,44 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Karbarlah	D5878A8-6	(Temperate)
+	  RadWorld	  	Y267000-0 @ Orbit UWorld  (RadWorld)	Y220000-H
+	  Ring @ Orbit V
+1 = World  (StormWorld)	F200256-5
+	  Worldlet	  	H29A7BE-3 @ Orbit T
+	  RadWorld	  	Y278000-0 @ Orbit VWorld  (RadWorld)	Y263000-W
+2 = World  (Inferno)	Y2B0000-0World  (Hospitable)	Y236546-3
+3 = Planetoid belt	Y00069B-5
+4 = World  (Hospitable)	H261748-5
+	  Worldlet	  	H100100-4 @ Orbit T
+	  OuterWorld	  	G276356-5 @ Orbit U
+5 = World  (Inferno)	Y2B0000-0
+6 = World  (StormWorld)	H221398-4
+7 = World  (Worldlet)	H0C5788-5
+	  RadWorld	  	Y250000-0 @ Orbit X
+8 = World  (Worldlet)	H224679-5
+	  IceWorld	  	Y274215-3 @ Orbit P
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 11
+W = 12
+syscount = 1
+min = 0
+count = 9

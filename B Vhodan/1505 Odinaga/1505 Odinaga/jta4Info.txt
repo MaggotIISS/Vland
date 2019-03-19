@@ -1,0 +1,79 @@
+Hex = 1505
+Name = Odinaga
+UWP = A2016A9-C
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 2
+	DIGIT	DIA(MI)	DIA(KM)
+	2	2,000	3,200
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+Hydrosphere = 1
+	DIGIT	DESCRIPTION
+	1	10%
+Population = 6
+	POPULATION UNDER 2,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = A
+	DIGIT	DESCRIPTION	NOTE
+	A	Charismatic Dictatorship	Government by a single leader enjoying the confidence of the citizens
+Law Level = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	High Law	Weapons outside the home prohibited
+Tech Level = C
+	DIGIT		
+	C		
+Remarks = Ic Na Ni Va
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ic		01	123456789A				Ice Capped	
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Ni				456			Non Industrial	
+	Va		0					Vacuum	
+{Ix} = { 1 }
+	Starport A = +1
+	TL 12 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (B55+2)
+	Resources =  11
+	Labour =  5
+	Infrastructure =  5
+	Efficiency =  2
+	RU = 550
+[Cx] = [776D]
+	Homogeneity = 7
+	Acceptance = 7
+	Strangeness = 6
+	Symbols = 13
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 203
+	Population Multiplier = 2
+	POPULATION UNDER 2,000,000
+	Planetoid Belts = 0
+	Gas Giants = 3
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-3 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M0 V M5 V
+	Stars = 2

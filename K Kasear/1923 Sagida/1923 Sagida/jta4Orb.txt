@@ -1,0 +1,64 @@
+Primary = M0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = LGG (60,000 mi dia.)	S=24
+	  Ring @ Orbit ?World  (Inferno)	Y1B0000-E
+	  Hospitable	  	H110544-8 @ Orbit G
+	  Hospitable	  	Y156752-4 @ Orbit U
+1 = Mainworld	Sagida	C423965-C	(Cold)World  (StormWorld)	Y100000-0World  (BigWorld)	H176335-4
+2 = World  (RadWorld)	Y140000-0
+	  Ring @ Orbit ?
+3 = STAR M0 VWorld  (BigWorld)	H13059A-6
+	  Worldlet	  	G150857-B @ Orbit D
+	  Worldlet	  	H18888D-6 @ Orbit SWorld  (Hospitable)	H18A658-H
+	  Ring @ Orbit I
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  0
+	HZ =  -1
+	3-0 = 
+4 = 
+5 = LGG (180,000 mi dia.)	S=29
+	  RadWorld	  	Y147000-0 @ Orbit F
+	  BigWorld	  	Y132102-2 @ Orbit G
+6 = World  (Inferno)	Y1B0000-0
+	  RadWorld	  	Y198000-0 @ Orbit R
+	  Worldlet	  	G18A669-B @ Orbit T
+	  Worldlet	  	F158231-3 @ Orbit U
+7 = World  (StormWorld)	H15528B-7
+	  OuterWorld	  	Y100300-7 @ Orbit E
+	  IceWorld	  	H194100-5 @ Orbit F
+	  RadWorld	  	Y141000-0 @ Orbit U
+8 = World  (Inferno)	Y1B0000-0
+	  Worldlet	  	Y055777-7 @ Orbit I
+9 = World  (BigWorld)	H143897-8
+10 = World  (Worldlet)	H13556A-5
+	  Ring @ Orbit ?
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 10
+syscount = 2
+min = 0
+W = 14
+Extra Stars = 1
+count = 10

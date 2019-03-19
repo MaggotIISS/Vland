@@ -1,0 +1,14 @@
+Hex = 3122
+Name = Ekum
+UWP = E56068C-6
+Remarks = De Ni Ri Da
+{Ix} = { -2 }
+(Ex) = (852+1)
+[Cx] = [9489]
+N = BC
+B = -
+Z = A
+PBG = 624
+W = 9
+A = ImDv
+Stellar = G6 V M9 V

@@ -1,0 +1,14 @@
+Hex = 3037
+Name = Raanbazziil
+UWP = A428334-E
+Remarks = Lo
+{Ix} = { 1 }
+(Ex) = (621-1)
+[Cx] = [143C]
+N = B
+B = N
+Z = -
+PBG = 110
+W = 10
+A = ImDv
+Stellar = M0 V

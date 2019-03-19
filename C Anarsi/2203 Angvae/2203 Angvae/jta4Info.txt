@@ -1,0 +1,77 @@
+Hex = 2203
+Name = Angvae
+UWP = C657610-8
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 6
+	DIGIT	DIA(MI)	DIA(KM)
+	6	6,000	9,600
+Atmosphere = 5
+	DIGIT	DESCRIPTION	EFFECTS
+	5	This	S1
+Hydrosphere = 7
+	DIGIT	DESCRIPTION
+	7	70%
+Population = 6
+	POPULATION UNDER 7,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Company/Corporation	Rule by a managerial elite
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = 8
+	DIGIT		
+	8		
+Remarks = Ag Ni Ga
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ag		456789	45678	567			Agricultural	
+	Ni				456			Non Industrial	
+	Ga	678	568	567				Garden World	
+{Ix} = { -1 }
+	Ag  = +1
+	Pop < 7 = -1
+	Importance = Unimportant (0)+-1=-1
+(Ex) = (A53-5)
+	Resources =  10
+	Labour =  5
+	Infrastructure =  3
+	Efficiency =  -5
+	RU = -750
+[Cx] = [1513]
+	Homogeneity = 1
+	Acceptance = 5
+	Strangeness = 1
+	Symbols = 3
+N = -
+	No Imperial Nobles
+B = C
+	DIGIT	DESCRIPTION	ALLEG
+	C	Corsair Base	Vargr
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 720
+	Population Multiplier = 7
+	POPULATION UNDER 7,000,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 9 other worlds
+A = NaVa
+	CODE	DESCRIPTION
+	NaVa	Non-Aligned, Vargr-dominated
+Stellar = M2 V
+	Stars = 1

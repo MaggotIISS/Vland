@@ -1,0 +1,14 @@
+Hex = 2824
+Name = Jana
+UWP = C300963-C
+Remarks = Hi In Na Va O:3125
+{Ix} = { 3 }
+(Ex) = (G8E+1)
+[Cx] = [6C29]
+N = BE
+B = S
+Z = -
+PBG = 723
+W = 18
+A = ImDv
+Stellar = G6 V

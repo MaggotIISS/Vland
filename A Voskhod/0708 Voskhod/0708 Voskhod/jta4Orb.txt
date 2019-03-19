@@ -1,0 +1,80 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Voskhod	B3109ED-E	(Temperate)LGG (125,000 mi dia.)	S=28
+	  BigWorld	  	YF00779-5 @ Orbit E
+	  Inferno	  	YBB0000-0 @ Orbit F
+	  StormWorld	  	Y8564A9-6 @ Orbit G
+	  Worldlet	  	H077424-6 @ Orbit H
+	  Inferno	  	Y6B0000-0 @ Orbit QWorld  (StormWorld)	H444262-K
+	  BigWorld	  	GE24240-7 @ Orbit P
+	  Inferno	  	Y4B0000-0 @ Orbit R
+	  Inferno	  	Y6B0000-0 @ Orbit S
+	  Hospitable	  	F58A540-9 @ Orbit OWorld  (StormWorld)	Y514000-U
+	  Inferno	  	Y7B0000-0 @ Orbit V
+	  BigWorld	  	GJ64777-7 @ Orbit W
+1 = World  (StormWorld)	F503265-3
+	  Worldlet	  	Y04079B-6 @ Orbit FWorld  (Inferno)	Y9B0000-R
+	  RadWorld	  	Y488000-0 @ Orbit T
+	  Worldlet	  	F066200-B @ Orbit U
+2 = World  (BigWorld)	HH57469-7
+	  StormWorld	  	Y402000-0 @ Orbit H
+	  IceWorld	  	F100856-A @ Orbit K
+3 = World  (RadWorld)	Y426000-0
+	  IceWorld	  	Y300376-4 @ Orbit G
+	  Worldlet	  	Y32178B-7 @ Orbit V
+4 = World  (RadWorld)	Y868000-0
+	  Worldlet	  	F000527-A @ Orbit R
+	  RadWorld	  	Y355000-0 @ Orbit T
+	  Worldlet	  	G0348A8-8 @ Orbit V
+5 = World  (StormWorld)	F482120-4
+	  RadWorld	  	YB9A000-0 @ Orbit X
+6 = 
+7 = World  (Inferno)	YCB0000-0
+8 = 
+9 = World  (BigWorld)	GE537A8-6
+	  Worldlet	  	Y1635A8-9 @ Orbit T
+	  Worldlet	  	Y232301-6 @ Orbit V
+10 = 
+11 = 
+12 = STAR M0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  9
+	HZ =  -1
+	12-0 = 
+	12-1 = 
+	12-2 = 
+	12-3 = 
+	12-4 = 
+	12-5 = 
+	12-6 = 
+	12-7 = 
+	12-8 = 
+	12-9 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 11
+W = 12
+syscount = 2
+min = 0
+count = 9

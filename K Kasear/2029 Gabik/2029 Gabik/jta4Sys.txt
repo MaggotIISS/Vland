@@ -1,0 +1,14 @@
+Hex = 2029
+Name = Gabik
+UWP = B512100-D
+Remarks = Ic Lo
+{Ix} = { 2 }
+(Ex) = (911-2)
+[Cx] = [1318]
+N = B
+B = NS
+Z = -
+PBG = 833
+W = 11
+A = ImDv
+Stellar = F2 V

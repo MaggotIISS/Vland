@@ -1,0 +1,14 @@
+Hex = 1634
+Name = Isuugi
+UWP = E756546-5
+Remarks = Ag Ni Ga
+{Ix} = { -2 }
+(Ex) = (742-3)
+[Cx] = [4344]
+N = BC
+B = -
+Z = -
+PBG = 413
+W = 12
+A = ImDv
+Stellar = G6 V G0 V

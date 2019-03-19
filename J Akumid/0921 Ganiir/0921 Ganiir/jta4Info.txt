@@ -1,0 +1,76 @@
+Hex = 0921
+Name = Ganiir
+UWP = C423320-B
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 2
+	DIGIT	DESCRIPTION	EFFECTS
+	2	VThin, Tainted	P1, S2
+Hydrosphere = 3
+	DIGIT	DESCRIPTION
+	3	30%
+Population = 3
+	POPULATION UNDER 1,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+Government = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Participating Democracy	Rule by popular vote
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = B
+	DIGIT		
+	B		
+Remarks = Lo Po
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+	Po		2345	0123				Poor	
+{Ix} = { 0 }
+	TL 11 = +1
+	Pop < 7 = -1
+	Importance = Unimportant (0)+0=0
+(Ex) = (A21-4)
+	Resources =  10
+	Labour =  2
+	Infrastructure =  1
+	Efficiency =  -4
+	RU = -80
+[Cx] = [1316]
+	Homogeneity = 1
+	Acceptance = 3
+	Strangeness = 1
+	Symbols = 6
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 105
+	Population Multiplier = 1
+	POPULATION UNDER 1,000
+	Planetoid Belts = 0
+	Gas Giants = 5
+W = 16
+	Non Stars In System = 16
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-5 (gas giants)
+	 = 10 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M3 V M5 V
+	Stars = 2

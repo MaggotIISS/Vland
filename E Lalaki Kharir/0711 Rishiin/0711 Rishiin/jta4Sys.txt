@@ -1,0 +1,14 @@
+Hex = 0711
+Name = Rishiin
+UWP = C539332-B
+Remarks = Lo
+{Ix} = { 0 }
+(Ex) = (621-4)
+[Cx] = [1317]
+N = B
+B = S
+Z = -
+PBG = 610
+W = 14
+A = ImDv
+Stellar = M2 V M7 V

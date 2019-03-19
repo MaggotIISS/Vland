@@ -1,0 +1,14 @@
+Hex = 2518
+Name = Khe
+UWP = E433425-8
+Remarks = Ni Po
+{Ix} = { -3 }
+(Ex) = (731-5)
+[Cx] = [2136]
+N = B
+B = -
+Z = -
+PBG = 201
+W = 14
+A = ImDv
+Stellar = M2 V

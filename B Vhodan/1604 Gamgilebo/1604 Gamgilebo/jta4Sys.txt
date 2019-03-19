@@ -1,0 +1,14 @@
+Hex = 1604
+Name = Gamgilebo
+UWP = B000756-B
+Remarks = As Na Va Pi
+{Ix} = { 2 }
+(Ex) = (C6C+1)
+[Cx] = [694A]
+N = -
+B = -
+Z = -
+PBG = 212
+W = 11
+A = CsIm
+Stellar = F4 IV M1 V M1 V

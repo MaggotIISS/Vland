@@ -1,0 +1,75 @@
+Hex = 2604
+Name = Fongknoe
+UWP = C300877-8
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 3
+	DIGIT	DIA(MI)	DIA(KM)
+	3	3,000	4,800
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 8
+	POPULATION UNDER 800,000,000
+	DIGIT	DESCRIPTION	VALUE
+	8	Hundred million	00,000,000
+Government = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Balkanization	Rival governments continually compete for control of the world
+Law Level = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Moderate Law	Prohibition of Pistols
+Tech Level = 8
+	DIGIT		
+	8		
+Remarks = Na Va Ph Pi
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Va		0					Vacuum	
+	Ph				8			Pre High	
+	Pi		012479		78			Pre Industrial	
+{Ix} = { -1 }
+	Importance = Unimportant (0)+-1=-1
+(Ex) = (B77-1)
+	Resources =  11
+	Labour =  7
+	Infrastructure =  7
+	Efficiency =  -1
+	RU = -539
+[Cx] = [8758]
+	Homogeneity = 8
+	Acceptance = 7
+	Strangeness = 5
+	Symbols = 8
+N = -
+	No Imperial Nobles
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 801
+	Population Multiplier = 8
+	POPULATION UNDER 800,000,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 8 other worlds
+A = NaVa
+	CODE	DESCRIPTION
+	NaVa	Non-Aligned, Vargr-dominated
+Stellar = M0 V
+	Stars = 1

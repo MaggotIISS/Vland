@@ -1,0 +1,14 @@
+Hex = 0336
+Name = Parsi
+UWP = A989A9C-F
+Remarks = Hi Cp Pz
+{Ix} = { 3 }
+(Ex) = (J9F+5)
+[Cx] = [DD8J]
+N = BEF
+B = -
+Z = A
+PBG = 224
+W = 12
+A = ImDv
+Stellar = K9 V

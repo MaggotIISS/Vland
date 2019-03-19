@@ -1,0 +1,78 @@
+Hex = 1237
+Name = Kanumshikaa
+UWP = C755501-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+Atmosphere = 5
+	DIGIT	DESCRIPTION	EFFECTS
+	5	This	S1
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+Population = 5
+	POPULATION UNDER 600,000
+	DIGIT	DESCRIPTION	VALUE
+	5	Hundred thousand	00,000
+Government = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Government Structure	Family bonds predominate
+Law Level = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Low Law	Prohibition of WMD, Psi weapons
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = Ag Ni Ga
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ag		456789	45678	567			Agricultural	
+	Ni				456			Non Industrial	
+	Ga	678	568	567				Garden World	
+{Ix} = { 0 }
+	Ag  = +1
+	Pop < 7 = -1
+	Importance = Unimportant (0)+0=0
+(Ex) = (944-4)
+	Resources =  9
+	Labour =  4
+	Infrastructure =  4
+	Efficiency =  -4
+	RU = -576
+[Cx] = [1515]
+	Homogeneity = 1
+	Acceptance = 5
+	Strangeness = 1
+	Symbols = 5
+N = BC
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 620
+	Population Multiplier = 6
+	POPULATION UNDER 600,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 5
+	Non Stars In System = 5
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 2 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M0 V
+	Stars = 1

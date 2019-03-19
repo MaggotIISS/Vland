@@ -1,0 +1,77 @@
+Hex = 3239
+Name = Lannazol
+UWP = D845110-7
+Starport = D
+	Quality = Poor
+	Yards = No
+	Repairs = Minor damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 8
+	DIGIT	DIA(MI)	DIA(KM)
+	8	8,000	13,800
+Atmosphere = 4
+	DIGIT	DESCRIPTION	EFFECTS
+	4	Thin, Tainted	P1, S1
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+Population = 1
+	POPULATION UNDER 30
+	DIGIT	DESCRIPTION	VALUE
+	1	Tens	0
+Government = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Company/Corporation	Rule by a managerial elite
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = 7
+	DIGIT		
+	7		
+Remarks = Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+{Ix} = { -3 }
+	Starport D = -1
+	TL 7 = -1
+	Pop < 7 = -1
+	Importance = Unimportant (-3)+0=-3
+(Ex) = (311-5)
+	Resources =  3
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -5
+	RU = -15
+[Cx] = [1112]
+	Homogeneity = 1
+	Acceptance = 1
+	Strangeness = 1
+	Symbols = 2
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 301
+	Population Multiplier = 3
+	POPULATION UNDER 30
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 10 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M3 V
+	Stars = 1

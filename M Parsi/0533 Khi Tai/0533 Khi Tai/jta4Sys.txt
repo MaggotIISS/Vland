@@ -1,0 +1,14 @@
+Hex = 0533
+Name = Khi Tai
+UWP = E668732-6
+Remarks = Ag Ri
+{Ix} = { 0 }
+(Ex) = (967-4)
+[Cx] = [3712]
+N = BC
+B = -
+Z = -
+PBG = 401
+W = 9
+A = ImDv
+Stellar = M3 V M3 V

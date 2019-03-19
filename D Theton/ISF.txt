@@ -1,0 +1,114 @@
+Vland/D Theton
+
+2603 Kaengtsaelzon - B100857-A
+	SDB Squadrons = 10
+	Starship Squadrons = 1
+	Troop CF = 5
+	Defence CF = 100
+  TROOP FORCES
+0001-2000-5(5)-A
+
+
+
+2604 Fongknoe - C300877-8
+	SDB Squadrons = 5
+	Troop CF = 5
+	Defence CF = 50
+  TROOP FORCES
+0001-2000-5(5)-8
+
+
+
+2610 Malokh - E57167B-6
+	Defence CF = 1
+
+2804 Ongvaturr - B989742-7
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 5
+  TROOP FORCES
+0001-0000-1(1)-7
+
+
+
+---HI POP TARGET---
+2808 Spinport - D575A84-A
+	SDB Squadrons = 1000
+	Starship Squadrons = 3
+	Troop CF = 100
+	Defence CF = 10000
+  TROOP FORCES
+0001-6000-100(100)-A
+
+
+
+3002 Ksuerrgh - D42788D-8
+	SDB Squadrons = 5
+	Troop CF = 5
+	Defence CF = 50
+  TROOP FORCES
+0001-2000-5(5)-8
+
+
+
+3008 Shishaldin - D420652-9
+	Defence CF = 1
+
+---HI POP TARGET---
+3106 Arga - C300999-C
+	SDB Squadrons = 120
+	Starship Squadrons = 2
+	Troop CF = 50
+	Defence CF = 1200
+  TROOP FORCES
+0001-5000-50(50)-C
+
+
+
+3107 Theton - BABA653-C
+	Defence CF = 2
+
+
+2603-B100857-A
+Commodore Gir
+	Prec 12
+	Plan  2
+	Tactics -2
+	C001-1U-630-6-A
+
+2808-D575A84-A
+Commodore Kaiikhruurgagu
+	Prec 12
+	Plan  4
+	Tactics 0
+	C001-1U-840-8-A
+
+2808-D575A84-A
+Commodore Ushimshikumdem
+	Prec 9
+	Plan  5
+	Tactics -1
+	C002-1U-840-8-A
+
+2808-D575A84-A
+Commodore Ie
+	Prec 7
+	Plan  3
+	Tactics 2
+	C003-1U-840-8-A
+
+3106-C300999-C
+Commodore Shash
+	Prec 10
+	Plan  5
+	Tactics -2
+	C001-1U-730-7-C
+
+3106-C300999-C
+Commodore Isi
+	Prec 12
+	Plan  5
+	Tactics 2
+	C002-1U-730-7-C
+
+

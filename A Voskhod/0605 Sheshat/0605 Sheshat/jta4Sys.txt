@@ -1,0 +1,14 @@
+Hex = 0605
+Name = Sheshat
+UWP = A526111-C
+Remarks = Lo
+{Ix} = { 1 }
+(Ex) = (911-3)
+[Cx] = [1218]
+N = B
+B = N
+Z = -
+PBG = 124
+W = 9
+A = ImDv
+Stellar = F8 V

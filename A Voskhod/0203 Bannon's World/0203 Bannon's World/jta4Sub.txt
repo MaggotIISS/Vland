@@ -1,0 +1,6 @@
+A VOSKHOD
+
+	WORLDS IN SUBSECTOR = 36
+	ImDv: "Third Imperium, Domain of Vland" = 32 worlds
+	NaHu: "Non-Aligned, Human-dominated" = 2 worlds
+	NaVa: "Non-Aligned, Vargr-dominated" = 2 worlds

@@ -1,0 +1,81 @@
+Hex = 2939
+Name = Teralvar
+UWP = C585563-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 8
+	DIGIT	DESCRIPTION	EFFECTS
+	8	Dense	
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+Population = 5
+	POPULATION UNDER 700,000
+	DIGIT	DESCRIPTION	VALUE
+	5	Hundred thousand	00,000
+Government = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Captive Government/Colony	Rule by a leadership answerable to an outside group
+Law Level = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Low Law	Prohibition of Acid, Fire, Gas weapons
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = Ag Ni Pr O:2839
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ag		456789	45678	567			Agricultural	
+	Ni				456			Non Industrial	
+	Pr		68		59			Pre Rich	
+	Ruled by 2839 Zombagu
+{Ix} = { 0 }
+	Ag  = +1
+	Pop < 7 = -1
+	Importance = Unimportant (0)+0=0
+(Ex) = (844-3)
+	Resources =  8
+	Labour =  4
+	Infrastructure =  4
+	Efficiency =  -3
+	RU = -384
+[Cx] = [2526]
+	Homogeneity = 2
+	Acceptance = 5
+	Strangeness = 2
+	Symbols = 6
+N = BcC
+	CODE	RANK	TC
+	B	Knight	any
+	c	Baronet	Pa Pr
+	C	Baron	Ag Ri
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 701
+	Population Multiplier = 7
+	POPULATION UNDER 700,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 7
+	Non Stars In System = 7
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 5 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G3 V M8 V
+	Stars = 2

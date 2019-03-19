@@ -1,0 +1,56 @@
+1011 Iren
+1012 Askhu
+1112 Vallae
+1113 Thogho
+1114 Gukhaga
+1116 Darmagu
+1117 The Uris Belt
+1119 Daku
+1120 Ideshe
+1211 Gagzoe
+1215 Siruga
+1217 Estoff
+1219 Ramir
+1220 Imik
+1311 Kema
+1312 Taksar
+1313 Hisus
+1317 Anik
+1319 Ganar
+1412 Karka
+1414 Centra
+1417 Astira
+1515 Luunbu
+1516 Duam
+1519 Kagamira
+1520 Shulishu
+1612 Ersii
+1619 Midku
+C:\T5\Vland\F Kagamira\1011 Iren\1011 Iren
+C:\T5\Vland\F Kagamira\1012 Askhu\1012 Askhu
+C:\T5\Vland\F Kagamira\1112 Vallae\1112 Vallae
+C:\T5\Vland\F Kagamira\1113 Thogho\1113 Thogho
+C:\T5\Vland\F Kagamira\1114 Gukhaga\1114 Gukhaga
+C:\T5\Vland\F Kagamira\1116 Darmagu\1116 Darmagu
+C:\T5\Vland\F Kagamira\1117 The Uris Belt\1117 The Uris Belt
+C:\T5\Vland\F Kagamira\1119 Daku\1119 Daku
+C:\T5\Vland\F Kagamira\1120 Ideshe\1120 Ideshe
+C:\T5\Vland\F Kagamira\1211 Gagzoe\1211 Gagzoe
+C:\T5\Vland\F Kagamira\1215 Siruga\1215 Siruga
+C:\T5\Vland\F Kagamira\1217 Estoff\1217 Estoff
+C:\T5\Vland\F Kagamira\1219 Ramir\1219 Ramir
+C:\T5\Vland\F Kagamira\1220 Imik\1220 Imik
+C:\T5\Vland\F Kagamira\1311 Kema\1311 Kema
+C:\T5\Vland\F Kagamira\1312 Taksar\1312 Taksar
+C:\T5\Vland\F Kagamira\1313 Hisus\1313 Hisus
+C:\T5\Vland\F Kagamira\1317 Anik\1317 Anik
+C:\T5\Vland\F Kagamira\1319 Ganar\1319 Ganar
+C:\T5\Vland\F Kagamira\1412 Karka\1412 Karka
+C:\T5\Vland\F Kagamira\1414 Centra\1414 Centra
+C:\T5\Vland\F Kagamira\1417 Astira\1417 Astira
+C:\T5\Vland\F Kagamira\1515 Luunbu\1515 Luunbu
+C:\T5\Vland\F Kagamira\1516 Duam\1516 Duam
+C:\T5\Vland\F Kagamira\1519 Kagamira\1519 Kagamira
+C:\T5\Vland\F Kagamira\1520 Shulishu\1520 Shulishu
+C:\T5\Vland\F Kagamira\1612 Ersii\1612 Ersii
+C:\T5\Vland\F Kagamira\1619 Midku\1619 Midku

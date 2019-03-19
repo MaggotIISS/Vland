@@ -1,0 +1,68 @@
+Primary = M3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Shunisar	D556502-8	(Temperate)World  (BigWorld)	F258324-7
+	  Worldlet	  	F200310-7 @ Orbit B
+	  StormWorld	  	Y242000-0 @ Orbit V
+1 = 
+2 = 
+3 = 
+4 = World  (BigWorld)	G2114B8-7
+	  Ring @ Orbit ?
+5 = LGG (80,000 mi dia.)	S=26
+	  RadWorld	  	Y200000-0 @ Orbit I
+	  Worldlet	  	G248100-7 @ Orbit K
+	  BigWorld	  	Y262412-7 @ Orbit T
+	  OuterWorld	  	Y210000-0 @ Orbit U
+	  IceWorld	  	H200465-7 @ Orbit V
+6 = World  (RadWorld)	Y29A000-0
+	  Ring @ Orbit ?
+7 = World  (StormWorld)	Y246000-0
+8 = 
+9 = 
+10 = World  (Hospitable)	H275441-3
+11 = 
+12 = 
+13 = World  (BigWorld)	H2A6245-7
+	  Ring @ Orbit ?
+14 = STAR M6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 0
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  11
+	HZ =  -1
+	14-0 = 
+	14-1 = 
+	14-2 = 
+	14-3 = 
+	14-4 = 
+	14-5 = 
+	14-6 = 
+	14-7 = 
+	14-8 = 
+	14-9 = 
+	14-10 = 
+	14-11 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 12
+W = 8
+syscount = 2
+min = 0
+count = 8

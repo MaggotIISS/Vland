@@ -1,0 +1,62 @@
+Primary = G8 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  3
+0 = World  (Inferno)	Y3B0000-0
+	  InnerWorld	  	Y350000-0 @ Orbit WWorld  (StormWorld)	Y311000-Q
+	  InnerWorld	  	Y383000-0 @ Orbit T
+1 = Planetoid belt	Y000000-0World  (Worldlet)	Y185000-0
+2 = Mainworld	Eriston	C69A144-9	(Hot)
+	  Inferno	  	Y3B0000-0 @ Orbit VWorld  (BigWorld)	Y325000-0
+3 = World  (Worldlet)	Y310000-0
+	  RadWorld	  	Y310000-0 @ Orbit J
+	  RadWorld	  	Y388000-0 @ Orbit TWorld  (Inferno)	Y3B0000-V
+4 = World  (Worldlet)	Y333000-0
+	  Worldlet	  	Y000000-0 @ Orbit V
+5 = Planetoid belt	Y000000-0World  (BigWorld)	Y388000-0
+	  Worldlet	  	Y133000-0 @ Orbit G
+	  Worldlet	  	Y099000-0 @ Orbit Q
+	  IceWorld	  	Y320000-0 @ Orbit T
+6 = STAR G7 VWorld  (StormWorld)	Y233000-0
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  3
+	HZ =  -1
+	6-0 = 
+	6-1 = 
+	6-2 = 
+	6-3 = 
+7 = World  (Hospitable)	Y343000-0
+	  Ring @ Orbit ?
+8 = 
+9 = 
+10 = 
+11 = 
+12 = 
+13 = World  (Worldlet)	Y320000-0
+	  StormWorld	  	Y354000-0 @ Orbit E
+	  Worldlet	  	Y330000-0 @ Orbit W
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 11
+W = 14
+syscount = 2
+min = 0
+count = 9

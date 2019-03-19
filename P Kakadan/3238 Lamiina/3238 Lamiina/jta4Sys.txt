@@ -1,0 +1,14 @@
+Hex = 3238
+Name = Lamiina
+UWP = E768330-7
+Remarks = Lo
+{Ix} = { -3 }
+(Ex) = (521-5)
+[Cx] = [1112]
+N = B
+B = -
+Z = -
+PBG = 313
+W = 12
+A = ImDv
+Stellar = K0 V K1 V

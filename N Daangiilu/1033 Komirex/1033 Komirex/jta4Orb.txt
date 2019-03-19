@@ -1,0 +1,61 @@
+Primary = G7 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  3
+0 = 
+1 = 
+2 = Mainworld	Komirex	C200263-9	(Hot)
+	Orbits LGG (60,000 mi dia.)	S=24 @ orbit R
+	  StormWorld	  	YA61000-0 @ Orbit E
+	  Hospitable	  	Y35719C-8 @ Orbit J
+	  RadWorld	  	Y700000-0 @ Orbit U
+3 = 
+4 = World  (Inferno)	Y9B0000-0
+5 = World  (RadWorld)	Y941000-0
+6 = Planetoid belt	H00016A-8
+7 = Planetoid belt	H00016A-4
+8 = World  (Inferno)	Y9B0000-0
+9 = 
+10 = 
+11 = 
+12 = World  (StormWorld)	Y500000-0
+13 = STAR F8 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	F	Yellow-White	6,000-7,500
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 3
+	d1000Limit = 7
+	Min Orbit = 0
+	Max Orbit =  10
+	HZ =  -1
+	13-0 = 
+	13-1 = 
+	13-2 = 
+	13-3 = 
+	13-4 = 
+	13-5 = 
+	13-6 = 
+	13-7 = 
+	13-8 = 
+	13-9 = 
+	13-10 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 12
+W = 7
+syscount = 2
+min = 0
+count = 8

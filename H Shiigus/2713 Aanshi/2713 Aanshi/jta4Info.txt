@@ -1,0 +1,79 @@
+Hex = 2713
+Name = Aanshi
+UWP = BA8AA97-C
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = A
+	DIGIT	DIA(MI)	DIA(KM)
+	A	10,000	16,000
+Atmosphere = 8
+	DIGIT	DESCRIPTION	EFFECTS
+	8	Dense	
+Hydrosphere = A
+	DIGIT	DESCRIPTION
+	A	Water World
+Population = A
+	POPULATION UNDER 40,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	A	Ten billion	0,000,000,000
+Government = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	Impersonal Bureaucracy	Impersonal agencies rule
+Law Level = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Moderate Law	Prohibition of Pistols
+Tech Level = C
+	DIGIT		
+	C		
+Remarks = Hi Oc
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	Oc	ABC		A				Ocean World	
+{Ix} = { 3 }
+	Starport B = +1
+	TL 12 = +1
+	Hi  = +1
+	Importance = Normal (3)+0=3
+(Ex) = (D9E+3)
+	Resources =  13
+	Labour =  9
+	Infrastructure =  14
+	Efficiency =  3
+	RU = 4914
+[Cx] = [AD5C]
+	Homogeneity = 10
+	Acceptance = 13
+	Strangeness = 5
+	Symbols = 12
+N = BE
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 401
+	Population Multiplier = 4
+	POPULATION UNDER 40,000,000,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 8 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M3 V
+	Stars = 1

@@ -1,0 +1,14 @@
+Hex = 2433
+Name = Ashuugakher
+UWP = C310899-8
+Remarks = Na Ph Pi
+{Ix} = { -1 }
+(Ex) = (C77+1)
+[Cx] = [9769]
+N = BDe
+B = -
+Z = -
+PBG = 620
+W = 8
+A = ImDv
+Stellar = G6 V

@@ -1,0 +1,14 @@
+Hex = 2331
+Name = Aaluggidira
+UWP = C79A304-C
+Remarks = Lo Wa
+{Ix} = { 0 }
+(Ex) = (821-2)
+[Cx] = [133A]
+N = B
+B = -
+Z = -
+PBG = 703
+W = 11
+A = ImDv
+Stellar = F3 V

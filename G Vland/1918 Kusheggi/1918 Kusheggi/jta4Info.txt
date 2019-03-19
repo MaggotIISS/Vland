@@ -1,0 +1,79 @@
+Hex = 1918
+Name = Kusheggi
+UWP = E596778-5
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 9
+	DIGIT	DESCRIPTION	EFFECTS
+	9	Dense, Tainted	P1
+Hydrosphere = 6
+	DIGIT	DESCRIPTION
+	6	60%
+Population = 7
+	POPULATION UNDER 40,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+Government = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Balkanization	Rival governments continually compete for control of the world
+Law Level = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	High Law	Open display of weapons prohibited
+Tech Level = 5
+	DIGIT		
+	5		
+Remarks = Ag Pi
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ag		456789	45678	567			Agricultural	
+	Pi		012479		78			Pre Industrial	
+{Ix} = { -1 }
+	Starport E = -1
+	TL 5 = -1
+	Ag  = +1
+	Importance = Unimportant (-1)+0=-1
+(Ex) = (966-1)
+	Resources =  9
+	Labour =  6
+	Infrastructure =  6
+	Efficiency =  -1
+	RU = -324
+[Cx] = [7655]
+	Homogeneity = 7
+	Acceptance = 6
+	Strangeness = 5
+	Symbols = 5
+N = BCD
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+	D	Marquis	Pi
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 420
+	Population Multiplier = 4
+	POPULATION UNDER 40,000,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 7
+	Non Stars In System = 7
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 4 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = F8 V
+	Stars = 1

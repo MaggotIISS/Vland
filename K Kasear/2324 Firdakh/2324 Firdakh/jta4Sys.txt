@@ -1,0 +1,14 @@
+Hex = 2324
+Name = Firdakh
+UWP = D432451-A
+Remarks = Ni Po
+{Ix} = { -1 }
+(Ex) = (832-5)
+[Cx] = [1316]
+N = B
+B = -
+Z = -
+PBG = 120
+W = 14
+A = ImDv
+Stellar = K9 V

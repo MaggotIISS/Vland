@@ -1,0 +1,65 @@
+Primary = K9 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  0
+0 = World  (Worldlet)	F247231-8World  (BigWorld)	YB41210-7
+	  Worldlet	  	Y140232-7 @ Orbit G
+1 = Mainworld	Maluuf	E432338-9	(Cold)
+	Orbits LGG (60,000 mi dia.)	S=24 @ orbit R
+	  Worldlet	  	Y09A2AE-5 @ Orbit F
+2 = Planetoid belt	Y000200-8
+3 = World  (StormWorld)	Y634000-0World  (StormWorld)	Y810000-0
+	  StormWorld	  	Y800000-0 @ Orbit E
+	  Worldlet	  	Y277132-8 @ Orbit F
+4 = 
+5 = 
+6 = 
+7 = 
+8 = 
+9 = World  (BigWorld)	FEB628C-4
+	  Worldlet	  	H3402AA-8 @ Orbit O
+	  RadWorld	  	YA48000-0 @ Orbit Q
+	  Worldlet	  	F00025A-7 @ Orbit R
+10 = World  (Hospitable)	GA7A267-4
+	  Worldlet	  	Y100289-7 @ Orbit E
+	  Worldlet	  	Y3A6286-6 @ Orbit K
+11 = STAR K8 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  8
+	HZ =  -1
+	11-0 = 
+	11-1 = 
+	11-2 = 
+	11-3 = 
+	11-4 = 
+	11-5 = 
+	11-6 = 
+	11-7 = 
+	11-8 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 13
+W = 8
+syscount = 2
+min = 0
+count = 7

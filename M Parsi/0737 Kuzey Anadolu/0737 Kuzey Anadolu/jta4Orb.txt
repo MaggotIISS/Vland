@@ -1,0 +1,67 @@
+Primary = K5 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (Worldlet)	Y165111-7World  (Inferno)	Y2B0000-0
+1 = LGG (60,000 mi dia.)	S=24
+	  Ring @ Orbit ?
+2 = Mainworld	Kuzey Anadolu	C50069D-9	(Temperate)
+	  Ring @ Orbit ?
+3 = LGG (70,000 mi dia.)	S=25
+	  StormWorld	  	Y200000-0 @ Orbit W
+4 = 
+5 = World  (BigWorld)	H2005AB-4
+	  Ring @ Orbit ?
+6 = LGG (50,000 mi dia.)	S=23
+	  Ring @ Orbit ?
+7 = World  (StormWorld)	Y200000-0
+	  OuterWorld	  	Y267583-6 @ Orbit G
+8 = 
+9 = 
+10 = 
+11 = 
+12 = 
+13 = World  (StormWorld)	Y200000-0
+	  IceWorld	  	H220247-8 @ Orbit E
+	  OuterWorld	  	F28A544-8 @ Orbit J
+	  RadWorld	  	Y233000-0 @ Orbit X
+14 = STAR K3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  11
+	HZ =  -1
+	14-0 = 
+	14-1 = 
+	14-2 = 
+	14-3 = 
+	14-4 = 
+	14-5 = 
+	14-6 = 
+	14-7 = 
+	14-8 = 
+	14-9 = 
+	14-10 = 
+	14-11 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 11
+W = 9
+syscount = 2
+min = 0
+count = 9

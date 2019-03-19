@@ -1,0 +1,47 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Shuurnnish	C202225-B	(Hot)
+	  Worldlet	  	Y-1A5100-6 @ Orbit JLGG (250,000 mi dia.)	S=3G
+	  RadWorld	  	YA00000-0 @ Orbit O
+	  Hospitable	  	H450176-9 @ Orbit P
+	  RadWorld	  	Y358000-0 @ Orbit U
+1 = World  (StormWorld)	YB00000-0
+2 = World  (Hospitable)	Y6B6111-8
+3 = World  (RadWorld)	Y900000-0
+	  Ring @ Orbit ?World  (BigWorld)	YG401DG-F
+	  Worldlet	  	Y05A133-7 @ Orbit R
+	  Worldlet	  	Y079176-A @ Orbit U
+	  Worldlet	  	H210127-9 @ Orbit W
+4 = World  (RadWorld)	Y579000-0
+5 = World  (Inferno)	Y8B0000-0
+	  IceWorld	  	G783189-A @ Orbit T
+6 = 
+7 = World  (Hospitable)	H542179-9
+8 = World  (Worldlet)	G0B6153-5
+	  Ring @ Orbit ?
+9 = World  (Inferno)	Y4B0000-0
+10 = 
+11 = 
+12 = World  (Hospitable)	Y335155-6
+	  Ring @ Orbit ?
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 10
+syscount = 1
+min = 0
+W = 12
+Extra Stars = 0
+count = 10

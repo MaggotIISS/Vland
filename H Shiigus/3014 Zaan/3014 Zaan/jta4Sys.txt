@@ -1,0 +1,14 @@
+Hex = 3014
+Name = Zaan
+UWP = C557462-9
+Remarks = Ni Pa O:2914
+{Ix} = { -1 }
+(Ex) = (A32-5)
+[Cx] = [1315]
+N = Bc
+B = S
+Z = -
+PBG = 904
+W = 7
+A = ImDv
+Stellar = G5 V

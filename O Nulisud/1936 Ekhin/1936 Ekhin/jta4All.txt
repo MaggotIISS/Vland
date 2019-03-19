@@ -1,0 +1,61 @@
+Primary = M0 III
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	III	Normal Giant	4.6 - 360
+	d10Limit = 6
+	d100Limit = 9
+	d1000Limit = 12
+	Min Orbit = 4
+	HZ =  8
+4 = World  (BigWorld)	G140276-3
+	  Ring @ Orbit ?
+5 = World  (Worldlet)	F065596-6
+6 = 
+7 = World  (BigWorld)	F1305AF-6
+	  Hospitable	  	Y1A4588-6 @ Orbit W
+8 = Mainworld	Ekhin	E400673-7	(Temperate)
+	  Worldlet	  	Y040555-6 @ Orbit X
+9 = 
+10 = 
+11 = World  (Hospitable)	H144574-4
+12 = 
+13 = LGG (80,000 mi dia.)	S=26
+	  Ring @ Orbit ?
+14 = 
+15 = 
+16 = 
+17 = STAR M7 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	III	Normal Giant	4.6 - 360
+	d10Limit = -1
+	d100Limit = 0
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  14
+	HZ =  -1
+	17-0 = 
+	17-1 = 
+	17-2 = 
+	17-3 = 
+	17-4 = 
+	17-5 = 
+	17-6 = 
+	17-7 = 
+	17-8 = 
+	17-9 = 
+	17-10 = 
+	17-11 = 
+	17-12 = 
+	17-13 = 
+	17-14 = 
+18 = 
+19 = 
+Unfilled = 13
+syscount = 2
+min = 4
+W = 8
+Extra Stars = 1
+count = 7

@@ -1,0 +1,131 @@
+
+1011 Iren     
+	(Knight) LuA
+	(Viscount) IkhLaGaAkhShaGu
+
+
+1012 Askhu    
+	(Knight) AsDum
+
+
+1112 Vallae   
+	(Knight) EzKiKhaAsh
+	(Baron) DesKisGupKarDu
+	(Marquis) DaKaKhiiKhigKud
+
+
+1113 Thogho   
+	(Knight) AgKhiIkKiNuZur
+	(Baron) AamKharDuKarBurKa
+
+
+1114 Gukhaga  
+	(Knight) Ash
+	(Baron) DuDakGuIi
+
+
+1116 Darmagu  
+	(Knight) DarShaIgBush
+
+
+1117 The Uris 
+	(Knight) IdKa
+
+
+1119 Daku     
+	(Knight) ShiigMiiIkGarDi
+
+
+1120 Ideshe   
+	(Knight) IlKaKherLaUPush
+	(Baron) AagDaashNaGiAg
+
+
+1211 Gagzoe   
+	(Knight) Ikh
+	(Baronet) KhuIAlShinLi
+
+
+1215 Siruga   
+	(Knight) KeAaMurShuuIkh
+
+
+1217 Estoff   
+	(Knight) AGiIgRiirLas
+
+
+1219 Ramir    
+	(Knight) AshGaDarKu
+
+
+1220 Imik     
+	(Knight) Uuz
+
+
+1311 Kema     
+	(Knight) AmKarKaZidLiAm
+
+
+1312 Taksar   
+	(Knight) KuAkNiUp
+
+
+1313 Hisus    
+	(Knight) AlGuAg
+	(Baronet) Uuk
+	(Marquis) KeUMu
+	(Viscount) IkhDiA
+
+
+1317 Anik     
+	(Knight) Ug
+
+
+1319 Ganar    
+	(Knight) LimKimGi
+
+
+1412 Karka    
+	(Knight) Ul
+	(Marquis) EkKiIiIshShe
+	(Viscount) IshDuIg
+
+
+1414 Centra   
+	(Knight) U
+
+
+1417 Astira   
+	(Knight) KerKumSi
+
+
+1515 Luunbu   
+	(Knight) Ug
+
+
+1516 Duam     
+	(Knight) DiiIgGiIkKa
+	(Baronet) RaAlRi
+	(Baron) DiGash
+	(Viscount) INiEdShe
+
+
+1519 Kagamira 
+	(Knight) LurKaAgShiUgLim
+	(Count) EDuKhun
+	(Duke) IkhGi
+
+
+1520 Shulishu 
+	(Knight) LaAabShuIiAkPi
+
+
+1612 Ersii    
+	(Knight) IdKigLaI
+
+
+1619 Midku    
+	(Knight) MashPashDuKe
+	(Baronet) AlNeGii
+	(Baron) ShuIAkh
+

@@ -1,0 +1,14 @@
+Hex = 0532
+Name = Kinswana
+UWP = C310659-B
+Remarks = Na Ni
+{Ix} = { 0 }
+(Ex) = (C54+1)
+[Cx] = [766C]
+N = B
+B = -
+Z = -
+PBG = 304
+W = 9
+A = ImDv
+Stellar = K6 V

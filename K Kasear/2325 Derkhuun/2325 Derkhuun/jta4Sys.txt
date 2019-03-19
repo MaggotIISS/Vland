@@ -1,0 +1,14 @@
+Hex = 2325
+Name = Derkhuun
+UWP = E310224-9
+Remarks = Lo
+{Ix} = { -2 }
+(Ex) = (911-4)
+[Cx] = [1137]
+N = B
+B = -
+Z = -
+PBG = 205
+W = 12
+A = ImDv
+Stellar = F1 V K5 V

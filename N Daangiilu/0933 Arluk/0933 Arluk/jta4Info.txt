@@ -1,0 +1,80 @@
+Hex = 0933
+Name = Arluk
+UWP = C41198B-C
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = Yes
+	possBases = S
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 1
+	DIGIT	DESCRIPTION	EFFECTS
+	1	Trace	S3
+Hydrosphere = 1
+	DIGIT	DESCRIPTION
+	1	10%
+Population = 9
+	POPULATION UNDER 6,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	9	Billion	,000,000,000
+Government = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit
+Law Level = B
+	DIGIT	DESCRIPTION	NOTE
+	B	Extreme Law	Continental passports required
+Tech Level = C
+	DIGIT		
+	C		
+Remarks = Hi Ic In Na
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	Ic		01	123456789A				Ice Capped	
+	In		012479		9ABC			industrial	
+	Na		0123	0123	6789ABC			Non Agricultural	
+{Ix} = { 3 }
+	TL 12 = +1
+	Hi  = +1
+	In  = +1
+	Importance = Normal (3)+0=3
+(Ex) = (F8E+5)
+	Resources =  15
+	Labour =  8
+	Infrastructure =  14
+	Efficiency =  5
+	RU = 8400
+[Cx] = [BC7E]
+	Homogeneity = 11
+	Acceptance = 12
+	Strangeness = 7
+	Symbols = 14
+N = BE
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 613
+	Population Multiplier = 6
+	POPULATION UNDER 6,000,000,000
+	Planetoid Belts = 1
+	Gas Giants = 3
+W = 11
+	Non Stars In System = 11
+	-1 (mainworld)
+	-1 (planetoid belts)
+	-3 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 V
+	Stars = 1

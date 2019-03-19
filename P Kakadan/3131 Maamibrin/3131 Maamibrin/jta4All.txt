@@ -1,0 +1,43 @@
+Primary = F7 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	F	Yellow-White	6,000-7,500
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 3
+	d1000Limit = 7
+	Min Orbit = 0
+	HZ =  4
+0 = World  (StormWorld)	Y262121-8World  (Inferno)	Y2B0000-0
+	  InnerWorld	  	H263266-5 @ Orbit O
+1 = Planetoid belt	H000431-2
+2 = Planetoid belt	G000684-4World  (Worldlet)	G010442-3
+3 = World  (BigWorld)	F295200-6World  (Inferno)	Y2B0000-0
+4 = Mainworld	Maamibrin	B5629CA-C	(Temperate)
+	  Inferno	  	Y2B0000-0 @ Orbit H
+	  Inferno	  	Y2B0000-0 @ Orbit K
+5 = 
+6 = World  (StormWorld)	H262374-A
+7 = World  (StormWorld)	Y22347C-4
+8 = World  (Hospitable)	Y237572-6
+	  Ring @ Orbit ?
+9 = 
+10 = World  (Worldlet)	H053455-4
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = World  (Worldlet)	Y042332-5
+	  RadWorld	  	Y242000-0 @ Orbit R
+	  OuterWorld	  	H265867-6 @ Orbit S
+	  Worldlet	  	G056424-2 @ Orbit W
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 10
+W = 13
+syscount = 1
+min = 0
+count = 10

@@ -1,0 +1,75 @@
+Hex = 3029
+Name = Kamolad
+UWP = C8D8355-B
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 8
+	DIGIT	DIA(MI)	DIA(KM)
+	8	8,000	13,800
+Atmosphere = D
+	DIGIT	DESCRIPTION	EFFECTS
+	D	Dense, High	varies
+Hydrosphere = 8
+	DIGIT	DESCRIPTION
+	8	80%
+Population = 3
+	POPULATION UNDER 8,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+Tech Level = B
+	DIGIT		
+	B		
+Remarks = Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+{Ix} = { 0 }
+	TL 11 = +1
+	Pop < 7 = -1
+	Importance = Unimportant (0)+0=0
+(Ex) = (621-2)
+	Resources =  6
+	Labour =  2
+	Infrastructure =  1
+	Efficiency =  -2
+	RU = -24
+[Cx] = [1339]
+	Homogeneity = 1
+	Acceptance = 3
+	Strangeness = 3
+	Symbols = 9
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 801
+	Population Multiplier = 8
+	POPULATION UNDER 8,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 10 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V M4 V G4 V
+	Stars = 3

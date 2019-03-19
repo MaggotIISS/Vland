@@ -1,0 +1,76 @@
+Hex = 3237
+Name = Zhannag
+UWP = C534373-A
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 3
+	DIGIT	DESCRIPTION	EFFECTS
+	3	VThin	S2
+Hydrosphere = 4
+	DIGIT	DESCRIPTION
+	4	40%
+Population = 3
+	POPULATION UNDER 6,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+Government = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Balkanization	Rival governments continually compete for control of the world
+Law Level = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Low Law	Prohibition of Acid, Fire, Gas weapons
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+{Ix} = { 0 }
+	TL 10 = +1
+	Pop < 7 = -1
+	Importance = Unimportant (0)+0=0
+(Ex) = (C21-3)
+	Resources =  12
+	Labour =  2
+	Infrastructure =  1
+	Efficiency =  -3
+	RU = -72
+[Cx] = [1327]
+	Homogeneity = 1
+	Acceptance = 3
+	Strangeness = 2
+	Symbols = 7
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 634
+	Population Multiplier = 6
+	POPULATION UNDER 6,000
+	Planetoid Belts = 3
+	Gas Giants = 4
+W = 13
+	Non Stars In System = 13
+	-1 (mainworld)
+	-3 (planetoid belts)
+	-4 (gas giants)
+	 = 5 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G8 V
+	Stars = 1

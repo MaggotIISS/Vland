@@ -1,0 +1,14 @@
+Hex = 1408
+Name = Maran
+UWP = B552A78-E
+Remarks = Hi Po
+{Ix} = { 3 }
+(Ex) = (G9F+3)
+[Cx] = [AD5E]
+N = BE
+B = N
+Z = -
+PBG = 322
+W = 8
+A = ImDv
+Stellar = M1 V

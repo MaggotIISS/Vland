@@ -1,0 +1,4 @@
+P KAKADAN
+
+	WORLDS IN SUBSECTOR = 47
+	ImDv: "Third Imperium, Domain of Vland" = 47 worlds

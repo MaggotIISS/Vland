@@ -1,0 +1,84 @@
+Hex = 2932
+Name = Zanski
+UWP = B585530-B
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 8
+	DIGIT	DESCRIPTION	EFFECTS
+	8	Dense	
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+Population = 5
+	POPULATION UNDER 400,000
+	DIGIT	DESCRIPTION	VALUE
+	5	Hundred thousand	00,000
+Government = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Self-Perpetuating Oligarchy	Rule by a restricted minority with little or no input from the masses
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = B
+	DIGIT		
+	B		
+Remarks = Ag Ni Pr
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ag		456789	45678	567			Agricultural	
+	Ni				456			Non Industrial	
+	Pr		68		59			Pre Rich	
+{Ix} = { 3 }
+	Starport B = +1
+	TL 11 = +1
+	Ag  = +1
+	Pop < 7 = -1
+	Way Station  = +1
+	Importance = Normal (3)+0=3
+(Ex) = (A47-1)
+	Resources =  10
+	Labour =  4
+	Infrastructure =  7
+	Efficiency =  -1
+	RU = -280
+[Cx] = [1816]
+	Homogeneity = 1
+	Acceptance = 8
+	Strangeness = 1
+	Symbols = 6
+N = BcC
+	CODE	RANK	TC
+	B	Knight	any
+	c	Baronet	Pa Pr
+	C	Baron	Ag Ri
+B = NW
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+	W	Scout Way Station	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 421
+	Population Multiplier = 4
+	POPULATION UNDER 400,000
+	Planetoid Belts = 2
+	Gas Giants = 1
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-1 (gas giants)
+	 = 8 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M3 V
+	Stars = 1

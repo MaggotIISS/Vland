@@ -1,0 +1,79 @@
+Hex = 2624
+Name = Shera
+UWP = C6838AB-8
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 6
+	DIGIT	DIA(MI)	DIA(KM)
+	6	6,000	9,600
+Atmosphere = 8
+	DIGIT	DESCRIPTION	EFFECTS
+	8	Dense	
+Hydrosphere = 3
+	DIGIT	DESCRIPTION
+	3	30%
+Population = 8
+	POPULATION UNDER 600,000,000
+	DIGIT	DESCRIPTION	VALUE
+	8	Hundred million	00,000,000
+Government = A
+	DIGIT	DESCRIPTION	NOTE
+	A	Charismatic Dictatorship	Government by a single leader enjoying the confidence of the citizens
+Law Level = B
+	DIGIT	DESCRIPTION	NOTE
+	B	Extreme Law	Continental passports required
+Tech Level = 8
+	DIGIT		
+	8		
+Remarks = Ri Ph Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ri		68		678			Rich	
+	Ph				8			Pre High	
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { 0 }
+	Ri  = +1
+	Importance = Unimportant (1)+-1=0
+(Ex) = (D78+2)
+	Resources =  13
+	Labour =  7
+	Infrastructure =  8
+	Efficiency =  2
+	RU = 1456
+[Cx] = [A87A]
+	Homogeneity = 10
+	Acceptance = 8
+	Strangeness = 7
+	Symbols = 10
+N = BCe
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+	e	Viscount	Ph
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 603
+	Population Multiplier = 6
+	POPULATION UNDER 600,000,000
+	Planetoid Belts = 0
+	Gas Giants = 3
+W = 7
+	Non Stars In System = 7
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-3 (gas giants)
+	 = 3 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V
+	Stars = 1

@@ -1,0 +1,39 @@
+B581212-B
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+
+Atmosphere = 8
+	DIGIT	DESCRIPTION	EFFECTS
+	8	Dense	
+
+Hydrosphere = 1
+	DIGIT	DESCRIPTION
+	1	10%
+
+Population = 2
+	POPULATION UNDER 700
+	DIGIT	DESCRIPTION	VALUE
+	2	Hundred	00
+
+Government = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Company/Corporation	Rule by a managerial elite
+
+Law Level = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Low Law	Prohibition of 'portable' weapons
+
+Tech Level = B
+	DIGIT		
+	B		
+

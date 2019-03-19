@@ -1,0 +1,76 @@
+Hex = 2227
+Name = Zikurag
+UWP = A536585-E
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 3
+	DIGIT	DESCRIPTION	EFFECTS
+	3	VThin	S2
+Hydrosphere = 6
+	DIGIT	DESCRIPTION
+	6	60%
+Population = 5
+	POPULATION UNDER 500,000
+	DIGIT	DESCRIPTION	VALUE
+	5	Hundred thousand	00,000
+Government = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+Tech Level = E
+	DIGIT		
+	E		
+Remarks = Ni
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+{Ix} = { 1 }
+	Starport A = +1
+	TL 14 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (D45-1)
+	Resources =  13
+	Labour =  4
+	Infrastructure =  5
+	Efficiency =  -1
+	RU = -260
+[Cx] = [363C]
+	Homogeneity = 3
+	Acceptance = 6
+	Strangeness = 3
+	Symbols = 12
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 524
+	Population Multiplier = 5
+	POPULATION UNDER 500,000
+	Planetoid Belts = 2
+	Gas Giants = 4
+W = 15
+	Non Stars In System = 15
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-4 (gas giants)
+	 = 8 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = F8 V
+	Stars = 1

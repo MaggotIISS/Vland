@@ -1,0 +1,51 @@
+Primary = G0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  4
+0 = World  (StormWorld)	Y010000-0
+	  Ring @ Orbit ?
+1 = World  (StormWorld)	Y031000-0World  (BigWorld)	Y000458-7World  (Worldlet)	Y031425-7
+2 = World  (Worldlet)	H044232-4
+3 = LGG (50,000 mi dia.)	S=23
+	  Worldlet	  	Y041446-8 @ Orbit F
+	  Hospitable	  	Y046465-2 @ Orbit G
+	  Worldlet	  	Y08A48A-8 @ Orbit K
+4 = Mainworld	Rishin	E31057B-9	(Temperate)
+	  Ring @ Orbit ?World  (StormWorld)	Y000000-E
+	  Ring @ Orbit T
+5 = LGG (80,000 mi dia.)	S=26
+	  Worldlet	  	F032485-8 @ Orbit I
+	  Hospitable	  	Y0D6201-8 @ Orbit T
+	  Inferno	  	Y0B0000-0 @ Orbit U
+6 = LGG (180,000 mi dia.)	S=29
+	  RadWorld	  	Y0C6000-0 @ Orbit B
+	  RadWorld	  	Y034000-0 @ Orbit G
+	  BigWorld	  	H06A246-2 @ Orbit I
+	  Worldlet	  	H048468-6 @ Orbit U
+7 = Planetoid belt	H00047B-7
+8 = World  (StormWorld)	Y001000-0
+	  Ring @ Orbit ?
+9 = Planetoid belt	F000420-8
+10 = 
+11 = SGG (40,000 mi dia.)	S=22
+	  BigWorld	  	G065424-7 @ Orbit G
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 9
+syscount = 1
+min = 0
+W = 14
+Extra Stars = 0
+count = 11

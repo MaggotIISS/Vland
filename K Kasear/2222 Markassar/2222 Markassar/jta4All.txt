@@ -1,0 +1,70 @@
+Primary = G2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  3
+0 = World  (Hospitable)	F321452-4
+1 = World  (StormWorld)	H400364-4
+2 = World  (Worldlet)	F08A779-4
+3 = Mainworld	Markassar	E7788CA-5	(Temperate)
+	  Inferno	  	Y4B0000-0 @ Orbit G
+	  StormWorld	  	Y471152-4 @ Orbit T
+4 = Planetoid belt	F000575-4
+5 = Planetoid belt	H000410-4
+6 = LGG (90,000 mi dia.)	S=27
+	  IceWorld	  	Y481504-4 @ Orbit C
+	  BigWorld	  	Y400657-4 @ Orbit E
+7 = World  (Inferno)	Y4B0000-0
+	  Ring @ Orbit ?
+8 = LGG (60,000 mi dia.)	S=24
+	  RadWorld	  	Y475000-0 @ Orbit B
+	  IceWorld	  	Y483674-4 @ Orbit L
+	  RadWorld	  	Y440000-0 @ Orbit P
+	  Worldlet	  	Y0B6566-4 @ Orbit VWorld  (StormWorld)	Y435000-Q
+	  Ring @ Orbit U
+9 = 
+10 = LGG (80,000 mi dia.)	S=26
+	  IceWorld	  	H450511-4 @ Orbit D
+	  IceWorld	  	Y2307DE-4 @ Orbit H
+	  StormWorld	  	F4723B8-2 @ Orbit P
+	  BigWorld	  	G420653-4 @ Orbit U
+11 = STAR G4 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  8
+	HZ =  -1
+	11-0 = 
+	11-1 = 
+	11-2 = 
+	11-3 = 
+	11-4 = 
+	11-5 = 
+	11-6 = 
+	11-7 = 
+	11-8 = 
+12 = World  (StormWorld)	Y456157-4
+	  Ring @ Orbit ?
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 8
+syscount = 2
+min = 0
+W = 12
+Extra Stars = 1
+count = 12

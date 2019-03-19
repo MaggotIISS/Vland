@@ -1,0 +1,68 @@
+Primary = G0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  4
+0 = 
+1 = World  (RadWorld)	Y200000-0
+2 = 
+3 = LGG (90,000 mi dia.)	S=27
+	  RadWorld	  	Y260000-0 @ Orbit F
+	  StormWorld	  	Y262274-6 @ Orbit G
+	  StormWorld	  	F22028C-6 @ Orbit I
+4 = Mainworld	Dnak'kritz	D582758-7	(Temperate)
+5 = SGG (30,000 mi dia.)	S=21
+	  RadWorld	  	Y267000-0 @ Orbit E
+	  BigWorld	  	Y252000-0 @ Orbit F
+	  Worldlet	  	Y27567A-6 @ Orbit G
+	  StormWorld	  	Y200000-0 @ Orbit R
+	  Hospitable	  	F27A462-4 @ Orbit T
+6 = STAR M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  3
+	HZ =  -1
+	6-0 = 
+	6-1 = 
+	6-2 = 
+	6-3 = 
+7 = LGG (125,000 mi dia.)	S=28
+	  StormWorld	  	G224257-6 @ Orbit F
+	  OuterWorld	  	Y100689-6 @ Orbit J
+	  IceWorld	  	H262698-6 @ Orbit T
+	  Worldlet	  	G130544-6 @ Orbit U
+8 = 
+9 = 
+10 = 
+11 = LGG (70,000 mi dia.)	S=25
+	  IceWorld	  	F230332-6 @ Orbit D
+	  BigWorld	  	G253678-6 @ Orbit I
+	  RadWorld	  	Y28A000-0 @ Orbit R
+	  StormWorld	  	Y210185-6 @ Orbit U
+12 = World  (RadWorld)	Y288000-0
+	  IceWorld	  	F293100-6 @ Orbit D
+	  IceWorld	  	H26269D-6 @ Orbit G
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 12
+syscount = 2
+min = 0
+W = 7
+Extra Stars = 1
+count = 8

@@ -1,0 +1,14 @@
+Hex = 1240
+Name = Nelson
+UWP = E200200-A
+Remarks = Lo Va
+{Ix} = { -1 }
+(Ex) = (611-5)
+[Cx] = [1115]
+N = B
+B = -
+Z = -
+PBG = 120
+W = 6
+A = ImDv
+Stellar = M0 V

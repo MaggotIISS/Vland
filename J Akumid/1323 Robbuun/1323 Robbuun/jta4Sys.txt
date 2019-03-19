@@ -1,0 +1,14 @@
+Hex = 1323
+Name = Robbuun
+UWP = A524520-E
+Remarks = Ni
+{Ix} = { 1 }
+(Ex) = (945-3)
+[Cx] = [1619]
+N = B
+B = S
+Z = -
+PBG = 902
+W = 13
+A = ImDv
+Stellar = K0 V K7 V

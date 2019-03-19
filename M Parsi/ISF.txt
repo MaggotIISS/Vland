@@ -1,0 +1,203 @@
+Vland/M Parsi
+
+---HI POP TARGET---
+0132 Kald - C5509AB-A
+	SDB Squadrons = 100
+	Starship Squadrons = 2
+	Troop CF = 20
+	Defence CF = 1000
+  TROOP FORCES
+0001-4000-20(20)-A
+
+
+
+0134 Zanagud - E66A686-7
+	Defence CF = 1
+
+0135 Sakin - C430668-A
+	Defence CF = 1
+
+0137 Shaaki - B9B4750-C
+	SDB Squadrons = 1
+	Troop CF = 2
+	Defence CF = 12
+  TROOP FORCES
+0001-1000-2(2)-C
+
+
+
+0232 Tratami - D9C7887-9
+	SDB Squadrons = 10
+	Starship Squadrons = 1
+	Troop CF = 5
+	Defence CF = 100
+  TROOP FORCES
+0001-2000-5(5)-9
+
+
+
+0237 Shashim - B427698-C
+	Defence CF = 2
+
+---HI POP TARGET---
+0431 Answerin - B584A85-E
+	SDB Squadrons = 1500
+	Starship Squadrons = 5
+	Troop CF = 1000
+	Defence CF = 15000
+  TROOP FORCES
+0001-7000-500(500)-E
+0002-7000-500(500)-E
+
+
+
+0532 Kinswana - C310659-B
+	Defence CF = 2
+
+0533 Khi Tai - E668732-6
+	Defence CF = 2
+
+0534 Khakkakum - C657768-8
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 5
+  TROOP FORCES
+0001-0000-1(1)-8
+
+
+
+0536 Fauski - A420751-E
+	SDB Squadrons = 1
+	Troop CF = 5
+	Defence CF = 15
+  TROOP FORCES
+0001-2000-5(5)-E
+
+
+
+0631 Enbart - B201689-C
+	Defence CF = 2
+
+0737 Kuzey Anadolu - C50069D-9
+	Defence CF = 1
+
+0738 Daglari - C310688-A
+	Defence CF = 1
+
+---HI POP TARGET---
+0740 Kirov - B683A9B-D
+	SDB Squadrons = 1500
+	Starship Squadrons = 5
+	Troop CF = 1000
+	Defence CF = 15000
+  TROOP FORCES
+0001-7000-500(500)-D
+0002-7000-500(500)-D
+
+
+
+0832 Kirlikin - C5407BD-8
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 5
+  TROOP FORCES
+0001-0000-1(1)-8
+
+
+
+0833 Karbarlah - D5878A8-6
+	Defence CF = 20
+
+
+0132-C5509AB-A
+Commodore Ugmigdukhiinkhiir
+	Prec 6
+	Plan  3
+	Tactics -2
+	C001-1U-730-7-A
+
+0132-C5509AB-A
+Commodore Shaplulusar
+	Prec 8
+	Plan  4
+	Tactics 2
+	C002-1U-730-7-A
+
+0232-D9C7887-9
+Commodore Aaliiadshersuum
+	Prec 5
+	Plan  0
+	Tactics 2
+	C001-1U-630-6-9
+
+0431-B584A85-E
+Commodore Igshuliiii
+	Prec 12
+	Plan  5
+	Tactics 0
+	C001-3U-840-8-E
+
+0431-B584A85-E
+Commodore Akgigassilag
+	Prec 9
+	Plan  4
+	Tactics -1
+	C002-3U-840-8-E
+
+0431-B584A85-E
+Commodore Adii
+	Prec 16
+	Plan  2
+	Tactics 0
+	C003-3U-840-8-E
+
+0431-B584A85-E
+Commodore Kurdakenshishsaashme
+	Prec 9
+	Plan  2
+	Tactics -2
+	C004-3U-840-8-E
+
+0431-B584A85-E
+Commodore Uu
+	Prec 8
+	Plan  5
+	Tactics -1
+	C005-3U-840-8-E
+
+0740-B683A9B-D
+Commodore Khirduuke
+	Prec 10
+	Plan  4
+	Tactics 0
+	C001-2U-840-8-D
+
+0740-B683A9B-D
+Commodore Udlirdermush
+	Prec 6
+	Plan  5
+	Tactics -1
+	C002-2U-840-8-D
+
+0740-B683A9B-D
+Commodore Masdaiiiksug
+	Prec 13
+	Plan  5
+	Tactics -1
+	C003-2U-840-8-D
+
+0740-B683A9B-D
+Commodore Uudgummuagkirkaa
+	Prec 14
+	Plan  4
+	Tactics 2
+	C004-2U-840-8-D
+
+0740-B683A9B-D
+Commodore Iilshu
+	Prec 8
+	Plan  5
+	Tactics 1
+	C005-2U-840-8-D
+
+

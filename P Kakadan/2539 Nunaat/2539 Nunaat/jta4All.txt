@@ -1,0 +1,48 @@
+Primary = M0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Nunaat	B624248-C	(Temperate)
+	  Worldlet	  	Y200166-9 @ Orbit S
+1 = LGG (90,000 mi dia.)	S=27
+	  BigWorld	  	Y300166-B @ Orbit GLGG (80,000 mi dia.)	S=2E
+	  Ring @ Orbit O
+2 = LGG (220,000 mi dia.)	S=30
+	  StormWorld	  	Y200000-0 @ Orbit F
+	  StormWorld	  	Y356000-0 @ Orbit G
+	  OuterWorld	  	G110142-5 @ Orbit H
+	  Worldlet	  	H087110-3 @ Orbit W
+3 = Planetoid belt	G000136-7
+4 = LGG (60,000 mi dia.)	S=24
+	  Worldlet	  	H188147-8 @ Orbit Q
+	  RadWorld	  	Y355000-0 @ Orbit T
+5 = Planetoid belt	F000112-3
+6 = 
+7 = 
+8 = World  (StormWorld)	Y330000-0
+	  Worldlet	  	Y100176-B @ Orbit R
+9 = 
+10 = 
+11 = World  (StormWorld)	Y321000-0
+	  StormWorld	  	Y300000-0 @ Orbit D
+	  OuterWorld	  	Y3361C9-B @ Orbit T
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 12
+syscount = 1
+min = 0
+W = 9
+Extra Stars = 0
+count = 8

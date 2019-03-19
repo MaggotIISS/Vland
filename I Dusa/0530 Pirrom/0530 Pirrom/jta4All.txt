@@ -1,0 +1,46 @@
+Primary = G2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  3
+0 = World  (StormWorld)	Y503000-0
+1 = World  (Hospitable)	G566165-A
+	  Hospitable	  	F324464-8 @ Orbit EWorld  (RadWorld)	Y573000-I
+	  Ring @ Orbit T
+2 = Mainworld	Pirrom	A884589-D	(Hot)
+3 = World  (Worldlet)	H38A489-2World  (StormWorld)	Y500000-0
+	  Ring @ Orbit ?
+4 = World  (Inferno)	Y2B0000-0
+5 = World  (RadWorld)	Y5A6000-0
+	  Ring @ Orbit ?World  (Worldlet)	F050445-I
+	  Worldlet	  	G0A5475-3 @ Orbit R
+	  IceWorld	  	Y470322-C @ Orbit T
+6 = World  (Hospitable)	F5A6464-7
+7 = LGG (220,000 mi dia.)	S=30
+	  Ring @ Orbit ?
+8 = Planetoid belt	F000465-6
+9 = World  (Inferno)	Y5B0000-0
+	  RadWorld	  	Y463000-0 @ Orbit I
+10 = 
+11 = 
+12 = World  (BigWorld)	F540478-6
+	  RadWorld	  	Y575000-0 @ Orbit F
+	  RadWorld	  	Y3E6000-0 @ Orbit U
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 9
+W = 14
+syscount = 1
+min = 0
+count = 11

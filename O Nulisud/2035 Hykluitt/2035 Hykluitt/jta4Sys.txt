@@ -1,0 +1,14 @@
+Hex = 2035
+Name = Hykluitt
+UWP = B5409BA-C
+Remarks = De He Hi In Po Pz
+{Ix} = { 4 }
+(Ex) = (F8F+5)
+[Cx] = [BD7E]
+N = BEf
+B = -
+Z = A
+PBG = 804
+W = 9
+A = ImDv
+Stellar = M1 V

@@ -1,0 +1,77 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Gamidan	CA5A454-9	(Temperate)LGG (60,000 mi dia.)	S=24
+	  Inferno	  	Y4B0000-0 @ Orbit C
+	  Hospitable	  	Y240376-8 @ Orbit F
+	  Worldlet	  	H0873BE-7 @ Orbit IWorld  (Hospitable)	F7873AE-G
+	  Worldlet	  	Y18839A-8 @ Orbit I
+	  Worldlet	  	H0833A6-8 @ Orbit J
+	  Inferno	  	Y7B0000-0 @ Orbit O
+	  Inferno	  	Y8B0000-0 @ Orbit R
+	  Inferno	  	Y8B0000-0 @ Orbit HWorld  (BigWorld)	HB23341-T
+	  Inferno	  	Y3B0000-0 @ Orbit U
+	  StormWorld	  	Y872000-0 @ Orbit V
+	  Worldlet	  	Y232000-0 @ Orbit W
+1 = World  (Inferno)	Y4B0000-0World  (Inferno)	YCB0000-0
+2 = World  (StormWorld)	Y600000-0
+	  Worldlet	  	Y277355-8 @ Orbit D
+	  Worldlet	  	G385364-8 @ Orbit G
+	  IceWorld	  	H220374-8 @ Orbit WWorld  (Hospitable)	F798332-I
+	  Ring @ Orbit U
+3 = World  (Inferno)	Y3B0000-0
+	  Worldlet	  	G0D6373-8 @ Orbit JWorld  (BigWorld)	FC00210-E
+	  StormWorld	  	YA00000-0 @ Orbit F
+	  OuterWorld	  	H270359-2 @ Orbit T
+	  Worldlet	  	H350368-8 @ Orbit W
+4 = LGG (125,000 mi dia.)	S=28
+	  OuterWorld	  	H310357-3 @ Orbit C
+	  OuterWorld	  	F230324-5 @ Orbit R
+	  RadWorld	  	Y855000-0 @ Orbit U
+5 = STAR G1 VWorld  (Hospitable)	H9B639B-8
+	  Worldlet	  	Y156302-8 @ Orbit F
+	  IceWorld	  	Y43039B-8 @ Orbit WWorld  (BigWorld)	YH20369-H
+	  Ring @ Orbit T
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  2
+	HZ =  -1
+	5-0 = 
+	5-1 = 
+	5-2 = 
+6 = 
+7 = Planetoid belt	F000330-8
+8 = 
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = World  (Inferno)	Y3B0000-0
+	  StormWorld	  	Y700000-0 @ Orbit B
+	  StormWorld	  	Y900000-0 @ Orbit G
+	  RadWorld	  	YBC6000-0 @ Orbit I
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 12
+syscount = 2
+min = 0
+W = 15
+Extra Stars = 1
+count = 8

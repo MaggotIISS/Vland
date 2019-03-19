@@ -1,0 +1,83 @@
+Primary = K0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (Hospitable)	H866200-3
+	  Ring @ Orbit ?
+1 = World  (Worldlet)	G061488-7
+	  Inferno	  	Y6B0000-0 @ Orbit F
+	  StormWorld	  	H6002A6-9 @ Orbit FWorld  (StormWorld)	H562253-6World  (Inferno)	YAB0000-S
+2 = World  (BigWorld)	HD30356-4World  (Inferno)	Y8B0000-0
+	  Worldlet	  	H300410-9 @ Orbit JWorld  (RadWorld)	YA43000-I
+	  Inferno	  	Y9B0000-0 @ Orbit P
+	  Worldlet	  	Y264368-4 @ Orbit EWorld  (RadWorld)	Y610000-Q
+	  Ring @ Orbit S
+3 = Mainworld	Liisurkhish	A562788-C	(Cold)
+	Orbits LGG (125,000 mi dia.)	S=28 @ orbit R
+	  Inferno	  	YAB0000-0 @ Orbit F
+	  BigWorld	  	GE37320-A @ Orbit S
+	  StormWorld	  	Y400000-0 @ Orbit T
+4 = World  (Hospitable)	FA76534-7
+	  Hospitable	  	H577522-5 @ Orbit O
+	  Worldlet	  	H074630-B @ Orbit DWorld  (Worldlet)	F347686-R
+	  StormWorld	  	GA53167-5 @ Orbit S
+	  StormWorld	  	YA00000-0 @ Orbit U
+5 = World  (BigWorld)	FG00655-6
+	  StormWorld	  	G300110-8 @ Orbit D
+	  RadWorld	  	Y545000-0 @ Orbit F
+	  Worldlet	  	H1356AB-7 @ Orbit T
+6 = Planetoid belt	H000655-7
+7 = World  (StormWorld)	H820286-7
+	  Worldlet	  	H055554-7 @ Orbit G
+	  RadWorld	  	Y88A000-0 @ Orbit S
+	  Worldlet	  	Y0316AB-5 @ Orbit U
+8 = World  (Hospitable)	G777100-B
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = World  (RadWorld)	Y79A000-0
+	  StormWorld	  	Y572000-0 @ Orbit S
+	  Worldlet	  	F200557-7 @ Orbit X
+16 = STAR M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  13
+	HZ =  -1
+	16-0 = 
+	16-1 = 
+	16-2 = 
+	16-3 = 
+	16-4 = 
+	16-5 = 
+	16-6 = 
+	16-7 = 
+	16-8 = 
+	16-9 = 
+	16-10 = 
+	16-11 = 
+	16-12 = 
+	16-13 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 9
+W = 16
+syscount = 2
+min = 0
+count = 11

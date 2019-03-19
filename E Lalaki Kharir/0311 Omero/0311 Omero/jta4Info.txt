@@ -1,0 +1,79 @@
+Hex = 0311
+Name = Omero
+UWP = A430320-F
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 3
+	DIGIT	DESCRIPTION	EFFECTS
+	3	VThin	S2
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 3
+	POPULATION UNDER 8,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+Government = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Participating Democracy	Rule by popular vote
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = F
+	DIGIT		
+	F		
+Remarks = De Lo Po
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	De	23456789	0					Desert	
+	Lo				123			Low Population	
+	Po		2345	0123				Poor	
+{Ix} = { 1 }
+	Starport A = +1
+	TL 15 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (921-3)
+	Resources =  9
+	Labour =  2
+	Infrastructure =  1
+	Efficiency =  -3
+	RU = -54
+[Cx] = [141A]
+	Homogeneity = 1
+	Acceptance = 4
+	Strangeness = 1
+	Symbols = 10
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 822
+	Population Multiplier = 8
+	POPULATION UNDER 8,000
+	Planetoid Belts = 2
+	Gas Giants = 2
+W = 13
+	Non Stars In System = 13
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-2 (gas giants)
+	 = 8 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M3 V G8 V
+	Stars = 2

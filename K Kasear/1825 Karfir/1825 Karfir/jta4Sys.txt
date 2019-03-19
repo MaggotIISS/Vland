@@ -1,0 +1,14 @@
+Hex = 1825
+Name = Karfir
+UWP = A753A86-F
+Remarks = Hi Po
+{Ix} = { 3 }
+(Ex) = (H9F+2)
+[Cx] = [9D4E]
+N = BE
+B = -
+Z = -
+PBG = 923
+W = 12
+A = ImDv
+Stellar = K4 V

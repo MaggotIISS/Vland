@@ -1,0 +1,79 @@
+Hex = 1804
+Name = Kashiin
+UWP = B54089E-8
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 4
+	DIGIT	DESCRIPTION	EFFECTS
+	4	Thin, Tainted	P1, S1
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 8
+	POPULATION UNDER 600,000,000
+	DIGIT	DESCRIPTION	VALUE
+	8	Hundred million	00,000,000
+Government = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	Impersonal Bureaucracy	Impersonal agencies rule
+Law Level = E
+	DIGIT	DESCRIPTION	NOTE
+	E	Extreme Law	Full-fledged police state
+Tech Level = 8
+	DIGIT		
+	8		
+Remarks = De He Po Ph Pi Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	De	23456789	0					Desert	
+	He	3459ABC	2479ABC	012				Hell World	
+	Po		2345	0123				Poor	
+	Ph				8			Pre High	
+	Pi		012479		78			Pre Industrial	
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { 0 }
+	Starport B = +1
+	Importance = Unimportant (1)+-1=0
+(Ex) = (C78+4)
+	Resources =  12
+	Labour =  7
+	Infrastructure =  8
+	Efficiency =  4
+	RU = 2688
+[Cx] = [C89C]
+	Homogeneity = 12
+	Acceptance = 8
+	Strangeness = 9
+	Symbols = 12
+N = -
+	No Imperial Nobles
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 620
+	Population Multiplier = 6
+	POPULATION UNDER 600,000,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 9 other worlds
+A = CsIm
+	CODE	DESCRIPTION
+	CsIm	Client State, Third Imperium
+Stellar = M2 V M8 V
+	Stars = 2

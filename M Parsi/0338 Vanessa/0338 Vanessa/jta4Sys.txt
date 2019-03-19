@@ -1,0 +1,14 @@
+Hex = 0338
+Name = Vanessa
+UWP = E568330-7
+Remarks = Lo
+{Ix} = { -3 }
+(Ex) = (521-5)
+[Cx] = [1112]
+N = B
+B = -
+Z = -
+PBG = 510
+W = 14
+A = ImDv
+Stellar = M0 V K8 V

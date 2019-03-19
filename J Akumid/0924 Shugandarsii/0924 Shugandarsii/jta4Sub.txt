@@ -1,0 +1,4 @@
+J AKUMID
+
+	WORLDS IN SUBSECTOR = 17
+	ImDv: "Third Imperium, Domain of Vland" = 17 worlds

@@ -1,0 +1,14 @@
+Hex = 1219
+Name = Ramir
+UWP = C66A322-B
+Remarks = Lo Wa (Tagi)
+{Ix} = { 0 }
+(Ex) = (621-4)
+[Cx] = [1317]
+N = B
+B = S
+Z = -
+PBG = 801
+W = 9
+A = ImDv
+Stellar = M2 V K8 V

@@ -1,0 +1,77 @@
+Hex = 0739
+Name = Trabbon
+UWP = D554733-5
+Starport = D
+	Quality = Poor
+	Yards = No
+	Repairs = Minor damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 5
+	DIGIT	DESCRIPTION	EFFECTS
+	5	This	S1
+Hydrosphere = 4
+	DIGIT	DESCRIPTION
+	4	40%
+Population = 7
+	POPULATION UNDER 60,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+Government = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Self-Perpetuating Oligarchy	Rule by a restricted minority with little or no input from the masses
+Law Level = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Low Law	Prohibition of Acid, Fire, Gas weapons
+Tech Level = 5
+	DIGIT		
+	5		
+Remarks = Ag
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ag		456789	45678	567			Agricultural	
+{Ix} = { -1 }
+	Starport D = -1
+	TL 5 = -1
+	Ag  = +1
+	Importance = Unimportant (-1)+0=-1
+(Ex) = (966-4)
+	Resources =  9
+	Labour =  6
+	Infrastructure =  6
+	Efficiency =  -4
+	RU = -1296
+[Cx] = [4622]
+	Homogeneity = 4
+	Acceptance = 6
+	Strangeness = 2
+	Symbols = 2
+N = BC
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 620
+	Population Multiplier = 6
+	POPULATION UNDER 60,000,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 6
+	Non Stars In System = 6
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 3 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K7 V
+	Stars = 1

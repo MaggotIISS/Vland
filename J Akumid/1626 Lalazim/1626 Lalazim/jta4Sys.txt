@@ -1,0 +1,14 @@
+Hex = 1626
+Name = Lalazim
+UWP = E8C4454-9
+Remarks = Fl Ni
+{Ix} = { -2 }
+(Ex) = (731-4)
+[Cx] = [2237]
+N = B
+B = -
+Z = -
+PBG = 410
+W = 10
+A = ImDv
+Stellar = M1 V

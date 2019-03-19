@@ -1,0 +1,14 @@
+Hex = 1202
+Name = Anghurr
+UWP = C4308AA-7
+Remarks = De Na Po Ph Pz
+{Ix} = { -1 }
+(Ex) = (A77+1)
+[Cx] = [A779]
+N = -
+B = C
+Z = A
+PBG = 520
+W = 9
+A = NaVa
+Stellar = K9 V

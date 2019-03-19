@@ -1,0 +1,14 @@
+Hex = 0434
+Name = Geguru
+UWP = D000432-9
+Remarks = As Ni Va
+{Ix} = { -2 }
+(Ex) = (D31-5)
+[Cx] = [1215]
+N = B
+B = S
+Z = -
+PBG = 325
+W = 11
+A = ImDv
+Stellar = K1 V

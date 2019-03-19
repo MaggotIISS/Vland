@@ -1,0 +1,58 @@
+Primary = M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Jessheim	AAC5233-E	(Temperate)
+	  Worldlet	  	G07A1A7-7 @ Orbit R
+1 = SGG (40,000 mi dia.)	S=22
+	  BigWorld	  	Y722154-7 @ Orbit E
+	  StormWorld	  	Y725000-0 @ Orbit T
+	  RadWorld	  	Y453000-0 @ Orbit U
+2 = SGG (40,000 mi dia.)	S=22
+	  RadWorld	  	Y451000-0 @ Orbit D
+	  OuterWorld	  	H766168-9 @ Orbit F
+	  StormWorld	  	Y761000-0 @ Orbit H
+	  RadWorld	  	Y454000-0 @ Orbit J
+	  StormWorld	  	Y522000-0 @ Orbit ILGG (90,000 mi dia.)	S=2O
+	  Worldlet	  	H06518A-7 @ Orbit Q
+	  OuterWorld	  	Y330000-0 @ Orbit R
+3 = LGG (220,000 mi dia.)	S=30
+	  Ring @ Orbit ?World  (BigWorld)	G77A1A9-Q
+	  RadWorld	  	Y400000-0 @ Orbit R
+	  IceWorld	  	H5A0143-8 @ Orbit S
+	  Worldlet	  	G36118B-9 @ Orbit W
+4 = LGG (80,000 mi dia.)	S=26
+	  StormWorld	  	Y714000-0 @ Orbit E
+	  StormWorld	  	Y300000-0 @ Orbit K
+	  StormWorld	  	Y400000-0 @ Orbit Y
+5 = Planetoid belt	F000178-8Planetoid belt	F000162-7
+6 = 
+7 = World  (Hospitable)	H788142-B
+	  IceWorld	  	Y440120-7 @ Orbit V
+8 = 
+9 = 
+10 = 
+11 = World  (Hospitable)	F54217B-5
+	  Worldlet	  	H266148-9 @ Orbit C
+	  IceWorld	  	Y620135-8 @ Orbit R
+	  RadWorld	  	Y79A000-0 @ Orbit V
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 12
+W = 11
+syscount = 1
+min = 0
+count = 8

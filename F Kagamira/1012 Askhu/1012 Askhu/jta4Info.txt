@@ -1,0 +1,74 @@
+Hex = 1012
+Name = Askhu
+UWP = C554120-8
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 5
+	DIGIT	DESCRIPTION	EFFECTS
+	5	This	S1
+Hydrosphere = 4
+	DIGIT	DESCRIPTION
+	4	40%
+Population = 1
+	POPULATION UNDER 40
+	DIGIT	DESCRIPTION	VALUE
+	1	Tens	0
+Government = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Participating Democracy	Rule by popular vote
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = 8
+	DIGIT		
+	8		
+Remarks = Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+{Ix} = { -2 }
+	Pop < 7 = -1
+	Importance = Unimportant (-1)+-1=-2
+(Ex) = (511-5)
+	Resources =  5
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -5
+	RU = -25
+[Cx] = [1113]
+	Homogeneity = 1
+	Acceptance = 1
+	Strangeness = 1
+	Symbols = 3
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 402
+	Population Multiplier = 4
+	POPULATION UNDER 40
+	Planetoid Belts = 0
+	Gas Giants = 2
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-2 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M0 V G8 V
+	Stars = 2

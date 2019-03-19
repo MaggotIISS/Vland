@@ -1,0 +1,80 @@
+Hex = 1120
+Name = Ideshe
+UWP = B969657-B
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 9
+	DIGIT	DIA(MI)	DIA(KM)
+	9	9,000	14,400
+Atmosphere = 6
+	DIGIT	DESCRIPTION	EFFECTS
+	6	Standard	
+Hydrosphere = 9
+	DIGIT	DESCRIPTION
+	9	90%
+Population = 6
+	POPULATION UNDER 9,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+Law Level = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Moderate Law	Prohibition of Pistols
+Tech Level = B
+	DIGIT		
+	B		
+Remarks = Ni Ri
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+	Ri		68		678			Rich	
+{Ix} = { 2 }
+	Starport B = +1
+	TL 11 = +1
+	Ri  = +1
+	Pop < 7 = -1
+	Importance = Normal (2)+0=2
+(Ex) = (A56+2)
+	Resources =  10
+	Labour =  5
+	Infrastructure =  6
+	Efficiency =  2
+	RU = 600
+[Cx] = [685B]
+	Homogeneity = 6
+	Acceptance = 8
+	Strangeness = 5
+	Symbols = 11
+N = BC
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 920
+	Population Multiplier = 9
+	POPULATION UNDER 9,000,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 7 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V G6 V
+	Stars = 2

@@ -1,0 +1,107 @@
+Vland/F Kagamira
+
+1011 Iren - A8C389E-C
+	SDB Squadrons = 12
+	Starship Squadrons = 1
+	Troop CF = 10
+	Defence CF = 120
+  TROOP FORCES
+0001-3000-10(10)-C
+
+
+
+1112 Vallae - A897788-A
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 10
+  TROOP FORCES
+0001-0000-1(1)-A
+
+
+
+1113 Thogho - C898669-8
+	Defence CF = 1
+
+1119 Daku - C432620-A
+	Defence CF = 1
+
+1120 Ideshe - B969657-B
+	Defence CF = 2
+
+1313 Hisus - C7788BF-7
+	SDB Squadrons = 5
+	Troop CF = 5
+	Defence CF = 50
+  TROOP FORCES
+0001-2000-5(5)-7
+
+
+
+1412 Karka - C200876-8
+	SDB Squadrons = 5
+	Troop CF = 5
+	Defence CF = 50
+  TROOP FORCES
+0001-2000-5(5)-8
+
+
+
+1516 Duam - E564869-6
+	Defence CF = 20
+
+---HI POP TARGET---
+1519 Kagamira - B577A83-E
+	SDB Squadrons = 1500
+	Starship Squadrons = 5
+	Troop CF = 1000
+	Defence CF = 15000
+  TROOP FORCES
+0001-7000-500(500)-E
+0002-7000-500(500)-E
+
+
+
+
+1011-A8C389E-C
+Commodore Ushgeashgamsiial
+	Prec 11
+	Plan  4
+	Tactics -1
+	C001-1U-630-6-C
+
+1519-B577A83-E
+Commodore Khidlaaduurgirzuse
+	Prec 12
+	Plan  3
+	Tactics 0
+	C001-3U-840-8-E
+
+1519-B577A83-E
+Commodore Agurkirkhiirkhim
+	Prec 10
+	Plan  5
+	Tactics -2
+	C002-3U-840-8-E
+
+1519-B577A83-E
+Commodore Uumlirdi
+	Prec 11
+	Plan  4
+	Tactics -2
+	C003-3U-840-8-E
+
+1519-B577A83-E
+Commodore Eskikshuas
+	Prec 14
+	Plan  5
+	Tactics -2
+	C004-3U-840-8-E
+
+1519-B577A83-E
+Commodore Igmau
+	Prec 18
+	Plan  5
+	Tactics -2
+	C005-3U-840-8-E
+
+

@@ -1,0 +1,43 @@
+Primary = M3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = World  (Inferno)	YAB0000-0
+	  RadWorld	  	Y7E6000-0 @ Orbit I
+	  Worldlet	  	Y000302-8 @ Orbit U
+1 = Mainworld	Ghurrllekh	C560558-A	(Cold)
+	Orbits LGG (60,000 mi dia.)	S=24 @ orbit R
+	  Inferno	  	Y9B0000-0 @ Orbit C
+	  Worldlet	  	H3B6474-2 @ Orbit JWorld  (Hospitable)	H555421-S
+	  Hospitable	  	F436445-3 @ Orbit X
+2 = 
+3 = World  (StormWorld)	YA20000-0
+	  Ring @ Orbit ?
+4 = 
+5 = Planetoid belt	H000444-2
+6 = Planetoid belt	H000467-2
+7 = 
+8 = 
+9 = 
+10 = World  (StormWorld)	Y300000-0
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 14
+W = 7
+syscount = 1
+min = 0
+count = 6

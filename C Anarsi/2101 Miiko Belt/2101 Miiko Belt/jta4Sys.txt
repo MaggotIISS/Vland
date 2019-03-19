@@ -1,0 +1,14 @@
+Hex = 2101
+Name = Miiko Belt
+UWP = C000234-9
+Remarks = As Lo Va
+{Ix} = { -1 }
+(Ex) = (611-3)
+[Cx] = [1137]
+N = -
+B = -
+Z = -
+PBG = 820
+W = 7
+A = CsIm
+Stellar = F1 V

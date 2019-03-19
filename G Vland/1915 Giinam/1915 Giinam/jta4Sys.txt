@@ -1,0 +1,14 @@
+Hex = 1915
+Name = Giinam
+UWP = C565303-A
+Remarks = Lo
+{Ix} = { 0 }
+(Ex) = (921-3)
+[Cx] = [1327]
+N = B
+B = S
+Z = -
+PBG = 304
+W = 14
+A = ImDv
+Stellar = M3 V

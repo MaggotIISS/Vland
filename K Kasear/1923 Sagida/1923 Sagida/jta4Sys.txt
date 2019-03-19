@@ -1,0 +1,14 @@
+Hex = 1923
+Name = Sagida
+UWP = C423965-C
+Remarks = Hi In Na Po Mr
+{Ix} = { 3 }
+(Ex) = (D8E+1)
+[Cx] = [7C3A]
+N = BE
+B = S
+Z = -
+PBG = 802
+W = 14
+A = ImDv
+Stellar = M0 V M0 V

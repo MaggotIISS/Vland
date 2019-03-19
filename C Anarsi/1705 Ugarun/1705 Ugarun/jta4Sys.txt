@@ -1,0 +1,14 @@
+Hex = 1705
+Name = Ugarun
+UWP = C7C27A8-9
+Remarks = Fl He
+{Ix} = { 0 }
+(Ex) = (B69+1)
+[Cx] = [7759]
+N = B
+B = -
+Z = -
+PBG = 402
+W = 7
+A = ImDv
+Stellar = G8 V

@@ -1,0 +1,14 @@
+Hex = 2912
+Name = Damakho
+UWP = A998574-D
+Remarks = Ag Ni
+{Ix} = { 2 }
+(Ex) = (C46+1)
+[Cx] = [373B]
+N = BC
+B = -
+Z = -
+PBG = 223
+W = 8
+A = ImDv
+Stellar = M0 V

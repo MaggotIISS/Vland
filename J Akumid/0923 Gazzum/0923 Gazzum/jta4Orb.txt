@@ -1,0 +1,68 @@
+Primary = M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Gazzum	B549655-C	(Temperate)World  (RadWorld)	Y244000-0
+1 = World  (RadWorld)	Y25A000-0
+	  Ring @ Orbit ?World  (RadWorld)	Y277000-Q
+	  Worldlet	  	Y076313-7 @ Orbit R
+	  Hospitable	  	F220110-6 @ Orbit S
+2 = Planetoid belt	H000446-8
+3 = World  (StormWorld)	Y234000-0
+	  StormWorld	  	Y200000-0 @ Orbit G
+	  StormWorld	  	H2001EF-6 @ Orbit S
+4 = Planetoid belt	F000544-A
+5 = 
+6 = 
+7 = 
+8 = World  (RadWorld)	Y222000-0
+9 = 
+10 = World  (Worldlet)	H077542-9
+	  Ring @ Orbit ?
+11 = 
+12 = World  (StormWorld)	Y2001B6-7
+	  IceWorld	  	Y100532-9 @ Orbit H
+13 = 
+14 = 
+15 = 
+16 = 
+17 = STAR M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  14
+	HZ =  -1
+	17-0 = 
+	17-1 = 
+	17-2 = 
+	17-3 = 
+	17-4 = 
+	17-5 = 
+	17-6 = 
+	17-7 = 
+	17-8 = 
+	17-9 = 
+	17-10 = 
+	17-11 = 
+	17-12 = 
+	17-13 = 
+	17-14 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 11
+W = 10
+syscount = 2
+min = 0
+count = 9

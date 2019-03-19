@@ -1,0 +1,14 @@
+Hex = 1117
+Name = The Uris Belt
+UWP = B000464-E
+Remarks = As Ni Va Mr
+{Ix} = { 1 }
+(Ex) = (834-1)
+[Cx] = [253C]
+N = B
+B = N
+Z = -
+PBG = 911
+W = 6
+A = ImDv
+Stellar = M1 V K5 V

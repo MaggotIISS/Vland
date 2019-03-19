@@ -1,0 +1,14 @@
+Hex = 1028
+Name = Apurshish
+UWP = C555A64-9
+Remarks = Hi O:0927
+{Ix} = { 1 }
+(Ex) = (H9B-1)
+[Cx] = [8B37]
+N = BE
+B = -
+Z = -
+PBG = 623
+W = 17
+A = ImDv
+Stellar = G8 V

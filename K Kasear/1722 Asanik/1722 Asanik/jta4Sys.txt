@@ -1,0 +1,14 @@
+Hex = 1722
+Name = Asanik
+UWP = D554356-8
+Remarks = Lo
+{Ix} = { -3 }
+(Ex) = (921-4)
+[Cx] = [2147]
+N = B
+B = -
+Z = -
+PBG = 204
+W = 16
+A = ImDv
+Stellar = G6 V G4 V

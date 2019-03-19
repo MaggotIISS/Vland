@@ -1,0 +1,54 @@
+Primary = G3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  3
+0 = World  (RadWorld)	Y5A5000-0
+1 = 
+2 = World  (StormWorld)	Y570000-0
+3 = LGG (70,000 mi dia.)	S=25
+	  Hospitable	  	Y100000-0 @ Orbit P
+	  Inferno	  	Y5B0000-0 @ Orbit Y
+4 = Mainworld	Diiron	B89A8AA-C	(Cold)
+5 = World  (RadWorld)	Y4B2000-0
+	  Worldlet	  	F0D6565-8 @ Orbit C
+	  Worldlet	  	H000462-B @ Orbit K
+6 = LGG (125,000 mi dia.)	S=28
+	  OuterWorld	  	F555567-3 @ Orbit X
+7 = LGG (50,000 mi dia.)	S=23
+	  IceWorld	  	H1307BC-9 @ Orbit F
+	  OuterWorld	  	F5C6300-B @ Orbit G
+	  BigWorld	  	Y551266-9 @ Orbit T
+	  Worldlet	  	Y3A6000-0 @ Orbit U
+	  IceWorld	  	Y340787-4 @ Orbit V
+8 = LGG (70,000 mi dia.)	S=25
+	  StormWorld	  	Y500000-0 @ Orbit J
+	  RadWorld	  	Y524000-0 @ Orbit Q
+	  OuterWorld	  	H576413-7 @ Orbit S
+	  IceWorld	  	F5A0361-9 @ Orbit U
+9 = World  (StormWorld)	F502134-A
+	  Worldlet	  	H200798-3 @ Orbit K
+	  Worldlet	  	F073559-9 @ Orbit S
+	  Worldlet	  	Y110767-9 @ Orbit X
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = World  (RadWorld)	Y552000-0
+	  StormWorld	  	Y500000-0 @ Orbit O
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 10
+W = 10
+syscount = 1
+min = 0
+count = 10

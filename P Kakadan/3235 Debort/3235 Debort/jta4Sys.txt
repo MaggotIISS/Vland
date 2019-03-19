@@ -1,0 +1,14 @@
+Hex = 3235
+Name = Debort
+UWP = B581778-A
+Remarks = Ri
+{Ix} = { 3 }
+(Ex) = (A6C+3)
+[Cx] = [7A5A]
+N = BC
+B = N
+Z = -
+PBG = 510
+W = 14
+A = ImDv
+Stellar = F9 V G4 V

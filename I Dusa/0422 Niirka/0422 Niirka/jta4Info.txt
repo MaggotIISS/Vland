@@ -1,0 +1,78 @@
+Hex = 0422
+Name = Niirka
+UWP = A300757-F
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 3
+	DIGIT	DIA(MI)	DIA(KM)
+	3	3,000	4,800
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 7
+	POPULATION UNDER 90,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+Law Level = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Moderate Law	Prohibition of Pistols
+Tech Level = F
+	DIGIT		
+	F		
+Remarks = Na Va Pi
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Va		0					Vacuum	
+	Pi		012479		78			Pre Industrial	
+{Ix} = { 2 }
+	Starport A = +1
+	TL 15 = +1
+	Importance = Normal (2)+0=2
+(Ex) = (D6E+2)
+	Resources =  13
+	Labour =  6
+	Infrastructure =  14
+	Efficiency =  2
+	RU = 2184
+[Cx] = [795F]
+	Homogeneity = 7
+	Acceptance = 9
+	Strangeness = 5
+	Symbols = 15
+N = BD
+	CODE	RANK	TC
+	B	Knight	any
+	D	Marquis	Pi
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 922
+	Population Multiplier = 9
+	POPULATION UNDER 90,000,000
+	Planetoid Belts = 2
+	Gas Giants = 2
+W = 15
+	Non Stars In System = 15
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-2 (gas giants)
+	 = 10 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M9 III
+	Stars = 1

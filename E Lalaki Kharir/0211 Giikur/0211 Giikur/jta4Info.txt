@@ -1,0 +1,79 @@
+Hex = 0211
+Name = Giikur
+UWP = A689521-C
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 6
+	DIGIT	DIA(MI)	DIA(KM)
+	6	6,000	9,600
+Atmosphere = 8
+	DIGIT	DESCRIPTION	EFFECTS
+	8	Dense	
+Hydrosphere = 9
+	DIGIT	DESCRIPTION
+	9	90%
+Population = 5
+	POPULATION UNDER 900,000
+	DIGIT	DESCRIPTION	VALUE
+	5	Hundred thousand	00,000
+Government = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Participating Democracy	Rule by popular vote
+Law Level = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Low Law	Prohibition of WMD, Psi weapons
+Tech Level = C
+	DIGIT		
+	C		
+Remarks = Ni Pr
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+	Pr		68		59			Pre Rich	
+{Ix} = { 1 }
+	Starport A = +1
+	TL 12 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (845-3)
+	Resources =  8
+	Labour =  4
+	Infrastructure =  5
+	Efficiency =  -3
+	RU = -480
+[Cx] = [1618]
+	Homogeneity = 1
+	Acceptance = 6
+	Strangeness = 1
+	Symbols = 8
+N = Bc
+	CODE	RANK	TC
+	B	Knight	any
+	c	Baronet	Pa Pr
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 910
+	Population Multiplier = 9
+	POPULATION UNDER 900,000
+	Planetoid Belts = 1
+	Gas Giants = 0
+W = 8
+	Non Stars In System = 8
+	-1 (mainworld)
+	-1 (planetoid belts)
+	-0 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 V M9 V
+	Stars = 2

@@ -1,0 +1,14 @@
+Hex = 2023
+Name = Zhattar
+UWP = B88A240-B
+Remarks = Lo Wa
+{Ix} = { 1 }
+(Ex) = (511-3)
+[Cx] = [1316]
+N = B
+B = -
+Z = -
+PBG = 410
+W = 9
+A = ImDv
+Stellar = M3 V

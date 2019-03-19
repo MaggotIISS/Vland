@@ -1,0 +1,14 @@
+Hex = 0630
+Name = Giraran
+UWP = D555242-6
+Remarks = Lo
+{Ix} = { -3 }
+(Ex) = (411-5)
+[Cx] = [1112]
+N = B
+B = -
+Z = -
+PBG = 524
+W = 10
+A = ImDv
+Stellar = K3 V

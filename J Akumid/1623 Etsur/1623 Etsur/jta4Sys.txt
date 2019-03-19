@@ -1,0 +1,14 @@
+Hex = 1623
+Name = Etsur
+UWP = D410552-A
+Remarks = Ni
+{Ix} = { -1 }
+(Ex) = (943-5)
+[Cx] = [1416]
+N = B
+B = S
+Z = -
+PBG = 720
+W = 7
+A = ImDv
+Stellar = M4 III K3 V

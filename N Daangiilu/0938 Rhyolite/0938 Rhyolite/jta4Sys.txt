@@ -1,0 +1,14 @@
+Hex = 0938
+Name = Rhyolite
+UWP = C560342-9
+Remarks = De Lo
+{Ix} = { -1 }
+(Ex) = (B21-5)
+[Cx] = [1215]
+N = B
+B = -
+Z = -
+PBG = 224
+W = 9
+A = ImDv
+Stellar = K7 V M0 V

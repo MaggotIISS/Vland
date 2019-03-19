@@ -1,0 +1,14 @@
+Hex = 2123
+Name = Blikig
+UWP = C544634-8
+Remarks = Ag Ni
+{Ix} = { -1 }
+(Ex) = (953-3)
+[Cx] = [4536]
+N = BC
+B = -
+Z = -
+PBG = 801
+W = 15
+A = ImDv
+Stellar = K7 V M9 V

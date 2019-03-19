@@ -1,0 +1,14 @@
+Hex = 0707
+Name = Lenordi
+UWP = D000487-8
+Remarks = As Ni Va
+{Ix} = { -3 }
+(Ex) = (731-3)
+[Cx] = [4158]
+N = B
+B = S
+Z = -
+PBG = 310
+W = 8
+A = ImDv
+Stellar = M2 V

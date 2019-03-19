@@ -1,0 +1,14 @@
+Hex = 0303
+Name = Anert
+UWP = B9B466A-B
+Remarks = Fl Ni O:0506
+{Ix} = { 1 }
+(Ex) = (955+3)
+[Cx] = [877D]
+N = B
+B = -
+Z = -
+PBG = 610
+W = 11
+A = ImDv
+Stellar = G7 V

@@ -1,0 +1,76 @@
+Hex = 2734
+Name = Rambant
+UWP = B310113-C
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 3
+	DIGIT	DIA(MI)	DIA(KM)
+	3	3,000	4,800
+Atmosphere = 1
+	DIGIT	DESCRIPTION	EFFECTS
+	1	Trace	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 1
+	POPULATION UNDER 10
+	DIGIT	DESCRIPTION	VALUE
+	1	Tens	0
+Government = 1
+	DIGIT	DESCRIPTION	NOTE
+	1	Company/Corporation	Rule by a managerial elite
+Law Level = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Low Law	Prohibition of Acid, Fire, Gas weapons
+Tech Level = C
+	DIGIT		
+	C		
+Remarks = Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+{Ix} = { 1 }
+	Starport B = +1
+	TL 12 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (711-2)
+	Resources =  7
+	Labour =  1
+	Infrastructure =  1
+	Efficiency =  -2
+	RU = -14
+[Cx] = [1229]
+	Homogeneity = 1
+	Acceptance = 2
+	Strangeness = 2
+	Symbols = 9
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 104
+	Population Multiplier = 1
+	POPULATION UNDER 10
+	Planetoid Belts = 0
+	Gas Giants = 4
+W = 11
+	Non Stars In System = 11
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-4 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = F4 V K0 V
+	Stars = 2

@@ -1,0 +1,14 @@
+Hex = 3212
+Name = Amnukun
+UWP = B41097B-E
+Remarks = Hi In Na
+{Ix} = { 4 }
+(Ex) = (D8G+5)
+[Cx] = [BD7G]
+N = BEf
+B = -
+Z = -
+PBG = 111
+W = 12
+A = ImDv
+Stellar = M1 V

@@ -1,0 +1,14 @@
+Hex = 2602
+Name = Daztsoun
+UWP = C556330-9
+Remarks = Lo
+{Ix} = { -1 }
+(Ex) = (721-5)
+[Cx] = [1214]
+N = -
+B = -
+Z = -
+PBG = 911
+W = 11
+A = NaHu
+Stellar = F7 V

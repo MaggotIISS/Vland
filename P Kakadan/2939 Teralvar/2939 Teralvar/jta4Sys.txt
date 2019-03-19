@@ -1,0 +1,14 @@
+Hex = 2939
+Name = Teralvar
+UWP = C585563-9
+Remarks = Ag Ni Pr O:2839
+{Ix} = { 0 }
+(Ex) = (844-3)
+[Cx] = [2526]
+N = BcC
+B = S
+Z = -
+PBG = 701
+W = 7
+A = ImDv
+Stellar = G3 V M8 V

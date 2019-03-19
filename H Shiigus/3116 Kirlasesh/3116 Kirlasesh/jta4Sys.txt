@@ -1,0 +1,14 @@
+Hex = 3116
+Name = Kirlasesh
+UWP = C546684-8
+Remarks = Ag Ni
+{Ix} = { -1 }
+(Ex) = (D53-3)
+[Cx] = [4536]
+N = BC
+B = -
+Z = -
+PBG = 923
+W = 8
+A = ImDv
+Stellar = G5 V

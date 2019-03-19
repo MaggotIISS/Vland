@@ -1,0 +1,14 @@
+Hex = 1131
+Name = Neegak
+UWP = B537662-B
+Remarks = Ni O:1332
+{Ix} = { 1 }
+(Ex) = (C55-3)
+[Cx] = [2717]
+N = B
+B = -
+Z = -
+PBG = 422
+W = 9
+A = ImDv
+Stellar = F8 V

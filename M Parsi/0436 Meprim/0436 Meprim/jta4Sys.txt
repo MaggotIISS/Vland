@@ -1,0 +1,14 @@
+Hex = 0436
+Name = Meprim
+UWP = B300136-D
+Remarks = Lo Va
+{Ix} = { 1 }
+(Ex) = (411+1)
+[Cx] = [124C]
+N = B
+B = N
+Z = -
+PBG = 910
+W = 10
+A = ImDv
+Stellar = M1 V

@@ -1,0 +1,56 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Dakeshir	C401400-C	(Temperate)
+	  RadWorld	  	Y122000-0 @ Orbit EWorld  (RadWorld)	Y163000-0
+1 = LGG (90,000 mi dia.)	S=27
+	  StormWorld	  	Y100000-0 @ Orbit H
+	  Worldlet	  	Y100133-6 @ Orbit P
+	  Inferno	  	Y1B0000-0 @ Orbit SWorld  (StormWorld)	Y153000-S
+	  Worldlet	  	F0783CC-A @ Orbit U
+2 = World  (StormWorld)	Y103000-0World  (Inferno)	Y1B0000-0
+	  RadWorld	  	Y1A5000-0 @ Orbit HWorld  (Worldlet)	F157300-B
+	  IceWorld	  	Y110200-B @ Orbit S
+	  StormWorld	  	Y110000-0 @ Orbit W
+3 = LGG (90,000 mi dia.)	S=27
+	  Ring @ Orbit ?World  (Inferno)	Y1B0000-I
+	  StormWorld	  	Y156000-0 @ Orbit W
+4 = World  (Hospitable)	F1B4344-7
+	  OuterWorld	  	Y132377-8 @ Orbit R
+5 = World  (Inferno)	Y1B0000-0
+	  StormWorld	  	Y143000-0 @ Orbit H
+	  Worldlet	  	G077244-9 @ Orbit R
+	  Worldlet	  	Y100355-8 @ Orbit IWorld  (Hospitable)	F17838D-S
+	  Worldlet	  	H187310-8 @ Orbit T
+	  Worldlet	  	Y164269-B @ Orbit U
+	  Worldlet	  	G198352-9 @ Orbit V
+6 = World  (RadWorld)	Y156000-0
+	  Worldlet	  	H120388-A @ Orbit I
+	  IceWorld	  	Y170372-9 @ Orbit R
+7 = 
+8 = 
+9 = 
+10 = 
+11 = 
+12 = World  (Hospitable)	F1383AA-6
+	  Ring @ Orbit ?
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 12
+W = 14
+syscount = 1
+min = 0
+count = 8

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<!--
+2531 Kiddinu System Index
+//http://www.w3schools.com/xsl/xsl_w3celementref.asp
+-->
+<html id="html">
+  <head id="head">
+    <title id="title">2531 Kiddinu System Index</title>
+    <script id="loadxmldoc">
+      function loadXMLDoc(filename)
+      {
+        if (window.ActiveXObject)
+        {
+          xhttp = new ActiveXObject("Msxml2.XMLHTTP");
+        }
+        else
+        {
+          xhttp = new XMLHttpRequest();
+        }
+        xhttp.open("GET", filename, false);
+        try {
+          xhttp.responseType = "msxml-document"
+        } catch (err) {
+        } // Helping IE11
+        xhttp.send("");
+        return xhttp.responseXML;
+      }
+
+      function displayResult()
+      {
+        xml = loadXMLDoc(XMLDOC);
+        xsl = loadXMLDoc(XSLDOC);
+        // code for IE
+        if (window.ActiveXObject || xhttp.responseType == "msxml-document")
+        {
+          ex = xml.transformNode(xsl);
+          document.getElementById("example").innerHTML = ex;
+        }
+        // code for Chrome, Firefox, Opera, etc.
+        else if (document.implementation && document.implementation.createDocument)
+        {
+          xsltProcessor = new XSLTProcessor();
+          xsltProcessor.importStylesheet(xsl);
+          resultDocument = xsltProcessor.transformToFragment(xml, document);
+          document.getElementById("example").appendChild(resultDocument);
+        }
+      }
+
+    </script>
+    <script id="headscripts">
+      SCRIPTS
+    </script>
+  </head>
+  <body id="body">
+    <h2 id="heading">
+      2531 Kiddinu System Index
+    </h2>
+
+<div>
+  <a href="file:\\\C:\\T5\_XML\Default.html">Default</a><br/>
+  <a href="file:\\\C:\\T5\_XML\HTML.html">HTML</a><br/>
+  <a href="file:\\\C:\\T5\_XML\Test.html">Test</a><br/>
+  <a href="file:\\\C:\\T5\_XML\CSV.csv">CSV</a><br/>
+  <a href="file:\\\C:\\T5\_XML\DTD.dtd">DTD</a><br/>
+  <a href="file:\\\C:\\T5\_XML\TXT.txt">TXT</a><br/>
+  <a href="file:\\\C:\\T5\_XML\XML.xml">XML</a><br/>
+  <a href="file:\\\C:\\T5\_XML\XSL.xsl">XSL</a><br/>
+</div>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531%20Kiddinu%20Belts.html">2531 Kiddinu Belts</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531%20Kiddinu%20Defences.html">2531 Kiddinu Defences</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531%20Kiddinu%20Gas%20Giants.html">2531 Kiddinu Gas Giants</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531%20Kiddinu%20Population.html">2531 Kiddinu Population</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531%20Kiddinu%20SDBs.html">2531 Kiddinu SDBs</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531%20Kiddinu%20Squadrons.html">2531 Kiddinu Squadrons</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531%20Kiddinu%20Troops.html">2531 Kiddinu Troops</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531%20Kiddinu%20World.html">2531 Kiddinu World</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531%20Kiddinu%20Worlds.html">2531 Kiddinu Worlds</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531%20Kiddinu.html">2531 Kiddinu</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Admiral.html">2531-Admiral</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Army.html">2531-Army</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Belts.html">2531-Belts</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Blank.html">2531-Blank</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Defences.html">2531-Defences</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Equipment-2531%20Kiddinu.html">2531-Equipment-2531 Kiddinu</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Fleet.html">2531-Fleet</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Gas%20Giants.html">2531-Gas Giants</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Maps.html">2531-Maps</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Marine.html">2531-Marine</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Merchant.html">2531-Merchant</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Navy.html">2531-Navy</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Orbit-0.html">2531-Orbit-0</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Orbit-1.html">2531-Orbit-1</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Orbit-2.html">2531-Orbit-2</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Orbit-3.html">2531-Orbit-3</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Orbit-4.html">2531-Orbit-4</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Orbit-5.html">2531-Orbit-5</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Orbit-6.html">2531-Orbit-6</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Orbit-8.html">2531-Orbit-8</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Orbit-9.html">2531-Orbit-9</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Orbit.html">2531-Orbit</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Orbitals.html">2531-Orbitals</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Orbits.html">2531-Orbits</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Other.html">2531-Other</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Planets.html">2531-Planets</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Population.html">2531-Population</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Scout.html">2531-Scout</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-SDBs.html">2531-SDBs</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Ship-2531%20Kiddinu.html">2531-Ship-2531 Kiddinu</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Squadron.html">2531-Squadron</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Squadrons.html">2531-Squadrons</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Stars.html">2531-Stars</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Subsector.html">2531-Subsector</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-System.html">2531-System</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-T5C-2531%20Kiddinu.html">2531-T5C-2531 Kiddinu</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Troop.html">2531-Troop</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Troops.html">2531-Troops</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-UWP.html">2531-UWP</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Vehicle-2531%20Kiddinu.html">2531-Vehicle-2531 Kiddinu</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/2531-Worlds.html">2531-Worlds</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/jLabel13.html">jLabel13</a><br/>
+<a href="file:///C://T5/Vland/P Kakadan/2531 Kiddinu/2531 Kiddinu/Vland%20Sector.html">Vland Sector</a><br/>
+
+  </body>
+</html>

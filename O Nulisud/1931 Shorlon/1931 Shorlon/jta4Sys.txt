@@ -1,0 +1,14 @@
+Hex = 1931
+Name = Shorlon
+UWP = D430546-9
+Remarks = De Ni Po
+{Ix} = { -2 }
+(Ex) = (942-3)
+[Cx] = [4348]
+N = B
+B = -
+Z = -
+PBG = 202
+W = 9
+A = ImDv
+Stellar = M1 V

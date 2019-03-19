@@ -1,0 +1,81 @@
+Hex = 0110
+Name = Ossin
+UWP = B100877-C
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 1
+	DIGIT	DIA(MI)	DIA(KM)
+	1	1,000	1,600
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 8
+	POPULATION UNDER 700,000,000
+	DIGIT	DESCRIPTION	VALUE
+	8	Hundred million	00,000,000
+Government = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Balkanization	Rival governments continually compete for control of the world
+Law Level = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Moderate Law	Prohibition of Pistols
+Tech Level = C
+	DIGIT		
+	C		
+Remarks = Na Va Ph Pi Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Va		0					Vacuum	
+	Ph				8			Pre High	
+	Pi		012479		78			Pre Industrial	
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { 2 }
+	Starport B = +1
+	TL 12 = +1
+	Importance = Normal (2)+0=2
+(Ex) = (F7C+2)
+	Resources =  15
+	Labour =  7
+	Infrastructure =  12
+	Efficiency =  2
+	RU = 2520
+[Cx] = [8A5C]
+	Homogeneity = 8
+	Acceptance = 10
+	Strangeness = 5
+	Symbols = 12
+N = BDe
+	CODE	RANK	TC
+	B	Knight	any
+	D	Marquis	Pi
+	e	Viscount	Ph
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 705
+	Population Multiplier = 7
+	POPULATION UNDER 700,000,000
+	Planetoid Belts = 0
+	Gas Giants = 5
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-5 (gas giants)
+	 = 3 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V
+	Stars = 1

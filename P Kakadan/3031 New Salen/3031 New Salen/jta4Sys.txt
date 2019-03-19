@@ -1,0 +1,14 @@
+Hex = 3031
+Name = New Salen
+UWP = C202974-C
+Remarks = Hi Ic In Na Va
+{Ix} = { 3 }
+(Ex) = (D8E+1)
+[Cx] = [7C3A]
+N = BE
+B = -
+Z = -
+PBG = 920
+W = 13
+A = ImDv
+Stellar = M2 V

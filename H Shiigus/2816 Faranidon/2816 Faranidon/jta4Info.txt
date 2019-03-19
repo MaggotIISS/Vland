@@ -1,0 +1,78 @@
+Hex = 2816
+Name = Faranidon
+UWP = B6569AD-9
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 6
+	DIGIT	DIA(MI)	DIA(KM)
+	6	6,000	9,600
+Atmosphere = 5
+	DIGIT	DESCRIPTION	EFFECTS
+	5	This	S1
+Hydrosphere = 6
+	DIGIT	DESCRIPTION
+	6	60%
+Population = 9
+	POPULATION UNDER 9,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	9	Billion	,000,000,000
+Government = A
+	DIGIT	DESCRIPTION	NOTE
+	A	Charismatic Dictatorship	Government by a single leader enjoying the confidence of the citizens
+Law Level = D
+	DIGIT	DESCRIPTION	NOTE
+	D	Extreme Law	Paramilitary law enforcement
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = Hi Ga Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	Ga	678	568	567				Garden World	
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { 2 }
+	Starport B = +1
+	Hi  = +1
+	Importance = Normal (2)+0=2
+(Ex) = (C8C+5)
+	Resources =  12
+	Labour =  8
+	Infrastructure =  12
+	Efficiency =  5
+	RU = 5760
+[Cx] = [DB9D]
+	Homogeneity = 13
+	Acceptance = 11
+	Strangeness = 9
+	Symbols = 13
+N = BE
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 910
+	Population Multiplier = 9
+	POPULATION UNDER 9,000,000,000
+	Planetoid Belts = 1
+	Gas Giants = 0
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-1 (planetoid belts)
+	-0 (gas giants)
+	 = 10 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M0 V
+	Stars = 1

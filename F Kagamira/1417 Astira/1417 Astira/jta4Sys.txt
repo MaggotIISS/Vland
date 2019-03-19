@@ -1,0 +1,14 @@
+Hex = 1417
+Name = Astira
+UWP = C55248C-9
+Remarks = Ni Po Da
+{Ix} = { -1 }
+(Ex) = (832+2)
+[Cx] = [738C]
+N = B
+B = S
+Z = A
+PBG = 820
+W = 11
+A = ImDv
+Stellar = M0 V

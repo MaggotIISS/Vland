@@ -1,0 +1,46 @@
+Primary = K6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (Hospitable)	H120131-4World  (Hospitable)	Y166101-6World  (BigWorld)	F154100-9
+	  Worldlet	  	Y174148-9 @ Orbit F
+1 = Planetoid belt	H000152-6World  (Worldlet)	G000168-9
+2 = World  (Inferno)	Y1B0000-0
+	  Worldlet	  	Y097150-6 @ Orbit R
+3 = Mainworld	Karamursel	C438235-A	(Cold)World  (Worldlet)	F022168-9
+4 = Planetoid belt	G000100-4World  (BigWorld)	F196146-8
+	  Ring @ Orbit ?
+5 = World  (RadWorld)	Y175000-0
+6 = World  (StormWorld)	Y160000-0
+	  Worldlet	  	H131195-7 @ Orbit F
+	  Worldlet	  	Y145144-9 @ Orbit G
+	  Worldlet	  	G020189-5 @ Orbit FWorld  (BigWorld)	Y100100-S
+7 = World  (RadWorld)	Y100000-0
+	  StormWorld	  	Y100000-0 @ Orbit D
+	  StormWorld	  	Y130000-0 @ Orbit G
+	  IceWorld	  	G1931AA-8 @ Orbit S
+8 = 
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = World  (Worldlet)	G052174-9
+	  Worldlet	  	F1D617C-9 @ Orbit H
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 11
+W = 15
+syscount = 1
+min = 0
+count = 9

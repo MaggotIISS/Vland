@@ -1,0 +1,14 @@
+Hex = 2139
+Name = Zolo
+UWP = C6286BB-9
+Remarks = Ni Da
+{Ix} = { -1 }
+(Ex) = (953+1)
+[Cx] = [857B]
+N = B
+B = -
+Z = A
+PBG = 701
+W = 12
+A = ImDv
+Stellar = M1 V

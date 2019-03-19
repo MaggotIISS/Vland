@@ -1,0 +1,14 @@
+Hex = 0340
+Name = Jessheim
+UWP = AAC5233-E
+Remarks = Fl Lo
+{Ix} = { 2 }
+(Ex) = (B11-1)
+[Cx] = [142B]
+N = B
+B = NS
+Z = -
+PBG = 425
+W = 11
+A = ImDv
+Stellar = M2 V

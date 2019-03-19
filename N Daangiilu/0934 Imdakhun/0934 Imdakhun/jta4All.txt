@@ -1,0 +1,68 @@
+Primary = G5 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  3
+0 = World  (Worldlet)	Y-150310-9
+	  Ring @ Orbit ?World  (RadWorld)	Y-100000-0World  (RadWorld)	Y-167000-0
+1 = World  (Worldlet)	H-162367-8
+2 = World  (Hospitable)	G-126327-7
+3 = Mainworld	Imdakhun	A20348D-F	(Temperate)
+4 = World  (StormWorld)	Y-126000-0
+	  Hospitable	  	Y-1343AD-6 @ Orbit R
+	  StormWorld	  	Y-100000-0 @ Orbit WWorld  (BigWorld)	H-145363-S
+	  Worldlet	  	F-1D6300-4 @ Orbit T
+	  Hospitable	  	H-110341-A @ Orbit U
+5 = LGG (50,000 mi dia.)	S=23
+	  IceWorld	  	Y-1A0389-B @ Orbit L
+	  IceWorld	  	H-1B03B8-B @ Orbit JWorld  (RadWorld)	Y-100000-T
+	  IceWorld	  	H-180386-A @ Orbit W
+6 = 
+7 = World  (BigWorld)	H-18537B-3
+	  Worldlet	  	F-165356-9 @ Orbit H
+	  OuterWorld	  	G-123336-8 @ Orbit Q
+8 = 
+9 = 
+10 = 
+11 = World  (RadWorld)	Y-1B6000-0
+12 = 
+13 = 
+14 = STAR M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  11
+	HZ =  -1
+	14-0 = 
+	14-1 = 
+	14-2 = 
+	14-3 = 
+	14-4 = 
+	14-5 = 
+	14-6 = 
+	14-7 = 
+	14-8 = 
+	14-9 = 
+	14-10 = 
+	14-11 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 11
+W = 12
+syscount = 2
+min = 0
+count = 9

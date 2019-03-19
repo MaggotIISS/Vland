@@ -1,0 +1,79 @@
+Hex = 0927
+Name = Havland
+UWP = C7939CD-A
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = Yes
+	possBases = S
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+Atmosphere = 9
+	DIGIT	DESCRIPTION	EFFECTS
+	9	Dense, Tainted	P1
+Hydrosphere = 3
+	DIGIT	DESCRIPTION
+	3	30%
+Population = 9
+	POPULATION UNDER 3,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	9	Billion	,000,000,000
+Government = C
+	DIGIT	DESCRIPTION	NOTE
+	C	Charismatic Oligarchy	Government by a select religious, mystic, or psionic group, organization, or class enjoying the overwhelming confidence of the citizenry
+Law Level = D
+	DIGIT	DESCRIPTION	NOTE
+	D	Extreme Law	Paramilitary law enforcement
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = Hi In Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	In		012479		9ABC			industrial	
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { 3 }
+	TL 10 = +1
+	Hi  = +1
+	In  = +1
+	Importance = Normal (3)+0=3
+(Ex) = (C8D+5)
+	Resources =  12
+	Labour =  8
+	Infrastructure =  13
+	Efficiency =  5
+	RU = 6240
+[Cx] = [DC9E]
+	Homogeneity = 13
+	Acceptance = 12
+	Strangeness = 9
+	Symbols = 14
+N = BE
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 301
+	Population Multiplier = 3
+	POPULATION UNDER 3,000,000,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 8
+	Non Stars In System = 8
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 V M0 V
+	Stars = 2

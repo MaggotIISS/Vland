@@ -1,0 +1,82 @@
+Hex = 1923
+Name = Sagida
+UWP = C423965-C
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = Yes
+	possBases = S
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 2
+	DIGIT	DESCRIPTION	EFFECTS
+	2	VThin, Tainted	P1, S2
+Hydrosphere = 3
+	DIGIT	DESCRIPTION
+	3	30%
+Population = 9
+	POPULATION UNDER 8,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	9	Billion	,000,000,000
+Government = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Captive Government/Colony	Rule by a leadership answerable to an outside group
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+Tech Level = C
+	DIGIT		
+	C		
+Remarks = Hi In Na Po Mr
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	In		012479		9ABC			industrial	
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Po		2345	0123				Poor	
+	Mr							Military Rule by Regional Power	
+{Ix} = { 3 }
+	TL 12 = +1
+	Hi  = +1
+	In  = +1
+	Importance = Normal (3)+0=3
+(Ex) = (D8E+1)
+	Resources =  13
+	Labour =  8
+	Infrastructure =  14
+	Efficiency =  1
+	RU = 1456
+[Cx] = [7C3A]
+	Homogeneity = 7
+	Acceptance = 12
+	Strangeness = 3
+	Symbols = 10
+N = BE
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 802
+	Population Multiplier = 8
+	POPULATION UNDER 8,000,000,000
+	Planetoid Belts = 0
+	Gas Giants = 2
+W = 14
+	Non Stars In System = 14
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-2 (gas giants)
+	 = 11 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M0 V M0 V
+	Stars = 2

@@ -1,0 +1,62 @@
+Primary = M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Kashiin	B54089E-8	(Temperate)
+	  Worldlet	  	F299543-7 @ Orbit OWorld  (Inferno)	Y2B0000-0
+1 = World  (Inferno)	Y2B0000-0
+	  StormWorld	  	Y236000-0 @ Orbit X
+2 = World  (RadWorld)	Y221000-0
+	  RadWorld	  	Y255000-0 @ Orbit QWorld  (Inferno)	Y2B0000-J
+	  StormWorld	  	Y242000-0 @ Orbit T
+3 = Planetoid belt	Y000536-7World  (Hospitable)	F242347-7
+4 = World  (BigWorld)	Y296110-7
+	  Worldlet	  	H150102-7 @ Orbit P
+5 = Planetoid belt	H00057C-7
+6 = World  (RadWorld)	Y243000-0
+7 = 
+8 = 
+9 = 
+10 = World  (Inferno)	Y2B0000-0
+11 = 
+12 = 
+13 = STAR M8 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 0
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  10
+	HZ =  -1
+	13-0 = 
+	13-1 = 
+	13-2 = 
+	13-3 = 
+	13-4 = 
+	13-5 = 
+	13-6 = 
+	13-7 = 
+	13-8 = 
+	13-9 = 
+	13-10 = 
+14 = 
+15 = 
+16 = World  (Hospitable)	Y28A462-7
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 10
+W = 12
+syscount = 2
+min = 0
+count = 10

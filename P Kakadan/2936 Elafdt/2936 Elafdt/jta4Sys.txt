@@ -1,0 +1,14 @@
+Hex = 2936
+Name = Elafdt
+UWP = E200320-8
+Remarks = Lo Va
+{Ix} = { -3 }
+(Ex) = (621-5)
+[Cx] = [1113]
+N = B
+B = -
+Z = -
+PBG = 801
+W = 5
+A = ImDv
+Stellar = K9 V G0 V M0 V

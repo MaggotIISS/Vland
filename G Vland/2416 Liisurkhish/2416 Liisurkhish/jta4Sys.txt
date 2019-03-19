@@ -1,0 +1,14 @@
+Hex = 2416
+Name = Liisurkhish
+UWP = A562788-C
+Remarks = Ri
+{Ix} = { 3 }
+(Ex) = (A6D+3)
+[Cx] = [7A5C]
+N = BC
+B = -
+Z = -
+PBG = 810
+W = 16
+A = ImDv
+Stellar = K0 V M2 V

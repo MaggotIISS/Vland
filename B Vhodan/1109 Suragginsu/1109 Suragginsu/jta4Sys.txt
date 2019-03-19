@@ -1,0 +1,14 @@
+Hex = 1109
+Name = Suragginsu
+UWP = E433352-A
+Remarks = Lo Po
+{Ix} = { -1 }
+(Ex) = (721-5)
+[Cx] = [1216]
+N = B
+B = -
+Z = -
+PBG = 711
+W = 13
+A = ImDv
+Stellar = F6 V M8 V

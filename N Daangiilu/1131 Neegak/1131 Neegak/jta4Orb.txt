@@ -1,0 +1,49 @@
+Primary = F8 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	F	Yellow-White	6,000-7,500
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 3
+	d1000Limit = 7
+	Min Orbit = 0
+	HZ =  4
+0 = Planetoid belt	H000327-A
+1 = World  (Hospitable)	H130525-7
+2 = World  (Worldlet)	Y250569-8World  (RadWorld)	Y260000-0
+	  Ring @ Orbit ?
+3 = 
+4 = Mainworld	Neegak	B537662-B	(Temperate)
+	  StormWorld	  	G235156-8 @ Orbit F
+	  RadWorld	  	Y234000-0 @ Orbit H
+5 = LGG (80,000 mi dia.)	S=26
+	  Inferno	  	Y2B0000-0 @ Orbit E
+	  Inferno	  	Y2B0000-0 @ Orbit G
+	  BigWorld	  	F200310-8 @ Orbit I
+	  Hospitable	  	Y265166-5 @ Orbit R
+6 = 
+7 = 
+8 = 
+9 = LGG (90,000 mi dia.)	S=27
+	  Worldlet	  	H066302-7 @ Orbit G
+	  RadWorld	  	Y268000-0 @ Orbit R
+	  BigWorld	  	Y200599-8 @ Orbit U
+	  Worldlet	  	Y010597-7 @ Orbit X
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = World  (RadWorld)	Y200000-0
+	  Worldlet	  	Y060000-0 @ Orbit E
+	  StormWorld	  	H200186-6 @ Orbit U
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 13
+W = 9
+syscount = 1
+min = 0
+count = 7

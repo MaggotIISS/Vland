@@ -1,0 +1,14 @@
+Hex = 3119
+Name = Aarkhiin
+UWP = D57769C-5
+Remarks = Ag Ni Da
+{Ix} = { -2 }
+(Ex) = (852+1)
+[Cx] = [9488]
+N = BC
+B = S
+Z = A
+PBG = 125
+W = 13
+A = ImDv
+Stellar = M1 V

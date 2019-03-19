@@ -1,0 +1,14 @@
+Hex = 0801
+Name = Ogerrgh
+UWP = E62A837-8
+Remarks = Wa Ph Pi
+{Ix} = { -2 }
+(Ex) = (B76-2)
+[Cx] = [8658]
+N = -
+B = -
+Z = -
+PBG = 110
+W = 9
+A = NaVa
+Stellar = M1 V

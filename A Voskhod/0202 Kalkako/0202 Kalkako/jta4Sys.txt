@@ -1,0 +1,14 @@
+Hex = 0202
+Name = Kalkako
+UWP = C544405-A
+Remarks = Ni Pa
+{Ix} = { 0 }
+(Ex) = (C33-2)
+[Cx] = [2438]
+N = Bc
+B = S
+Z = -
+PBG = 324
+W = 17
+A = ImDv
+Stellar = F8 V K2 V

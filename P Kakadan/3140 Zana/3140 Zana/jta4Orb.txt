@@ -1,0 +1,57 @@
+Primary = K0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (StormWorld)	Y300000-0World  (Inferno)	Y3B0000-0
+1 = World  (Worldlet)	H032443-6
+2 = Mainworld	Zana	E653546-7	(Temperate)World  (Worldlet)	G030486-6
+3 = 
+4 = Planetoid belt	H0004AD-6
+5 = 
+6 = 
+7 = World  (RadWorld)	Y351000-0
+8 = World  (Worldlet)	H04147A-6
+	  Worldlet	  	F000488-6 @ Orbit I
+	  OuterWorld	  	Y3454AB-6 @ Orbit V
+9 = 
+10 = 
+11 = STAR M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  8
+	HZ =  -1
+	11-0 = 
+	11-1 = 
+	11-2 = 
+	11-3 = 
+	11-4 = 
+	11-5 = 
+	11-6 = 
+	11-7 = 
+	11-8 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 13
+syscount = 2
+min = 0
+W = 8
+Extra Stars = 1
+count = 7

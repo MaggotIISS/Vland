@@ -1,0 +1,77 @@
+Hex = 3116
+Name = Kirlasesh
+UWP = C546684-8
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 4
+	DIGIT	DESCRIPTION	EFFECTS
+	4	Thin, Tainted	P1, S1
+Hydrosphere = 6
+	DIGIT	DESCRIPTION
+	6	60%
+Population = 6
+	POPULATION UNDER 9,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit
+Law Level = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Moderate Law	Laser, Beam weapons prohibited
+Tech Level = 8
+	DIGIT		
+	8		
+Remarks = Ag Ni
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ag		456789	45678	567			Agricultural	
+	Ni				456			Non Industrial	
+{Ix} = { -1 }
+	Ag  = +1
+	Pop < 7 = -1
+	Importance = Unimportant (0)+-1=-1
+(Ex) = (D53-3)
+	Resources =  13
+	Labour =  5
+	Infrastructure =  3
+	Efficiency =  -3
+	RU = -585
+[Cx] = [4536]
+	Homogeneity = 4
+	Acceptance = 5
+	Strangeness = 3
+	Symbols = 6
+N = BC
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 923
+	Population Multiplier = 9
+	POPULATION UNDER 9,000,000
+	Planetoid Belts = 2
+	Gas Giants = 3
+W = 8
+	Non Stars In System = 8
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-3 (gas giants)
+	 = 2 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G5 V
+	Stars = 1

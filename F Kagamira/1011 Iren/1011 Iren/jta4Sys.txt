@@ -1,0 +1,14 @@
+Hex = 1011
+Name = Iren
+UWP = A8C389E-C
+Remarks = Fl Ph Pz
+{Ix} = { 2 }
+(Ex) = (F7C+5)
+[Cx] = [CA9G]
+N = Be
+B = N
+Z = A
+PBG = 814
+W = 10
+A = ImDv
+Stellar = K7 V M3 V

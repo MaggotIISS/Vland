@@ -1,0 +1,90 @@
+Vland/J Akumid
+
+0923 Gazzum - B549655-C
+	Defence CF = 2
+
+---HI POP TARGET---
+0927 Havland - C7939CD-A
+	SDB Squadrons = 100
+	Starship Squadrons = 2
+	Troop CF = 20
+	Defence CF = 1000
+  TROOP FORCES
+0001-4000-20(20)-A
+
+
+
+---HI POP TARGET---
+1028 Apurshish - C555A64-9
+	SDB Squadrons = 1000
+	Starship Squadrons = 3
+	Troop CF = 100
+	Defence CF = 10000
+  TROOP FORCES
+0001-6000-100(100)-9
+
+
+
+1523 Ilma - D510744-7
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 5
+  TROOP FORCES
+0001-0000-1(1)-7
+
+
+
+1624 Zushar - C631854-A
+	SDB Squadrons = 10
+	Starship Squadrons = 1
+	Troop CF = 5
+	Defence CF = 100
+  TROOP FORCES
+0001-2000-5(5)-A
+
+
+
+
+0927-C7939CD-A
+Commodore Amshirladu
+	Prec 13
+	Plan  3
+	Tactics -2
+	C001-1U-730-7-A
+
+0927-C7939CD-A
+Commodore Kha
+	Prec 9
+	Plan  3
+	Tactics -2
+	C002-1U-730-7-A
+
+1028-C555A64-9
+Commodore Iigadka
+	Prec 14
+	Plan  2
+	Tactics 2
+	C001-1U-840-8-9
+
+1028-C555A64-9
+Commodore Ush
+	Prec 4
+	Plan  5
+	Tactics 2
+	C002-1U-840-8-9
+
+1028-C555A64-9
+Commodore Ekhe
+	Prec 10
+	Plan  3
+	Tactics 0
+	C003-1U-840-8-9
+
+1624-C631854-A
+Commodore Agi
+	Prec 17
+	Plan  4
+	Tactics 0
+	C001-1U-630-6-A
+
+

@@ -1,0 +1,77 @@
+Primary = F1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	F	Yellow-White	6,000-7,500
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 3
+	d1000Limit = 7
+	Min Orbit = 0
+	HZ =  6
+0 = World  (StormWorld)	Y000000-0
+1 = World  (StormWorld)	Y000000-0
+	  Worldlet	  	H0331AA-6 @ Orbit E
+2 = 
+3 = World  (RadWorld)	Y098000-0
+4 = LGG (80,000 mi dia.)	S=26
+	  Worldlet	  	H030169-6 @ Orbit B
+	  RadWorld	  	Y031000-0 @ Orbit H
+5 = World  (Inferno)	Y0B0000-0
+6 = Mainworld	Derkhuun	E310224-9	(Temperate)
+7 = LGG (70,000 mi dia.)	S=25
+	  Worldlet	  	H098100-7 @ Orbit E
+	  StormWorld	  	Y062000-0 @ Orbit G
+	  RadWorld	  	Y076000-0 @ Orbit I
+	  Inferno	  	Y0B0000-0 @ Orbit S
+8 = World  (Hospitable)	F060136-4
+	  Worldlet	  	G030135-8 @ Orbit P
+	  Worldlet	  	Y044188-8 @ Orbit T
+	  OuterWorld	  	H067125-8 @ Orbit W
+9 = 
+10 = 
+11 = LGG (90,000 mi dia.)	S=27
+	  OuterWorld	  	Y059166-8 @ Orbit E
+	  Worldlet	  	Y099187-8 @ Orbit P
+	  BigWorld	  	Y041178-7 @ Orbit R
+	  StormWorld	  	Y000000-0 @ Orbit S
+12 = LGG (70,000 mi dia.)	S=25
+	  BigWorld	  	F048110-8 @ Orbit D
+13 = STAR K5 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  10
+	HZ =  -1
+	13-0 = 
+	13-1 = 
+	13-2 = 
+	13-3 = 
+	13-4 = 
+	13-5 = 
+	13-6 = 
+	13-7 = 
+	13-8 = 
+	13-9 = 
+	13-10 = 
+14 = SGG (40,000 mi dia.)	S=22
+	  OuterWorld	  	F046121-8 @ Orbit F
+	  BigWorld	  	Y043155-8 @ Orbit I
+	  IceWorld	  	F083197-7 @ Orbit K
+	  StormWorld	  	Y002000-0 @ Orbit Q
+	  Worldlet	  	F0101BE-6 @ Orbit R
+15 = World  (StormWorld)	Y020000-0
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 7
+syscount = 2
+min = 0
+W = 12
+Extra Stars = 1
+count = 13

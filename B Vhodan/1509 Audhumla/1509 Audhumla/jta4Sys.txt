@@ -1,0 +1,14 @@
+Hex = 1509
+Name = Audhumla
+UWP = A98A400-E
+Remarks = Ni Wa
+{Ix} = { 1 }
+(Ex) = (734-3)
+[Cx] = [1519]
+N = B
+B = -
+Z = -
+PBG = 201
+W = 9
+A = ImDv
+Stellar = M1 V G1 V

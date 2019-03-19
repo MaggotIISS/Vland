@@ -1,0 +1,42 @@
+Vland/I Dusa
+
+0221 Keshiil - C530833-9
+	SDB Squadrons = 10
+	Starship Squadrons = 1
+	Troop CF = 5
+	Defence CF = 100
+  TROOP FORCES
+0001-2000-5(5)-9
+
+
+
+0422 Niirka - A300757-F
+	SDB Squadrons = 1
+	Troop CF = 10
+	Defence CF = 20
+  TROOP FORCES
+0001-3000-10(10)-F
+
+
+
+0430 Khulekii - E677899-6
+	Defence CF = 20
+
+0622 Beshe - E8B8888-8
+	SDB Squadrons = 5
+	Troop CF = 5
+	Defence CF = 50
+  TROOP FORCES
+0001-2000-5(5)-8
+
+
+
+
+0221-C530833-9
+Commodore Id
+	Prec 7
+	Plan  2
+	Tactics 0
+	C001-1U-630-6-9
+
+

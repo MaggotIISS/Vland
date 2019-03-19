@@ -1,0 +1,14 @@
+Hex = 0435
+Name = Ganidam
+UWP = D100455-B
+Remarks = Ni Va
+{Ix} = { -1 }
+(Ex) = (732-3)
+[Cx] = [2339]
+N = B
+B = -
+Z = -
+PBG = 501
+W = 5
+A = ImDv
+Stellar = M2 V M5 V

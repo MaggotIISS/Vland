@@ -1,0 +1,14 @@
+Hex = 2205
+Name = Anarsi
+UWP = B7479EA-C
+Remarks = Hi In Cp Pz
+{Ix} = { 4 }
+(Ex) = (D8F+5)
+[Cx] = [BD7E]
+N = BEF
+B = -
+Z = A
+PBG = 920
+W = 15
+A = ImDv
+Stellar = G3 V M3 V

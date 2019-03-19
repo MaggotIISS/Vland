@@ -1,0 +1,14 @@
+Hex = 0740
+Name = Kirov
+UWP = B683A9B-D
+Remarks = Hi Pz
+{Ix} = { 3 }
+(Ex) = (D9F+5)
+[Cx] = [CD7F]
+N = BE
+B = -
+Z = A
+PBG = 810
+W = 10
+A = ImDv
+Stellar = K5 V K4 V

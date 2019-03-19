@@ -1,0 +1,14 @@
+Hex = 2615
+Name = Malta
+UWP = B000266-C
+Remarks = As Lo Va O:2616
+{Ix} = { 1 }
+(Ex) = (611+1)
+[Cx] = [134B]
+N = B
+B = S
+Z = -
+PBG = 611
+W = 11
+A = ImDv
+Stellar = K6 V M3 V

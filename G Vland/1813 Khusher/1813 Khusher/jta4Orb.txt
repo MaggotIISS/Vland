@@ -1,0 +1,60 @@
+Primary = G5 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  3
+0 = World  (Inferno)	YAB0000-0
+1 = World  (Hospitable)	H488642-5
+2 = Planetoid belt	Y000000-0
+3 = Mainworld	Khusher	C646754-9	(Temperate)
+	Orbits LGG (90,000 mi dia.)	S=27 @ orbit R
+	  RadWorld	  	Y410000-0 @ Orbit G
+	  Hospitable	  	H653122-8 @ Orbit I
+	  Hospitable	  	Y688301-8 @ Orbit Q
+	  BigWorld	  	FF45264-2 @ Orbit U
+4 = Planetoid belt	F000535-2World  (Inferno)	Y7B0000-0
+	  Worldlet	  	H0B5320-8 @ Orbit GWorld  (Hospitable)	H623100-8
+5 = STAR G9 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  2
+	HZ =  -1
+	5-0 = 
+	5-1 = 
+	5-2 = 
+6 = LGG (50,000 mi dia.)	S=23
+	  IceWorld	  	H100588-8 @ Orbit B
+	  OuterWorld	  	H331687-6 @ Orbit D
+	  StormWorld	  	Y344245-8 @ Orbit W
+7 = LGG (180,000 mi dia.)	S=29
+	  Ring @ Orbit ?
+8 = World  (RadWorld)	Y563000-0
+9 = 
+10 = World  (Worldlet)	H200120-4
+	  Ring @ Orbit ?
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 10
+W = 11
+syscount = 2
+min = 0
+count = 10

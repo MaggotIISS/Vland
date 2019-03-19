@@ -1,0 +1,78 @@
+Hex = 0831
+Name = Igsudi
+UWP = B572320-B
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 7
+	DIGIT	DESCRIPTION	EFFECTS
+	7	Standard, Tainted	P1
+Hydrosphere = 2
+	DIGIT	DESCRIPTION
+	2	20%
+Population = 3
+	POPULATION UNDER 3,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+Government = 2
+	DIGIT	DESCRIPTION	NOTE
+	2	Participating Democracy	Rule by popular vote
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = B
+	DIGIT		
+	B		
+Remarks = He Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	He	3459ABC	2479ABC	012				Hell World	
+	Lo				123			Low Population	
+{Ix} = { 1 }
+	Starport B = +1
+	TL 11 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (721-3)
+	Resources =  7
+	Labour =  2
+	Infrastructure =  1
+	Efficiency =  -3
+	RU = -42
+[Cx] = [1416]
+	Homogeneity = 1
+	Acceptance = 4
+	Strangeness = 1
+	Symbols = 6
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 320
+	Population Multiplier = 3
+	POPULATION UNDER 3,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 7 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G4 V K6 V
+	Stars = 2

@@ -1,0 +1,14 @@
+Hex = 2725
+Name = Duranus
+UWP = B00037C-C
+Remarks = As Lo Va
+{Ix} = { 1 }
+(Ex) = (B21+4)
+[Cx] = [648F]
+N = B
+B = N
+Z = -
+PBG = 915
+W = 16
+A = ImDv
+Stellar = M1 V

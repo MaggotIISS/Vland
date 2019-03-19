@@ -1,0 +1,14 @@
+Hex = 2738
+Name = Tepmaa
+UWP = B410251-D
+Remarks = Lo
+{Ix} = { 1 }
+(Ex) = (911-3)
+[Cx] = [1319]
+N = B
+B = S
+Z = -
+PBG = 323
+W = 12
+A = ImDv
+Stellar = M0 V

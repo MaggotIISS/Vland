@@ -1,0 +1,864 @@
+//	1120 Ideshe
+////////////////////////////////////////////////////////////////////////////////
+FC
+0 = 
+1 = 
+2 = 
+3 = 
+4 = 
+5 = 
+6 = 
+7 = 
+8 = 
+9 = 
+BC
+0 = 1120 Ideshe
+1 = B969657-B
+2 = SDBs X
+3 = Rons X
+4 = Def CF 2
+5 = Troops X
+6 = Pop < 9 M
+7 = Belts 2
+8 = GGs 0
+9 = Worlds 10 G
+
+1120 IDESHE
+--------------------------------------------------------------------------------
+VLAND
+
+	WORLDS IN SECTOR = 532
+	CsIm: "Client state, Third Imperium" = 15 worlds
+	ImDv: "Third Imperium, Domain of Vland" = 491 worlds
+	NaHu: "Non-Aligned, Human-dominated" = 10 worlds
+	NaVa: "Non-Aligned, Vargr-dominated" = 16 worlds
+
+	RACIAL NAMES OF SECTOR
+	Vland
+
+	Vland sector was designed by Marc W. Miller and appears in Atlas of the Imperium (GDW, 1984). It was refined by Joe D. Fugate Sr. and appears in The Travellers Digest and The MegaTraveller Alien, Volume 1: Vilani &amp; Vargr (DGP, 1990)
+
+	1105
+
+	Traveller 5 Second Survey
+
+	Hex
+	Name
+	UWP
+	    Starports = ABCDE = 5 variations
+	            A = 92 systems
+	            B = 140 systems
+	            C = 152 systems
+	            D = 65 systems
+	            E = 83 systems
+	    Sizes = 0123456789A = 11 variations
+	            0 = 19 systems
+	            1 = 13 systems
+	            2 = 30 systems
+	            3 = 29 systems
+	            4 = 75 systems
+	            5 = 175 systems
+	            6 = 54 systems
+	            7 = 53 systems
+	            8 = 40 systems
+	            9 = 32 systems
+	            A = 12 systems
+	    Atmospheres = 0123456789ABCDE = 15 variations
+	            0 = 67 systems
+	            1 = 42 systems
+	            2 = 49 systems
+	            3 = 45 systems
+	            4 = 48 systems
+	            5 = 55 systems
+	            6 = 57 systems
+	            7 = 50 systems
+	            8 = 39 systems
+	            9 = 39 systems
+	            A = 4 systems
+	            B = 14 systems
+	            C = 15 systems
+	            D = 7 systems
+	            E = 1 systems
+	    Hydrospheres = 0123456789A = 11 variations
+	            0 = 123 systems
+	            1 = 34 systems
+	            2 = 40 systems
+	            3 = 49 systems
+	            4 = 62 systems
+	            5 = 49 systems
+	            6 = 41 systems
+	            7 = 43 systems
+	            8 = 30 systems
+	            9 = 30 systems
+	            A = 31 systems
+	    Populations = 123456789A = 10 variations
+	            1 = 25 systems
+	            2 = 43 systems
+	            3 = 62 systems
+	            4 = 69 systems
+	            5 = 99 systems
+	            6 = 68 systems
+	            7 = 58 systems
+	            8 = 45 systems
+	            9 = 35 systems
+	            A = 28 systems
+	    Governments = 0123456789ABCDEF = 16 variations
+	            0 = 50 systems
+	            1 = 30 systems
+	            2 = 47 systems
+	            3 = 46 systems
+	            4 = 43 systems
+	            5 = 73 systems
+	            6 = 51 systems
+	            7 = 46 systems
+	            8 = 56 systems
+	            9 = 37 systems
+	            A = 25 systems
+	            B = 16 systems
+	            C = 8 systems
+	            D = 2 systems
+	            E = 1 systems
+	            F = 1 systems
+	    Law Levels = 0123456789ABCDEFH = 17 variations
+	            0 = 72 systems
+	            1 = 31 systems
+	            2 = 44 systems
+	            3 = 44 systems
+	            4 = 49 systems
+	            5 = 46 systems
+	            6 = 45 systems
+	            7 = 42 systems
+	            8 = 38 systems
+	            9 = 37 systems
+	            A = 27 systems
+	            B = 26 systems
+	            C = 11 systems
+	            D = 10 systems
+	            E = 8 systems
+	            F = 2 systems
+	    dashs = - = 1 variations
+	            - = 532 systems
+	    Tech Levels = 456789ABCDEF = 12 variations
+	            4 = 11 systems
+	            5 = 18 systems
+	            6 = 32 systems
+	            7 = 62 systems
+	            8 = 74 systems
+	            9 = 82 systems
+	            A = 65 systems
+	            B = 60 systems
+	            C = 49 systems
+	            D = 40 systems
+	            E = 23 systems
+	            F = 16 systems
+	Trade
+	        As = 14 systems
+	        De = 42 systems
+	        Fl = 35 systems
+	        Ga = 19 systems
+	        He = 42 systems
+	        Ic = 21 systems
+	        Oc = 6 systems
+	        Va = 72 systems
+	        Wa = 30 systems
+	        Di = 3 systems
+	        Lo = 123 systems
+	        Ni = 238 systems
+	        Ph = 47 systems
+	        Hi = 63 systems
+	        Pa = 33 systems
+	        Ag = 80 systems
+	        Na = 63 systems
+	        Pi = 56 systems
+	        In = 32 systems
+	        Po = 85 systems
+	        Pr = 25 systems
+	        Ri = 31 systems
+	        Mr = 10 systems
+	        Cp = 13 systems
+	        Cs = 1 systems
+	        Pz = 49 systems
+	        Da = 22 systems
+	        An = 9 systems
+	Importance
+	    9 variations
+	        5 = 2 systems
+	        4 = 13 systems
+	        3 = 46 systems
+	        2 = 55 systems
+	        1 = 142 systems
+	        0 = 74 systems
+	        -1 = 86 systems
+	        -2 = 67 systems
+	        -3 = 47 systems
+	Economic
+	    Resource = 3456789ABCDEFGHJK = 17 variations
+	            3 = 6 systems
+	            4 = 15 systems
+	            5 = 17 systems
+	            6 = 41 systems
+	            7 = 59 systems
+	            8 = 78 systems
+	            9 = 67 systems
+	            A = 71 systems
+	            B = 48 systems
+	            C = 44 systems
+	            D = 36 systems
+	            E = 19 systems
+	            F = 10 systems
+	            G = 6 systems
+	            H = 7 systems
+	            J = 3 systems
+	            K = 0 systems
+	    Labour = 123456789 = 9 variations
+	            1 = 62 systems
+	            2 = 66 systems
+	            3 = 64 systems
+	            4 = 103 systems
+	            5 = 69 systems
+	            6 = 58 systems
+	            7 = 45 systems
+	            8 = 34 systems
+	            9 = 27 systems
+	    Infrastructure = 123456789ABCDEFGH = 17 variations
+	            1 = 155 systems
+	            2 = 40 systems
+	            3 = 43 systems
+	            4 = 47 systems
+	            5 = 56 systems
+	            6 = 43 systems
+	            7 = 21 systems
+	            8 = 16 systems
+	            9 = 11 systems
+	            A = 7 systems
+	            B = 11 systems
+	            C = 26 systems
+	            D = 13 systems
+	            E = 14 systems
+	            F = 16 systems
+	            G = 9 systems
+	            H = 1 systems
+	    Efficiency = 0,-3,-5,-2,-1,2,3,1,-4,5,4 = 11 variations
+	            5 = 34 systems
+	            4 = 20 systems
+	            3 = 34 systems
+	            2 = 30 systems
+	            1 = 92 systems
+	            0 = 0 systems
+	            -1 = 57 systems
+	            -2 = 42 systems
+	            -3 = 99 systems
+	            -4 = 56 systems
+	            -5 = 68 systems
+	Cultural
+	    Homogeneity = 123456789ABCDEF = 15 variations
+	            1 = 176 systems
+	            2 = 39 systems
+	            3 = 41 systems
+	            4 = 38 systems
+	            5 = 41 systems
+	            6 = 32 systems
+	            7 = 40 systems
+	            8 = 35 systems
+	            9 = 25 systems
+	            A = 25 systems
+	            B = 16 systems
+	            C = 9 systems
+	            D = 6 systems
+	            E = 3 systems
+	            F = 0 systems
+	    Acceptance = 123456789ABCDE = 14 variations
+	            1 = 58 systems
+	            2 = 33 systems
+	            3 = 60 systems
+	            4 = 69 systems
+	            5 = 65 systems
+	            6 = 52 systems
+	            7 = 59 systems
+	            8 = 26 systems
+	            9 = 19 systems
+	            A = 22 systems
+	            B = 13 systems
+	            C = 18 systems
+	            D = 23 systems
+	            E = 3 systems
+	    Strangeness = 123456789A = 10 variations
+	            1 = 143 systems
+	            2 = 44 systems
+	            3 = 93 systems
+	            4 = 46 systems
+	            5 = 81 systems
+	            6 = 36 systems
+	            7 = 53 systems
+	            8 = 11 systems
+	            9 = 18 systems
+	            A = 2 systems
+	    Symbols = 123456789ABCDEFGHJK = 19 variations
+	            1 = 1 systems
+	            2 = 10 systems
+	            3 = 22 systems
+	            4 = 24 systems
+	            5 = 45 systems
+	            6 = 51 systems
+	            7 = 53 systems
+	            8 = 47 systems
+	            9 = 59 systems
+	            A = 47 systems
+	            B = 36 systems
+	            C = 41 systems
+	            D = 20 systems
+	            E = 21 systems
+	            F = 1 systems
+	            G = 0 systems
+	            H = 0 systems
+	            J = 0 systems
+	            K = 0 systems
+	Nobles
+	        B-Knight-11 = 491 systems
+	        c-Baronet-12 = 52 systems
+	        C-Baron-13 = 98 systems
+	        D-Marquis-14 = 48 systems
+	        e-Viscount-15 = 40 systems
+	        E-Count-16 = 60 systems
+	        f-Duke-17 = 8 systems
+	        F-Duke-18 = 10 systems
+	        G-Archduke-19 = 1 systems
+	Bases
+	        C-Corsair Base-Vargr = 8 systems
+	        D-Naval Depot-Any = 1 systems
+	        N-Naval Base-Imperial = 89 systems
+	        S-Scout Base-Imperial = 131 systems
+	        W-Scout Way Station-Imperial = 4 systems
+	Zone
+	        Green = 461 systems
+	        Amber = 71 systems
+	PBGs
+	    No Population (0-2)-Unpopulated = 113 systems
+	    Low Population (3-5)-Thousands = 162 systems
+	    Medium Population (6-8)-Millions = 189 systems
+	    HIGH Population (9+)-Billions = 68 systems
+	    0 Planetoid Belts = 174 systems
+	    1 Planetoid Belts = 151 systems
+	    2 Planetoid Belts = 192 systems
+	    3 Planetoid Belts = 15 systems
+	    0 Gas Giants = 182 systems
+	    1 Gas Giants = 128 systems
+	    2 Gas Giants = 66 systems
+	    3 Gas Giants = 69 systems
+	    4 Gas Giants = 72 systems
+	    5 Gas Giants = 15 systems
+	Worlds
+	    4 = 3 systems
+	    5 = 9 systems
+	    6 = 15 systems
+	    7 = 37 systems
+	    8 = 56 systems
+	    9 = 75 systems
+	    10 = 64 systems
+	    11 = 66 systems
+	    12 = 68 systems
+	    13 = 55 systems
+	    14 = 32 systems
+	    15 = 23 systems
+	    16 = 17 systems
+	    17 = 11 systems
+	    18 = 1 systems
+	Allied
+	    See top section
+	Stellar
+	    1 Stars = 
+	    2 Stars = 
+	    3 Stars = 
+	    4 Stars = 
+	    O Stars = 
+	    B Stars = 
+	    A Stars = 
+	    F Stars = 
+	    G Stars = 
+	    K Stars = 
+	    M Stars = 
+	    Ia Stars = 
+	    Ib Stars = 
+	    II Stars = 
+	    III Stars = 
+	    IV Stars = 
+	    V Stars = 
+	    VI Stars = 
+	    VII Stars = 
+	    D Stars = 
+	    BD Stars = 
+	    Companion Stars = 
+
+--------------------------------------------------------------------------------
+Hex  Name                 UWP       Remarks                    {Ix}   (Ex)    [Cx]   N    B  Z PBG W  A    Stellar        
+---- -------------------- --------- -------------------------- ------ ------- ------ ---- -- - --- -- ---- ---------------
+1120 Ideshe               B969657-B Ni Ri                      { 2 }  (A56+2) [685B] BC   N  - 920 10 ImDv M1 V G6 V      
+--------------------------------------------------------------------------------
+Hex = 1120
+Name = Ideshe
+UWP = B969657-B
+Remarks = Ni Ri
+{Ix} = { 2 }
+(Ex) = (A56+2)
+[Cx] = [685B]
+N = BC
+B = N
+Z = -
+PBG = 920
+W = 10
+A = ImDv
+Stellar = M1 V G6 V
+--------------------------------------------------------------------------------
+Hex = 1120
+
+Name = Ideshe
+
+UWP = B969657-B
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 9
+	DIGIT	DIA(MI)	DIA(KM)
+	9	9,000	14,400
+Atmosphere = 6
+	DIGIT	DESCRIPTION	EFFECTS
+	6	Standard	
+Hydrosphere = 9
+	DIGIT	DESCRIPTION
+	9	90%
+Population = 6
+	POPULATION UNDER 9,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+Law Level = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Moderate Law	Prohibition of Pistols
+Tech Level = B
+	DIGIT		
+	B		
+
+Remarks = Ni Ri
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+	Ri		68		678			Rich	
+
+{Ix} = { 2 }
+	Starport B = +1
+	TL 11 = +1
+	Ri  = +1
+	Pop < 7 = -1
+	Importance = Normal (2)+0=2
+
+(Ex) = (A56+2)
+	Resources =  10
+	Labour =  5
+	Infrastructure =  6
+	Efficiency =  2
+	RU = 600
+
+[Cx] = [685B]
+	Homogeneity = 6
+	Acceptance = 8
+	Strangeness = 5
+	Symbols = 11
+
+N = BC
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+
+PBG = 920
+	Population Multiplier = 9
+	POPULATION UNDER 9,000,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 7 other worlds
+
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+
+Stellar = M1 V G6 V
+	Stars = 2
+
+--------------------------------------------------------------------------------
+Primary = M0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Kiddinu	B555553-C	(Temperate)
+1 = LGG (60,000 mi dia.)	S=24
+	  Ring @ Orbit ?Planetoid belt	Y000466-BWorld  (Inferno)	Y2B0000-E
+	  BigWorld	  	F266325-5 @ Orbit L
+	  RadWorld	  	Y28A000-0 @ Orbit Q
+	  Inferno	  	Y2B0000-0 @ Orbit R
+	  Inferno	  	Y2B0000-0 @ Orbit S
+	  Inferno	  	Y2B0000-0 @ Orbit T
+2 = 
+3 = LGG (70,000 mi dia.)	S=25
+	  RadWorld	  	Y289000-0 @ Orbit E
+	  OuterWorld	  	Y250000-0 @ Orbit G
+	  StormWorld	  	Y200000-0 @ Orbit H
+	  OuterWorld	  	H240479-6 @ Orbit V
+	  StormWorld	  	Y231000-0 @ Orbit Y
+4 = LGG (90,000 mi dia.)	S=27
+	  Worldlet	  	Y1994AB-5 @ Orbit F
+	  BigWorld	  	H277446-4 @ Orbit S
+5 = Planetoid belt	H000420-7
+6 = World  (Inferno)	Y2B0000-0
+7 = Planetoid belt	F00049A-3
+8 = LGG (250,000 mi dia.)	S=31
+	  RadWorld	  	Y263000-0 @ Orbit I
+	  IceWorld	  	H2204DD-9 @ Orbit T
+	  RadWorld	  	Y211000-0 @ Orbit W
+9 = 
+10 = World  (StormWorld)	Y200000-0
+	  OuterWorld	  	Y224221-8 @ Orbit G
+	  RadWorld	  	Y200000-0 @ Orbit H
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 11
+W = 11
+syscount = 1
+min = 0
+count = 9
+--------------------------------------------------------------------------------
+SDB Squadrons = X
+Starship Squadrons = X
+Defence CF = 2
+	DEFENCE
+	  Defend Starport
+	  Defend vs Invaders
+	  Go Hidden
+	TL/POP
+	====================
+	TL/Pop	6	7	8	9	A	
+	6	1	2	20	200	2000	
+	7	1	5	50	500	5000	
+	8	1	5	50	500	5000	
+	9	1	10	100	1000	10000	
+	A	1	10	100	1000	10000	
+	B	2	12	120	1200	12000	
+	C	2	12	120	1200	12000	
+	D	2	15	150	1500	15000	
+	E	2	15	150	1500	15000	
+	F	2	20	200	2000	20000	
+Troop CF = X
+Refuelling options
+	REFUELLING
+	  Refuel at Gas Giant
+--------------------------------------------------------------------------------
+Jump 0 = 1120 Ideshe               B969657-B Ni Ri                      { 2 }  (A56+2) [685B] BC   N  - 920 10 ImDv M1 V G6 V      
+--------------------------------------------------------------------------------
+Jump 1 = 1119 Daku                 C432620-A Na Ni Po                   { 0 }  (C54-4) [1615] B    S  - 804 8  ImDv K2 V           
+Jump 1 = 1219 Ramir                C66A322-B Lo Wa (Tagi)               { 0 }  (621-4) [1317] B    S  - 801 9  ImDv M2 V K8 V      
+Jump 1 = 1220 Imik                 C563303-A Lo                         { 0 }  (B21-3) [1327] B    S  - 624 9  ImDv K1 V           
+Jump 1 = 1121
+Jump 1 = 1020
+Jump 1 = 1019
+--------------------------------------------------------------------------------
+Jump 2 = 1118
+Jump 2 = 1218
+Jump 2 = 1319 Ganar                E200527-8 Ni Va                      { -3 } (A41-3) [5258] B    -  - 821 12 ImDv M0 V           
+Jump 2 = 1320
+Jump 2 = 1321
+Jump 2 = 1221
+Jump 2 = 1122
+Jump 2 = 1021
+Jump 2 = 0921 Ganiir               C423320-B Lo Po                      { 0 }  (A21-4) [1316] B    -  - 105 16 ImDv M3 V M5 V      
+Jump 2 = 0920
+Jump 2 = 0919
+Jump 2 = 1018
+--------------------------------------------------------------------------------
+Jump 3 = 1117 The Uris Belt        B000464-E As Ni Va Mr                { 1 }  (834-1) [253C] B    N  - 911 6  ImDv M1 V K5 V      
+Jump 3 = 1217 Estoff               B6B6330-C Fl Lo                      { 1 }  (721-3) [1417] B    N  - 620 11 ImDv M2 V           
+Jump 3 = 1318
+Jump 3 = 1418
+Jump 3 = 1419
+Jump 3 = 1420
+Jump 3 = 1421
+Jump 3 = 1322
+Jump 3 = 1222
+Jump 3 = 1123
+Jump 3 = 1022
+Jump 3 = 0922
+Jump 3 = 0821
+Jump 3 = 0820
+Jump 3 = 0819
+Jump 3 = 0818
+Jump 3 = 0918
+Jump 3 = 1017
+--------------------------------------------------------------------------------
+Jump 4 = 1116 Darmagu              B412312-D Ic Lo                      { 1 }  (621-3) [1419] B    -  - 901 11 ImDv M3 V K5 V      
+Jump 4 = 1216
+Jump 4 = 1317 Anik                 C541569-9 He Ni Po O:1519            { -1 } (943+1) [646A] B    -  - 211 13 ImDv M1 V           
+Jump 4 = 1417 Astira               C55248C-9 Ni Po Da                   { -1 } (832+2) [738C] B    S  A 820 11 ImDv M0 V           
+Jump 4 = 1518
+Jump 4 = 1519 Kagamira             B577A83-E Hi In Cp                   { 4 }  (K9G+1) [7E2B] BEF  N  - 525 10 ImDv G4 V           
+Jump 4 = 1520 Shulishu             A55259B-D Ni Po Da                   { 1 }  (845+3) [767F] B    -  A 410 10 ImDv M0 V K1 V      
+Jump 4 = 1521
+Jump 4 = 1522
+Jump 4 = 1422
+Jump 4 = 1323 Robbuun              A524520-E Ni                         { 1 }  (945-3) [1619] B    S  - 902 13 ImDv K0 V K7 V      
+Jump 4 = 1223
+Jump 4 = 1124
+Jump 4 = 1023
+Jump 4 = 0923 Gazzum               B549655-C Ni                         { 1 }  (A55-1) [473A] B    N  - 720 10 ImDv M2 V M2 V      
+Jump 4 = 0822
+Jump 4 = 0722
+Jump 4 = 0721
+Jump 4 = 0720
+Jump 4 = 0719
+Jump 4 = 0718
+Jump 4 = 0817
+Jump 4 = 0917
+Jump 4 = 1016
+--------------------------------------------------------------------------------
+Jump 5 = 1115
+Jump 5 = 1215 Siruga               C100559-D Ni Va                      { 0 }  (844+1) [656E] B    -  - 201 13 ImDv M0 V K3 V      
+Jump 5 = 1316
+Jump 5 = 1416
+Jump 5 = 1517
+Jump 5 = 1617
+Jump 5 = 1618
+Jump 5 = 1619 Midku                B764585-9 Ag Ni Pr                   { 1 }  (845-1) [3637] BcC  N  - 110 10 ImDv M3 V           
+Jump 5 = 1620
+Jump 5 = 1621
+Jump 5 = 1622
+Jump 5 = 1523 Ilma                 D510744-7 Na Pi Di (Qiceteu)         { -2 } (966-4) [5535] BD   S  - 601 9  ImDv M0 V           
+Jump 5 = 1423
+Jump 5 = 1324
+Jump 5 = 1224
+Jump 5 = 1125
+Jump 5 = 1024
+Jump 5 = 0924 Shugandarsii         E745322-7 Lo                         { -3 } (521-5) [1113] B    -  - 401 8  ImDv M2 V           
+Jump 5 = 0823
+Jump 5 = 0723
+Jump 5 = 0622 Beshe                E8B8888-8 Fl Ph                      { -2 } (G76-2) [8658] Be   -  - 115 12 ImDv M2 V           
+Jump 5 = 0621
+Jump 5 = 0620
+Jump 5 = 0619 Lalaki               A9B4785-D Fl                         { 2 }  (B6D+1) [593B] B    -  - 702 10 ImDv M3 V           
+Jump 5 = 0618
+Jump 5 = 0617
+Jump 5 = 0717
+Jump 5 = 0816
+Jump 5 = 0916
+Jump 5 = 1015
+--------------------------------------------------------------------------------
+Jump 6 = 1114 Gukhaga              A877576-D Ag Ni                      { 2 }  (846+1) [474C] BC   -  - 310 17 ImDv G4 V M6 V      
+Jump 6 = 1214
+Jump 6 = 1315
+Jump 6 = 1415
+Jump 6 = 1516 Duam                 E564869-6 Ri Pa Ph O:1519            { -1 } (A76+1) [9767] BcCe -  - 710 11 ImDv M1 V           
+Jump 6 = 1616
+Jump 6 = 1717 Vland                A967A9A-F Hi Cs [Vilani]             { 3 }  (D9F+5) [CD7H] BEFG N  - 310 7  ImDv F8 V           
+Jump 6 = 1718 Kirma                A797111-D Lo                         { 1 }  (A11-3) [1219] B    N  - 725 11 ImDv G8 V K2 V      
+Jump 6 = 1719 Sazisi               E586720-6 Ag Ri                      { 0 }  (967-4) [2711] BC   -  - 703 7  ImDv M0 V M2 V      
+Jump 6 = 1720
+Jump 6 = 1721
+Jump 6 = 1722 Asanik               D554356-8 Lo                         { -3 } (921-4) [2147] B    -  - 204 16 ImDv G6 V G4 V      
+Jump 6 = 1723
+Jump 6 = 1623 Etsur                D410552-A Ni                         { -1 } (943-5) [1416] B    S  - 720 7  ImDv M4 III K3 V    
+Jump 6 = 1524
+Jump 6 = 1424
+Jump 6 = 1325
+Jump 6 = 1225
+Jump 6 = 1126
+Jump 6 = 1025
+Jump 6 = 0925
+Jump 6 = 0824
+Jump 6 = 0724
+Jump 6 = 0623
+Jump 6 = 0523
+Jump 6 = 0522
+Jump 6 = 0521
+Jump 6 = 0520
+Jump 6 = 0519
+Jump 6 = 0518
+Jump 6 = 0517
+Jump 6 = 0616
+Jump 6 = 0716
+Jump 6 = 0815
+Jump 6 = 0915
+Jump 6 = 1014
+--------------------------------------------------------------------------------
+Jump 7 = 1113 Thogho               C898669-8 Ag Ni O:1112               { -1 } (A53+1) [7569] BC   -  - 920 11 ImDv M3 V           
+Jump 7 = 1213
+Jump 7 = 1314
+Jump 7 = 1414 Centra               A592541-D He Ni                      { 1 }  (D45-3) [1619] B    N  - 124 16 ImDv M1 V           
+Jump 7 = 1515 Luunbu               E8D6255-9 Lo Da                      { -2 } (511-4) [1137] B    -  A 810 13 ImDv M2 V           
+Jump 7 = 1615
+Jump 7 = 1716 Enaa                 B300859-B Na Va Ph Pi                { 2 }  (C7C+3) [9A6C] BDe  N  - 402 9  ImDv M2 V           
+Jump 7 = 1816 Shinla               C5608A9-8 De Ri Ph                   { 0 }  (H78+1) [9869] BCe  -  - 934 16 ImDv K2 V M9 V      
+Jump 7 = 1817 Tauri                A430998-F De Hi Na Po                { 3 }  (D8F+3) [9C5F] BE   -  - 420 7  ImDv K3 V           
+Jump 7 = 1818
+Jump 7 = 1819 Dusu                 C9E4487-A Ni                         { 0 }  (833+1) [445A] B    -  - 520 6  ImDv F3 V           
+Jump 7 = 1820 Kha                  A86A642-D Ni Ri Wa                   { 2 }  (E56-2) [2819] BC   -  - 824 11 ImDv K6 V           
+Jump 7 = 1821 Iikhok               B43449A-D Ni                         { 1 }  (C34+3) [657F] B    -  - 724 16 ImDv M2 V           
+Jump 7 = 1822 Kasear               A5479AE-E Hi In Cp Pz                { 4 }  (D8G+5) [DD9J] BEF  -  A 220 11 ImDv G5 V M2 V      
+Jump 7 = 1823
+Jump 7 = 1724
+Jump 7 = 1624 Zushar               C631854-A Na Po Ph                   { 1 }  (C7A-1) [6938] Be   -  - 811 14 ImDv M2 V K9 V      
+Jump 7 = 1525
+Jump 7 = 1425
+Jump 7 = 1326
+Jump 7 = 1226
+Jump 7 = 1127
+Jump 7 = 1026
+Jump 7 = 0926
+Jump 7 = 0825
+Jump 7 = 0725
+Jump 7 = 0624
+Jump 7 = 0524
+Jump 7 = 0423
+Jump 7 = 0422 Niirka               A300757-F Na Va Pi                   { 2 }  (D6E+2) [795F] BD   -  - 922 15 ImDv M9 III D       
+Jump 7 = 0421
+Jump 7 = 0420
+Jump 7 = 0419
+Jump 7 = 0422 Niirka               A300757-F Na Va Pi                   { 2 }  (D6E+2) [795F] BD   -  - 922 15 ImDv M9 III D       
+Jump 7 = 0423
+Jump 7 = 0424
+Jump 7 = 0516
+Jump 7 = 0615
+Jump 7 = 0715
+Jump 7 = 0814
+Jump 7 = 0914
+Jump 7 = 1013
+--------------------------------------------------------------------------------
+Jump 8 = 1112 Vallae               A897788-A Ag An Pi                   { 3 }  (A6C+3) [7A5A] BCD  -  - 810 13 ImDv F3 V           
+Jump 8 = 1212
+Jump 8 = 1313 Hisus                C7788BF-7 Pa Ph Pi Pz                { -1 } (A77+4) [D7AC] BcDe S  A 514 12 ImDv M0 V           
+Jump 8 = 1413
+Jump 8 = 1514
+Jump 8 = 1614
+Jump 8 = 1715
+Jump 8 = 1815
+Jump 8 = 1916 Kipii                B430222-D De Lo Po                   { 1 }  (611-3) [1319] B    N  - 202 8  ImDv M3 V           
+Jump 8 = 1917
+Jump 8 = 1918 Kusheggi             E596778-5 Ag Pi                      { -1 } (966-1) [7655] BCD  -  - 420 7  ImDv F8 V           
+Jump 8 = 1919 Khula                B575A77-E Hi In Pz Di (Khulans)      { 4 }  (D9G+4) [AE5E] BEf  N  A 510 10 ImDv M0 V           
+Jump 8 = 1920 Inkha                B797442-B Ni Pa                      { 1 }  (734-3) [1517] Bc   -  - 310 9  ImDv M0 V M4 V      
+Jump 8 = 1921
+Jump 8 = 1922
+Jump 8 = 1923 Sagida               C423965-C Hi In Na Po Mr             { 3 }  (D8E+1) [7C3A] BE   S  - 802 14 ImDv M0 V M0 V      
+Jump 8 = 1924
+Jump 8 = 1824
+Jump 8 = 1725 Kalimgar             B799667-B Ni O:1825                  { 2 }  (E56+2) [685B] B    W  - 824 13 ImDv K8 V           
+Jump 8 = 1625 Bashimus             A542568-D He Ni Po Mr                { 1 }  (945+1) [565D] B    N  - 320 12 ImDv M4 V           
+Jump 8 = 1526
+Jump 8 = 1426
+Jump 8 = 1327
+Jump 8 = 1227 Sumabaal             C432436-9 Ni Po                      { -1 } (732-2) [3348] B    S  - 501 11 ImDv M0 V M3 V      
+Jump 8 = 1128 Shakshim             CAA558B-A Fl Ni                      { 0 }  (844+2) [757C] B    S  - 301 8  ImDv M1 V M4 V      
+Jump 8 = 1027
+Jump 8 = 0927 Havland              C7939CD-A Hi In Pz                   { 3 }  (C8D+5) [DC9E] BE   -  A 301 8  ImDv M2 V M0 V      
+Jump 8 = 0826
+Jump 8 = 0726
+Jump 8 = 0625
+Jump 8 = 0525
+Jump 8 = 0424
+Jump 8 = 0324
+Jump 8 = 0323
+Jump 8 = 0322
+Jump 8 = 0321
+Jump 8 = 0320
+Jump 8 = 0319
+Jump 8 = 0318
+Jump 8 = 0317
+Jump 8 = 0316
+Jump 8 = 0415
+Jump 8 = 0515
+Jump 8 = 0614
+Jump 8 = 0714
+Jump 8 = 0813
+Jump 8 = 0913
+Jump 8 = 1012 Askhu                C554120-8 Lo                         { -2 } (511-5) [1113] B    -  - 402 9  ImDv M0 V G8 V      
+--------------------------------------------------------------------------------
+Jump 9 = 1111
+Jump 9 = 1211 Gagzoe               A585420-C Ni Pa                      { 1 }  (834-3) [1517] Bc   -  - 602 9  ImDv M2 V M3 V      
+Jump 9 = 1312 Taksar               C432345-A Lo Po                      { 0 }  (621-2) [1338] B    -  - 110 10 ImDv K4 V           
+Jump 9 = 1412 Karka                C200876-8 Na Va Ph Pi                { -1 } (B77-2) [7747] BDe  -  - 801 13 ImDv M0 V           
+Jump 9 = 1513
+Jump 9 = 1613
+Jump 9 = 1714
+Jump 9 = 1814
+Jump 9 = 1915 Giinam               C565303-A Lo                         { 0 }  (921-3) [1327] B    S  - 304 14 ImDv M3 V           
+Jump 9 = 2015
+Jump 9 = 2016 Zurrian              C563536-9 Ni Pr                      { -1 } (943-2) [4448] Bc   S  - 402 10 ImDv M1 V M1 V      
+Jump 9 = 2017 Tahaver              B769A78-B Hi (Tahavi)                { 3 }  (D9E+3) [AD5B] BE   -  - 110 13 ImDv M2 V           
+Jump 9 = 2018
+Jump 9 = 2020 Shushguum            B522577-B He Ni Po                   { 1 }  (D45+1) [565B] B    N  - 924 13 ImDv G6 V           
+Jump 9 = 2021
+Jump 9 = 2022 Emrim                D100442-9 Ni Va                      { -2 } (731-5) [1215] B    S  - 501 15 ImDv M0 V           
+Jump 9 = 2023 Zhattar              B88A240-B Lo Wa                      { 1 }  (511-3) [1316] B    -  - 410 9  ImDv M3 V           
+Jump 9 = 2024
+Jump 9 = 1925
+Jump 9 = 1825 Karfir               A753A86-F Hi Po                      { 3 }  (H9F+2) [9D4E] BE   -  - 923 12 ImDv K4 V           
+Jump 9 = 1726 Gunavarum            E553551-8 Ni Po                      { -3 } (B41-5) [1214] B    -  - 304 14 ImDv K0 V K1 V      
+Jump 9 = 1626 Lalazim              E8C4454-9 Fl Ni                      { -2 } (731-4) [2237] B    -  - 410 10 ImDv M1 V           
+Jump 9 = 1527
+Jump 9 = 1427
+Jump 9 = 1328
+Jump 9 = 1228
+Jump 9 = 1129
+Jump 9 = 1028 Apurshish            C555A64-9 Hi O:0927                  { 1 }  (H9B-1) [8B37] BE   -  - 623 17 ImDv G8 V           
+Jump 9 = 0928
+Jump 9 = 0827
+Jump 9 = 0727
+Jump 9 = 0626
+Jump 9 = 0526
+Jump 9 = 0425
+Jump 9 = 0325
+Jump 9 = 0224
+Jump 9 = 0223
+Jump 9 = 0222
+Jump 9 = 0221 Keshiil              C530833-9 De Na Po Ph                { 0 }  (C79-3) [5826] Be   -  - 220 9  ImDv M2 V           
+Jump 9 = 0220
+Jump 9 = 0219
+Jump 9 = 0218
+Jump 9 = 0217
+Jump 9 = 0216
+Jump 9 = 0315
+Jump 9 = 0414
+Jump 9 = 0514
+Jump 9 = 0613
+Jump 9 = 0713
+Jump 9 = 0812
+Jump 9 = 0912
+Jump 9 = 1011 Iren                 A8C389E-C Fl Ph Pz                   { 2 }  (F7C+5) [CA9G] Be   N  A 814 10 ImDv K7 V M3 V      

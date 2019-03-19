@@ -1,0 +1,14 @@
+Hex = 2734
+Name = Rambant
+UWP = B310113-C
+Remarks = Lo
+{Ix} = { 1 }
+(Ex) = (711-2)
+[Cx] = [1229]
+N = B
+B = -
+Z = -
+PBG = 104
+W = 11
+A = ImDv
+Stellar = F4 V K0 V

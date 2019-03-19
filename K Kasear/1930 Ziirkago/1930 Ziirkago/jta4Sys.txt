@@ -1,0 +1,14 @@
+Hex = 1930
+Name = Ziirkago
+UWP = A878654-C
+Remarks = Ag Ni
+{Ix} = { 3 }
+(Ex) = (C57+1)
+[Cx] = [493A]
+N = BC
+B = NS
+Z = -
+PBG = 613
+W = 7
+A = ImDv
+Stellar = M0 V

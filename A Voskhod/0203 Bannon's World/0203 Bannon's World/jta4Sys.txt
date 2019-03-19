@@ -1,0 +1,14 @@
+Hex = 0203
+Name = Bannon's World
+UWP = E100488-A
+Remarks = Ni Va
+{Ix} = { -1 }
+(Ex) = (832-1)
+[Cx] = [435A]
+N = B
+B = -
+Z = -
+PBG = 120
+W = 13
+A = ImDv
+Stellar = M3 V K6 V

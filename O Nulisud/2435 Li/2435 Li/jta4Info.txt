@@ -1,0 +1,80 @@
+Hex = 2435
+Name = Li
+UWP = E423856-7
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 2
+	DIGIT	DESCRIPTION	EFFECTS
+	2	VThin, Tainted	P1, S2
+Hydrosphere = 3
+	DIGIT	DESCRIPTION
+	3	30%
+Population = 8
+	POPULATION UNDER 100,000,000
+	DIGIT	DESCRIPTION	VALUE
+	8	Hundred million	00,000,000
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+Law Level = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Moderate Law	Pohibition of Machineguns
+Tech Level = 7
+	DIGIT		
+	7		
+Remarks = Na Po Ph Pi
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Po		2345	0123				Poor	
+	Ph				8			Pre High	
+	Pi		012479		78			Pre Industrial	
+{Ix} = { -2 }
+	Starport E = -1
+	TL 7 = -1
+	Importance = Unimportant (-2)+0=-2
+(Ex) = (A76-3)
+	Resources =  10
+	Labour =  7
+	Infrastructure =  6
+	Efficiency =  -3
+	RU = -1260
+[Cx] = [7646]
+	Homogeneity = 7
+	Acceptance = 6
+	Strangeness = 4
+	Symbols = 6
+N = BDe
+	CODE	RANK	TC
+	B	Knight	any
+	D	Marquis	Pi
+	e	Viscount	Ph
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 120
+	Population Multiplier = 1
+	POPULATION UNDER 100,000,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V
+	Stars = 1

@@ -1,0 +1,14 @@
+Hex = 0833
+Name = Karbarlah
+UWP = D5878A8-6
+Remarks = Ri Pa Ph
+{Ix} = { -1 }
+(Ex) = (A76-1)
+[Cx] = [8756]
+N = BcCe
+B = -
+Z = -
+PBG = 210
+W = 12
+A = ImDv
+Stellar = M1 V

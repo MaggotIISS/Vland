@@ -1,0 +1,4 @@
+E LALAKI KHARIR
+
+	WORLDS IN SUBSECTOR = 4
+	ImDv: "Third Imperium, Domain of Vland" = 4 worlds

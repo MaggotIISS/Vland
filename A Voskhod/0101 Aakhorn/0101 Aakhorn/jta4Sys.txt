@@ -1,0 +1,14 @@
+Hex = 0101
+Name = Aakhorn
+UWP = D556754-7
+Remarks = Ag
+{Ix} = { -1 }
+(Ex) = (967-3)
+[Cx] = [5635]
+N = BC
+B = -
+Z = -
+PBG = 204
+W = 11
+A = ImDv
+Stellar = F5 V G6 V

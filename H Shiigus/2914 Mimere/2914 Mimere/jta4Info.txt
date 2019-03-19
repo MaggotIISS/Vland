@@ -1,0 +1,83 @@
+Hex = 2914
+Name = Mimere
+UWP = B9B6999-D
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 9
+	DIGIT	DIA(MI)	DIA(KM)
+	9	9,000	14,400
+Atmosphere = B
+	DIGIT	DESCRIPTION	EFFECTS
+	B	Corrosive	C1 P1
+Hydrosphere = 6
+	DIGIT	DESCRIPTION
+	6	60%
+Population = 9
+	POPULATION UNDER 5,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	9	Billion	,000,000,000
+Government = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	Impersonal Bureaucracy	Impersonal agencies rule
+Law Level = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	High Law	Weapons outside the home prohibited
+Tech Level = D
+	DIGIT		
+	D		
+Remarks = Fl Hi In
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Fl		ABC	123456789A				Fluid	
+	Hi				9ABC			High Population	
+	In		012479		9ABC			industrial	
+{Ix} = { 5 }
+	Starport B = +1
+	TL 13 = +1
+	Hi  = +1
+	In  = +1
+	Importance = Important (4)+1=5
+(Ex) = (C8H+5)
+	Resources =  12
+	Labour =  8
+	Infrastructure =  17
+	Efficiency =  5
+	RU = 8160
+[Cx] = [AE6E]
+	Homogeneity = 10
+	Acceptance = 14
+	Strangeness = 6
+	Symbols = 14
+N = BEf
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+	f	Duke	In
+B = NS
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 510
+	Population Multiplier = 5
+	POPULATION UNDER 5,000,000,000
+	Planetoid Belts = 1
+	Gas Giants = 0
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-1 (planetoid belts)
+	-0 (gas giants)
+	 = 10 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V M2 V
+	Stars = 2

@@ -1,0 +1,14 @@
+Hex = 0209
+Name = Lankhi
+UWP = E746552-6
+Remarks = Ag Ni
+{Ix} = { -2 }
+(Ex) = (742-5)
+[Cx] = [1312]
+N = BC
+B = -
+Z = -
+PBG = 503
+W = 8
+A = ImDv
+Stellar = M2 V

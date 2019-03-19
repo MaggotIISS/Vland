@@ -1,0 +1,79 @@
+Hex = 1406
+Name = Timat
+UWP = B98A779-9
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 9
+	DIGIT	DIA(MI)	DIA(KM)
+	9	9,000	14,400
+Atmosphere = 8
+	DIGIT	DESCRIPTION	EFFECTS
+	8	Dense	
+Hydrosphere = A
+	DIGIT	DESCRIPTION
+	A	Water World
+Population = 7
+	POPULATION UNDER 90,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+Government = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Balkanization	Rival governments continually compete for control of the world
+Law Level = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	High Law	Weapons outside the home prohibited
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = Ri Wa
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ri		68		678			Rich	
+	Wa	56789		A				Water World	
+{Ix} = { 3 }
+	Starport B = +1
+	Ri  = +1
+	Importance = Normal (2)+1=3
+(Ex) = (C6C+4)
+	Resources =  12
+	Labour =  6
+	Infrastructure =  12
+	Efficiency =  4
+	RU = 3456
+[Cx] = [8A6A]
+	Homogeneity = 8
+	Acceptance = 10
+	Strangeness = 6
+	Symbols = 10
+N = BC
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+B = NS
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 921
+	Population Multiplier = 9
+	POPULATION UNDER 90,000,000
+	Planetoid Belts = 2
+	Gas Giants = 1
+W = 12
+	Non Stars In System = 12
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-1 (gas giants)
+	 = 8 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M0 V
+	Stars = 1

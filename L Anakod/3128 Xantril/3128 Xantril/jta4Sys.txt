@@ -1,0 +1,14 @@
+Hex = 3128
+Name = Xantril
+UWP = B676659-B
+Remarks = Ag Ni
+{Ix} = { 2 }
+(Ex) = (A56+3)
+[Cx] = [786C]
+N = BC
+B = N
+Z = -
+PBG = 520
+W = 9
+A = ImDv
+Stellar = M3 V

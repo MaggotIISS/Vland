@@ -1,0 +1,75 @@
+Hex = 2402
+Name = Kfoerudzo
+UWP = B559353-D
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 5
+	DIGIT	DESCRIPTION	EFFECTS
+	5	This	S1
+Hydrosphere = 9
+	DIGIT	DESCRIPTION
+	9	90%
+Population = 3
+	POPULATION UNDER 9,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+Law Level = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Low Law	Prohibition of Acid, Fire, Gas weapons
+Tech Level = D
+	DIGIT		
+	D		
+Remarks = Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+{Ix} = { 1 }
+	Starport B = +1
+	TL 13 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (821-2)
+	Resources =  8
+	Labour =  2
+	Infrastructure =  1
+	Efficiency =  -2
+	RU = -32
+[Cx] = [142A]
+	Homogeneity = 1
+	Acceptance = 4
+	Strangeness = 2
+	Symbols = 10
+N = -
+	No Imperial Nobles
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 921
+	Population Multiplier = 9
+	POPULATION UNDER 9,000
+	Planetoid Belts = 2
+	Gas Giants = 1
+W = 14
+	Non Stars In System = 14
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-1 (gas giants)
+	 = 10 other worlds
+A = NaVa
+	CODE	DESCRIPTION
+	NaVa	Non-Aligned, Vargr-dominated
+Stellar = M1 V
+	Stars = 1

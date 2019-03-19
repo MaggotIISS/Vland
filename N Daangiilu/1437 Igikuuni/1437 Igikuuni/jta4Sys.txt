@@ -1,0 +1,14 @@
+Hex = 1437
+Name = Igikuuni
+UWP = A797799-C
+Remarks = Ag Pi
+{Ix} = { 3 }
+(Ex) = (D6D+4)
+[Cx] = [8A6D]
+N = BCD
+B = N
+Z = -
+PBG = 522
+W = 14
+A = ImDv
+Stellar = G0 V

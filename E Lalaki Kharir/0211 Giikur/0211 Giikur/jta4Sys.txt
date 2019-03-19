@@ -1,0 +1,14 @@
+Hex = 0211
+Name = Giikur
+UWP = A689521-C
+Remarks = Ni Pr
+{Ix} = { 1 }
+(Ex) = (845-3)
+[Cx] = [1618]
+N = Bc
+B = N
+Z = -
+PBG = 910
+W = 8
+A = ImDv
+Stellar = M2 V M9 V

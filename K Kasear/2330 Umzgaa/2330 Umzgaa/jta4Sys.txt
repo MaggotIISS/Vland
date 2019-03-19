@@ -1,0 +1,14 @@
+Hex = 2330
+Name = Umzgaa
+UWP = C000311-C
+Remarks = As Lo Va
+{Ix} = { 0 }
+(Ex) = (621-4)
+[Cx] = [1318]
+N = B
+B = -
+Z = -
+PBG = 710
+W = 15
+A = ImDv
+Stellar = M3 V

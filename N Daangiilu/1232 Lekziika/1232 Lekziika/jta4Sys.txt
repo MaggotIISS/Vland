@@ -1,0 +1,14 @@
+Hex = 1232
+Name = Lekziika
+UWP = C885566-9
+Remarks = Ag Ni Ga Pr O:1334
+{Ix} = { 0 }
+(Ex) = (944-1)
+[Cx] = [4548]
+N = BcC
+B = -
+Z = -
+PBG = 620
+W = 10
+A = ImDv
+Stellar = K9 V

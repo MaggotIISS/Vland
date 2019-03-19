@@ -1,0 +1,14 @@
+Hex = 1032
+Name = Umaanshar
+UWP = D432566-9
+Remarks = Ni Po O:0933
+{Ix} = { -2 }
+(Ex) = (C42-3)
+[Cx] = [4348]
+N = B
+B = S
+Z = -
+PBG = 823
+W = 10
+A = ImDv
+Stellar = K6 V K2 V

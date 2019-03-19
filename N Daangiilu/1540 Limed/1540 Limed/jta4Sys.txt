@@ -1,0 +1,14 @@
+Hex = 1540
+Name = Limed
+UWP = B430689-B
+Remarks = De Na Ni Po
+{Ix} = { 1 }
+(Ex) = (C55+2)
+[Cx] = [776C]
+N = B
+B = -
+Z = -
+PBG = 413
+W = 11
+A = ImDv
+Stellar = M2 V

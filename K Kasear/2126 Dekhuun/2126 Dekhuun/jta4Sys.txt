@@ -1,0 +1,14 @@
+Hex = 2126
+Name = Dekhuun
+UWP = B578797-A
+Remarks = Ag Pi
+{Ix} = { 3 }
+(Ex) = (B6C+3)
+[Cx] = [7A5A]
+N = BCD
+B = N
+Z = -
+PBG = 120
+W = 13
+A = ImDv
+Stellar = M3 V

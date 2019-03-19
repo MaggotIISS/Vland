@@ -1,0 +1,77 @@
+Hex = 0221
+Name = Keshiil
+UWP = C530833-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 3
+	DIGIT	DESCRIPTION	EFFECTS
+	3	VThin	S2
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 8
+	POPULATION UNDER 200,000,000
+	DIGIT	DESCRIPTION	VALUE
+	8	Hundred million	00,000,000
+Government = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Self-Perpetuating Oligarchy	Rule by a restricted minority with little or no input from the masses
+Law Level = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Low Law	Prohibition of Acid, Fire, Gas weapons
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = De Na Po Ph
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	De	23456789	0					Desert	
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Po		2345	0123				Poor	
+	Ph				8			Pre High	
+{Ix} = { 0 }
+	Importance = Unimportant (0)+0=0
+(Ex) = (C79-3)
+	Resources =  12
+	Labour =  7
+	Infrastructure =  9
+	Efficiency =  -3
+	RU = -2268
+[Cx] = [5826]
+	Homogeneity = 5
+	Acceptance = 8
+	Strangeness = 2
+	Symbols = 6
+N = Be
+	CODE	RANK	TC
+	B	Knight	any
+	e	Viscount	Ph
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 220
+	Population Multiplier = 2
+	POPULATION UNDER 200,000,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 9
+	Non Stars In System = 9
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 V
+	Stars = 1

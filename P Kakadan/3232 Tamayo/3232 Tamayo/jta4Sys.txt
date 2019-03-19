@@ -1,0 +1,14 @@
+Hex = 3232
+Name = Tamayo
+UWP = A779568-C
+Remarks = Ni O:2931
+{Ix} = { 1 }
+(Ex) = (845+1)
+[Cx] = [565C]
+N = B
+B = -
+Z = -
+PBG = 601
+W = 11
+A = ImDv
+Stellar = M0 V G6 V M6 V

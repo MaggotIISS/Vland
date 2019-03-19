@@ -1,0 +1,44 @@
+Primary = M3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Zanski	B585530-B	(Hot)LGG (70,000 mi dia.)	S=25
+	  BigWorld	  	GHC5100-8 @ Orbit L
+	  Inferno	  	Y7B0000-0 @ Orbit W
+1 = World  (Worldlet)	F299459-8
+2 = World  (Worldlet)	H08A300-6
+	  StormWorld	  	Y703000-0 @ Orbit S
+3 = World  (BigWorld)	YJ10456-3
+4 = World  (BigWorld)	HHB6445-6
+5 = Planetoid belt	F000466-5
+6 = World  (BigWorld)	GG40420-6
+	  OuterWorld	  	H5A1335-A @ Orbit I
+	  OuterWorld	  	G000498-8 @ Orbit J
+	  BigWorld	  	FH8A485-7 @ Orbit S
+	  StormWorld	  	Y601000-0 @ Orbit T
+7 = World  (BigWorld)	HA46468-A
+8 = Planetoid belt	F00049B-4
+9 = 
+10 = World  (StormWorld)	Y600000-0
+11 = 
+12 = 
+13 = World  (Worldlet)	F034420-9
+	  Worldlet	  	Y258455-6 @ Orbit F
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 9
+syscount = 1
+min = 0
+W = 12
+Extra Stars = 0
+count = 11

@@ -1,0 +1,14 @@
+Hex = 2227
+Name = Zikurag
+UWP = A536585-E
+Remarks = Ni
+{Ix} = { 1 }
+(Ex) = (D45-1)
+[Cx] = [363C]
+N = B
+B = -
+Z = -
+PBG = 524
+W = 15
+A = ImDv
+Stellar = F8 V

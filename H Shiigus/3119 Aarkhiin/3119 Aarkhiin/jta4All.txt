@@ -1,0 +1,57 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Aarkhiin	D57769C-5	(Temperate)
+	  Worldlet	  	Y078430-3 @ Orbit E
+	  StormWorld	  	Y226000-0 @ Orbit ELGG (60,000 mi dia.)	S=2F
+	  Ring @ Orbit ?LGG (70,000 mi dia.)	S=2P
+	  Worldlet	  	F210564-4 @ Orbit R
+	  StormWorld	  	F800167-2 @ Orbit U
+	  StormWorld	  	FA04175-4 @ Orbit V
+1 = Planetoid belt	G000433-4World  (Hospitable)	F646572-4
+	  Inferno	  	Y5B0000-0 @ Orbit OWorld  (Worldlet)	H0A65A5-4
+2 = LGG (80,000 mi dia.)	S=26
+	  OuterWorld	  	H2605A9-3 @ Orbit E
+3 = LGG (125,000 mi dia.)	S=28
+	  RadWorld	  	Y920000-0 @ Orbit E
+	  IceWorld	  	G630244-4 @ Orbit F
+	  Worldlet	  	G041544-4 @ Orbit G
+	  OuterWorld	  	Y535000-0 @ Orbit Q
+	  BigWorld	  	GF30451-4 @ Orbit U
+4 = Planetoid belt	Y000475-4World  (StormWorld)	Y633000-0
+	  IceWorld	  	Y650596-4 @ Orbit O
+	  StormWorld	  	YB00000-0 @ Orbit T
+	  Worldlet	  	Y365557-4 @ Orbit V
+5 = LGG (90,000 mi dia.)	S=27
+	  OuterWorld	  	G250574-4 @ Orbit C
+6 = 
+7 = 
+8 = World  (BigWorld)	GG50504-4
+	  IceWorld	  	Y6B0441-4 @ Orbit H
+	  IceWorld	  	H352343-4 @ Orbit P
+	  OuterWorld	  	H885534-4 @ Orbit V
+9 = 
+10 = World  (Hospitable)	F6895BB-4
+	  IceWorld	  	Y77158C-4 @ Orbit G
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 12
+W = 13
+syscount = 1
+min = 0
+count = 8

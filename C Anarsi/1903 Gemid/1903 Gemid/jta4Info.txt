@@ -1,0 +1,80 @@
+Hex = 1903
+Name = Gemid
+UWP = A423979-E
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 2
+	DIGIT	DESCRIPTION	EFFECTS
+	2	VThin, Tainted	P1, S2
+Hydrosphere = 3
+	DIGIT	DESCRIPTION
+	3	30%
+Population = 9
+	POPULATION UNDER 7,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	9	Billion	,000,000,000
+Government = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Balkanization	Rival governments continually compete for control of the world
+Law Level = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	High Law	Weapons outside the home prohibited
+Tech Level = E
+	DIGIT		
+	E		
+Remarks = Hi In Na Po
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	In		012479		9ABC			industrial	
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Po		2345	0123				Poor	
+{Ix} = { 4 }
+	Starport A = +1
+	TL 14 = +1
+	Hi  = +1
+	In  = +1
+	Importance = Important (4)+0=4
+(Ex) = (H8G+5)
+	Resources =  17
+	Labour =  8
+	Infrastructure =  16
+	Efficiency =  5
+	RU = 10880
+[Cx] = [AD6F]
+	Homogeneity = 10
+	Acceptance = 13
+	Strangeness = 6
+	Symbols = 15
+N = -
+	No Imperial Nobles
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 724
+	Population Multiplier = 7
+	POPULATION UNDER 7,000,000,000
+	Planetoid Belts = 2
+	Gas Giants = 4
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-4 (gas giants)
+	 = 3 other worlds
+A = CsIm
+	CODE	DESCRIPTION
+	CsIm	Client State, Third Imperium
+Stellar = K0 V
+	Stars = 1

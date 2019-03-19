@@ -1,0 +1,14 @@
+Hex = 1833
+Name = Shadi
+UWP = B597445-B
+Remarks = Ni Pa
+{Ix} = { 1 }
+(Ex) = (734-1)
+[Cx] = [2539]
+N = Bc
+B = N
+Z = -
+PBG = 901
+W = 11
+A = ImDv
+Stellar = G6 V M3 V

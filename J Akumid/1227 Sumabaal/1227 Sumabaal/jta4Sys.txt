@@ -1,0 +1,14 @@
+Hex = 1227
+Name = Sumabaal
+UWP = C432436-9
+Remarks = Ni Po
+{Ix} = { -1 }
+(Ex) = (732-2)
+[Cx] = [3348]
+N = B
+B = S
+Z = -
+PBG = 501
+W = 11
+A = ImDv
+Stellar = M0 V M3 V

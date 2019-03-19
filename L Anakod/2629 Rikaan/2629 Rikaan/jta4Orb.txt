@@ -1,0 +1,47 @@
+Primary = M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Rikaan	D8D8898-7	(Temperate)
+	Orbits LGG (90,000 mi dia.)	S=27 @ orbit R
+	  Ring @ Orbit ?
+1 = World  (StormWorld)	H720374-6
+	  Ring @ Orbit ?
+2 = World  (Worldlet)	F36979C-6
+	  OuterWorld	  	F100556-6 @ Orbit H
+3 = 
+4 = World  (BigWorld)	YH30251-6
+	  Worldlet	  	F089252-6 @ Orbit I
+	  StormWorld	  	H346132-6 @ Orbit Q
+	  RadWorld	  	Y984000-0 @ Orbit X
+5 = Planetoid belt	G00069E-6
+6 = World  (BigWorld)	FI10765-4
+	  Ring @ Orbit ?
+7 = 
+8 = World  (StormWorld)	YA00398-4
+	  Ring @ Orbit ?
+9 = 
+10 = World  (Hospitable)	H000145-6
+	  StormWorld	  	Y7003CE-6 @ Orbit E
+	  IceWorld	  	H000421-6 @ Orbit Y
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = World  (Worldlet)	H373246-6
+17 = 
+18 = 
+19 = 
+Unfilled = 11
+syscount = 1
+min = 0
+W = 9
+Extra Stars = 0
+count = 9

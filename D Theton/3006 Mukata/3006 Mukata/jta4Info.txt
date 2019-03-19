@@ -1,0 +1,77 @@
+Hex = 3006
+Name = Mukata
+UWP = B310456-E
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 3
+	DIGIT	DIA(MI)	DIA(KM)
+	3	3,000	4,800
+Atmosphere = 1
+	DIGIT	DESCRIPTION	EFFECTS
+	1	Trace	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 4
+	POPULATION UNDER 10,000
+	DIGIT	DESCRIPTION	VALUE
+	4	Ten thousand	0,000
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+Law Level = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Moderate Law	Pohibition of Machineguns
+Tech Level = E
+	DIGIT		
+	E		
+Remarks = Ni Da
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+	Da				0123456			Dangerous	Amber Zone
+{Ix} = { 1 }
+	Starport B = +1
+	TL 14 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (734+1)
+	Resources =  7
+	Labour =  3
+	Infrastructure =  4
+	Efficiency =  1
+	RU = 84
+[Cx] = [354D]
+	Homogeneity = 3
+	Acceptance = 5
+	Strangeness = 4
+	Symbols = 13
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 101
+	Population Multiplier = 1
+	POPULATION UNDER 10,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 6
+	Non Stars In System = 6
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 4 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = F0 V M3 V
+	Stars = 2

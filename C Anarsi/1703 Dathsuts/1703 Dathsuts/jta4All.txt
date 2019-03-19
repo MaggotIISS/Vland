@@ -1,0 +1,57 @@
+Primary = F7 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	F	Yellow-White	6,000-7,500
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 3
+	d1000Limit = 7
+	Min Orbit = 0
+	HZ =  4
+0 = World  (Inferno)	Y0B0000-0
+	  Worldlet	  	H012145-9 @ Orbit L
+1 = STAR M0 VWorld  (Hospitable)	F089189-7
+	  Ring @ Orbit ?
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	NO Orbits
+2 = World  (Hospitable)	H044176-7
+	  Ring @ Orbit ?
+3 = World  (Worldlet)	G086154-8
+	  Worldlet	  	H063123-8 @ Orbit G
+4 = Mainworld	Dathsuts	C310200-A	(Temperate)
+	  RadWorld	  	Y063000-0 @ Orbit F
+	  StormWorld	  	Y061000-0 @ Orbit V
+5 = 
+6 = LGG (220,000 mi dia.)	S=30
+	  BigWorld	  	G0A6178-8 @ Orbit J
+	  StormWorld	  	Y000000-0 @ Orbit R
+	  Worldlet	  	Y040125-9 @ Orbit S
+	  BigWorld	  	H010146-9 @ Orbit V
+7 = World  (Inferno)	Y0B0000-0
+	  OuterWorld	  	F000152-7 @ Orbit R
+8 = 
+9 = 
+10 = 
+11 = World  (Hospitable)	Y089141-7
+	  OuterWorld	  	Y086144-4 @ Orbit G
+	  IceWorld	  	F040198-9 @ Orbit Q
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 12
+W = 8
+syscount = 2
+min = 0
+count = 8

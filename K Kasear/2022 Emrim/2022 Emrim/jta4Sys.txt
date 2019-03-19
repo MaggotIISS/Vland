@@ -1,0 +1,14 @@
+Hex = 2022
+Name = Emrim
+UWP = D100442-9
+Remarks = Ni Va
+{Ix} = { -2 }
+(Ex) = (731-5)
+[Cx] = [1215]
+N = B
+B = S
+Z = -
+PBG = 501
+W = 15
+A = ImDv
+Stellar = M0 V

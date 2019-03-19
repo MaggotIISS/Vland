@@ -1,0 +1,68 @@
+Primary = K9 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Inandir	C676AE9-C	(Hot)LGG (220,000 mi dia.)	S=30
+	  StormWorld	  	Y555000-0 @ Orbit B
+	  BigWorld	  	HC00530-7 @ Orbit D
+	  RadWorld	  	YA66000-0 @ Orbit F
+	  RadWorld	  	YC53000-0 @ Orbit HWorld  (BigWorld)	HG40579-H
+	  Inferno	  	Y4B0000-0 @ Orbit I
+	  Worldlet	  	Y131731-3 @ Orbit K
+	  Worldlet	  	G166666-8 @ Orbit R
+	  BigWorld	  	YB777AA-7 @ Orbit S
+	  Worldlet	  	F133647-9 @ Orbit DWorld  (StormWorld)	H430198-T
+	  BigWorld	  	YG5A434-8 @ Orbit U
+	  BigWorld	  	FA227AA-A @ Orbit V
+1 = World  (Hospitable)	F736213-2
+2 = World  (Hospitable)	Y785220-6
+	  IceWorld	  	Y000779-8 @ Orbit TWorld  (Worldlet)	Y28A767-Q
+	  OuterWorld	  	H1009B8-9 @ Orbit W
+3 = 
+4 = 
+5 = 
+6 = Planetoid belt	H000477-7
+7 = 
+8 = World  (Hospitable)	H58A586-5
+	  Ring @ Orbit ?
+9 = World  (Hospitable)	Y442749-A
+10 = STAR M0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  7
+	HZ =  -1
+	10-0 = 
+	10-1 = 
+	10-2 = 
+	10-3 = 
+	10-4 = 
+	10-5 = 
+	10-6 = 
+	10-7 = 
+11 = World  (RadWorld)	Y853000-0
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 12
+syscount = 2
+min = 0
+W = 11
+Extra Stars = 1
+count = 8

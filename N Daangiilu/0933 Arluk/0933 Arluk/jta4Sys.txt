@@ -1,0 +1,14 @@
+Hex = 0933
+Name = Arluk
+UWP = C41198B-C
+Remarks = Hi Ic In Na
+{Ix} = { 3 }
+(Ex) = (F8E+5)
+[Cx] = [BC7E]
+N = BE
+B = -
+Z = -
+PBG = 613
+W = 11
+A = ImDv
+Stellar = M2 V

@@ -1,0 +1,14 @@
+Hex = 3208
+Name = Sardia
+UWP = D436554-A
+Remarks = Ni
+{Ix} = { -1 }
+(Ex) = (D43-3)
+[Cx] = [3438]
+N = B
+B = -
+Z = -
+PBG = 433
+W = 11
+A = ImDv
+Stellar = K6 V

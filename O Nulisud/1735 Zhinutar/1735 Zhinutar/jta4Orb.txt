@@ -1,0 +1,89 @@
+Primary = G6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  3
+0 = LGG (90,000 mi dia.)	S=27
+	  BigWorld	  	FG3345A-8 @ Orbit I
+	  BigWorld	  	HE23466-8 @ Orbit J
+	  Worldlet	  	Y024497-6 @ Orbit K
+	  InnerWorld	  	Y376000-0 @ Orbit R
+	  RadWorld	  	Y530000-0 @ Orbit U
+1 = LGG (70,000 mi dia.)	S=25
+	  RadWorld	  	Y630000-0 @ Orbit C
+	  RadWorld	  	Y452000-0 @ Orbit F
+	  Worldlet	  	F000496-9 @ Orbit H
+	  RadWorld	  	Y8A6000-0 @ Orbit W
+2 = LGG (60,000 mi dia.)	S=24
+	  Ring @ Orbit ?World  (Worldlet)	G055411-E
+	  Inferno	  	Y8B0000-0 @ Orbit J
+	  StormWorld	  	Y360000-0 @ Orbit T
+	  RadWorld	  	Y97A000-0 @ Orbit V
+3 = Mainworld	Zhinutar	A31259C-F	(Temperate)
+	Orbits LGG (250,000 mi dia.)	S=31 @ orbit R
+	  StormWorld	  	Y844000-0 @ Orbit E
+	  RadWorld	  	Y700000-0 @ Orbit G
+	  BigWorld	  	YH874BC-5 @ Orbit L
+4 = LGG (180,000 mi dia.)	S=29
+	  Worldlet	  	G387310-B @ Orbit E
+	  Worldlet	  	H044300-3 @ Orbit F
+	  RadWorld	  	Y998000-0 @ Orbit G
+	  StormWorld	  	Y600000-0 @ Orbit IWorld  (StormWorld)	Y200000-H
+	  BigWorld	  	HB25104-5 @ Orbit I
+	  Worldlet	  	G024464-2 @ Orbit Q
+	  BigWorld	  	HCA5455-2 @ Orbit R
+	  Inferno	  	Y9B0000-0 @ Orbit S
+	  Inferno	  	Y4B0000-0 @ Orbit V
+5 = 
+6 = 
+7 = 
+8 = World  (StormWorld)	Y600000-0
+	  RadWorld	  	YC9A000-0 @ Orbit Q
+	  RadWorld	  	Y7B6000-0 @ Orbit U
+	  OuterWorld	  	H324344-9 @ Orbit X
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = World  (StormWorld)	Y600000-0
+16 = STAR M0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  13
+	HZ =  -1
+	16-0 = 
+	16-1 = 
+	16-2 = 
+	16-3 = 
+	16-4 = 
+	16-5 = 
+	16-6 = 
+	16-7 = 
+	16-8 = 
+	16-9 = 
+	16-10 = 
+	16-11 = 
+	16-12 = 
+	16-13 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 12
+syscount = 2
+min = 0
+W = 9
+Extra Stars = 1
+count = 8

@@ -1,0 +1,14 @@
+Hex = 2739
+Name = Sg'aa
+UWP = AAB5895-D
+Remarks = Fl Ph
+{Ix} = { 2 }
+(Ex) = (E7D+1)
+[Cx] = [6A3B]
+N = Be
+B = -
+Z = -
+PBG = 613
+W = 11
+A = ImDv
+Stellar = K6 V M4 V

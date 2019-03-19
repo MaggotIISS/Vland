@@ -1,0 +1,14 @@
+Hex = 0635
+Name = Savvud
+UWP = C545499-9
+Remarks = Ni Pa
+{Ix} = { -1 }
+(Ex) = (732+1)
+[Cx] = [536A]
+N = Bc
+B = S
+Z = -
+PBG = 601
+W = 14
+A = ImDv
+Stellar = M1 V

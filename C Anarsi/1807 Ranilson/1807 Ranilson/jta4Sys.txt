@@ -1,0 +1,14 @@
+Hex = 1807
+Name = Ranilson
+UWP = C999421-A
+Remarks = Ni
+{Ix} = { 0 }
+(Ex) = (733-4)
+[Cx] = [1416]
+N = B
+B = S
+Z = -
+PBG = 301
+W = 10
+A = ImDv
+Stellar = K1 V G5 V

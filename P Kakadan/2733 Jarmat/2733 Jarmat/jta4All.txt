@@ -1,0 +1,62 @@
+Primary = M0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Jarmat	A310122-D	(Temperate)LGG (250,000 mi dia.)	S=31
+	  Worldlet	  	Y28A000-0 @ Orbit J
+	  BigWorld	  	YC10000-0 @ Orbit L
+	  Hospitable	  	Y9A5000-0 @ Orbit V
+1 = LGG (125,000 mi dia.)	S=28
+	  Inferno	  	Y0B0000-0 @ Orbit E
+	  Worldlet	  	Y000000-0 @ Orbit G
+	  Worldlet	  	Y032000-0 @ Orbit I
+	  StormWorld	  	Y000000-0 @ Orbit EWorld  (BigWorld)	YIA6000-J
+	  Worldlet	  	Y300000-0 @ Orbit K
+	  Worldlet	  	Y230000-0 @ Orbit R
+	  StormWorld	  	YB00000-0 @ Orbit S
+	  StormWorld	  	Y821000-0 @ Orbit OWorld  (RadWorld)	Y822000-U
+	  StormWorld	  	Y845000-0 @ Orbit W
+	  Hospitable	  	Y783000-0 @ Orbit X
+2 = SGG (40,000 mi dia.)	S=22
+	  Worldlet	  	Y09A000-0 @ Orbit G
+	  IceWorld	  	Y350000-0 @ Orbit R
+	  StormWorld	  	Y900000-0 @ Orbit S
+	  Worldlet	  	Y063000-0 @ Orbit T
+	  RadWorld	  	Y620000-0 @ Orbit U
+3 = LGG (70,000 mi dia.)	S=25
+	  StormWorld	  	Y000000-0 @ Orbit G
+	  Worldlet	  	Y020000-0 @ Orbit Q
+	  BigWorld	  	Y030000-0 @ Orbit V
+	  RadWorld	  	Y054000-0 @ Orbit W
+	  IceWorld	  	Y000000-0 @ Orbit Y
+4 = Planetoid belt	Y000000-0
+5 = 
+6 = 
+7 = 
+8 = 
+9 = 
+10 = 
+11 = World  (RadWorld)	Y922000-0
+	  Worldlet	  	Y154000-0 @ Orbit F
+	  RadWorld	  	Y966000-0 @ Orbit G
+	  Worldlet	  	Y067000-0 @ Orbit I
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 14
+syscount = 1
+min = 0
+W = 9
+Extra Stars = 0
+count = 6

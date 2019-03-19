@@ -1,0 +1,76 @@
+Hex = 0705
+Name = Shukhuge
+UWP = C727830-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+Atmosphere = 2
+	DIGIT	DESCRIPTION	EFFECTS
+	2	VThin, Tainted	P1, S2
+Hydrosphere = 7
+	DIGIT	DESCRIPTION
+	7	70%
+Population = 8
+	POPULATION UNDER 100,000,000
+	DIGIT	DESCRIPTION	VALUE
+	8	Hundred million	00,000,000
+Government = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Self-Perpetuating Oligarchy	Rule by a restricted minority with little or no input from the masses
+Law Level = 0
+	DIGIT	DESCRIPTION	NOTE
+	0	No Law	No prohibitions
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = Ph Pi
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ph				8			Pre High	
+	Pi		012479		78			Pre Industrial	
+{Ix} = { 0 }
+	Importance = Unimportant (0)+0=0
+(Ex) = (B79-4)
+	Resources =  11
+	Labour =  7
+	Infrastructure =  9
+	Efficiency =  -4
+	RU = -2772
+[Cx] = [3814]
+	Homogeneity = 3
+	Acceptance = 8
+	Strangeness = 1
+	Symbols = 4
+N = BDe
+	CODE	RANK	TC
+	B	Knight	any
+	D	Marquis	Pi
+	e	Viscount	Ph
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 110
+	Population Multiplier = 1
+	POPULATION UNDER 100,000,000
+	Planetoid Belts = 1
+	Gas Giants = 0
+W = 11
+	Non Stars In System = 11
+	-1 (mainworld)
+	-1 (planetoid belts)
+	-0 (gas giants)
+	 = 9 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V
+	Stars = 1

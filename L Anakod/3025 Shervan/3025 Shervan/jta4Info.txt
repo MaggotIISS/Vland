@@ -1,0 +1,80 @@
+Hex = 3025
+Name = Shervan
+UWP = E545785-6
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 4
+	DIGIT	DESCRIPTION	EFFECTS
+	4	Thin, Tainted	P1, S1
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+Population = 7
+	POPULATION UNDER 20,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+Government = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+Tech Level = 6
+	DIGIT		
+	6		
+Remarks = Ag Pi Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ag		456789	45678	567			Agricultural	
+	Pi		012479		78			Pre Industrial	
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { -1 }
+	Starport E = -1
+	TL 6 = -1
+	Ag  = +1
+	Importance = Unimportant (-1)+0=-1
+(Ex) = (966-3)
+	Resources =  9
+	Labour =  6
+	Infrastructure =  6
+	Efficiency =  -3
+	RU = -972
+[Cx] = [5634]
+	Homogeneity = 5
+	Acceptance = 6
+	Strangeness = 3
+	Symbols = 4
+N = BCD
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+	D	Marquis	Pi
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 224
+	Population Multiplier = 2
+	POPULATION UNDER 20,000,000
+	Planetoid Belts = 2
+	Gas Giants = 4
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-4 (gas giants)
+	 = 3 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G2 V K6 V
+	Stars = 2

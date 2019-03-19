@@ -1,0 +1,14 @@
+Hex = 2507
+Name = Shunisar
+UWP = D556502-8
+Remarks = Ag Ni
+{Ix} = { -2 }
+(Ex) = (842-5)
+[Cx] = [1314]
+N = BC
+B = -
+Z = -
+PBG = 301
+W = 8
+A = ImDv
+Stellar = M3 V M6 V

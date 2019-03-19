@@ -1,0 +1,14 @@
+Hex = 1410
+Name = Zentove
+UWP = C8A3587-9
+Remarks = Fl Ni
+{Ix} = { -1 }
+(Ex) = (943-1)
+[Cx] = [5459]
+N = B
+B = S
+Z = -
+PBG = 720
+W = 10
+A = ImDv
+Stellar = K3 V G4 V

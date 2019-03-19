@@ -1,0 +1,14 @@
+Hex = 2122
+Name = Lekkon
+UWP = B540510-B
+Remarks = De He Ni Po
+{Ix} = { 1 }
+(Ex) = (945-3)
+[Cx] = [1616]
+N = B
+B = S
+Z = -
+PBG = 902
+W = 12
+A = ImDv
+Stellar = K8 V M1 V

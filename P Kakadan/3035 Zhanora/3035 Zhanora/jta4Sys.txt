@@ -1,0 +1,14 @@
+Hex = 3035
+Name = Zhanora
+UWP = D651754-7
+Remarks = Po
+{Ix} = { -2 }
+(Ex) = (966-4)
+[Cx] = [5535]
+N = B
+B = S
+Z = -
+PBG = 101
+W = 7
+A = ImDv
+Stellar = G2 V M3 V

@@ -1,0 +1,14 @@
+Hex = 1726
+Name = Gunavarum
+UWP = E553551-8
+Remarks = Ni Po
+{Ix} = { -3 }
+(Ex) = (B41-5)
+[Cx] = [1214]
+N = B
+B = -
+Z = -
+PBG = 304
+W = 14
+A = ImDv
+Stellar = K0 V K1 V

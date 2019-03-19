@@ -1,0 +1,14 @@
+Hex = 1932
+Name = Sharan
+UWP = C765323-9
+Remarks = Lo Ga
+{Ix} = { -1 }
+(Ex) = (B21-4)
+[Cx] = [1226]
+N = B
+B = S
+Z = -
+PBG = 124
+W = 9
+A = ImDv
+Stellar = G8 V

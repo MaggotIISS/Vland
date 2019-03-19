@@ -1,0 +1,14 @@
+Hex = 1206
+Name = Kummus
+UWP = C434520-9
+Remarks = Ni
+{Ix} = { -1 }
+(Ex) = (943-5)
+[Cx] = [1414]
+N = B
+B = S
+Z = -
+PBG = 702
+W = 8
+A = ImDv
+Stellar = M1 V

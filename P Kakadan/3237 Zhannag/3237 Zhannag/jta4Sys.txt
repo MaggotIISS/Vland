@@ -1,0 +1,14 @@
+Hex = 3237
+Name = Zhannag
+UWP = C534373-A
+Remarks = Lo
+{Ix} = { 0 }
+(Ex) = (C21-3)
+[Cx] = [1327]
+N = B
+B = S
+Z = -
+PBG = 634
+W = 13
+A = ImDv
+Stellar = G8 V

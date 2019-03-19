@@ -1,0 +1,14 @@
+Hex = 3025
+Name = Shervan
+UWP = E545785-6
+Remarks = Ag Pi Pz
+{Ix} = { -1 }
+(Ex) = (966-3)
+[Cx] = [5634]
+N = BCD
+B = -
+Z = A
+PBG = 224
+W = 10
+A = ImDv
+Stellar = G2 V K6 V

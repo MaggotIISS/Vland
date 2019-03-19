@@ -1,0 +1,14 @@
+Hex = 0105
+Name = Gikkon
+UWP = E543500-8
+Remarks = Ni Po
+{Ix} = { -3 }
+(Ex) = (C41-5)
+[Cx] = [1213]
+N = B
+B = -
+Z = -
+PBG = 932
+W = 11
+A = ImDv
+Stellar = G8 V G0 V

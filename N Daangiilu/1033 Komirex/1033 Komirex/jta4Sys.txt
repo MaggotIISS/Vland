@@ -1,0 +1,14 @@
+Hex = 1033
+Name = Komirex
+UWP = C200263-9
+Remarks = Lo Va O:0933
+{Ix} = { -1 }
+(Ex) = (611-4)
+[Cx] = [1126]
+N = B
+B = S
+Z = -
+PBG = 820
+W = 7
+A = ImDv
+Stellar = G7 V F8 V

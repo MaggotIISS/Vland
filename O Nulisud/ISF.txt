@@ -1,0 +1,231 @@
+Vland/O Nulisud
+
+---HI POP TARGET---
+1740 Glanidarn - D4359CE-A
+	SDB Squadrons = 100
+	Starship Squadrons = 2
+	Troop CF = 20
+	Defence CF = 1000
+  TROOP FORCES
+0001-2110-20(5)-A
+
+
+
+1839 Kordanor - D778796-6
+	Defence CF = 2
+
+1933 Kaskar - C673664-7
+	Defence CF = 1
+
+1936 Ekhin - E400673-7
+	Defence CF = 1
+
+1937 Nulisud - A8A368A-D
+	Defence CF = 2
+
+2032 Vuldaan - C522765-9
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 10
+  TROOP FORCES
+0001-0000-1(1)-9
+
+
+
+---HI POP TARGET---
+2035 Hykluitt - B5409BA-C
+	SDB Squadrons = 120
+	Starship Squadrons = 2
+	Troop CF = 50
+	Defence CF = 1200
+  TROOP FORCES
+0001-2112-40(5)-C
+0002-0112-8(1)-C
+0003-0002-2(1)-C
+
+
+
+---HI POP TARGET---
+2138 Istuary - B582ABA-E
+	SDB Squadrons = 1500
+	Starship Squadrons = 5
+	Troop CF = 1000
+	Defence CF = 15000
+  TROOP FORCES
+0001-6112-800(100)-E
+0002-6002-200(100)-E
+
+
+
+2139 Zolo - C6286BB-9
+	Defence CF = 1
+
+---HI POP TARGET---
+2233 Segikin - D768A77-7
+	SDB Squadrons = 500
+	Troop CF = 100
+	Defence CF = 5000
+  TROOP FORCES
+0001-6000-100(100)-7
+
+
+
+2236 Gaarid - E543746-6
+	Defence CF = 2
+
+2240 Bakor - B878869-8
+	SDB Squadrons = 5
+	Troop CF = 5
+	Defence CF = 50
+  TROOP FORCES
+0001-0110-4(1)-8
+0002-0000-1(1)-8
+
+
+
+2335 Miiliinlur - B422665-C
+	Defence CF = 2
+
+2340 Orguk - E545632-6
+	Defence CF = 1
+
+---HI POP TARGET---
+2431 Dusekhip - B633964-D
+	SDB Squadrons = 150
+	Starship Squadrons = 3
+	Troop CF = 100
+	Defence CF = 1500
+  TROOP FORCES
+0001-3112-80(10)-D
+0002-3002-20(10)-D
+
+
+
+2432 Korm - B987867-A
+	SDB Squadrons = 10
+	Starship Squadrons = 1
+	Troop CF = 5
+	Defence CF = 100
+  TROOP FORCES
+0001-0102-4(1)-A
+0002-0000-1(1)-A
+
+
+
+2433 Ashuugakher - C310899-8
+	SDB Squadrons = 5
+	Troop CF = 5
+	Defence CF = 50
+  TROOP FORCES
+0001-0002-2(1)-8
+0002-0002-2(1)-8
+0003-0000-1(1)-8
+
+
+
+2435 Li - E423856-7
+	SDB Squadrons = 5
+	Troop CF = 5
+	Defence CF = 50
+  TROOP FORCES
+0001-0000-1(1)-7
+0002-0000-1(1)-7
+0003-0000-1(1)-7
+0004-0000-1(1)-7
+0005-0000-1(1)-7
+
+
+
+
+1740-D4359CE-A
+Commodore Liirsuuabkar
+	Prec 14
+	Plan  4
+	Tactics 0
+	B001-1U-740-20-A
+
+1740-D4359CE-A
+Commodore Ukhriiukhdi
+	Prec 13
+	Plan  5
+	Tactics -2
+???C001-1U-632-6(6)-A???
+
+2035-B5409BA-C
+Commodore Muushassherkimi
+	Prec 15
+	Plan  5
+	Tactics 0
+	C001-1U-730-7-C
+
+2035-B5409BA-C
+Commodore Imku
+	Prec 12
+	Plan  3
+	Tactics 2
+	C002-1U-730-7-C
+
+2138-B582ABA-E
+Commodore Mugkinnukkikirnas
+	Prec 12
+	Plan  2
+	Tactics -1
+	A001-3U-800-600-E
+
+2138-B582ABA-E
+Commodore Maulkargasparma
+	Prec 10
+	Plan  3
+	Tactics -2
+	C002-3U-840-8-E
+
+2138-B582ABA-E
+Commodore Adsiishkham
+	Prec 7
+	Plan  4
+	Tactics -1
+	C003-3U-840-8-E
+
+2138-B582ABA-E
+Commodore Aagzulurkhashamra
+	Prec 9
+	Plan  5
+	Tactics -1
+	C004-3U-840-8-E
+
+2138-B582ABA-E
+Commodore Iimshaa
+	Prec 13
+	Plan  5
+	Tactics 0
+???C001-3U-943-9(9)-E???
+
+2431-B633964-D
+Commodore Ukhgikuumleak
+	Prec 14
+	Plan  3
+	Tactics 0
+	C001-2U-730-7-D
+
+2431-B633964-D
+Commodore Ad
+	Prec 6
+	Plan  2
+	Tactics 0
+	C002-2U-730-7-D
+
+2431-B633964-D
+Commodore Ish
+	Prec 12
+	Plan  4
+	Tactics -2
+	C003-2U-730-7-D
+
+2432-B987867-A
+Commodore Adinkaimi
+	Prec 7
+	Plan  5
+	Tactics 1
+	C001-1U-630-6-A
+
+

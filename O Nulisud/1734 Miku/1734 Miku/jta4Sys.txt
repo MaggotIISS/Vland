@@ -1,0 +1,14 @@
+Hex = 1734
+Name = Miku
+UWP = A8C3575-E
+Remarks = Fl Ni
+{Ix} = { 1 }
+(Ex) = (B45-1)
+[Cx] = [363C]
+N = B
+B = -
+Z = -
+PBG = 104
+W = 8
+A = ImDv
+Stellar = M1 V

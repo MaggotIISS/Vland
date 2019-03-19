@@ -1,0 +1,14 @@
+Hex = 2920
+Name = Sidenis
+UWP = D31067B-8
+Remarks = Na Ni
+{Ix} = { -3 }
+(Ex) = (A51-1)
+[Cx] = [837A]
+N = B
+B = S
+Z = -
+PBG = 920
+W = 16
+A = ImDv
+Stellar = K8 V M1 V

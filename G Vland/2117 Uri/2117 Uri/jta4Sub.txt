@@ -1,0 +1,4 @@
+G VLAND
+
+	WORLDS IN SUBSECTOR = 34
+	ImDv: "Third Imperium, Domain of Vland" = 34 worlds

@@ -1,0 +1,69 @@
+Primary = F7 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	F	Yellow-White	6,000-7,500
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 3
+	d1000Limit = 7
+	Min Orbit = 0
+	HZ =  4
+0 = World  (Inferno)	Y5B0000-0
+	  Ring @ Orbit ?
+1 = 
+2 = World  (Hospitable)	F577556-4
+3 = LGG (250,000 mi dia.)	S=31
+	  Hospitable	  	G240577-7 @ Orbit G
+	  BigWorld	  	Y5B3403-7 @ Orbit L
+	  Hospitable	  	Y47A200-5 @ Orbit V
+	  Inferno	  	Y5B0000-0 @ Orbit X
+4 = Mainworld	Kaaka	C898662-8	(Temperate)
+	  Worldlet	  	F069554-7 @ Orbit K
+	  RadWorld	  	Y556000-0 @ Orbit Q
+5 = World  (Hospitable)	H59A511-7
+6 = World  (RadWorld)	Y584000-0
+7 = 
+8 = 
+9 = 
+10 = 
+11 = World  (Inferno)	Y5B0000-0
+	  Worldlet	  	G08A557-7 @ Orbit C
+	  IceWorld	  	H592552-2 @ Orbit E
+	  Worldlet	  	G068455-7 @ Orbit H
+12 = 
+13 = 
+14 = 
+15 = STAR M8 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 0
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  12
+	HZ =  -1
+	15-0 = 
+	15-1 = 
+	15-2 = 
+	15-3 = 
+	15-4 = 
+	15-5 = 
+	15-6 = 
+	15-7 = 
+	15-8 = 
+	15-9 = 
+	15-10 = 
+	15-11 = 
+	15-12 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 12
+W = 7
+syscount = 2
+min = 0
+count = 8

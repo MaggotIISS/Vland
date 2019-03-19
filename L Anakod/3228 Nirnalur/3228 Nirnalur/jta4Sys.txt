@@ -1,0 +1,14 @@
+Hex = 3228
+Name = Nirnalur
+UWP = B544474-B
+Remarks = Ni Pa
+{Ix} = { 1 }
+(Ex) = (B34-1)
+[Cx] = [2539]
+N = Bc
+B = S
+Z = -
+PBG = 723
+W = 9
+A = ImDv
+Stellar = G3 V

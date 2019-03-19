@@ -1,0 +1,14 @@
+Hex = 2938
+Name = Punnari
+UWP = B737358-D
+Remarks = Lo RsA
+{Ix} = { 1 }
+(Ex) = (621+1)
+[Cx] = [345D]
+N = B
+B = N
+Z = -
+PBG = 101
+W = 13
+A = ImDv
+Stellar = M2 V M5 V

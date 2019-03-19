@@ -1,0 +1,79 @@
+Hex = 1011
+Name = Iren
+UWP = A8C389E-C
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 8
+	DIGIT	DIA(MI)	DIA(KM)
+	8	8,000	13,800
+Atmosphere = C
+	DIGIT	DESCRIPTION	EFFECTS
+	C	Insidious	C2 P1
+Hydrosphere = 3
+	DIGIT	DESCRIPTION
+	3	30%
+Population = 8
+	POPULATION UNDER 800,000,000
+	DIGIT	DESCRIPTION	VALUE
+	8	Hundred million	00,000,000
+Government = 9
+	DIGIT	DESCRIPTION	NOTE
+	9	Impersonal Bureaucracy	Impersonal agencies rule
+Law Level = E
+	DIGIT	DESCRIPTION	NOTE
+	E	Extreme Law	Full-fledged police state
+Tech Level = C
+	DIGIT		
+	C		
+Remarks = Fl Ph Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Fl		ABC	123456789A				Fluid	
+	Ph				8			Pre High	
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { 2 }
+	Starport A = +1
+	TL 12 = +1
+	Importance = Normal (2)+0=2
+(Ex) = (F7C+5)
+	Resources =  15
+	Labour =  7
+	Infrastructure =  12
+	Efficiency =  5
+	RU = 6300
+[Cx] = [CA9G]
+	Homogeneity = 12
+	Acceptance = 10
+	Strangeness = 9
+	Symbols = 16
+N = Be
+	CODE	RANK	TC
+	B	Knight	any
+	e	Viscount	Ph
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 814
+	Population Multiplier = 8
+	POPULATION UNDER 800,000,000
+	Planetoid Belts = 1
+	Gas Giants = 4
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-1 (planetoid belts)
+	-4 (gas giants)
+	 = 4 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K7 V M3 V
+	Stars = 2

@@ -1,0 +1,14 @@
+Hex = 3215
+Name = Shaia
+UWP = B64A998-E
+Remarks = Hi In Wa
+{Ix} = { 4 }
+(Ex) = (C8G+4)
+[Cx] = [9D5E]
+N = BEf
+B = -
+Z = -
+PBG = 110
+W = 12
+A = ImDv
+Stellar = M1 V

@@ -1,0 +1,46 @@
+Primary = K4 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (RadWorld)	Y1C6000-0
+1 = World  (Worldlet)	G1892A6-6
+	  Ring @ Orbit ?World  (Inferno)	Y1B0000-0
+2 = Mainworld	Taksar	C432345-A	(Temperate)
+	  Worldlet	  	G164265-9 @ Orbit C
+	  Worldlet	  	H1632AB-7 @ Orbit SWorld  (Inferno)	Y1B0000-H
+	  Inferno	  	Y1B0000-0 @ Orbit T
+3 = 
+4 = Planetoid belt	G000296-6
+5 = World  (BigWorld)	F1E62BB-4
+	  Worldlet	  	Y021221-6 @ Orbit E
+	  IceWorld	  	Y130273-4 @ Orbit F
+	  RadWorld	  	Y166000-0 @ Orbit T
+6 = 
+7 = World  (Hospitable)	F16928D-7
+	  StormWorld	  	Y100000-0 @ Orbit S
+8 = 
+9 = 
+10 = World  (Inferno)	Y1B0000-0
+	  OuterWorld	  	H146255-9 @ Orbit B
+	  IceWorld	  	Y160245-8 @ Orbit Q
+11 = World  (Worldlet)	Y12329A-7
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 12
+W = 10
+syscount = 1
+min = 0
+count = 8

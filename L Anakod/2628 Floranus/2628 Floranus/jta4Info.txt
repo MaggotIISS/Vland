@@ -1,0 +1,73 @@
+Hex = 2628
+Name = Floranus
+UWP = C8B3786-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 8
+	DIGIT	DIA(MI)	DIA(KM)
+	8	8,000	13,800
+Atmosphere = B
+	DIGIT	DESCRIPTION	EFFECTS
+	B	Corrosive	C1 P1
+Hydrosphere = 3
+	DIGIT	DESCRIPTION
+	3	30%
+Population = 7
+	POPULATION UNDER 20,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+Government = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit
+Law Level = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Moderate Law	Pohibition of Machineguns
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = Fl
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Fl		ABC	123456789A				Fluid	
+{Ix} = { 0 }
+	Importance = Unimportant (0)+0=0
+(Ex) = (A69-1)
+	Resources =  10
+	Labour =  6
+	Infrastructure =  9
+	Efficiency =  -1
+	RU = -540
+[Cx] = [6748]
+	Homogeneity = 6
+	Acceptance = 7
+	Strangeness = 4
+	Symbols = 8
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 201
+	Population Multiplier = 2
+	POPULATION UNDER 20,000,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 16
+	Non Stars In System = 16
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 14 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M0 V M3 V
+	Stars = 2

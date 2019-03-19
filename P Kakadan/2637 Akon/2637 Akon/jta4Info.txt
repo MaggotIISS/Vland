@@ -1,0 +1,79 @@
+Hex = 2637
+Name = Akon
+UWP = A56358A-D
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 6
+	DIGIT	DESCRIPTION	EFFECTS
+	6	Standard	
+Hydrosphere = 3
+	DIGIT	DESCRIPTION
+	3	30%
+Population = 5
+	POPULATION UNDER 700,000
+	DIGIT	DESCRIPTION	VALUE
+	5	Hundred thousand	00,000
+Government = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit
+Law Level = A
+	DIGIT	DESCRIPTION	NOTE
+	A	Extreme Law	Weapon possession prohibited
+Tech Level = D
+	DIGIT		
+	D		
+Remarks = Ni Pr
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+	Pr		68		59			Pre Rich	
+{Ix} = { 1 }
+	Starport A = +1
+	TL 13 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (A45+3)
+	Resources =  10
+	Labour =  4
+	Infrastructure =  5
+	Efficiency =  3
+	RU = 600
+[Cx] = [767F]
+	Homogeneity = 7
+	Acceptance = 6
+	Strangeness = 7
+	Symbols = 15
+N = Bc
+	CODE	RANK	TC
+	B	Knight	any
+	c	Baronet	Pa Pr
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 703
+	Population Multiplier = 7
+	POPULATION UNDER 700,000
+	Planetoid Belts = 0
+	Gas Giants = 3
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-3 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K4 V M1 V
+	Stars = 2

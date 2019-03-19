@@ -1,0 +1,14 @@
+Hex = 3008
+Name = Shishaldin
+UWP = D420652-9
+Remarks = De He Na Ni Po
+{Ix} = { -2 }
+(Ex) = (B52-5)
+[Cx] = [2415]
+N = B
+B = S
+Z = -
+PBG = 103
+W = 12
+A = ImDv
+Stellar = M0 V

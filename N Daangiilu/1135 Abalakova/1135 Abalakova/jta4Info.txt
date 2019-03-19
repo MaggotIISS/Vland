@@ -1,0 +1,81 @@
+Hex = 1135
+Name = Abalakova
+UWP = C5658CD-8
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 6
+	DIGIT	DESCRIPTION	EFFECTS
+	6	Standard	
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+Population = 8
+	POPULATION UNDER 800,000,000
+	DIGIT	DESCRIPTION	VALUE
+	8	Hundred million	00,000,000
+Government = C
+	DIGIT	DESCRIPTION	NOTE
+	C	Charismatic Oligarchy	Government by a select religious, mystic, or psionic group, organization, or class enjoying the overwhelming confidence of the citizenry
+Law Level = D
+	DIGIT	DESCRIPTION	NOTE
+	D	Extreme Law	Paramilitary law enforcement
+Tech Level = 8
+	DIGIT		
+	8		
+Remarks = Ri Pa Ph Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ri		68		678			Rich	
+	Pa		456789	45678	48			Pre Agricultural	
+	Ph				8			Pre High	
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { 0 }
+	Ri  = +1
+	Importance = Unimportant (1)+-1=0
+(Ex) = (E78+4)
+	Resources =  14
+	Labour =  7
+	Infrastructure =  8
+	Efficiency =  4
+	RU = 3136
+[Cx] = [C89C]
+	Homogeneity = 12
+	Acceptance = 8
+	Strangeness = 9
+	Symbols = 12
+N = BcCe
+	CODE	RANK	TC
+	B	Knight	any
+	c	Baronet	Pa Pr
+	C	Baron	Ag Ri
+	e	Viscount	Ph
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 822
+	Population Multiplier = 8
+	POPULATION UNDER 800,000,000
+	Planetoid Belts = 2
+	Gas Giants = 2
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-2 (gas giants)
+	 = 5 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = F5 V M3 V
+	Stars = 2

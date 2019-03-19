@@ -1,0 +1,14 @@
+Hex = 2721
+Name = Nodden
+UWP = B774534-B
+Remarks = Ag Ni
+{Ix} = { 2 }
+(Ex) = (846+1)
+[Cx] = [3739]
+N = BC
+B = N
+Z = -
+PBG = 301
+W = 12
+A = ImDv
+Stellar = G6 V M0 V

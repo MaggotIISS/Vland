@@ -1,0 +1,53 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = World  (RadWorld)	Y-300000-0
+	  StormWorld	  	Y-344000-0 @ Orbit H
+1 = Asteroid Belt	The Uris Belt	B000464-E	(Cold)
+2 = STAR K5 VWorld  (Hospitable)	Y-398000-0
+	  Hospitable	  	H-321373-B @ Orbit K
+	  Hospitable	  	Y-3A6234-7 @ Orbit T
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	NO Orbits
+3 = LGG (90,000 mi dia.)	S=27
+	  RadWorld	  	Y-3A5000-0 @ Orbit H
+	  OuterWorld	  	H-330310-7 @ Orbit T
+	  Worldlet	  	H-36A235-B @ Orbit V
+4 = Planetoid belt	Y-300373-6
+5 = 
+6 = 
+7 = 
+8 = 
+9 = 
+10 = 
+11 = World  (Hospitable)	F-343147-5
+	  RadWorld	  	Y-3D6000-0 @ Orbit L
+	  RadWorld	  	Y-337000-0 @ Orbit T
+	  Worldlet	  	Y-310330-A @ Orbit U
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 14
+W = 6
+syscount = 2
+min = 0
+count = 6

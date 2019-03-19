@@ -1,0 +1,14 @@
+Hex = 1920
+Name = Inkha
+UWP = B797442-B
+Remarks = Ni Pa
+{Ix} = { 1 }
+(Ex) = (734-3)
+[Cx] = [1517]
+N = Bc
+B = -
+Z = -
+PBG = 310
+W = 9
+A = ImDv
+Stellar = M0 V M4 V

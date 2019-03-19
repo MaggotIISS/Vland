@@ -1,0 +1,14 @@
+Hex = 2036
+Name = Diinagar
+UWP = C560423-9
+Remarks = De Ni
+{Ix} = { -1 }
+(Ex) = (732-4)
+[Cx] = [1326]
+N = B
+B = S
+Z = -
+PBG = 610
+W = 15
+A = ImDv
+Stellar = K0 V M2 V

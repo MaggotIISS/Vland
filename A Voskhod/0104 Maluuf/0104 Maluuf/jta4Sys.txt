@@ -1,0 +1,14 @@
+Hex = 0104
+Name = Maluuf
+UWP = E432338-9
+Remarks = Lo Po
+{Ix} = { -2 }
+(Ex) = (621-2)
+[Cx] = [3159]
+N = B
+B = -
+Z = -
+PBG = 110
+W = 8
+A = ImDv
+Stellar = K9 V K8 V

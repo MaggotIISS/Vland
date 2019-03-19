@@ -1,0 +1,14 @@
+Hex = 2336
+Name = Kunni
+UWP = A784511-D
+Remarks = Ag Ni Pr
+{Ix} = { 2 }
+(Ex) = (846-2)
+[Cx] = [1719]
+N = BcC
+B = N
+Z = -
+PBG = 401
+W = 5
+A = ImDv
+Stellar = M2 V M0 V

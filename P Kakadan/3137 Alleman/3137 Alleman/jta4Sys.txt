@@ -1,0 +1,14 @@
+Hex = 3137
+Name = Alleman
+UWP = A200555-F
+Remarks = Ni Va
+{Ix} = { 1 }
+(Ex) = (945-1)
+[Cx] = [363D]
+N = B
+B = -
+Z = -
+PBG = 702
+W = 13
+A = ImDv
+Stellar = K6 III K1 V

@@ -1,0 +1,14 @@
+Hex = 1516
+Name = Duam
+UWP = E564869-6
+Remarks = Ri Pa Ph O:1519
+{Ix} = { -1 }
+(Ex) = (A76+1)
+[Cx] = [9767]
+N = BcCe
+B = -
+Z = -
+PBG = 710
+W = 11
+A = ImDv
+Stellar = M1 V

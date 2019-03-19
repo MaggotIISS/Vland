@@ -1,0 +1,61 @@
+Primary = G6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  3
+0 = Planetoid belt	F000494-4World  (StormWorld)	Y400000-0World  (BigWorld)	G467320-4
+	  StormWorld	  	Y445000-0 @ Orbit G
+1 = LGG (180,000 mi dia.)	S=29
+	  BigWorld	  	Y4A64AA-4 @ Orbit H
+	  RadWorld	  	Y49A000-0 @ Orbit R
+	  BigWorld	  	Y420220-4 @ Orbit S
+2 = STAR G0 VWorld  (Worldlet)	F30048A-4
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	NO Orbits
+3 = Mainworld	Isuugi	E756546-5	(Temperate)
+	  StormWorld	  	Y421000-0 @ Orbit H
+	  StormWorld	  	Y452000-0 @ Orbit JWorld  (RadWorld)	Y479000-U
+4 = LGG (90,000 mi dia.)	S=27
+	  Hospitable	  	H488321-2 @ Orbit G
+	  Inferno	  	Y4B0000-0 @ Orbit H
+	  Hospitable	  	Y451348-4 @ Orbit I
+	  RadWorld	  	Y4E6000-0 @ Orbit P
+	  Worldlet	  	G099442-4 @ Orbit T
+5 = LGG (80,000 mi dia.)	S=26
+	  BigWorld	  	Y427132-4 @ Orbit EWorld  (Hospitable)	H410454-D
+	  StormWorld	  	Y300000-0 @ Orbit G
+	  RadWorld	  	Y479000-0 @ Orbit I
+6 = 
+7 = World  (Inferno)	Y4B0000-0
+8 = 
+9 = 
+10 = 
+11 = 
+12 = World  (RadWorld)	Y469000-0
+	  IceWorld	  	Y000455-4 @ Orbit D
+	  StormWorld	  	Y482000-0 @ Orbit E
+	  RadWorld	  	Y472000-0 @ Orbit Q
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 12
+W = 12
+syscount = 2
+min = 0
+count = 8

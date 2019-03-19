@@ -1,0 +1,14 @@
+Hex = 1407
+Name = Guusimka
+UWP = E539A77-C
+Remarks = Hi
+{Ix} = { 1 }
+(Ex) = (E9C+1)
+[Cx] = [AB5C]
+N = BE
+B = -
+Z = -
+PBG = 411
+W = 9
+A = ImDv
+Stellar = M0 V

@@ -1,0 +1,14 @@
+Hex = 0110
+Name = Ossin
+UWP = B100877-C
+Remarks = Na Va Ph Pi Pz
+{Ix} = { 2 }
+(Ex) = (F7C+2)
+[Cx] = [8A5C]
+N = BDe
+B = -
+Z = A
+PBG = 705
+W = 9
+A = ImDv
+Stellar = M1 V

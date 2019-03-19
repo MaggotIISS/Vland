@@ -1,0 +1,54 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Nadud	D97A350-9	(Temperate)World  (Inferno)	Y6B0000-0
+	  Worldlet	  	F154273-8 @ Orbit C
+	  Worldlet	  	G024279-8 @ Orbit I
+1 = World  (Inferno)	Y6B0000-0
+	  Worldlet	  	Y130234-8 @ Orbit S
+	  StormWorld	  	Y630000-0 @ Orbit VWorld  (RadWorld)	Y69A000-U
+2 = World  (Hospitable)	H677265-2
+	  OuterWorld	  	G663237-8 @ Orbit D
+	  Worldlet	  	G260231-5 @ Orbit G
+3 = World  (BigWorld)	Y6A6251-5
+	  RadWorld	  	Y699000-0 @ Orbit C
+	  StormWorld	  	Y600000-0 @ Orbit G
+	  Worldlet	  	G040257-4 @ Orbit P
+4 = World  (Hospitable)	Y564220-2
+	  RadWorld	  	Y366000-0 @ Orbit G
+	  OuterWorld	  	Y650233-8 @ Orbit Q
+	  StormWorld	  	Y546000-0 @ Orbit X
+5 = Planetoid belt	Y000000-0
+6 = World  (Hospitable)	G563246-5
+	  Worldlet	  	G3102DC-4 @ Orbit G
+	  IceWorld	  	Y10028B-4 @ Orbit J
+	  StormWorld	  	Y610000-0 @ Orbit S
+7 = World  (Inferno)	Y4B0000-0
+	  RadWorld	  	Y300000-0 @ Orbit L
+	  IceWorld	  	Y4942BB-6 @ Orbit X
+8 = Planetoid belt	G000233-8
+9 = 
+10 = World  (RadWorld)	Y658000-0
+	  OuterWorld	  	Y6A6143-8 @ Orbit O
+11 = 
+12 = 
+13 = 
+14 = 
+15 = World  (BigWorld)	G6362A9-6
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 9
+W = 13
+syscount = 1
+min = 0
+count = 11

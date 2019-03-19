@@ -1,0 +1,91 @@
+Primary = G6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  3
+0 = World  (StormWorld)	Y242000-0World  (StormWorld)	Y211000-0
+	  StormWorld	  	Y244000-0 @ Orbit OWorld  (RadWorld)	Y240000-0
+1 = World  (StormWorld)	Y223000-0
+	  Ring @ Orbit ?
+2 = SGG (40,000 mi dia.)	S=22
+	  Worldlet	  	F0992BD-5 @ Orbit F
+	  BigWorld	  	H254200-7 @ Orbit G
+	  BigWorld	  	Y28728B-7 @ Orbit JWorld  (BigWorld)	G200298-H
+	  InnerWorld	  	Y274000-0 @ Orbit YWorld  (Hospitable)	H210232-I
+	  BigWorld	  	Y230245-7 @ Orbit J
+	  Inferno	  	Y2B0000-0 @ Orbit SWorld  (Inferno)	Y2B0000-K
+	  Inferno	  	Y2B0000-0 @ Orbit L
+	  RadWorld	  	Y27A000-0 @ Orbit R
+	  RadWorld	  	Y265000-0 @ Orbit S
+	  StormWorld	  	Y200000-0 @ Orbit T
+	  StormWorld	  	Y200000-0 @ Orbit X
+3 = LGG (60,000 mi dia.)	S=24
+	  BigWorld	  	H268245-4 @ Orbit WWorld  (RadWorld)	Y242000-E
+	  Hospitable	  	F2862BD-7 @ Orbit F
+	  Worldlet	  	F10028A-4 @ Orbit G
+	  Worldlet	  	Y079275-7 @ Orbit I
+	  Hospitable	  	H221243-7 @ Orbit O
+	  BigWorld	  	H275221-7 @ Orbit QWorld  (RadWorld)	Y2A3000-T
+	  Worldlet	  	Y254216-7 @ Orbit U
+4 = Mainworld	Asanik	D554356-8	(Cold)
+	  Worldlet	  	H0A6242-7 @ Orbit LWorld  (RadWorld)	Y226000-I
+	  RadWorld	  	Y200000-0 @ Orbit Q
+5 = 
+6 = LGG (80,000 mi dia.)	S=26
+	  IceWorld	  	Y2B0272-7 @ Orbit D
+	  Worldlet	  	H220224-7 @ Orbit E
+	  IceWorld	  	H250256-7 @ Orbit G
+	  StormWorld	  	Y204000-0 @ Orbit H
+	  RadWorld	  	Y241000-0 @ Orbit V
+7 = 
+8 = World  (Worldlet)	F055267-7
+	  Worldlet	  	G2002BB-4 @ Orbit E
+	  OuterWorld	  	H28A26B-7 @ Orbit T
+	  OuterWorld	  	H2A5100-7 @ Orbit W
+9 = LGG (125,000 mi dia.)	S=28
+	  OuterWorld	  	H265243-5 @ Orbit E
+	  BigWorld	  	F279126-5 @ Orbit I
+	  BigWorld	  	F200243-5 @ Orbit P
+	  IceWorld	  	H2B0267-4 @ Orbit T
+10 = 
+11 = 
+12 = 
+13 = STAR G4 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  10
+	HZ =  -1
+	13-0 = 
+	13-1 = 
+	13-2 = 
+	13-3 = 
+	13-4 = 
+	13-5 = 
+	13-6 = 
+	13-7 = 
+	13-8 = 
+	13-9 = 
+	13-10 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 11
+syscount = 2
+min = 0
+W = 16
+Extra Stars = 1
+count = 9

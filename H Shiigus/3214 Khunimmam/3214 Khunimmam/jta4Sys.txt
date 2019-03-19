@@ -1,0 +1,14 @@
+Hex = 3214
+Name = Khunimmam
+UWP = E9B7200-8
+Remarks = Fl Lo
+{Ix} = { -3 }
+(Ex) = (611-5)
+[Cx] = [1113]
+N = B
+B = -
+Z = -
+PBG = 402
+W = 13
+A = ImDv
+Stellar = M2 V

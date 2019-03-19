@@ -1,0 +1,14 @@
+Hex = 2925
+Name = Kaanpush
+UWP = B430424-D
+Remarks = De Ni Po
+{Ix} = { 1 }
+(Ex) = (834-1)
+[Cx] = [253B]
+N = B
+B = N
+Z = -
+PBG = 820
+W = 10
+A = ImDv
+Stellar = M2 V

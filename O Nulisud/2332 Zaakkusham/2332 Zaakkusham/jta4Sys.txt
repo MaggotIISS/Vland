@@ -1,0 +1,14 @@
+Hex = 2332
+Name = Zaakkusham
+UWP = D583520-7
+Remarks = Ni Pr
+{Ix} = { -3 }
+(Ex) = (741-5)
+[Cx] = [1212]
+N = Bc
+B = -
+Z = -
+PBG = 101
+W = 12
+A = ImDv
+Stellar = M1 V M8 V

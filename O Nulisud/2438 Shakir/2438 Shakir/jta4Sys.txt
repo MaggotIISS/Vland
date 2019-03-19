@@ -1,0 +1,14 @@
+Hex = 2438
+Name = Shakir
+UWP = A626201-F
+Remarks = Lo
+{Ix} = { 1 }
+(Ex) = (911-3)
+[Cx] = [131B]
+N = B
+B = -
+Z = -
+PBG = 723
+W = 12
+A = ImDv
+Stellar = K6 V

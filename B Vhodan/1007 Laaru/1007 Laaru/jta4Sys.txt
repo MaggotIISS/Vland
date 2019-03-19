@@ -1,0 +1,14 @@
+Hex = 1007
+Name = Laaru
+UWP = C69A9CC-C
+Remarks = Hi In Wa Pz
+{Ix} = { 3 }
+(Ex) = (H8E+5)
+[Cx] = [CC8F]
+N = BE
+B = S
+Z = A
+PBG = 424
+W = 9
+A = ImDv
+Stellar = G7 V

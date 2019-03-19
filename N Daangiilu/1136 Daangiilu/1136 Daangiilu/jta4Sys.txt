@@ -1,0 +1,14 @@
+Hex = 1136
+Name = Daangiilu
+UWP = A565544-D
+Remarks = Ag Ni Pr
+{Ix} = { 2 }
+(Ex) = (A46+1)
+[Cx] = [373B]
+N = BcC
+B = -
+Z = -
+PBG = 703
+W = 17
+A = ImDv
+Stellar = G2 V M4 V

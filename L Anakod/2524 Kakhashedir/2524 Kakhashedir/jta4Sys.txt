@@ -1,0 +1,14 @@
+Hex = 2524
+Name = Kakhashedir
+UWP = B560302-C
+Remarks = De Lo
+{Ix} = { 1 }
+(Ex) = (721-3)
+[Cx] = [1418]
+N = B
+B = -
+Z = -
+PBG = 102
+W = 12
+A = ImDv
+Stellar = M2 V

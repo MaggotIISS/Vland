@@ -1,0 +1,77 @@
+Hex = 0435
+Name = Ganidam
+UWP = D100455-B
+Starport = D
+	Quality = Poor
+	Yards = No
+	Repairs = Minor damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 1
+	DIGIT	DIA(MI)	DIA(KM)
+	1	1,000	1,600
+Atmosphere = 0
+	DIGIT	DESCRIPTION	EFFECTS
+	0	Vacuum	S3
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 4
+	POPULATION UNDER 50,000
+	DIGIT	DESCRIPTION	VALUE
+	4	Ten thousand	0,000
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+Tech Level = B
+	DIGIT		
+	B		
+Remarks = Ni Va
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+	Va		0					Vacuum	
+{Ix} = { -1 }
+	Starport D = -1
+	TL 11 = +1
+	Pop < 7 = -1
+	Importance = Unimportant (-1)+0=-1
+(Ex) = (732-3)
+	Resources =  7
+	Labour =  3
+	Infrastructure =  2
+	Efficiency =  -3
+	RU = -126
+[Cx] = [2339]
+	Homogeneity = 2
+	Acceptance = 3
+	Strangeness = 3
+	Symbols = 9
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 501
+	Population Multiplier = 5
+	POPULATION UNDER 50,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 5
+	Non Stars In System = 5
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 3 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 V M5 V
+	Stars = 2

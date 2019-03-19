@@ -1,0 +1,14 @@
+Hex = 2221
+Name = Karlum
+UWP = B57A500-E
+Remarks = Ni Wa
+{Ix} = { 1 }
+(Ex) = (945-3)
+[Cx] = [1619]
+N = B
+B = N
+Z = -
+PBG = 920
+W = 10
+A = ImDv
+Stellar = K2 V K5 V

@@ -1,0 +1,14 @@
+Hex = 1937
+Name = Nulisud
+UWP = A8A368A-D
+Remarks = Fl Ni Cp
+{Ix} = { 1 }
+(Ex) = (B55+3)
+[Cx] = [877F]
+N = B
+B = N
+Z = -
+PBG = 421
+W = 15
+A = ImDv
+Stellar = K3 V

@@ -1,0 +1,14 @@
+Hex = 2309
+Name = Moribur
+UWP = C550650-9
+Remarks = De Ni Po
+{Ix} = { -1 }
+(Ex) = (A53-5)
+[Cx] = [1514]
+N = B
+B = -
+Z = -
+PBG = 920
+W = 13
+A = ImDv
+Stellar = M2 V

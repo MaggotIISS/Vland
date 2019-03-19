@@ -1,0 +1,14 @@
+Hex = 0102
+Name = Rokii
+UWP = E799345-8
+Remarks = Lo
+{Ix} = { -3 }
+(Ex) = (621-5)
+[Cx] = [1136]
+N = B
+B = -
+Z = -
+PBG = 210
+W = 11
+A = ImDv
+Stellar = M3 V

@@ -1,0 +1,14 @@
+Hex = 2402
+Name = Kfoerudzo
+UWP = B559353-D
+Remarks = Lo
+{Ix} = { 1 }
+(Ex) = (821-2)
+[Cx] = [142A]
+N = -
+B = -
+Z = -
+PBG = 921
+W = 14
+A = NaVa
+Stellar = M1 V

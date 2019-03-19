@@ -1,0 +1,14 @@
+Hex = 2429
+Name = Irgar
+UWP = E420478-8
+Remarks = De He Ni Po
+{Ix} = { -3 }
+(Ex) = (931-3)
+[Cx] = [4158]
+N = B
+B = -
+Z = -
+PBG = 912
+W = 12
+A = ImDv
+Stellar = M3 V

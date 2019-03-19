@@ -1,0 +1,14 @@
+Hex = 0507
+Name = Kharta
+UWP = E552755-7
+Remarks = Po
+{Ix} = { -2 }
+(Ex) = (966-4)
+[Cx] = [5535]
+N = B
+B = -
+Z = -
+PBG = 804
+W = 11
+A = ImDv
+Stellar = K6 V G9 V

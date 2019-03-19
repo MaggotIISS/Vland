@@ -1,0 +1,54 @@
+Primary = M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Newcastle	C567749-8	(Temperate)
+	  Worldlet	  	Y237448-6 @ Orbit SWorld  (Hospitable)	Y224686-D
+	  Worldlet	  	H2C66A6-7 @ Orbit G
+1 = LGG (220,000 mi dia.)	S=30
+	  Hospitable	  	H233575-5 @ Orbit D
+	  RadWorld	  	Y27A000-0 @ Orbit F
+	  Hospitable	  	Y2B6000-0 @ Orbit I
+	  Inferno	  	Y2B0000-0 @ Orbit U
+2 = LGG (80,000 mi dia.)	S=26
+	  RadWorld	  	Y200000-0 @ Orbit G
+	  RadWorld	  	Y263000-0 @ Orbit I
+	  IceWorld	  	H2106A9-7 @ Orbit P
+	  BigWorld	  	Y231558-7 @ Orbit T
+	  OuterWorld	  	H266300-7 @ Orbit U
+3 = 
+4 = 
+5 = 
+6 = World  (Worldlet)	G1A5669-7
+7 = 
+8 = World  (RadWorld)	Y210000-0
+	  Worldlet	  	Y010677-7 @ Orbit S
+9 = 
+10 = World  (Hospitable)	H210455-7
+	  OuterWorld	  	H257630-7 @ Orbit G
+	  IceWorld	  	H230644-7 @ Orbit I
+	  RadWorld	  	Y244000-0 @ Orbit Q
+11 = 
+12 = 
+13 = 
+14 = 
+15 = World  (StormWorld)	G220130-4
+	  OuterWorld	  	F2326BC-7 @ Orbit R
+	  RadWorld	  	Y277000-0 @ Orbit S
+	  RadWorld	  	Y247000-0 @ Orbit T
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 13
+W = 8
+syscount = 1
+min = 0
+count = 7

@@ -1,0 +1,14 @@
+Hex = 1909
+Name = Nashazi
+UWP = A300211-F
+Remarks = Lo Va
+{Ix} = { 1 }
+(Ex) = (611-3)
+[Cx] = [131B]
+N = B
+B = -
+Z = -
+PBG = 120
+W = 8
+A = ImDv
+Stellar = M2 III F7 IV

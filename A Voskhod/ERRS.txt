@@ -1,0 +1,72 @@
+0101 Aakhorn
+0102 Rokii
+0104 Maluuf
+0105 Gikkon
+0107 Taraddiin
+0109 Hakkat
+0110 Ossin
+0202 Kalkako
+0203 Bannon's World
+0205 Khankari
+0209 Lankhi
+0210 Khalgun
+0303 Anert
+0306 Skathi
+0307 Enard
+0402 Kuk
+0403 Apkeraas
+0404 Katti
+0408 Shaddukan
+0502 Lugaluru
+0506 Gamibuu
+0507 Kharta
+0508 Arfaan
+0601 Athanuez
+0605 Sheshat
+0610 Rakurram
+0701 Taegzdueg
+0703 Khigapka
+0705 Shukhuge
+0707 Lenordi
+0708 Voskhod
+0709 Kharzet
+0801 Ogerrgh
+0804 Kegirur
+0806 Gadiga
+0807 Kunumi
+C:\T5\Vland\A Voskhod\0101 Aakhorn\0101 Aakhorn
+C:\T5\Vland\A Voskhod\0102 Rokii\0102 Rokii
+C:\T5\Vland\A Voskhod\0104 Maluuf\0104 Maluuf
+C:\T5\Vland\A Voskhod\0105 Gikkon\0105 Gikkon
+C:\T5\Vland\A Voskhod\0107 Taraddiin\0107 Taraddiin
+C:\T5\Vland\A Voskhod\0109 Hakkat\0109 Hakkat
+C:\T5\Vland\A Voskhod\0110 Ossin\0110 Ossin
+C:\T5\Vland\A Voskhod\0202 Kalkako\0202 Kalkako
+C:\T5\Vland\A Voskhod\0203 Bannon's World\0203 Bannon's World
+C:\T5\Vland\A Voskhod\0205 Khankari\0205 Khankari
+C:\T5\Vland\A Voskhod\0209 Lankhi\0209 Lankhi
+C:\T5\Vland\A Voskhod\0210 Khalgun\0210 Khalgun
+C:\T5\Vland\A Voskhod\0303 Anert\0303 Anert
+C:\T5\Vland\A Voskhod\0306 Skathi\0306 Skathi
+C:\T5\Vland\A Voskhod\0307 Enard\0307 Enard
+C:\T5\Vland\A Voskhod\0402 Kuk\0402 Kuk
+C:\T5\Vland\A Voskhod\0403 Apkeraas\0403 Apkeraas
+C:\T5\Vland\A Voskhod\0404 Katti\0404 Katti
+C:\T5\Vland\A Voskhod\0408 Shaddukan\0408 Shaddukan
+C:\T5\Vland\A Voskhod\0502 Lugaluru\0502 Lugaluru
+C:\T5\Vland\A Voskhod\0506 Gamibuu\0506 Gamibuu
+C:\T5\Vland\A Voskhod\0507 Kharta\0507 Kharta
+C:\T5\Vland\A Voskhod\0508 Arfaan\0508 Arfaan
+C:\T5\Vland\A Voskhod\0601 Athanuez\0601 Athanuez
+C:\T5\Vland\A Voskhod\0605 Sheshat\0605 Sheshat
+C:\T5\Vland\A Voskhod\0610 Rakurram\0610 Rakurram
+C:\T5\Vland\A Voskhod\0701 Taegzdueg\0701 Taegzdueg
+C:\T5\Vland\A Voskhod\0703 Khigapka\0703 Khigapka
+C:\T5\Vland\A Voskhod\0705 Shukhuge\0705 Shukhuge
+C:\T5\Vland\A Voskhod\0707 Lenordi\0707 Lenordi
+C:\T5\Vland\A Voskhod\0708 Voskhod\0708 Voskhod
+C:\T5\Vland\A Voskhod\0709 Kharzet\0709 Kharzet
+C:\T5\Vland\A Voskhod\0801 Ogerrgh\0801 Ogerrgh
+C:\T5\Vland\A Voskhod\0804 Kegirur\0804 Kegirur
+C:\T5\Vland\A Voskhod\0806 Gadiga\0806 Gadiga
+C:\T5\Vland\A Voskhod\0807 Kunumi\0807 Kunumi

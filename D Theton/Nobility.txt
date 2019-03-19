@@ -1,0 +1,4 @@
+B Knight = 17
+c Baronet = 1
+C Baron = 3
+E Count = 2

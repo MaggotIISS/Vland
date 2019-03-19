@@ -1,0 +1,82 @@
+Hex = 0431
+Name = Answerin
+UWP = B584A85-E
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 8
+	DIGIT	DESCRIPTION	EFFECTS
+	8	Dense	
+Hydrosphere = 4
+	DIGIT	DESCRIPTION
+	4	40%
+Population = A
+	POPULATION UNDER 40,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	A	Ten billion	0,000,000,000
+Government = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+Tech Level = E
+	DIGIT		
+	E		
+Remarks = Hi (Answerin)
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	Minor Race 	Native Intelligent Life = Answerin
+No details
+	POP	ATM	TL	COMMENT	NOTE
+	7+	2-9	1+	Intelligent life evolved on this world	Natives
+{Ix} = { 3 }
+	Starport B = +1
+	TL 14 = +1
+	Hi  = +1
+	Importance = Normal (3)+0=3
+(Ex) = (E9F+1)
+	Resources =  14
+	Labour =  9
+	Infrastructure =  15
+	Efficiency =  1
+	RU = 1890
+[Cx] = [8D3C]
+	Homogeneity = 8
+	Acceptance = 13
+	Strangeness = 3
+	Symbols = 12
+N = BE
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 420
+	Population Multiplier = 4
+	POPULATION UNDER 40,000,000,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 7 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = F7 V G0 V
+	Stars = 2

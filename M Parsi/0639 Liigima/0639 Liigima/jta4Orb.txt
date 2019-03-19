@@ -1,0 +1,79 @@
+Primary = K9 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Liigima	B7C2303-D	(Hot)LGG (90,000 mi dia.)	S=27
+	  BigWorld	  	YE00222-6 @ Orbit RWorld  (BigWorld)	YE89236-C
+	  Hospitable	  	H678288-9 @ Orbit D
+	  RadWorld	  	Y5A6000-0 @ Orbit F
+	  BigWorld	  	HDC5267-7 @ Orbit CWorld  (StormWorld)	Y460000-H
+	  RadWorld	  	YC00000-0 @ Orbit K
+	  Hospitable	  	Y426287-5 @ Orbit P
+	  StormWorld	  	Y236000-0 @ Orbit Q
+	  Worldlet	  	H199255-7 @ Orbit S
+	  Worldlet	  	Y050278-8 @ Orbit GWorld  (Worldlet)	Y3592EF-U
+	  Hospitable	  	F322202-7 @ Orbit V
+1 = World  (Worldlet)	F0B62A8-2
+2 = 
+3 = 
+4 = SGG (30,000 mi dia.)	S=21
+	  Worldlet	  	G036243-4 @ Orbit G
+	  BigWorld	  	Y410276-6 @ Orbit X
+5 = World  (Hospitable)	H630289-5
+	  Ring @ Orbit ?
+6 = LGG (90,000 mi dia.)	S=27
+	  BigWorld	  	YA70264-5 @ Orbit G
+	  StormWorld	  	Y300000-0 @ Orbit K
+	  IceWorld	  	F520224-6 @ Orbit Q
+7 = World  (Worldlet)	F296247-7
+	  Worldlet	  	Y01026A-A @ Orbit D
+	  OuterWorld	  	Y6892DG-5 @ Orbit E
+	  RadWorld	  	Y466000-0 @ Orbit S
+8 = 
+9 = 
+10 = 
+11 = 
+12 = World  (Hospitable)	F400296-7
+	  RadWorld	  	Y943000-0 @ Orbit F
+	  StormWorld	  	Y846000-0 @ Orbit K
+	  Worldlet	  	Y342275-6 @ Orbit R
+13 = STAR K2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  10
+	HZ =  -1
+	13-0 = 
+	13-1 = 
+	13-2 = 
+	13-3 = 
+	13-4 = 
+	13-5 = 
+	13-6 = 
+	13-7 = 
+	13-8 = 
+	13-9 = 
+	13-10 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 12
+W = 11
+syscount = 2
+min = 0
+count = 8

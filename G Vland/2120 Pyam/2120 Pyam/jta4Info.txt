@@ -1,0 +1,77 @@
+Hex = 2120
+Name = Pyam
+UWP = B799385-C
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 7
+	DIGIT	DIA(MI)	DIA(KM)
+	7	7,000	12,200
+Atmosphere = 9
+	DIGIT	DESCRIPTION	EFFECTS
+	9	Dense, Tainted	P1
+Hydrosphere = 9
+	DIGIT	DESCRIPTION
+	9	90%
+Population = 3
+	POPULATION UNDER 3,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+Government = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+Tech Level = C
+	DIGIT		
+	C		
+Remarks = Lo
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+{Ix} = { 1 }
+	Starport B = +1
+	TL 12 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (721-1)
+	Resources =  7
+	Labour =  2
+	Infrastructure =  1
+	Efficiency =  -1
+	RU = -14
+[Cx] = [143A]
+	Homogeneity = 1
+	Acceptance = 4
+	Strangeness = 3
+	Symbols = 10
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 320
+	Population Multiplier = 3
+	POPULATION UNDER 3,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 17
+	Non Stars In System = 17
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 14 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V
+	Stars = 1

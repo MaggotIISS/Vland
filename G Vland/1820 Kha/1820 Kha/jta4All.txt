@@ -1,0 +1,57 @@
+Primary = K6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = LGG (125,000 mi dia.)	S=28
+	  RadWorld	  	Y434000-0 @ Orbit C
+	  Worldlet	  	Y032579-8 @ Orbit D
+	  StormWorld	  	Y500000-0 @ Orbit G
+	  Inferno	  	Y3B0000-0 @ Orbit J
+	  RadWorld	  	Y567000-0 @ Orbit FPlanetoid belt	Y00059D-7World  (BigWorld)	Y500545-Q
+	  BigWorld	  	H500564-7 @ Orbit S
+	  StormWorld	  	Y500133-3 @ Orbit V
+	  StormWorld	  	Y512000-0 @ Orbit W
+1 = 
+2 = Mainworld	Kha	A86A642-D	(Temperate)
+3 = World  (StormWorld)	Y500000-0
+4 = LGG (220,000 mi dia.)	S=30
+	  RadWorld	  	Y57A000-0 @ Orbit E
+	  Worldlet	  	H0C65AB-A @ Orbit H
+	  RadWorld	  	Y500000-0 @ Orbit J
+	  IceWorld	  	H5D05A7-9 @ Orbit O
+5 = 
+6 = LGG (90,000 mi dia.)	S=27
+	  RadWorld	  	Y5C6000-0 @ Orbit E
+	  StormWorld	  	Y511000-0 @ Orbit R
+7 = LGG (125,000 mi dia.)	S=28
+	  IceWorld	  	H1505C7-8 @ Orbit E
+	  StormWorld	  	F5051CA-5 @ Orbit F
+	  OuterWorld	  	Y1305BC-8 @ Orbit G
+	  Worldlet	  	F242348-B @ Orbit R
+	  StormWorld	  	Y510000-0 @ Orbit Y
+8 = World  (StormWorld)	H400166-9
+	  StormWorld	  	Y512000-0 @ Orbit G
+9 = World  (Hospitable)	Y110553-9
+	  StormWorld	  	Y500000-0 @ Orbit F
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 12
+W = 11
+syscount = 1
+min = 0
+count = 8

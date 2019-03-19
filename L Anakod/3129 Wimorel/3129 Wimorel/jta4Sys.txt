@@ -1,0 +1,14 @@
+Hex = 3129
+Name = Wimorel
+UWP = C765543-8
+Remarks = Ag Ni Ga An Pr Di (Kolzar)
+{Ix} = { -1 }
+(Ex) = (D43-4)
+[Cx] = [2425]
+N = BcC
+B = -
+Z = -
+PBG = 224
+W = 13
+A = ImDv
+Stellar = F6 V

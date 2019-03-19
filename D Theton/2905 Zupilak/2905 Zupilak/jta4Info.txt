@@ -1,0 +1,76 @@
+Hex = 2905
+Name = Zupilak
+UWP = D553353-8
+Starport = D
+	Quality = Poor
+	Yards = No
+	Repairs = Minor damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 5
+	DIGIT	DESCRIPTION	EFFECTS
+	5	This	S1
+Hydrosphere = 3
+	DIGIT	DESCRIPTION
+	3	30%
+Population = 3
+	POPULATION UNDER 6,000
+	DIGIT	DESCRIPTION	VALUE
+	3	Thousand	,000
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+Law Level = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Low Law	Prohibition of Acid, Fire, Gas weapons
+Tech Level = 8
+	DIGIT		
+	8		
+Remarks = Lo Po
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Lo				123			Low Population	
+	Po		2345	0123				Poor	
+{Ix} = { -3 }
+	Starport D = -1
+	Pop < 7 = -1
+	Importance = Unimportant (-2)+-1=-3
+(Ex) = (C21-5)
+	Resources =  12
+	Labour =  2
+	Infrastructure =  1
+	Efficiency =  -5
+	RU = -120
+[Cx] = [1125]
+	Homogeneity = 1
+	Acceptance = 1
+	Strangeness = 2
+	Symbols = 5
+N = B
+	CODE	RANK	TC
+	B	Knight	any
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 634
+	Population Multiplier = 6
+	POPULATION UNDER 6,000
+	Planetoid Belts = 3
+	Gas Giants = 4
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-3 (planetoid belts)
+	-4 (gas giants)
+	 = 2 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K8 V
+	Stars = 1

@@ -1,0 +1,14 @@
+Hex = 1012
+Name = Askhu
+UWP = C554120-8
+Remarks = Lo
+{Ix} = { -2 }
+(Ex) = (511-5)
+[Cx] = [1113]
+N = B
+B = -
+Z = -
+PBG = 402
+W = 9
+A = ImDv
+Stellar = M0 V G8 V

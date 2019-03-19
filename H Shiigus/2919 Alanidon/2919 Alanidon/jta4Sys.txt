@@ -1,0 +1,14 @@
+Hex = 2919
+Name = Alanidon
+UWP = D554423-7
+Remarks = Ni Pa
+{Ix} = { -3 }
+(Ex) = (631-5)
+[Cx] = [1124]
+N = Bc
+B = S
+Z = -
+PBG = 120
+W = 6
+A = ImDv
+Stellar = M0 V M1 V

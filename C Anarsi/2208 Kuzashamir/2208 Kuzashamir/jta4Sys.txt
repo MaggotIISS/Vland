@@ -1,0 +1,14 @@
+Hex = 2208
+Name = Kuzashamir
+UWP = E546853-7
+Remarks = Pa Ph Pi
+{Ix} = { -2 }
+(Ex) = (A76-5)
+[Cx] = [5624]
+N = BcDe
+B = -
+Z = -
+PBG = 520
+W = 10
+A = ImDv
+Stellar = M3 V

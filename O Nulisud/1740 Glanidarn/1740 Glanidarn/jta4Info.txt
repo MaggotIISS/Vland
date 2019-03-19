@@ -1,0 +1,79 @@
+Hex = 1740
+Name = Glanidarn
+UWP = D4359CE-A
+Starport = D
+	Quality = Poor
+	Yards = No
+	Repairs = Minor damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 3
+	DIGIT	DESCRIPTION	EFFECTS
+	3	VThin	S2
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+Population = 9
+	POPULATION UNDER 6,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	9	Billion	,000,000,000
+Government = C
+	DIGIT	DESCRIPTION	NOTE
+	C	Charismatic Oligarchy	Government by a select religious, mystic, or psionic group, organization, or class enjoying the overwhelming confidence of the citizenry
+Law Level = E
+	DIGIT	DESCRIPTION	NOTE
+	E	Extreme Law	Full-fledged police state
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = Hi Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { 1 }
+	Starport D = -1
+	TL 10 = +1
+	Hi  = +1
+	Importance = Normal (1)+0=1
+(Ex) = (G8B+5)
+	Resources =  16
+	Labour =  8
+	Infrastructure =  11
+	Efficiency =  5
+	RU = 7040
+[Cx] = [DA9E]
+	Homogeneity = 13
+	Acceptance = 10
+	Strangeness = 9
+	Symbols = 14
+N = BE
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 623
+	Population Multiplier = 6
+	POPULATION UNDER 6,000,000,000
+	Planetoid Belts = 2
+	Gas Giants = 3
+W = 11
+	Non Stars In System = 11
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-3 (gas giants)
+	 = 5 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 V
+	Stars = 1

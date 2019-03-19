@@ -1,0 +1,14 @@
+Hex = 2111
+Name = Flire
+UWP = C779A77-D
+Remarks = Hi In
+{Ix} = { 3 }
+(Ex) = (H9F+3)
+[Cx] = [AD5D]
+N = BE
+B = -
+Z = -
+PBG = 423
+W = 9
+A = ImDv
+Stellar = K8 V

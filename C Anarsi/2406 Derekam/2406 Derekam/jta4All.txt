@@ -1,0 +1,41 @@
+Primary = K6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (Worldlet)	H257100-2
+1 = Planetoid belt	F000576-4World  (StormWorld)	Y202000-0
+2 = Mainworld	Derekam	C5468CB-8	(Temperate)World  (StormWorld)	Y200000-0
+	  Hospitable	  	H2B6444-4 @ Orbit E
+	  Inferno	  	Y2B0000-0 @ Orbit G
+3 = 
+4 = 
+5 = World  (Worldlet)	F042344-7
+6 = World  (StormWorld)	Y220000-0
+	  StormWorld	  	Y244398-7 @ Orbit E
+7 = World  (StormWorld)	Y22339C-2
+	  Ring @ Orbit ?
+8 = World  (Worldlet)	Y099000-0
+	  OuterWorld	  	Y244402-7 @ Orbit V
+9 = Planetoid belt	F000756-7
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 12
+W = 10
+syscount = 1
+min = 0
+count = 8

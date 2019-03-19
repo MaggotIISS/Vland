@@ -1,0 +1,51 @@
+Primary = M4 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Agagir	C430588-B	(Temperate)World  (Worldlet)	H06649A-4
+	  Ring @ Orbit ?
+1 = World  (Worldlet)	F100431-8
+2 = World  (Inferno)	Y1B0000-0
+	  Ring @ Orbit ?World  (StormWorld)	Y146000-B
+	  Worldlet	  	H100473-6 @ Orbit E
+3 = World  (Inferno)	Y1B0000-0
+	  Ring @ Orbit ?World  (StormWorld)	Y113000-E
+	  Ring @ Orbit H
+4 = Planetoid belt	F000300-7
+5 = World  (RadWorld)	Y158000-0
+	  StormWorld	  	Y156000-0 @ Orbit G
+	  Worldlet	  	F120212-4 @ Orbit IWorld  (Worldlet)	Y0994ED-H
+	  Worldlet	  	F184469-8 @ Orbit I
+6 = World  (BigWorld)	Y121432-4
+	  Worldlet	  	H1C347A-6 @ Orbit F
+	  OuterWorld	  	H0004AD-A @ Orbit G
+	  Worldlet	  	Y075440-5 @ Orbit PWorld  (BigWorld)	H11048A-S
+	  Worldlet	  	H174497-8 @ Orbit V
+7 = 
+8 = World  (Worldlet)	F154400-4
+9 = 
+10 = World  (BigWorld)	Y197425-8
+	  Worldlet	  	Y042102-A @ Orbit C
+	  IceWorld	  	G140330-7 @ Orbit T
+11 = World  (RadWorld)	Y156000-0
+	  Ring @ Orbit ?
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 10
+W = 15
+syscount = 1
+min = 0
+count = 10

@@ -1,0 +1,14 @@
+Hex = 3125
+Name = Inandir
+UWP = C676AE9-C
+Remarks = Hi In Pz
+{Ix} = { 3 }
+(Ex) = (E9E+4)
+[Cx] = [BD6D]
+N = BE
+B = S
+Z = A
+PBG = 411
+W = 11
+A = ImDv
+Stellar = K9 V M0 V

@@ -1,0 +1,14 @@
+Hex = 3216
+Name = Kigirgam
+UWP = D561444-6
+Remarks = Ni
+{Ix} = { -3 }
+(Ex) = (631-5)
+[Cx] = [2134]
+N = B
+B = -
+Z = -
+PBG = 113
+W = 13
+A = ImDv
+Stellar = M1 V

@@ -1,0 +1,14 @@
+Hex = 0934
+Name = Imdakhun
+UWP = A20348D-F
+Remarks = Ic Ni Va Da
+{Ix} = { 1 }
+(Ex) = (734+5)
+[Cx] = [859K]
+N = B
+B = -
+Z = A
+PBG = 401
+W = 12
+A = ImDv
+Stellar = G5 V M1 V

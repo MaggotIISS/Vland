@@ -1,0 +1,14 @@
+Hex = 0832
+Name = Kirlikin
+UWP = C5407BD-8
+Remarks = De He Po Pi Pz
+{Ix} = { -1 }
+(Ex) = (B67+3)
+[Cx] = [B69C]
+N = BD
+B = S
+Z = A
+PBG = 902
+W = 12
+A = ImDv
+Stellar = M2 V

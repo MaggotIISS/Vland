@@ -1,0 +1,14 @@
+Hex = 0210
+Name = Khalgun
+UWP = E576734-6
+Remarks = Ag Pi
+{Ix} = { -1 }
+(Ex) = (966-3)
+[Cx] = [5634]
+N = BCD
+B = -
+Z = -
+PBG = 601
+W = 12
+A = ImDv
+Stellar = M1 V

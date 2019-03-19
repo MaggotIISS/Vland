@@ -1,0 +1,14 @@
+Hex = 2132
+Name = Imshiig
+UWP = B574545-A
+Remarks = Ag Ni
+{Ix} = { 3 }
+(Ex) = (947+1)
+[Cx] = [3838]
+N = BC
+B = NS
+Z = -
+PBG = 620
+W = 12
+A = ImDv
+Stellar = M3 V

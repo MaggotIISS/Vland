@@ -1,0 +1,14 @@
+Hex = 2526
+Name = Daapuken
+UWP = E564200-8
+Remarks = Lo Da
+{Ix} = { -3 }
+(Ex) = (511-5)
+[Cx] = [1113]
+N = B
+B = -
+Z = A
+PBG = 310
+W = 12
+A = ImDv
+Stellar = G8 V M1 V

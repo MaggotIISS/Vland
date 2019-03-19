@@ -1,0 +1,78 @@
+Hex = 1813
+Name = Khusher
+UWP = C646754-9
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = No
+	possBases = S
+Size = 6
+	DIGIT	DIA(MI)	DIA(KM)
+	6	6,000	9,600
+Atmosphere = 4
+	DIGIT	DESCRIPTION	EFFECTS
+	4	Thin, Tainted	P1, S1
+Hydrosphere = 6
+	DIGIT	DESCRIPTION
+	6	60%
+Population = 7
+	POPULATION UNDER 70,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+Law Level = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Moderate Law	Laser, Beam weapons prohibited
+Tech Level = 9
+	DIGIT		
+	9		
+Remarks = Ag Pi
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ag		456789	45678	567			Agricultural	
+	Pi		012479		78			Pre Industrial	
+{Ix} = { 1 }
+	Ag  = +1
+	Importance = Normal (1)+0=1
+(Ex) = (D6A-1)
+	Resources =  13
+	Labour =  6
+	Infrastructure =  10
+	Efficiency =  -1
+	RU = -780
+[Cx] = [5837]
+	Homogeneity = 5
+	Acceptance = 8
+	Strangeness = 3
+	Symbols = 7
+N = BCD
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+	D	Marquis	Pi
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 722
+	Population Multiplier = 7
+	POPULATION UNDER 70,000,000
+	Planetoid Belts = 2
+	Gas Giants = 2
+W = 11
+	Non Stars In System = 11
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-2 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = G5 V G9 V
+	Stars = 2

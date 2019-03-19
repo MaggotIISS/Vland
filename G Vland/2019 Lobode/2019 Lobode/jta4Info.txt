@@ -1,0 +1,80 @@
+Hex = 2019
+Name = Lobode
+UWP = E554666-5
+Starport = E
+	Quality = Frontier
+	Yards = No
+	Repairs = No
+	Fuel = No
+	Downport = Beacon
+	Highport = No
+	possBases = No
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 5
+	DIGIT	DESCRIPTION	EFFECTS
+	5	This	S1
+Hydrosphere = 4
+	DIGIT	DESCRIPTION
+	4	40%
+Population = 6
+	POPULATION UNDER 5,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Captive Government/Colony	Rule by a leadership answerable to an outside group
+Law Level = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Moderate Law	Pohibition of Machineguns
+Tech Level = 5
+	DIGIT		
+	5		
+Remarks = Ag Ni O:1919
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ag		456789	45678	567			Agricultural	
+	Ni				456			Non Industrial	
+	Ruled by 1919 Khula
+{Ix} = { -2 }
+	Starport E = -1
+	TL 5 = -1
+	Ag  = +1
+	Pop < 7 = -1
+	Importance = Unimportant (-2)+0=-2
+(Ex) = (852-3)
+	Resources =  8
+	Labour =  5
+	Infrastructure =  2
+	Efficiency =  -3
+	RU = -240
+[Cx] = [5444]
+	Homogeneity = 5
+	Acceptance = 4
+	Strangeness = 4
+	Symbols = 4
+N = BC
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 510
+	Population Multiplier = 5
+	POPULATION UNDER 5,000,000
+	Planetoid Belts = 1
+	Gas Giants = 0
+W = 8
+	Non Stars In System = 8
+	-1 (mainworld)
+	-1 (planetoid belts)
+	-0 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M2 V M3 V
+	Stars = 2

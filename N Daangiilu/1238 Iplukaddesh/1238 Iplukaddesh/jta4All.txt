@@ -1,0 +1,47 @@
+Primary = K1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (StormWorld)	Y-300000-0
+	  RadWorld	  	Y-330000-0 @ Orbit RWorld  (RadWorld)	Y-386000-0
+1 = World  (Hospitable)	H-377211-8World  (Hospitable)	Y-367287-8
+2 = Planetoid belt	Y-300200-8World  (RadWorld)	Y-353000-0World  (StormWorld)	Y-300000-0
+3 = World  (Worldlet)	G-310200-5
+	  Inferno	  	Y-3B0000-0 @ Orbit C
+	  Inferno	  	Y-3B0000-0 @ Orbit SWorld  (Hospitable)	F-300273-F
+	  Inferno	  	Y-3B0000-0 @ Orbit G
+	  Worldlet	  	H-3402AC-8 @ Orbit T
+4 = 
+5 = 
+6 = 
+7 = 
+8 = 
+9 = LGG (70,000 mi dia.)	S=25
+	  RadWorld	  	Y-351000-0 @ Orbit D
+	  Hospitable	  	F-366240-8 @ Orbit G
+	  RadWorld	  	Y-300000-0 @ Orbit H
+	  Hospitable	  	Y-350278-6 @ Orbit T
+	  StormWorld	  	Y-3A2000-0 @ Orbit V
+10 = Asteroid Belt	Iplukaddesh	D000323-9	(Cold)
+11 = 
+12 = 
+13 = 
+14 = 
+15 = World  (Hospitable)	F-3892BC-5
+	  StormWorld	  	Y-300000-0 @ Orbit E
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 13
+W = 12
+syscount = 1
+min = 0
+count = 7

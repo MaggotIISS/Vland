@@ -1,0 +1,14 @@
+Hex = 3115
+Name = Dusuureg
+UWP = C404466-B
+Remarks = Ic Ni Va O:3215
+{Ix} = { 0 }
+(Ex) = (A33-1)
+[Cx] = [344A]
+N = B
+B = S
+Z = -
+PBG = 622
+W = 10
+A = ImDv
+Stellar = F9 V K6 V

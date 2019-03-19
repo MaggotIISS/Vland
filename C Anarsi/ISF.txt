@@ -1,0 +1,200 @@
+Vland/C Anarsi
+
+1701 Taksarrgh - B624697-A
+	Defence CF = 1
+
+1705 Ugarun - C7C27A8-9
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 10
+  TROOP FORCES
+0001-0000-1(1)-9
+
+
+
+1801 Newcastle - C567749-8
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 5
+  TROOP FORCES
+0001-0000-1(1)-8
+
+
+
+1804 Kashiin - B54089E-8
+	SDB Squadrons = 5
+	Troop CF = 5
+	Defence CF = 50
+  TROOP FORCES
+0001-2000-5(5)-8
+
+
+
+---HI POP TARGET---
+1903 Gemid - A423979-E
+	SDB Squadrons = 150
+	Starship Squadrons = 3
+	Troop CF = 100
+	Defence CF = 1500
+  TROOP FORCES
+0001-6000-100(100)-E
+
+
+
+2007 Kaaka - C898662-8
+	Defence CF = 1
+
+---HI POP TARGET---
+2008 Morimur - C550AAE-C
+	SDB Squadrons = 1200
+	Starship Squadrons = 4
+	Troop CF = 500
+	Defence CF = 12000
+  TROOP FORCES
+0001-7000-500(500)-C
+
+
+
+2105 Ninnigam - C9D57A6-9
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 10
+  TROOP FORCES
+0001-0000-1(1)-9
+
+
+
+---HI POP TARGET---
+2107 Sadniben - C778978-6
+	Defence CF = 200
+
+2203 Angvae - C657610-8
+	Defence CF = 1
+
+---HI POP TARGET---
+2205 Anarsi - B7479EA-C
+	SDB Squadrons = 120
+	Starship Squadrons = 2
+	Troop CF = 50
+	Defence CF = 1200
+  TROOP FORCES
+0001-5000-50(50)-C
+
+
+
+2208 Kuzashamir - E546853-7
+	SDB Squadrons = 5
+	Troop CF = 5
+	Defence CF = 50
+  TROOP FORCES
+0001-2000-5(5)-7
+
+
+
+2210 Deglaraarbiis - E737725-7
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 5
+  TROOP FORCES
+0001-0000-1(1)-7
+
+
+
+2301 Knaeghzoka - B4317A6-B
+	SDB Squadrons = 1
+	Troop CF = 2
+	Defence CF = 12
+  TROOP FORCES
+0001-1000-2(2)-B
+
+
+
+2306 Nelak - C64A6AA-A
+	Defence CF = 1
+
+2309 Moribur - C550650-9
+	Defence CF = 1
+
+2310 Barshun - B510683-B
+	Defence CF = 2
+
+2406 Derekam - C5468CB-8
+	SDB Squadrons = 5
+	Troop CF = 5
+	Defence CF = 50
+  TROOP FORCES
+0001-2000-5(5)-8
+
+
+
+2408 Shabii - B854610-A
+	Defence CF = 1
+
+2409 Sardiika - A54467B-C
+	Defence CF = 2
+
+
+1903-A423979-E
+Commodore Kurbiis
+	Prec 7
+	Plan  4
+	Tactics 0
+	C001-3U-730-7-E
+
+1903-A423979-E
+Commodore Ishshii
+	Prec 11
+	Plan  5
+	Tactics 0
+	C002-3U-730-7-E
+
+1903-A423979-E
+Commodore Gussiiu
+	Prec 14
+	Plan  5
+	Tactics 1
+	C003-3U-730-7-E
+
+2008-C550AAE-C
+Commodore Giishgiimig
+	Prec 12
+	Plan  4
+	Tactics 0
+	C001-1U-840-8-C
+
+2008-C550AAE-C
+Commodore Iinkakhashsheukdak
+	Prec 8
+	Plan  5
+	Tactics 2
+	C002-1U-840-8-C
+
+2008-C550AAE-C
+Commodore Likukshiashle
+	Prec 12
+	Plan  5
+	Tactics -2
+	C003-1U-840-8-C
+
+2008-C550AAE-C
+Commodore Ainsikheishmi
+	Prec 10
+	Plan  3
+	Tactics -1
+	C004-1U-840-8-C
+
+2205-B7479EA-C
+Commodore Sursamkakraslanma
+	Prec 7
+	Plan  5
+	Tactics 2
+	C001-1U-730-7-C
+
+2205-B7479EA-C
+Commodore Darkam
+	Prec 7
+	Plan  3
+	Tactics 0
+	C002-1U-730-7-C
+
+

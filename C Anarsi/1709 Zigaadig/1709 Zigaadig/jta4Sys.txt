@@ -1,0 +1,14 @@
+Hex = 1709
+Name = Zigaadig
+UWP = B541389-B
+Remarks = He Lo Po
+{Ix} = { 1 }
+(Ex) = (A21+2)
+[Cx] = [446C]
+N = B
+B = -
+Z = -
+PBG = 523
+W = 9
+A = ImDv
+Stellar = G9 V K6 V

@@ -1,0 +1,57 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Gisharu	D556513-6	(Temperate)
+	  Hospitable	  	G258100-5 @ Orbit F
+	  Worldlet	  	H040489-5 @ Orbit IWorld  (Inferno)	Y2B0000-0World  (Inferno)	Y2B0000-Q
+	  RadWorld	  	Y232000-0 @ Orbit T
+1 = 
+2 = World  (Worldlet)	F073498-5
+	  IceWorld	  	Y242345-5 @ Orbit Y
+3 = World  (Worldlet)	G222444-5
+	  OuterWorld	  	Y2544DF-5 @ Orbit E
+	  IceWorld	  	Y284477-3 @ Orbit S
+	  Worldlet	  	Y000468-5 @ Orbit T
+4 = World  (Worldlet)	F055414-5
+	  Worldlet	  	H08A400-5 @ Orbit R
+5 = STAR M7 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 0
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  2
+	HZ =  -1
+	5-0 = 
+	5-1 = 
+	5-2 = 
+6 = Planetoid belt	F000478-5
+7 = 
+8 = 
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = World  (Worldlet)	F0B3466-5
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 13
+W = 8
+syscount = 2
+min = 0
+count = 7

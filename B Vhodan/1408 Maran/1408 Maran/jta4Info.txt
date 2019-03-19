@@ -1,0 +1,79 @@
+Hex = 1408
+Name = Maran
+UWP = B552A78-E
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 5
+	DIGIT	DESCRIPTION	EFFECTS
+	5	This	S1
+Hydrosphere = 2
+	DIGIT	DESCRIPTION
+	2	20%
+Population = A
+	POPULATION UNDER 30,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	A	Ten billion	0,000,000,000
+Government = 7
+	DIGIT	DESCRIPTION	NOTE
+	7	Balkanization	Rival governments continually compete for control of the world
+Law Level = 8
+	DIGIT	DESCRIPTION	NOTE
+	8	High Law	Open display of weapons prohibited
+Tech Level = E
+	DIGIT		
+	E		
+Remarks = Hi Po
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	Po		2345	0123				Poor	
+{Ix} = { 3 }
+	Starport B = +1
+	TL 14 = +1
+	Hi  = +1
+	Importance = Normal (3)+0=3
+(Ex) = (G9F+3)
+	Resources =  16
+	Labour =  9
+	Infrastructure =  15
+	Efficiency =  3
+	RU = 6480
+[Cx] = [AD5E]
+	Homogeneity = 10
+	Acceptance = 13
+	Strangeness = 5
+	Symbols = 14
+N = BE
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 322
+	Population Multiplier = 3
+	POPULATION UNDER 30,000,000,000
+	Planetoid Belts = 2
+	Gas Giants = 2
+W = 8
+	Non Stars In System = 8
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-2 (gas giants)
+	 = 3 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V
+	Stars = 1

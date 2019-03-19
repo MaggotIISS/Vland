@@ -1,0 +1,70 @@
+Primary = F6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	F	Yellow-White	6,000-7,500
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 3
+	d1000Limit = 7
+	Min Orbit = 0
+	HZ =  5
+0 = 
+1 = Planetoid belt	H000676-6
+2 = World  (BigWorld)	H663453-A
+	  Inferno	  	Y6B0000-0 @ Orbit U
+3 = LGG (60,000 mi dia.)	S=24
+	  BigWorld	  	H636488-4 @ Orbit D
+	  InnerWorld	  	Y674000-0 @ Orbit H
+	  InnerWorld	  	Y4003A7-5 @ Orbit O
+	  InnerWorld	  	G6E2274-6 @ Orbit S
+	  Inferno	  	Y6B0000-0 @ Orbit U
+4 = LGG (90,000 mi dia.)	S=27
+	  Hospitable	  	Y31059C-7 @ Orbit E
+	  RadWorld	  	Y630000-0 @ Orbit G
+	  StormWorld	  	H603262-8 @ Orbit T
+	  RadWorld	  	Y610000-0 @ Orbit V
+5 = Mainworld	Isbudin	C9C5984-B	(Temperate)
+6 = 
+7 = 
+8 = Planetoid belt	F000300-6
+9 = 
+10 = 
+11 = World  (Inferno)	Y6B0000-0
+12 = LGG (80,000 mi dia.)	S=26
+	  RadWorld	  	Y630000-0 @ Orbit E
+	  OuterWorld	  	F334200-5 @ Orbit F
+13 = 
+14 = STAR M7 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 0
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  11
+	HZ =  -1
+	14-0 = 
+	14-1 = 
+	14-2 = 
+	14-3 = 
+	14-4 = 
+	14-5 = 
+	14-6 = 
+	14-7 = 
+	14-8 = 
+	14-9 = 
+	14-10 = 
+	14-11 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 11
+W = 8
+syscount = 2
+min = 0
+count = 9

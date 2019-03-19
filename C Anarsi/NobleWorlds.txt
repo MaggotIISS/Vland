@@ -1,0 +1,187 @@
+
+1701 Taksarrgh
+	
+
+
+1703 Dathsuts 
+	
+
+
+1704 Rronaetut
+	
+
+
+1705 Ugarun   
+	(Knight) IishGer
+
+
+1708 Zelaklaka
+	(Knight) KiIgKaMiig
+
+
+1709 Zigaadig 
+	(Knight) AShuuKiIUMer
+
+
+1710 Tollori  
+	(Knight) UnShimKhiirGupSus
+	(Baronet) UgGar
+	(Baron) KhagKe
+
+
+1801 Newcastle
+	
+
+
+1802 Zannokh  
+	
+
+
+1803 Ronni    
+	
+
+
+1804 Kashiin  
+	
+
+
+1807 Ranilson 
+	(Knight) IdLas
+
+
+1810 Eshu     
+	(Knight) KinLiGuIIiz
+
+
+1901 Ghurrllek
+	
+
+
+1903 Gemid    
+	
+
+
+1904 Daama    
+	
+
+
+1906 Envar    
+	(Knight) Ag
+
+
+1907 Kakkin   
+	(Knight) Ik
+
+
+1909 Nashazi  
+	(Knight) GeKiip
+
+
+2005 Gadushan 
+	(Knight) UpDuUkh
+
+
+2006 Niitomok 
+	(Knight) GiAIkKi
+
+
+2007 Kaaka    
+	(Knight) IAs
+	(Baron) Ul
+
+
+2008 Morimur  
+	(Knight) UlShi
+	(Count) Kid
+
+
+2101 Miiko Bel
+	
+
+
+2103 Hteh Hut 
+	
+
+
+2105 Ninnigam 
+	(Knight) AlShi
+
+
+2106 Hellvapla
+	(Knight) AIgKiId
+
+
+2107 Sadniben 
+	(Knight) KuDam
+	(Count) II
+
+
+2203 Angvae   
+	
+
+
+2205 Anarsi   
+	(Knight) NurKamGa
+	(Count) AagKip
+	(Duke) LiSaDurGaarMe
+
+
+2208 Kuzashami
+	(Knight) MaAkKirKiMimNan
+	(Baronet) ShuMugShuMish
+	(Marquis) KhagShirDaAkShi
+	(Viscount) AkGamShaImMu
+
+
+2210 Deglaraar
+	(Knight) KuKhaUnKumGar
+
+
+2301 Knaeghzok
+	
+
+
+2306 Nelak    
+	(Knight) SigKa
+
+
+2308 Bolziin  
+	(Knight) EIip
+
+
+2309 Moribur  
+	(Knight) AKaShaI
+
+
+2310 Barshun  
+	(Knight) IAGir
+
+
+2402 Kfoerudzo
+	
+
+
+2406 Derekam  
+	(Knight) GiishKirLeIigKhi
+	(Baronet) MiIAmMush
+	(Marquis) UUzNiiIish
+	(Viscount) KeBaa
+
+
+2407 Gida     
+	(Knight) MimLaMam
+
+
+2408 Shabii   
+	(Knight) AAkhKer
+	(Baron) Kha
+
+
+2409 Sardiika 
+	(Knight) IKaAdKi
+	(Baron) GaaKeKhen
+
+
+2410 Karamurse
+	(Knight) AkhKhi
+

@@ -1,0 +1,61 @@
+Primary = M0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Dudid	B510526-A	(Temperate)
+	  Ring @ Orbit ?LGG (50,000 mi dia.)	S=2B
+	  Worldlet	  	H3A3463-4 @ Orbit C
+	  Worldlet	  	H36A456-9 @ Orbit H
+	  Worldlet	  	F334436-9 @ Orbit EWorld  (StormWorld)	Y726000-S
+	  Ring @ Orbit ?World  (StormWorld)	Y900000-U
+	  Ring @ Orbit W
+1 = World  (Hospitable)	G744450-9
+2 = World  (Worldlet)	F053322-6
+3 = 
+4 = 
+5 = 
+6 = World  (Inferno)	Y2B0000-0
+	  Worldlet	  	Y000488-6 @ Orbit T
+7 = 
+8 = 
+9 = 
+10 = STAR M0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  7
+	HZ =  -1
+	10-0 = 
+	10-1 = 
+	10-2 = 
+	10-3 = 
+	10-4 = 
+	10-5 = 
+	10-6 = 
+	10-7 = 
+11 = 
+12 = 
+13 = World  (RadWorld)	Y440000-0
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 14
+W = 8
+syscount = 2
+min = 0
+count = 6

@@ -1,0 +1,14 @@
+Hex = 2137
+Name = Shaka
+UWP = E410200-A
+Remarks = Lo
+{Ix} = { -1 }
+(Ex) = (711-5)
+[Cx] = [1115]
+N = B
+B = -
+Z = -
+PBG = 512
+W = 9
+A = ImDv
+Stellar = F0 V

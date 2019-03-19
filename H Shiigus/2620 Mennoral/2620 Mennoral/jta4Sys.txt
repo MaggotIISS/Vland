@@ -1,0 +1,14 @@
+Hex = 2620
+Name = Mennoral
+UWP = B858723-9
+Remarks = Ag
+{Ix} = { 3 }
+(Ex) = (C6C+1)
+[Cx] = [4A26]
+N = BC
+B = NS
+Z = -
+PBG = 421
+W = 10
+A = ImDv
+Stellar = K3 V

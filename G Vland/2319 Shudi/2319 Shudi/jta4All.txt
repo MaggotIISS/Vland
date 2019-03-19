@@ -1,0 +1,68 @@
+Primary = G6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  3
+0 = LGG (90,000 mi dia.)	S=27
+	  Ring @ Orbit ?World  (RadWorld)	Y355000-E
+	  BigWorld	  	HH67256-9 @ Orbit F
+	  Inferno	  	Y7B0000-0 @ Orbit H
+	  BigWorld	  	YD338BD-7 @ Orbit I
+	  StormWorld	  	YA00000-0 @ Orbit R
+1 = LGG (90,000 mi dia.)	S=27
+	  StormWorld	  	Y456000-0 @ Orbit R
+2 = STAR G2 VMainworld	Shudi	A7669BB-A	(Hot)
+	  StormWorld	  	Y461000-0 @ Orbit D
+	  Inferno	  	Y4B0000-0 @ Orbit QLGG (70,000 mi dia.)	S=2F
+	  Worldlet	  	Y010300-9 @ Orbit G
+	  Inferno	  	Y9B0000-0 @ Orbit H
+	  StormWorld	  	HA23247-7 @ Orbit I
+	  RadWorld	  	YB00000-0 @ Orbit K
+	  RadWorld	  	YA9A000-0 @ Orbit FWorld  (Hospitable)	H7C6884-O
+	  Worldlet	  	H050654-9 @ Orbit P
+	  Hospitable	  	Y458447-5 @ Orbit R
+	  Worldlet	  	H155561-9 @ Orbit FWorld  (StormWorld)	F73639D-V
+	  Ring @ Orbit X
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	NO Orbits
+3 = Planetoid belt	F00089D-8
+4 = LGG (60,000 mi dia.)	S=24
+	  StormWorld	  	Y400230-5 @ Orbit G
+	  IceWorld	  	Y4A0535-5 @ Orbit TPlanetoid belt	Y00089B-V
+5 = 
+6 = 
+7 = SGG (40,000 mi dia.)	S=22
+	  IceWorld	  	H2108A9-4 @ Orbit E
+	  OuterWorld	  	Y344368-8 @ Orbit G
+	  RadWorld	  	Y420000-0 @ Orbit I
+	  RadWorld	  	Y485000-0 @ Orbit V
+8 = 
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = World  (Worldlet)	F356845-3
+	  Ring @ Orbit ?
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 13
+W = 12
+syscount = 2
+min = 0
+count = 7

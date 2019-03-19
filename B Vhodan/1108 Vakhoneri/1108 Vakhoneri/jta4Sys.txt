@@ -1,0 +1,14 @@
+Hex = 1108
+Name = Vakhoneri
+UWP = C76A9AB-C
+Remarks = Hi Wa Pr Pz
+{Ix} = { 2 }
+(Ex) = (C8D+4)
+[Cx] = [BB7E]
+N = BcE
+B = S
+Z = A
+PBG = 710
+W = 16
+A = ImDv
+Stellar = K8 V

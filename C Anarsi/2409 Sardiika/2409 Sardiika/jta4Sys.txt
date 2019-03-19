@@ -1,0 +1,14 @@
+Hex = 2409
+Name = Sardiika
+UWP = A54467B-C
+Remarks = Ag Ni
+{Ix} = { 3 }
+(Ex) = (957+5)
+[Cx] = [897E]
+N = BC
+B = NS
+Z = -
+PBG = 210
+W = 6
+A = ImDv
+Stellar = F9 V

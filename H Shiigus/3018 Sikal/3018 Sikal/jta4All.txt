@@ -1,0 +1,60 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Sikal	C545644-8	(Temperate)World  (BigWorld)	H2945B8-7
+	  RadWorld	  	Y265000-0 @ Orbit JWorld  (Inferno)	Y2B0000-0
+1 = World  (Worldlet)	H279586-2
+2 = World  (StormWorld)	Y20015A-7
+	  Ring @ Orbit ?
+3 = World  (RadWorld)	Y2C6000-0
+	  Worldlet	  	Y299565-7 @ Orbit E
+	  Worldlet	  	G253323-7 @ Orbit F
+	  IceWorld	  	G240552-7 @ Orbit T
+4 = 
+5 = World  (Hospitable)	Y249543-5
+6 = World  (StormWorld)	H2121A9-6
+7 = World  (BigWorld)	F200579-7
+	  OuterWorld	  	H277132-6 @ Orbit Q
+	  StormWorld	  	Y202000-0 @ Orbit S
+8 = Planetoid belt	H000588-7
+9 = STAR M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  6
+	HZ =  -1
+	9-0 = 
+	9-1 = 
+	9-2 = 
+	9-3 = 
+	9-4 = 
+	9-5 = 
+	9-6 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = World  (Worldlet)	H086463-7
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 10
+W = 11
+syscount = 2
+min = 0
+count = 10

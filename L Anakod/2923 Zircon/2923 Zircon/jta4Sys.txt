@@ -1,0 +1,14 @@
+Hex = 2923
+Name = Zircon
+UWP = C571116-8
+Remarks = He Lo
+{Ix} = { -2 }
+(Ex) = (411-3)
+[Cx] = [1147]
+N = B
+B = S
+Z = -
+PBG = 410
+W = 7
+A = ImDv
+Stellar = M0 V M6 V

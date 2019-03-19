@@ -1,0 +1,14 @@
+Hex = 2113
+Name = Ishala
+UWP = C866751-9
+Remarks = Ag Ga Ri
+{Ix} = { 2 }
+(Ex) = (D6B-2)
+[Cx] = [3915]
+N = BC
+B = -
+Z = -
+PBG = 404
+W = 13
+A = ImDv
+Stellar = M1 V

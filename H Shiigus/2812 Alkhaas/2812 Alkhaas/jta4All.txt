@@ -1,0 +1,73 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Alkhaas	E99769D-6	(Temperate)World  (Inferno)	Y6B0000-0
+1 = LGG (80,000 mi dia.)	S=26
+	  Worldlet	  	Y277402-2 @ Orbit D
+	  Inferno	  	Y6B0000-0 @ Orbit T
+	  RadWorld	  	Y667000-0 @ Orbit RPlanetoid belt	H000550-Y
+2 = 
+3 = SGG (40,000 mi dia.)	S=22
+	  OuterWorld	  	H664420-5 @ Orbit I
+	  RadWorld	  	Y610000-0 @ Orbit K
+	  Worldlet	  	H178541-3 @ Orbit R
+	  BigWorld	  	F673555-5 @ Orbit S
+4 = Planetoid belt	F000458-5
+5 = Planetoid belt	F000420-5
+6 = 
+7 = LGG (125,000 mi dia.)	S=28
+	  OuterWorld	  	H687464-5 @ Orbit G
+	  BigWorld	  	F635543-5 @ Orbit L
+	  StormWorld	  	Y656000-0 @ Orbit S
+	  IceWorld	  	Y562000-0 @ Orbit U
+8 = 
+9 = 
+10 = 
+11 = World  (Inferno)	Y3B0000-0
+	  Worldlet	  	F321140-5 @ Orbit E
+	  OuterWorld	  	Y675320-5 @ Orbit S
+12 = 
+13 = 
+14 = 
+15 = 
+16 = STAR M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  13
+	HZ =  -1
+	16-0 = 
+	16-1 = 
+	16-2 = 
+	16-3 = 
+	16-4 = 
+	16-5 = 
+	16-6 = 
+	16-7 = 
+	16-8 = 
+	16-9 = 
+	16-10 = 
+	16-11 = 
+	16-12 = 
+	16-13 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 12
+W = 9
+syscount = 2
+min = 0
+count = 8

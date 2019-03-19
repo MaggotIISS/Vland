@@ -1,0 +1,14 @@
+Hex = 1609
+Name = Sakkuum
+UWP = C3107AB-A
+Remarks = Na Pi Pz
+{Ix} = { 1 }
+(Ex) = (A6A+3)
+[Cx] = [987C]
+N = BD
+B = S
+Z = A
+PBG = 701
+W = 10
+A = ImDv
+Stellar = M1 V

@@ -1,0 +1,55 @@
+Primary = M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Thoegzknaedz	C676532-9	(Temperate)
+	  Worldlet	  	H22149A-8 @ Orbit G
+	  Hospitable	  	F384496-7 @ Orbit FWorld  (RadWorld)	Y266000-W
+1 = LGG (125,000 mi dia.)	S=28
+	  Worldlet	  	G099444-8 @ Orbit E
+	  Inferno	  	Y3B0000-0 @ Orbit VWorld  (Worldlet)	G250484-F
+	  RadWorld	  	Y330000-0 @ Orbit H
+	  Worldlet	  	H0584AD-8 @ Orbit J
+	  RadWorld	  	Y300000-0 @ Orbit T
+	  RadWorld	  	Y350000-0 @ Orbit V
+	  StormWorld	  	Y356000-0 @ Orbit X
+2 = LGG (125,000 mi dia.)	S=28
+	  IceWorld	  	F3A0222-8 @ Orbit H
+	  BigWorld	  	G375456-7 @ Orbit J
+	  RadWorld	  	Y330000-0 @ Orbit O
+	  IceWorld	  	G3A0422-7 @ Orbit R
+3 = LGG (50,000 mi dia.)	S=23
+	  RadWorld	  	Y340000-0 @ Orbit D
+	  OuterWorld	  	H35449B-8 @ Orbit G
+	  StormWorld	  	Y314000-0 @ Orbit J
+	  OuterWorld	  	H384443-6 @ Orbit R
+	  StormWorld	  	Y330000-0 @ Orbit T
+4 = 
+5 = 
+6 = 
+7 = 
+8 = 
+9 = 
+10 = 
+11 = 
+12 = World  (RadWorld)	Y342000-0
+	  Worldlet	  	H047240-2 @ Orbit I
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 15
+W = 7
+syscount = 1
+min = 0
+count = 5

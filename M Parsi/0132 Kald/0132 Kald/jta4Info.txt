@@ -1,0 +1,80 @@
+Hex = 0132
+Name = Kald
+UWP = C5509AB-A
+Starport = C
+	Quality = Routine
+	Yards = No
+	Repairs = Major damage
+	Fuel = Unrefined
+	Downport = Yes
+	Highport = Yes
+	possBases = S
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 5
+	DIGIT	DESCRIPTION	EFFECTS
+	5	This	S1
+Hydrosphere = 0
+	DIGIT	DESCRIPTION
+	0	Desert World
+Population = 9
+	POPULATION UNDER 7,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	9	Billion	,000,000,000
+Government = A
+	DIGIT	DESCRIPTION	NOTE
+	A	Charismatic Dictatorship	Government by a single leader enjoying the confidence of the citizens
+Law Level = B
+	DIGIT	DESCRIPTION	NOTE
+	B	Extreme Law	Continental passports required
+Tech Level = A
+	DIGIT		
+	A		
+Remarks = De Hi Po Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	De	23456789	0					Desert	
+	Hi				9ABC			High Population	
+	Po		2345	0123				Poor	
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { 2 }
+	TL 10 = +1
+	Hi  = +1
+	Importance = Normal (2)+0=2
+(Ex) = (C8C+4)
+	Resources =  12
+	Labour =  8
+	Infrastructure =  12
+	Efficiency =  4
+	RU = 4608
+[Cx] = [BB7C]
+	Homogeneity = 11
+	Acceptance = 11
+	Strangeness = 7
+	Symbols = 12
+N = BE
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 701
+	Population Multiplier = 7
+	POPULATION UNDER 7,000,000,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 8
+	Non Stars In System = 8
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 6 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M1 V M1 V
+	Stars = 2

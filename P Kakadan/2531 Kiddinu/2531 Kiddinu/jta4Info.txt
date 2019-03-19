@@ -1,0 +1,79 @@
+Hex = 2531
+Name = Kiddinu
+UWP = B555553-C
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 5
+	DIGIT	DESCRIPTION	EFFECTS
+	5	This	S1
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+Population = 5
+	POPULATION UNDER 400,000
+	DIGIT	DESCRIPTION	VALUE
+	5	Hundred thousand	00,000
+Government = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities
+Law Level = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Low Law	Prohibition of Acid, Fire, Gas weapons
+Tech Level = C
+	DIGIT		
+	C		
+Remarks = Ag Ni
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ag		456789	45678	567			Agricultural	
+	Ni				456			Non Industrial	
+{Ix} = { 2 }
+	Starport B = +1
+	TL 12 = +1
+	Ag  = +1
+	Pop < 7 = -1
+	Importance = Normal (2)+0=2
+(Ex) = (E46-1)
+	Resources =  14
+	Labour =  4
+	Infrastructure =  6
+	Efficiency =  -1
+	RU = -336
+[Cx] = [2729]
+	Homogeneity = 2
+	Acceptance = 7
+	Strangeness = 2
+	Symbols = 9
+N = BC
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 434
+	Population Multiplier = 4
+	POPULATION UNDER 400,000
+	Planetoid Belts = 3
+	Gas Giants = 4
+W = 11
+	Non Stars In System = 11
+	-1 (mainworld)
+	-3 (planetoid belts)
+	-4 (gas giants)
+	 = 3 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = M0 V
+	Stars = 1

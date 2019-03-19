@@ -1,0 +1,14 @@
+Hex = 1916
+Name = Kipii
+UWP = B430222-D
+Remarks = De Lo Po
+{Ix} = { 1 }
+(Ex) = (611-3)
+[Cx] = [1319]
+N = B
+B = N
+Z = -
+PBG = 202
+W = 8
+A = ImDv
+Stellar = M3 V

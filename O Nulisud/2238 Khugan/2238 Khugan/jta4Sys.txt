@@ -1,0 +1,14 @@
+Hex = 2238
+Name = Khugan
+UWP = B786420-B
+Remarks = Ni Ga Pa
+{Ix} = { 1 }
+(Ex) = (A34-3)
+[Cx] = [1516]
+N = Bc
+B = -
+Z = -
+PBG = 504
+W = 13
+A = ImDv
+Stellar = M3 V

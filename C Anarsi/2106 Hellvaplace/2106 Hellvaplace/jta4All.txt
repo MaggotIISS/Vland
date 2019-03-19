@@ -1,0 +1,65 @@
+Primary = M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Hellvaplace	DAB5423-8	(Temperate)
+	  Worldlet	  	Y020100-5 @ Orbit F
+	  Worldlet	  	F0753BC-7 @ Orbit EWorld  (Inferno)	Y7B0000-H
+	  Ring @ Orbit ?World  (BigWorld)	H710369-T
+1 = World  (BigWorld)	F777388-7
+2 = World  (Worldlet)	F000200-4
+	  RadWorld	  	Y450000-0 @ Orbit O
+	  Worldlet	  	Y027378-7 @ Orbit S
+3 = LGG (125,000 mi dia.)	S=28
+	  IceWorld	  	G484331-7 @ Orbit E
+	  RadWorld	  	Y722000-0 @ Orbit G
+	  OuterWorld	  	H51035A-7 @ Orbit U
+	  IceWorld	  	Y230354-6 @ Orbit V
+	  IceWorld	  	Y230222-7 @ Orbit Y
+4 = STAR G2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  1
+	HZ =  -1
+	4-0 = 
+	4-1 = 
+5 = World  (Hospitable)	H55437A-7
+	  Worldlet	  	F195264-7 @ Orbit FWorld  (Hospitable)	H788396-P
+	  IceWorld	  	Y10037C-7 @ Orbit T
+	  OuterWorld	  	H120233-4 @ Orbit U
+6 = 
+7 = 
+8 = 
+9 = World  (StormWorld)	Y746000-0
+	  Worldlet	  	H373369-7 @ Orbit I
+	  StormWorld	  	Y540000-0 @ Orbit V
+10 = World  (Inferno)	Y7B0000-0
+	  OuterWorld	  	H463386-5 @ Orbit P
+	  StormWorld	  	Y301000-0 @ Orbit S
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 12
+W = 10
+syscount = 2
+min = 0
+count = 8

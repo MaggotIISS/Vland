@@ -1,0 +1,14 @@
+Hex = 1515
+Name = Luunbu
+UWP = E8D6255-9
+Remarks = Lo Da
+{Ix} = { -2 }
+(Ex) = (511-4)
+[Cx] = [1137]
+N = B
+B = -
+Z = A
+PBG = 810
+W = 13
+A = ImDv
+Stellar = M2 V

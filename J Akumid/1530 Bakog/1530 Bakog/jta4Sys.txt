@@ -1,0 +1,14 @@
+Hex = 1530
+Name = Bakog
+UWP = A8D9351-F
+Remarks = Lo
+{Ix} = { 1 }
+(Ex) = (A21-3)
+[Cx] = [141B]
+N = B
+B = S
+Z = -
+PBG = 832
+W = 12
+A = ImDv
+Stellar = G8 V

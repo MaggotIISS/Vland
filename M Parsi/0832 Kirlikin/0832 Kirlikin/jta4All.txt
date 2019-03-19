@@ -1,0 +1,64 @@
+Primary = M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = SGG (30,000 mi dia.)	S=21
+	  RadWorld	  	Y252000-0 @ Orbit B
+	  Inferno	  	Y2B0000-0 @ Orbit C
+	  RadWorld	  	Y297000-0 @ Orbit D
+	  BigWorld	  	F230563-5 @ Orbit FWorld  (Worldlet)	H040367-E
+	  Hospitable	  	Y310000-0 @ Orbit F
+	  Worldlet	  	Y042000-0 @ Orbit G
+	  Worldlet	  	H267443-3 @ Orbit OWorld  (RadWorld)	Y475000-H
+	  Inferno	  	Y6B0000-0 @ Orbit I
+	  StormWorld	  	YB82000-0 @ Orbit IWorld  (StormWorld)	F920262-J
+	  RadWorld	  	Y867000-0 @ Orbit K
+	  Inferno	  	Y3B0000-0 @ Orbit O
+	  Hospitable	  	F000300-3 @ Orbit P
+	  Inferno	  	Y9B0000-0 @ Orbit Q
+	  StormWorld	  	Y962000-0 @ Orbit EWorld  (Inferno)	Y8B0000-R
+	  StormWorld	  	H630169-4 @ Orbit S
+	  StormWorld	  	YC20000-0 @ Orbit T
+	  RadWorld	  	Y700000-0 @ Orbit U
+	  BigWorld	  	YE106BC-7 @ Orbit V
+	  BigWorld	  	YD20446-7 @ Orbit W
+1 = Mainworld	Kirlikin	C5407BD-8	(Cold)
+	  Hospitable	  	Y254695-4 @ Orbit E
+	  Hospitable	  	Y2D6304-7 @ Orbit WLGG (125,000 mi dia.)	S=2K
+	  RadWorld	  	Y95A000-0 @ Orbit O
+	  StormWorld	  	Y900000-0 @ Orbit R
+	  Inferno	  	Y7B0000-0 @ Orbit T
+	  Inferno	  	Y8B0000-0 @ Orbit U
+	  StormWorld	  	Y7012BA-6 @ Orbit W
+2 = World  (Worldlet)	Y066655-4
+	  Ring @ Orbit ?
+3 = World  (Hospitable)	H436556-7
+4 = World  (RadWorld)	YA30000-0
+5 = World  (Inferno)	YBB0000-0
+6 = 
+7 = 
+8 = 
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = World  (StormWorld)	F900279-3
+	  Worldlet	  	G079523-6 @ Orbit U
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 13
+W = 12
+syscount = 1
+min = 0
+count = 7

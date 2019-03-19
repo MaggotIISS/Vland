@@ -1,0 +1,140 @@
+
+0902 Otsaellgh
+	
+
+
+0906 Iishashun
+	(Knight) IAkRaaKaIlGi
+
+
+0909 Jiinasha 
+	(Knight) DiiNaLa
+	(Marquis) GimMeMaUdGu
+
+
+1001 Odhughe  
+	
+
+
+1003 Anaanika 
+	
+
+
+1004 Esngougz 
+	
+
+
+1007 Laaru    
+	(Knight) UuADirKaa
+	(Count) AkhGiIdGinMar
+
+
+1102 Azu      
+	
+
+
+1104 Gvaellekh
+	
+
+
+1107 Sikilar  
+	(Knight) UlKiirDuUd
+	(Viscount) UgLaGiKa
+
+
+1108 Vakhoneri
+	(Knight) AShirRir
+	(Baronet) AkRiKiIshGirNii
+	(Count) KaGa
+
+
+1109 Suraggins
+	(Knight) A
+
+
+1110 Liwar    
+	(Knight) IkLiIgKiAshGa
+
+
+1201 Erim     
+	
+
+
+1202 Anghurr  
+	
+
+
+1203 Angvae   
+	
+
+
+1206 Kummus   
+	(Knight) IshZu
+
+
+1208 Vhodan   
+	(Knight) E
+	(Count) KhiEKig
+	(Duke) UzGuuAkSiimDiKhur
+
+
+1309 Enpar Kon
+	(Knight) Lu
+	(Baron) I
+	(Marquis) ImGirMuAAgSe
+
+
+1403 Deraan   
+	
+
+
+1405 Diiron   
+	(Knight) UkhNiipGu
+	(Marquis) EkKaAlKhirKhemKar
+	(Viscount) LiishLaZu
+
+
+1406 Timat    
+	(Knight) UdGa
+	(Baron) AaIShiEEl
+
+
+1407 Guusimka 
+	(Knight) AakKuUunKekLan
+	(Count) IsDu
+
+
+1408 Maran    
+	(Knight) KaKuumGi
+	(Count) IikhKaIm
+
+
+1410 Zentove  
+	(Knight) Gi
+
+
+1505 Odinaga  
+	(Knight) Lig
+
+
+1509 Audhumla 
+	(Knight) EbMaLurDaDim
+
+
+1604 Gamgilebo
+	
+
+
+1606 Dannar   
+	(Knight) GirLer
+
+
+1608 Riinel   
+	(Knight) ImNuur
+	(Baron) AkGiAkKiIigShaa
+
+
+1609 Sakkuum  
+	(Knight) KiimGunNudShur
+	(Marquis) GuIsh
+

@@ -1,0 +1,63 @@
+Primary = K2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (StormWorld)	Y420000-0
+1 = Planetoid belt	Y000112-7
+2 = Mainworld	Gvaellekh	C885215-8	(Temperate)
+	  Worldlet	  	H00019A-5 @ Orbit E
+3 = World  (RadWorld)	Y535000-0World  (Worldlet)	F300163-7
+	  Worldlet	  	Y020178-6 @ Orbit P
+	  Hospitable	  	Y1201EE-7 @ Orbit R
+4 = World  (Inferno)	Y5B0000-0
+	  IceWorld	  	G400124-7 @ Orbit D
+	  Worldlet	  	F1A6168-4 @ Orbit E
+	  RadWorld	  	Y554000-0 @ Orbit S
+5 = 
+6 = 
+7 = World  (RadWorld)	Y584000-0
+	  Ring @ Orbit ?
+8 = 
+9 = 
+10 = World  (BigWorld)	G500135-7
+	  RadWorld	  	Y425000-0 @ Orbit V
+11 = STAR K6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  8
+	HZ =  -1
+	11-0 = 
+	11-1 = 
+	11-2 = 
+	11-3 = 
+	11-4 = 
+	11-5 = 
+	11-6 = 
+	11-7 = 
+	11-8 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 12
+W = 8
+syscount = 2
+min = 0
+count = 8

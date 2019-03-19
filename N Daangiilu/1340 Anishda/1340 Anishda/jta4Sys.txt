@@ -1,0 +1,14 @@
+Hex = 1340
+Name = Anishda
+UWP = E614310-8
+Remarks = Ic Lo
+{Ix} = { -3 }
+(Ex) = (721-5)
+[Cx] = [1113]
+N = B
+B = -
+Z = -
+PBG = 902
+W = 8
+A = ImDv
+Stellar = M0 V

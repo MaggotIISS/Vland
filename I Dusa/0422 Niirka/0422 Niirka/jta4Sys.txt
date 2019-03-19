@@ -1,0 +1,14 @@
+Hex = 0422
+Name = Niirka
+UWP = A300757-F
+Remarks = Na Va Pi
+{Ix} = { 2 }
+(Ex) = (D6E+2)
+[Cx] = [795F]
+N = BD
+B = -
+Z = -
+PBG = 922
+W = 15
+A = ImDv
+Stellar = M9 III

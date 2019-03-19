@@ -1,0 +1,14 @@
+Hex = 0921
+Name = Ganiir
+UWP = C423320-B
+Remarks = Lo Po
+{Ix} = { 0 }
+(Ex) = (A21-4)
+[Cx] = [1316]
+N = B
+B = -
+Z = -
+PBG = 105
+W = 16
+A = ImDv
+Stellar = M3 V M5 V

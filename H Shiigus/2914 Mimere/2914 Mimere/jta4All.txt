@@ -1,0 +1,67 @@
+Primary = M1 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Mimere	B9B6999-D	(Temperate)
+	  RadWorld	  	Y657000-0 @ Orbit TWorld  (StormWorld)	Y411189-D
+	  Worldlet	  	Y2A548C-B @ Orbit K
+	  RadWorld	  	Y625000-0 @ Orbit V
+1 = World  (Worldlet)	H300130-4
+	  Worldlet	  	G160152-7 @ Orbit O
+2 = Planetoid belt	F000644-7
+3 = World  (BigWorld)	G6558CC-6
+	  Ring @ Orbit ?
+4 = World  (RadWorld)	Y678000-0
+	  Ring @ Orbit ?World  (Inferno)	Y2B0000-G
+	  RadWorld	  	Y645000-0 @ Orbit L
+	  StormWorld	  	Y300000-0 @ Orbit S
+	  OuterWorld	  	H67687C-9 @ Orbit T
+5 = World  (Inferno)	Y6B0000-0World  (RadWorld)	Y653000-0
+6 = 
+7 = World  (BigWorld)	F675765-4
+	  OuterWorld	  	F000446-8 @ Orbit G
+	  IceWorld	  	G400579-C @ Orbit J
+	  Worldlet	  	H064564-A @ Orbit V
+8 = World  (Inferno)	Y4B0000-0
+9 = 
+10 = STAR M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  7
+	HZ =  -1
+	10-0 = 
+	10-1 = 
+	10-2 = 
+	10-3 = 
+	10-4 = 
+	10-5 = 
+	10-6 = 
+	10-7 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = World  (Inferno)	Y6B0000-0
+	  Ring @ Orbit ?
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 10
+W = 12
+syscount = 2
+min = 0
+count = 10

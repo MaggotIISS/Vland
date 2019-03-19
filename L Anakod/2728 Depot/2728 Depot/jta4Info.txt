@@ -1,0 +1,82 @@
+Hex = 2728
+Name = Depot
+UWP = A59466A-C
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 9
+	DIGIT	DESCRIPTION	EFFECTS
+	9	Dense, Tainted	P1
+Hydrosphere = 4
+	DIGIT	DESCRIPTION
+	4	40%
+Population = 6
+	POPULATION UNDER 1,000,000
+	DIGIT	DESCRIPTION	VALUE
+	6	Million	,000,000
+Government = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Captive Government/Colony	Rule by a leadership answerable to an outside group
+Law Level = A
+	DIGIT	DESCRIPTION	NOTE
+	A	Extreme Law	Weapon possession prohibited
+Tech Level = C
+	DIGIT		
+	C		
+Remarks = Ag Ni Da Mr
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ag		456789	45678	567			Agricultural	
+	Ni				456			Non Industrial	
+	Da				0123456			Dangerous	Amber Zone
+	Mr							Military Rule by Regional Power	
+{Ix} = { 3 }
+	Starport A = +1
+	TL 12 = +1
+	Ag  = +1
+	Pop < 7 = -1
+	Importance = Normal (2)+1=3
+(Ex) = (B57+5)
+	Resources =  11
+	Labour =  5
+	Infrastructure =  7
+	Efficiency =  5
+	RU = 1925
+[Cx] = [897E]
+	Homogeneity = 8
+	Acceptance = 9
+	Strangeness = 7
+	Symbols = 14
+N = BC
+	CODE	RANK	TC
+	B	Knight	any
+	C	Baron	Ag Ri
+B = D
+	DIGIT	DESCRIPTION	ALLEG
+	D	Naval Depot	Any
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 121
+	Population Multiplier = 1
+	POPULATION UNDER 1,000,000
+	Planetoid Belts = 2
+	Gas Giants = 1
+W = 13
+	Non Stars In System = 13
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-1 (gas giants)
+	 = 9 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K6 V
+	Stars = 1

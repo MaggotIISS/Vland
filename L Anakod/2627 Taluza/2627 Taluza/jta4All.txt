@@ -1,0 +1,53 @@
+Primary = K6 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = LGG (70,000 mi dia.)	S=25
+	  RadWorld	  	Y27A000-0 @ Orbit C
+	  Worldlet	  	Y06A356-4 @ Orbit G
+	  StormWorld	  	Y272000-0 @ Orbit U
+	  InnerWorld	  	Y210000-0 @ Orbit V
+	  RadWorld	  	Y200000-0 @ Orbit X
+1 = SGG (40,000 mi dia.)	S=22
+	  Worldlet	  	F210300-4 @ Orbit D
+	  Hospitable	  	Y2244DF-4 @ Orbit F
+	  RadWorld	  	Y236000-0 @ Orbit SWorld  (Inferno)	Y6B0000-G
+	  Worldlet	  	Y240447-4 @ Orbit H
+	  Worldlet	  	G057465-4 @ Orbit I
+	  RadWorld	  	Y730000-0 @ Orbit TWorld  (Inferno)	Y7B0000-R
+	  BigWorld	  	YF23454-4 @ Orbit T
+	  StormWorld	  	YA00000-0 @ Orbit WWorld  (Worldlet)	H000467-U
+	  Worldlet	  	H2A6462-4 @ Orbit V
+	  Hospitable	  	G877487-4 @ Orbit W
+2 = Mainworld	Taluza	D594547-5	(Temperate)SGG (40,000 mi dia.)	S=22
+	  RadWorld	  	YA25000-0 @ Orbit GWorld  (RadWorld)	Y656000-Q
+	  BigWorld	  	YD53333-4 @ Orbit R
+3 = 
+4 = World  (StormWorld)	Y300000-0
+5 = Planetoid belt	H000313-4
+6 = Planetoid belt	F000100-4
+7 = World  (Worldlet)	H088464-4
+8 = 
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = World  (Hospitable)	H435479-4
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 12
+syscount = 1
+min = 0
+W = 13
+Extra Stars = 0
+count = 8

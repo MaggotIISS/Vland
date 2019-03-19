@@ -1,0 +1,48 @@
+Primary = M0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Nelak	C64A6AA-A	(Temperate)
+	Orbits SGG (40,000 mi dia.)	S=22 @ orbit R
+	  Hospitable	  	H546436-7 @ Orbit F
+	  Worldlet	  	G37A578-4 @ Orbit H
+	  Inferno	  	Y5B0000-0 @ Orbit GWorld  (Inferno)	Y5B0000-J
+	  RadWorld	  	YB65000-0 @ Orbit U
+	  RadWorld	  	Y7A4000-0 @ Orbit W
+1 = 
+2 = World  (RadWorld)	YB97000-0
+	  Worldlet	  	G09A556-6 @ Orbit F
+	  StormWorld	  	Y420000-0 @ Orbit R
+3 = World  (Worldlet)	G300477-6
+	  Worldlet	  	H142542-4 @ Orbit G
+	  StormWorld	  	Y652133-8 @ Orbit I
+	  StormWorld	  	Y300000-0 @ Orbit W
+4 = World  (Hospitable)	F885574-9
+	  Ring @ Orbit ?
+5 = World  (Hospitable)	Y566586-9
+6 = Planetoid belt	H000435-4
+7 = 
+8 = World  (Inferno)	Y2B0000-0
+9 = 
+10 = 
+11 = World  (Worldlet)	F300545-4
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 12
+W = 9
+syscount = 1
+min = 0
+count = 8

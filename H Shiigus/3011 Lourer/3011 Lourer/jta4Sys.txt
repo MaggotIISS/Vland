@@ -1,0 +1,14 @@
+Hex = 3011
+Name = Lourer
+UWP = E594A8A-A
+Remarks = Hi In
+{Ix} = { 2 }
+(Ex) = (D9C+4)
+[Cx] = [CC7C]
+N = BE
+B = -
+Z = -
+PBG = 810
+W = 12
+A = ImDv
+Stellar = M3 V M8 V

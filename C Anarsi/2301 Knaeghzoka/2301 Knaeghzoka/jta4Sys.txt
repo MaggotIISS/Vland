@@ -1,0 +1,14 @@
+Hex = 2301
+Name = Knaeghzoka
+UWP = B4317A6-B
+Remarks = Na Po
+{Ix} = { 2 }
+(Ex) = (A6C+1)
+[Cx] = [694A]
+N = -
+B = -
+Z = -
+PBG = 401
+W = 7
+A = CsIm
+Stellar = M1 V M1 V

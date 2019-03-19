@@ -1,0 +1,14 @@
+Hex = 2905
+Name = Zupilak
+UWP = D553353-8
+Remarks = Lo Po
+{Ix} = { -3 }
+(Ex) = (C21-5)
+[Cx] = [1125]
+N = B
+B = -
+Z = -
+PBG = 634
+W = 10
+A = ImDv
+Stellar = K8 V

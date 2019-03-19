@@ -1,0 +1,14 @@
+Hex = 1405
+Name = Diiron
+UWP = B89A8AA-C
+Remarks = Wa Ph Pi Pz
+{Ix} = { 2 }
+(Ex) = (E7C+4)
+[Cx] = [AA7E]
+N = BDe
+B = -
+Z = A
+PBG = 604
+W = 10
+A = ImDv
+Stellar = G3 V

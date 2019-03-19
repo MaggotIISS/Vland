@@ -1,0 +1,14 @@
+Hex = 3224
+Name = Anakod
+UWP = A796258-E
+Remarks = Lo An
+{Ix} = { 1 }
+(Ex) = (A11+1)
+[Cx] = [235E]
+N = B
+B = -
+Z = -
+PBG = 124
+W = 13
+A = ImDv
+Stellar = F7 V

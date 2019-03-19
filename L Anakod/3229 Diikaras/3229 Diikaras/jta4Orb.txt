@@ -1,0 +1,42 @@
+Primary = M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Diikaras	AA9A651-F	(Hot)
+	  RadWorld	  	Y650000-0 @ Orbit I
+	  Worldlet	  	F053526-7 @ Orbit JLGG (80,000 mi dia.)	S=2Q
+	  Ring @ Orbit U
+1 = World  (StormWorld)	H746167-4World  (Inferno)	Y6B0000-0
+2 = World  (RadWorld)	Y856000-0
+3 = World  (Inferno)	Y2B0000-0
+4 = World  (RadWorld)	Y536000-0
+	  IceWorld	  	Y320559-7 @ Orbit V
+5 = 
+6 = 
+7 = LGG (220,000 mi dia.)	S=30
+	  BigWorld	  	Y7A6532-6 @ Orbit C
+	  RadWorld	  	Y700000-0 @ Orbit J
+8 = 
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = World  (BigWorld)	FE6259A-6
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 13
+syscount = 1
+min = 0
+W = 9
+Extra Stars = 0
+count = 7

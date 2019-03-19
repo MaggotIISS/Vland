@@ -1,0 +1,81 @@
+Hex = 2431
+Name = Dusekhip
+UWP = B633964-D
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 6
+	DIGIT	DIA(MI)	DIA(KM)
+	6	6,000	9,600
+Atmosphere = 3
+	DIGIT	DESCRIPTION	EFFECTS
+	3	VThin	S2
+Hydrosphere = 3
+	DIGIT	DESCRIPTION
+	3	30%
+Population = 9
+	POPULATION UNDER 8,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	9	Billion	,000,000,000
+Government = 6
+	DIGIT	DESCRIPTION	NOTE
+	6	Captive Government/Colony	Rule by a leadership answerable to an outside group
+Law Level = 4
+	DIGIT	DESCRIPTION	NOTE
+	4	Moderate Law	Laser, Beam weapons prohibited
+Tech Level = D
+	DIGIT		
+	D		
+Remarks = Hi Na Po O:2432
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	Na		0123	0123	6789ABC			Non Agricultural	
+	Po		2345	0123				Poor	
+	Ruled by 2432 Korm
+{Ix} = { 3 }
+	Starport B = +1
+	TL 13 = +1
+	Hi  = +1
+	Importance = Normal (3)+0=3
+(Ex) = (F8F+1)
+	Resources =  15
+	Labour =  8
+	Infrastructure =  15
+	Efficiency =  1
+	RU = 1800
+[Cx] = [7C3B]
+	Homogeneity = 7
+	Acceptance = 12
+	Strangeness = 3
+	Symbols = 11
+N = BE
+	CODE	RANK	TC
+	B	Knight	any
+	E	Count	Hi
+B = S
+	DIGIT	DESCRIPTION	ALLEG
+	S	Scout Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 822
+	Population Multiplier = 8
+	POPULATION UNDER 8,000,000,000
+	Planetoid Belts = 2
+	Gas Giants = 2
+W = 10
+	Non Stars In System = 10
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-2 (gas giants)
+	 = 5 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = K7 V
+	Stars = 1

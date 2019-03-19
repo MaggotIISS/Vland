@@ -1,0 +1,80 @@
+Hex = 2513
+Name = Shiigus
+UWP = A5717CB-B
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 7
+	DIGIT	DESCRIPTION	EFFECTS
+	7	Standard, Tainted	P1
+Hydrosphere = 1
+	DIGIT	DESCRIPTION
+	1	10%
+Population = 7
+	POPULATION UNDER 10,000,000
+	DIGIT	DESCRIPTION	VALUE
+	7	Ten million	0,000,000
+Government = C
+	DIGIT	DESCRIPTION	NOTE
+	C	Charismatic Oligarchy	Government by a select religious, mystic, or psionic group, organization, or class enjoying the overwhelming confidence of the citizenry
+Law Level = B
+	DIGIT	DESCRIPTION	NOTE
+	B	Extreme Law	Continental passports required
+Tech Level = B
+	DIGIT		
+	B		
+Remarks = He Cp Pi Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	He	3459ABC	2479ABC	012				Hell World	
+	Cp							Subsector Capital	Imperial
+	Pi		012479		78			Pre Industrial	
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { 2 }
+	Starport A = +1
+	TL 11 = +1
+	Importance = Normal (3)+-1=2
+(Ex) = (A6C+4)
+	Resources =  10
+	Labour =  6
+	Infrastructure =  12
+	Efficiency =  4
+	RU = 2880
+[Cx] = [997D]
+	Homogeneity = 9
+	Acceptance = 9
+	Strangeness = 7
+	Symbols = 13
+N = BD
+	CODE	RANK	TC
+	B	Knight	any
+	D	Marquis	Pi
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 101
+	Population Multiplier = 1
+	POPULATION UNDER 10,000,000
+	Planetoid Belts = 0
+	Gas Giants = 1
+W = 15
+	Non Stars In System = 15
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-1 (gas giants)
+	 = 13 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = F5 V M9 V
+	Stars = 2

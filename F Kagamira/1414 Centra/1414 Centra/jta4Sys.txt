@@ -1,0 +1,14 @@
+Hex = 1414
+Name = Centra
+UWP = A592541-D
+Remarks = He Ni
+{Ix} = { 1 }
+(Ex) = (D45-3)
+[Cx] = [1619]
+N = B
+B = N
+Z = -
+PBG = 124
+W = 16
+A = ImDv
+Stellar = M1 V

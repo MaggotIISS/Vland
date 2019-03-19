@@ -1,0 +1,69 @@
+Primary = M0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Siruga	C100559-D	(Temperate)
+	Orbits LGG (80,000 mi dia.)	S=26 @ orbit R
+	  Hospitable	  	G66A4A7-7 @ Orbit B
+	  Worldlet	  	F073499-7 @ Orbit D
+	  RadWorld	  	Y710000-0 @ Orbit F
+	  BigWorld	  	H9304AA-5 @ Orbit G
+	  Inferno	  	YAB0000-0 @ Orbit ELGG (220,000 mi dia.)	S=3J
+	  BigWorld	  	HC95451-9 @ Orbit K
+	  Hospitable	  	H875110-A @ Orbit S
+	  Hospitable	  	H410131-7 @ Orbit T
+	  BigWorld	  	GG50421-6 @ Orbit V
+	  BigWorld	  	FH10444-7 @ Orbit W
+1 = World  (StormWorld)	Y742000-0
+	  Hospitable	  	G368465-8 @ Orbit H
+	  Inferno	  	Y9B0000-0 @ Orbit HWorld  (BigWorld)	YI86479-R
+	  Worldlet	  	G0434C8-4 @ Orbit S
+2 = World  (BigWorld)	GC00301-8
+	  OuterWorld	  	Y000323-3 @ Orbit F
+	  Worldlet	  	Y099324-5 @ Orbit G
+	  OuterWorld	  	F976440-8 @ Orbit I
+3 = STAR K3 VWorld  (BigWorld)	YD004AA-6
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	Max Orbit =  0
+	HZ =  -1
+	3-0 = 
+4 = World  (BigWorld)	GI86452-8
+	  Ring @ Orbit ?
+5 = World  (Worldlet)	H232459-9
+6 = World  (BigWorld)	YC88000-0World  (BigWorld)	HA10466-A
+7 = 
+8 = World  (BigWorld)	YH98000-0
+	  Worldlet	  	Y145352-8 @ Orbit C
+	  IceWorld	  	F4404CG-A @ Orbit E
+	  IceWorld	  	H650496-A @ Orbit V
+9 = 
+10 = World  (BigWorld)	YJ33000-0
+	  Ring @ Orbit ?
+11 = 
+12 = 
+13 = World  (Inferno)	YBB0000-0
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 10
+W = 13
+syscount = 2
+min = 0
+count = 10

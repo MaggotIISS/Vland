@@ -1,0 +1,4 @@
+F KAGAMIRA
+
+	WORLDS IN SUBSECTOR = 28
+	ImDv: "Third Imperium, Domain of Vland" = 28 worlds

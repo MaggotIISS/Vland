@@ -1,0 +1,14 @@
+Hex = 0135
+Name = Sakin
+UWP = C430668-A
+Remarks = De Na Ni Po O:0336
+{Ix} = { 0 }
+(Ex) = (D54+1)
+[Cx] = [665A]
+N = B
+B = S
+Z = -
+PBG = 814
+W = 10
+A = ImDv
+Stellar = F9 V M4 V

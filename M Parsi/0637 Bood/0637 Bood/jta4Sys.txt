@@ -1,0 +1,14 @@
+Hex = 0637
+Name = Bood
+UWP = A540520-C
+Remarks = De He Ni Po
+{Ix} = { 1 }
+(Ex) = (845-3)
+[Cx] = [1617]
+N = B
+B = -
+Z = -
+PBG = 410
+W = 14
+A = ImDv
+Stellar = M0 V

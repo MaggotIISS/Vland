@@ -1,0 +1,14 @@
+Hex = 1735
+Name = Zhinutar
+UWP = A31259C-F
+Remarks = Ic Ni Da
+{Ix} = { 1 }
+(Ex) = (B45+4)
+[Cx] = [868J]
+N = B
+B = -
+Z = A
+PBG = 204
+W = 9
+A = ImDv
+Stellar = G6 V M0 V

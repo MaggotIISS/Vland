@@ -1,0 +1,14 @@
+Hex = 2636
+Name = Kakadan
+UWP = A9C7400-F
+Remarks = Fl Ni
+{Ix} = { 1 }
+(Ex) = (734-3)
+[Cx] = [151A]
+N = B
+B = N
+Z = -
+PBG = 601
+W = 8
+A = ImDv
+Stellar = M2 V

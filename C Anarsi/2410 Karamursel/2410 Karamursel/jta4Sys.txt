@@ -1,0 +1,14 @@
+Hex = 2410
+Name = Karamursel
+UWP = C438235-A
+Remarks = Lo
+{Ix} = { 0 }
+(Ex) = (611-2)
+[Cx] = [1238]
+N = B
+B = S
+Z = -
+PBG = 520
+W = 15
+A = ImDv
+Stellar = K6 V

@@ -1,0 +1,14 @@
+Hex = 0939
+Name = Gashumu
+UWP = D76A65A-9
+Remarks = Ni Ri Wa
+{Ix} = { -1 }
+(Ex) = (A53+1)
+[Cx] = [857B]
+N = BC
+B = -
+Z = -
+PBG = 102
+W = 5
+A = ImDv
+Stellar = G8 V

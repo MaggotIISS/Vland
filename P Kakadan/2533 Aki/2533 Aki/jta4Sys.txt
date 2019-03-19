@@ -1,0 +1,14 @@
+Hex = 2533
+Name = Aki
+UWP = D697AFF-A
+Remarks = Hi In Pz
+{Ix} = { 2 }
+(Ex) = (D9C+5)
+[Cx] = [FCAF]
+N = BE
+B = -
+Z = A
+PBG = 110
+W = 13
+A = ImDv
+Stellar = F5 V M0 V

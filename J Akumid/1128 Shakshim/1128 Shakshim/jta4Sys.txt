@@ -1,0 +1,14 @@
+Hex = 1128
+Name = Shakshim
+UWP = CAA558B-A
+Remarks = Fl Ni
+{Ix} = { 0 }
+(Ex) = (844+2)
+[Cx] = [757C]
+N = B
+B = S
+Z = -
+PBG = 301
+W = 8
+A = ImDv
+Stellar = M1 V M4 V

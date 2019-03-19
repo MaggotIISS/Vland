@@ -1,0 +1,14 @@
+Hex = 2319
+Name = Shudi
+UWP = A7669BB-A
+Remarks = Hi Ga Pr Pz
+{Ix} = { 3 }
+(Ex) = (J8D+5)
+[Cx] = [BC7C]
+N = BcE
+B = -
+Z = A
+PBG = 525
+W = 12
+A = ImDv
+Stellar = G6 V G2 V

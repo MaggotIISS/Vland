@@ -1,0 +1,118 @@
+
+2501 Khugan   
+	
+
+
+2502 Rhodes   
+	
+
+
+2507 Shunisar 
+	(Knight) GashLeGimGiEg
+	(Baron) IlKinKaIAdKiir
+
+
+2508 Nii      
+	(Knight) AdBeKhushKaIigGi
+
+
+2602 Daztsoun 
+	
+
+
+2603 Kaengtsae
+	
+
+
+2604 Fongknoe 
+	
+
+
+2605 Raltaedz 
+	(Knight) IiDanLegGiAgLu
+
+
+2610 Malokh   
+	(Knight) Ku
+
+
+2804 Ongvaturr
+	
+
+
+2806 Paval    
+	(Knight) AgDanLeEAk
+
+
+2808 Spinport 
+	(Knight) IsNisZi
+	(Count) AkGiiLaaApLish
+
+
+2905 Zupilak  
+	(Knight) Ud
+
+
+2907 Akkunat  
+	(Knight) EkMudMakDirShiZu
+	(Baron) IgKhu
+
+
+2909 Goobsfol 
+	(Knight) MagKamMarGi
+
+
+3002 Ksuerrgh 
+	
+
+
+3003 Khughfudz
+	
+
+
+3004 Shupin   
+	
+
+
+3006 Mukata   
+	(Knight) IimKhig
+
+
+3008 Shishaldi
+	(Knight) MiAkGurKiU
+
+
+3106 Arga     
+	(Knight) AkMush
+	(Count) LuGi
+
+
+3107 Theton   
+	(Knight) LuuAl
+
+
+3201 Thoegzkna
+	
+
+
+3202 Vutsarrgh
+	
+
+
+3206 Argonos  
+	(Knight) ShiiZiMiGes
+
+
+3208 Sardia   
+	(Knight) ApKunSuurRir
+
+
+3209 Veppim   
+	(Knight) UmGuUg
+	(Baronet) ZiPaarZuDaarKi
+	(Baron) LemGuKiirGirDuSii
+
+
+3210 Tasho    
+	(Knight) DirKarRurKha
+

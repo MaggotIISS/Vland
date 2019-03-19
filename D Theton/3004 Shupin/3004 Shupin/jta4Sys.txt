@@ -1,0 +1,14 @@
+Hex = 3004
+Name = Shupin
+UWP = A511375-B
+Remarks = Ic Lo
+{Ix} = { 1 }
+(Ex) = (C21-1)
+[Cx] = [1439]
+N = -
+B = -
+Z = -
+PBG = 434
+W = 17
+A = NaHu
+Stellar = M1 V

@@ -1,0 +1,14 @@
+Hex = 1112
+Name = Vallae
+UWP = A897788-A
+Remarks = Ag An Pi
+{Ix} = { 3 }
+(Ex) = (A6C+3)
+[Cx] = [7A5A]
+N = BCD
+B = -
+Z = -
+PBG = 810
+W = 13
+A = ImDv
+Stellar = F3 V

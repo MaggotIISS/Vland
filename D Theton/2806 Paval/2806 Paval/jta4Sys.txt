@@ -1,0 +1,14 @@
+Hex = 2806
+Name = Paval
+UWP = B581212-B
+Remarks = Lo
+{Ix} = { 1 }
+(Ex) = (A11-3)
+[Cx] = [1317]
+N = B
+B = N
+Z = -
+PBG = 724
+W = 15
+A = ImDv
+Stellar = M3 V

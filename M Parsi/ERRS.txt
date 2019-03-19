@@ -1,0 +1,84 @@
+0131 Skasputin
+0132 Kald
+0134 Zanagud
+0135 Sakin
+0137 Shaaki
+0232 Tratami
+0234 Nurrungar
+0236 Khishugii
+0237 Shashim
+0333 Paspaa
+0335 Nadud
+0336 Parsi
+0338 Vanessa
+0340 Jessheim
+0431 Answerin
+0434 Geguru
+0435 Ganidam
+0436 Meprim
+0437 Thatii
+0531 Seglound
+0532 Kinswana
+0533 Khi Tai
+0534 Khakkakum
+0536 Fauski
+0631 Enbart
+0633 Kamar Kurker
+0635 Savvud
+0637 Bood
+0639 Liigima
+0640 Aquacade
+0732 Pirumush
+0734 Kishbar
+0737 Kuzey Anadolu
+0738 Daglari
+0739 Trabbon
+0740 Kirov
+0831 Igsudi
+0832 Kirlikin
+0833 Karbarlah
+0834 Khisber
+0835 Zhirka
+0839 Kiimiim
+C:\T5\Vland\M Parsi\0131 Skasputin\0131 Skasputin
+C:\T5\Vland\M Parsi\0132 Kald\0132 Kald
+C:\T5\Vland\M Parsi\0134 Zanagud\0134 Zanagud
+C:\T5\Vland\M Parsi\0135 Sakin\0135 Sakin
+C:\T5\Vland\M Parsi\0137 Shaaki\0137 Shaaki
+C:\T5\Vland\M Parsi\0232 Tratami\0232 Tratami
+C:\T5\Vland\M Parsi\0234 Nurrungar\0234 Nurrungar
+C:\T5\Vland\M Parsi\0236 Khishugii\0236 Khishugii
+C:\T5\Vland\M Parsi\0237 Shashim\0237 Shashim
+C:\T5\Vland\M Parsi\0333 Paspaa\0333 Paspaa
+C:\T5\Vland\M Parsi\0335 Nadud\0335 Nadud
+C:\T5\Vland\M Parsi\0336 Parsi\0336 Parsi
+C:\T5\Vland\M Parsi\0338 Vanessa\0338 Vanessa
+C:\T5\Vland\M Parsi\0340 Jessheim\0340 Jessheim
+C:\T5\Vland\M Parsi\0431 Answerin\0431 Answerin
+C:\T5\Vland\M Parsi\0434 Geguru\0434 Geguru
+C:\T5\Vland\M Parsi\0435 Ganidam\0435 Ganidam
+C:\T5\Vland\M Parsi\0436 Meprim\0436 Meprim
+C:\T5\Vland\M Parsi\0437 Thatii\0437 Thatii
+C:\T5\Vland\M Parsi\0531 Seglound\0531 Seglound
+C:\T5\Vland\M Parsi\0532 Kinswana\0532 Kinswana
+C:\T5\Vland\M Parsi\0533 Khi Tai\0533 Khi Tai
+C:\T5\Vland\M Parsi\0534 Khakkakum\0534 Khakkakum
+C:\T5\Vland\M Parsi\0536 Fauski\0536 Fauski
+C:\T5\Vland\M Parsi\0631 Enbart\0631 Enbart
+C:\T5\Vland\M Parsi\0633 Kamar Kurker\0633 Kamar Kurker
+C:\T5\Vland\M Parsi\0635 Savvud\0635 Savvud
+C:\T5\Vland\M Parsi\0637 Bood\0637 Bood
+C:\T5\Vland\M Parsi\0639 Liigima\0639 Liigima
+C:\T5\Vland\M Parsi\0640 Aquacade\0640 Aquacade
+C:\T5\Vland\M Parsi\0732 Pirumush\0732 Pirumush
+C:\T5\Vland\M Parsi\0734 Kishbar\0734 Kishbar
+C:\T5\Vland\M Parsi\0737 Kuzey Anadolu\0737 Kuzey Anadolu
+C:\T5\Vland\M Parsi\0738 Daglari\0738 Daglari
+C:\T5\Vland\M Parsi\0739 Trabbon\0739 Trabbon
+C:\T5\Vland\M Parsi\0740 Kirov\0740 Kirov
+C:\T5\Vland\M Parsi\0831 Igsudi\0831 Igsudi
+C:\T5\Vland\M Parsi\0832 Kirlikin\0832 Kirlikin
+C:\T5\Vland\M Parsi\0833 Karbarlah\0833 Karbarlah
+C:\T5\Vland\M Parsi\0834 Khisber\0834 Khisber
+C:\T5\Vland\M Parsi\0835 Zhirka\0835 Zhirka
+C:\T5\Vland\M Parsi\0839 Kiimiim\0839 Kiimiim

@@ -1,0 +1,55 @@
+Primary = M3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Bolziin	B310212-D	(Temperate)
+	  Worldlet	  	Y044178-8 @ Orbit FWorld  (RadWorld)	Y068000-J
+	  Ring @ Orbit ?World  (StormWorld)	Y000000-0World  (RadWorld)	Y042000-Q
+	  StormWorld	  	Y053000-0 @ Orbit DWorld  (BigWorld)	F022154-V
+1 = LGG (80,000 mi dia.)	S=26
+	  Inferno	  	Y0B0000-0 @ Orbit I
+	  Inferno	  	Y0B0000-0 @ Orbit J
+	  StormWorld	  	Y001000-0 @ Orbit K
+	  RadWorld	  	Y095000-0 @ Orbit SWorld  (Inferno)	Y0B0000-R
+	  Hospitable	  	Y07A125-A @ Orbit T
+	  Inferno	  	Y0B0000-0 @ Orbit V
+	  Inferno	  	Y0B0000-0 @ Orbit W
+2 = World  (RadWorld)	Y0A6000-0
+3 = Planetoid belt	H000144-7
+4 = LGG (250,000 mi dia.)	S=31
+	  StormWorld	  	Y021000-0 @ Orbit C
+	  Worldlet	  	Y09919A-3 @ Orbit H
+	  RadWorld	  	Y088000-0 @ Orbit S
+	  RadWorld	  	Y020000-0 @ Orbit U
+	  OuterWorld	  	H046198-9 @ Orbit X
+5 = LGG (50,000 mi dia.)	S=23
+	  RadWorld	  	Y0A3000-0 @ Orbit P
+	  OuterWorld	  	Y010100-6 @ Orbit Q
+	  StormWorld	  	Y010000-0 @ Orbit U
+6 = LGG (60,000 mi dia.)	S=24
+	  RadWorld	  	Y010000-0 @ Orbit D
+7 = 
+8 = World  (Inferno)	Y0B0000-0
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = World  (RadWorld)	Y020000-0
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 11
+W = 14
+syscount = 1
+min = 0
+count = 9

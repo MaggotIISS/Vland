@@ -1,0 +1,77 @@
+Hex = 0902
+Name = Otsaellghue
+UWP = A425435-E
+Starport = A
+	Quality = Excellent
+	Yards = Starships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = No
+	possBases = NS
+Size = 4
+	DIGIT	DIA(MI)	DIA(KM)
+	4	4,000	6,400
+Atmosphere = 2
+	DIGIT	DESCRIPTION	EFFECTS
+	2	VThin, Tainted	P1, S2
+Hydrosphere = 5
+	DIGIT	DESCRIPTION
+	5	50%
+Population = 4
+	POPULATION UNDER 30,000
+	DIGIT	DESCRIPTION	VALUE
+	4	Ten thousand	0,000
+Government = 3
+	DIGIT	DESCRIPTION	NOTE
+	3	Self-Perpetuating Oligarchy	Rule by a restricted minority with little or no input from the masses
+Law Level = 5
+	DIGIT	DESCRIPTION	NOTE
+	5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited
+Tech Level = E
+	DIGIT		
+	E		
+Remarks = Ni Varg9
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Ni				456			Non Industrial	
+	Varg <= 99%
+{Ix} = { 1 }
+	Starport A = +1
+	TL 14 = +1
+	Pop < 7 = -1
+	Importance = Normal (1)+0=1
+(Ex) = (934-1)
+	Resources =  9
+	Labour =  3
+	Infrastructure =  4
+	Efficiency =  -1
+	RU = -108
+[Cx] = [253C]
+	Homogeneity = 2
+	Acceptance = 5
+	Strangeness = 3
+	Symbols = 12
+N = -
+	No Imperial Nobles
+B = N
+	DIGIT	DESCRIPTION	ALLEG
+	N	Naval Base	Imperial
+Z = -
+	CODE	DESCRIPTION
+	-	Green - Unrestricted.  Imperial.
+PBG = 303
+	Population Multiplier = 3
+	POPULATION UNDER 30,000
+	Planetoid Belts = 0
+	Gas Giants = 3
+W = 8
+	Non Stars In System = 8
+	-1 (mainworld)
+	-0 (planetoid belts)
+	-3 (gas giants)
+	 = 4 other worlds
+A = CsIm
+	CODE	DESCRIPTION
+	CsIm	Client State, Third Imperium
+Stellar = K9 V
+	Stars = 1

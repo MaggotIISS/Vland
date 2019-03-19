@@ -1,0 +1,14 @@
+Hex = 2911
+Name = Naalkin
+UWP = D555565-7
+Remarks = Ag Ni O:2914
+{Ix} = { -2 }
+(Ex) = (742-4)
+[Cx] = [3335]
+N = BC
+B = -
+Z = -
+PBG = 701
+W = 6
+A = ImDv
+Stellar = K3 V M3 V

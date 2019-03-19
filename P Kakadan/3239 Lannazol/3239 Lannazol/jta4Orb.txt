@@ -1,0 +1,54 @@
+Primary = M3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = World  (BigWorld)	Y520000-0World  (Inferno)	Y5B0000-0World  (Hospitable)	Y220000-0
+1 = Mainworld	Lannazol	D845110-7	(Cold)
+	  Worldlet	  	Y3B4000-0 @ Orbit SWorld  (Inferno)	Y5B0000-G
+	  RadWorld	  	Y300000-0 @ Orbit P
+	  Hospitable	  	Y569000-0 @ Orbit U
+2 = World  (Hospitable)	Y430000-0
+	  RadWorld	  	Y544000-0 @ Orbit F
+	  Worldlet	  	Y330000-0 @ Orbit G
+	  RadWorld	  	Y320000-0 @ Orbit VWorld  (RadWorld)	Y510000-Q
+	  Worldlet	  	Y066000-0 @ Orbit T
+	  Worldlet	  	Y056000-0 @ Orbit X
+3 = LGG (80,000 mi dia.)	S=26
+	  Ring @ Orbit ?World  (Hospitable)	Y550000-C
+	  RadWorld	  	Y586000-0 @ Orbit G
+	  OuterWorld	  	Y59A000-0 @ Orbit H
+	  IceWorld	  	Y594000-0 @ Orbit Q
+	  Worldlet	  	Y199000-0 @ Orbit T
+	  IceWorld	  	Y240000-0 @ Orbit U
+4 = World  (Hospitable)	Y5C6000-0
+	  Worldlet	  	Y295000-0 @ Orbit F
+	  RadWorld	  	Y500000-0 @ Orbit G
+	  OuterWorld	  	Y554000-0 @ Orbit H
+5 = 
+6 = World  (Worldlet)	Y063000-0
+7 = 
+8 = 
+9 = 
+10 = 
+11 = 
+12 = World  (RadWorld)	Y530000-0
+	  Ring @ Orbit ?
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 13
+syscount = 1
+min = 0
+W = 12
+Extra Stars = 0
+count = 7

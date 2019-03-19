@@ -1,0 +1,14 @@
+Hex = 0831
+Name = Igsudi
+UWP = B572320-B
+Remarks = He Lo
+{Ix} = { 1 }
+(Ex) = (721-3)
+[Cx] = [1416]
+N = B
+B = N
+Z = -
+PBG = 320
+W = 10
+A = ImDv
+Stellar = G4 V K6 V

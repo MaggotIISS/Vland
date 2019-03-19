@@ -1,0 +1,70 @@
+Primary = G2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	G	Yellow	5,200-6,000
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  3
+0 = World  (Inferno)	Y3B0000-0
+1 = 
+2 = Mainworld	Zhanora	D651754-7	(Hot)
+	  Hospitable	  	H354672-6 @ Orbit L
+	  Hospitable	  	Y363453-4 @ Orbit S
+3 = World  (RadWorld)	Y397000-0
+	  Worldlet	  	Y347433-6 @ Orbit F
+	  Hospitable	  	H3C6346-6 @ Orbit L
+4 = LGG (60,000 mi dia.)	S=24
+	  Ring @ Orbit ?
+5 = 
+6 = 
+7 = World  (BigWorld)	Y330410-5
+8 = 
+9 = 
+10 = World  (Worldlet)	F3B4672-6
+	  Worldlet	  	Y3B3140-6 @ Orbit D
+	  OuterWorld	  	G366456-6 @ Orbit Y
+11 = 
+12 = 
+13 = 
+14 = 
+15 = World  (Hospitable)	F230401-6
+	  Worldlet	  	Y3006AA-3 @ Orbit Q
+	  RadWorld	  	Y354000-0 @ Orbit S
+	  StormWorld	  	Y343000-0 @ Orbit V
+16 = STAR M3 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  13
+	HZ =  -1
+	16-0 = 
+	16-1 = 
+	16-2 = 
+	16-3 = 
+	16-4 = 
+	16-5 = 
+	16-6 = 
+	16-7 = 
+	16-8 = 
+	16-9 = 
+	16-10 = 
+	16-11 = 
+	16-12 = 
+	16-13 = 
+17 = 
+18 = 
+19 = 
+Unfilled = 12
+syscount = 2
+min = 0
+W = 7
+Extra Stars = 1
+count = 8

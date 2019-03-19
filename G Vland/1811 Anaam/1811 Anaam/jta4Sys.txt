@@ -1,0 +1,14 @@
+Hex = 1811
+Name = Anaam
+UWP = C424753-B
+Remarks = Pi
+{Ix} = { 1 }
+(Ex) = (A6B-2)
+[Cx] = [4828]
+N = BD
+B = -
+Z = -
+PBG = 510
+W = 11
+A = ImDv
+Stellar = G1 V

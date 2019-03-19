@@ -1,0 +1,270 @@
+Vland/K Kasear
+
+1725 Kalimgar - B799667-B
+	Defence CF = 2
+
+1729 Kargem - E310654-9
+	Defence CF = 1
+
+1730 Lurkha - B6748AA-A
+	SDB Squadrons = 10
+	Starship Squadrons = 1
+	Troop CF = 5
+	Defence CF = 100
+  TROOP FORCES
+0001-0000-1(1)-A
+0002-0000-1(1)-A
+0003-0000-1(1)-A
+0004-0000-1(1)-A
+0005-0000-1(1)-A
+
+
+
+---HI POP TARGET---
+1822 Kasear - A5479AE-E
+	SDB Squadrons = 150
+	Starship Squadrons = 3
+	Troop CF = 100
+	Defence CF = 1500
+  TROOP FORCES
+0001-3112-80(10)-E
+0002-2012-20(5)-E
+
+
+
+---HI POP TARGET---
+1923 Sagida - C423965-C
+	SDB Squadrons = 120
+	Starship Squadrons = 2
+	Troop CF = 50
+	Defence CF = 1200
+  TROOP FORCES
+0001-2112-40(5)-C
+0002-2010-10(5)-C
+
+
+
+1930 Ziirkago - A878654-C
+	Defence CF = 2
+
+2027 Gaarluzargu - B775799-8
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 5
+  TROOP FORCES
+0001-0000-1(1)-8
+
+
+
+2030 Duusan - B9CA65A-D
+	Defence CF = 2
+
+2123 Blikig - C544634-8
+	Defence CF = 1
+
+2124 Razzun - A572768-B
+	SDB Squadrons = 1
+	Troop CF = 2
+	Defence CF = 12
+  TROOP FORCES
+0001-0100-2(1)-B
+
+
+
+2125 Shib - E799687-7
+	Defence CF = 1
+
+2126 Dekhuun - B578797-A
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 10
+  TROOP FORCES
+0001-0000-1(1)-A
+
+
+
+2129 Gunnar - D000788-9
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 10
+  TROOP FORCES
+0001-0000-1(1)-9
+
+
+
+---HI POP TARGET---
+2225 Iamone - C310A9A-E
+	SDB Squadrons = 1500
+	Starship Squadrons = 5
+	Troop CF = 1000
+	Defence CF = 15000
+  TROOP FORCES
+0001-6111-400(100)-E
+0002-6111-400(100)-E
+0003-6011-200(100)-E
+
+
+
+2229 Munakhiin - D2027BB-8
+	SDB Squadrons = 1
+	Troop CF = 1
+	Defence CF = 5
+  TROOP FORCES
+0001-0001-1(1)-8
+
+
+
+---HI POP TARGET---
+2322 Hefas - C775961-8
+	SDB Squadrons = 50
+	Troop CF = 20
+	Defence CF = 500
+  TROOP FORCES
+0001-2111-20(5)-8
+
+
+
+---HI POP TARGET---
+2328 Fharnas - D8D8A97-B
+	SDB Squadrons = 1200
+	Starship Squadrons = 4
+	Troop CF = 500
+	Defence CF = 12000
+  TROOP FORCES
+0001-5112-400(50)-B
+0002-5002-100(50)-B
+
+
+
+---HI POP TARGET---
+2425 Martle - C54099B-A
+	SDB Squadrons = 100
+	Starship Squadrons = 2
+	Troop CF = 20
+	Defence CF = 1000
+  TROOP FORCES
+0001-2012-20(5)-A
+
+
+
+
+1730-B6748AA-A
+Commodore Miargi
+	Prec 10
+	Plan  3
+	Tactics -1
+	C001-1U-630-6-A
+
+1822-A5479AE-E
+Commodore Nisgaggiik
+	Prec 14
+	Plan  2
+	Tactics -2
+	C001-3U-730-7-E
+
+1822-A5479AE-E
+Commodore Duis
+	Prec 3
+	Plan  5
+	Tactics 2
+	C002-3U-730-7-E
+
+1822-A5479AE-E
+Commodore Luakki
+	Prec 8
+	Plan  5
+	Tactics -2
+	C003-3U-730-7-E
+
+1923-C423965-C
+Commodore Kin
+	Prec 17
+	Plan  4
+	Tactics -2
+	C001-1U-730-7-C
+
+1923-C423965-C
+Commodore Nuushshamshushshigaki
+	Prec 9
+	Plan  5
+	Tactics 0
+	C002-1U-730-7-C
+
+2225-C310A9A-E
+Commodore Elgaeguiikan
+	Prec 14
+	Plan  4
+	Tactics 2
+	A001-3U-800-600-E
+
+2225-C310A9A-E
+Commodore Khun
+	Prec 4
+	Plan  5
+	Tactics -1
+	C002-3U-840-8-E
+
+2225-C310A9A-E
+Commodore Aidshuukke
+	Prec 12
+	Plan  4
+	Tactics 0
+	C003-3U-840-8-E
+
+2225-C310A9A-E
+Commodore Ud
+	Prec 11
+	Plan  4
+	Tactics 0
+	C004-3U-840-8-E
+
+2225-C310A9A-E
+Commodore Memagemgiel
+	Prec 10
+	Plan  3
+	Tactics -1
+???C001-3U-943-9(9)-E???
+
+2328-D8D8A97-B
+Commodore Liaak
+	Prec 11
+	Plan  5
+	Tactics 1
+	C001-1U-840-8-B
+
+2328-D8D8A97-B
+Commodore Uuksagapdushiii
+	Prec 12
+	Plan  4
+	Tactics 2
+	C002-1U-840-8-B
+
+2328-D8D8A97-B
+Commodore Shiishliimaaaddum
+	Prec 13
+	Plan  3
+	Tactics -2
+	C003-1U-840-8-B
+
+2328-D8D8A97-B
+Commodore Kan
+	Prec 9
+	Plan  4
+	Tactics -2
+	C004-1U-840-8-B
+
+2425-C54099B-A
+Commodore Uggirkhipushshershi
+	Prec 6
+	Plan  2
+	Tactics -1
+	C001-1U-730-7-A
+
+2425-C54099B-A
+Commodore Amdaam
+	Prec 12
+	Plan  5
+	Tactics -1
+	C002-1U-730-7-A
+
+

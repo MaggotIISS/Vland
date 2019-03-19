@@ -1,0 +1,61 @@
+Primary = K4 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	K	Orange	3,700-5,200
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 2
+	d1000Limit = 6
+	Min Orbit = 0
+	HZ =  2
+0 = World  (StormWorld)	Y536000-0World  (RadWorld)	Y530000-0
+	  Ring @ Orbit ?
+1 = LGG (60,000 mi dia.)	S=24
+	  Hospitable	  	Y556465-7 @ Orbit D
+	  BigWorld	  	H576447-6 @ Orbit TWorld  (Inferno)	Y5B0000-F
+	  Inferno	  	Y5B0000-0 @ Orbit P
+	  Inferno	  	Y5B0000-0 @ Orbit S
+	  Worldlet	  	G143400-7 @ Orbit U
+2 = Mainworld	Zaal	A896511-D	(Temperate)
+	  Ring @ Orbit ?
+3 = World  (Hospitable)	F5B24B7-A
+	  Ring @ Orbit ?
+4 = World  (StormWorld)	Y400000-0
+5 = STAR M5 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 0
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  2
+	HZ =  -1
+	5-0 = 
+	5-1 = 
+	5-2 = 
+6 = World  (Inferno)	Y5B0000-0World  (StormWorld)	Y523000-0
+7 = World  (RadWorld)	Y599000-0
+	  RadWorld	  	Y547000-0 @ Orbit K
+8 = 
+9 = 
+10 = World  (RadWorld)	Y557000-0
+	  Ring @ Orbit ?
+11 = 
+12 = 
+13 = World  (Inferno)	Y5B0000-0
+	  Worldlet	  	F065496-A @ Orbit G
+	  IceWorld	  	Y300342-5 @ Orbit U
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 10
+W = 12
+syscount = 2
+min = 0
+count = 10

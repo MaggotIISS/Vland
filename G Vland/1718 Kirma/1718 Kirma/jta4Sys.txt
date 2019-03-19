@@ -1,0 +1,14 @@
+Hex = 1718
+Name = Kirma
+UWP = A797111-D
+Remarks = Lo
+{Ix} = { 1 }
+(Ex) = (A11-3)
+[Cx] = [1219]
+N = B
+B = N
+Z = -
+PBG = 725
+W = 11
+A = ImDv
+Stellar = G8 V K2 V

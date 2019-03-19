@@ -1,0 +1,14 @@
+Hex = 0739
+Name = Trabbon
+UWP = D554733-5
+Remarks = Ag
+{Ix} = { -1 }
+(Ex) = (966-4)
+[Cx] = [4622]
+N = BC
+B = -
+Z = -
+PBG = 620
+W = 6
+A = ImDv
+Stellar = K7 V

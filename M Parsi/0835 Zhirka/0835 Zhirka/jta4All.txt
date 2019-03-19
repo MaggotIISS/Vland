@@ -1,0 +1,69 @@
+Primary = M2 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = World  (BigWorld)	Y-352000-0
+	  StormWorld	  	Y-356000-0 @ Orbit PWorld  (Worldlet)	Y-340000-G
+	  Ring @ Orbit J
+1 = World  (RadWorld)	Y-300000-0
+2 = Planetoid belt	Y-300000-0World  (Hospitable)	Y-377000-0
+3 = World  (Inferno)	Y-3B0000-0
+	  RadWorld	  	Y-350000-0 @ Orbit BWorld  (Worldlet)	Y-39A000-H
+	  Ring @ Orbit R
+4 = World  (Inferno)	Y-3B0000-0
+	  Inferno	  	Y-3B0000-0 @ Orbit F
+	  Worldlet	  	Y-331000-0 @ Orbit J
+5 = Asteroid Belt	Zhirka	E000110-A	(Cold)
+6 = World  (Hospitable)	Y-356000-0
+	  Inferno	  	Y-3B0000-0 @ Orbit F
+	  RadWorld	  	Y-364000-0 @ Orbit H
+	  RadWorld	  	Y-310000-0 @ Orbit U
+7 = 
+8 = World  (Worldlet)	Y-39A000-0
+	  Ring @ Orbit ?
+9 = 
+10 = 
+11 = World  (Inferno)	Y-3B0000-0
+	  Worldlet	  	Y-310000-0 @ Orbit I
+	  RadWorld	  	Y-300000-0 @ Orbit S
+	  OuterWorld	  	Y-300000-0 @ Orbit T
+12 = STAR M9 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 0
+	d1000Limit = 5
+	Min Orbit = 0
+	Max Orbit =  9
+	HZ =  -1
+	12-0 = 
+	12-1 = 
+	12-2 = 
+	12-3 = 
+	12-4 = 
+	12-5 = 
+	12-6 = 
+	12-7 = 
+	12-8 = 
+	12-9 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+Extra Stars = 1
+Unfilled = 10
+W = 12
+syscount = 2
+min = 0
+count = 10

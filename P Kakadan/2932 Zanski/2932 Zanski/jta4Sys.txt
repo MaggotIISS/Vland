@@ -1,0 +1,14 @@
+Hex = 2932
+Name = Zanski
+UWP = B585530-B
+Remarks = Ag Ni Pr
+{Ix} = { 3 }
+(Ex) = (A47-1)
+[Cx] = [1816]
+N = BcC
+B = NW
+Z = -
+PBG = 421
+W = 12
+A = ImDv
+Stellar = M3 V

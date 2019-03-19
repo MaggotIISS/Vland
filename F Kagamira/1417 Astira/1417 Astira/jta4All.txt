@@ -1,0 +1,46 @@
+Primary = M0 V
+	CODE	DESCRIPTION	TEMPERATURE (K)
+	M	Red	2,000-3,700
+	CODE	DESCRIPTION	DIAMETER (SOL = 1)
+	V	Main Sequence Star	0.2 - 10
+	d10Limit = -1
+	d100Limit = 1
+	d1000Limit = 5
+	Min Orbit = 0
+	HZ =  0
+0 = Mainworld	Astira	C55248C-9	(Temperate)
+	  RadWorld	  	Y29A000-0 @ Orbit V
+1 = World  (Inferno)	Y2B0000-0World  (Hospitable)	H220345-7World  (BigWorld)	H2103AC-8
+	  Hospitable	  	H220396-3 @ Orbit H
+	  Inferno	  	Y2B0000-0 @ Orbit Q
+2 = World  (StormWorld)	Y200000-0
+	  RadWorld	  	Y268000-0 @ Orbit E
+	  RadWorld	  	Y29A000-0 @ Orbit Q
+	  Worldlet	  	Y167200-6 @ Orbit R
+3 = World  (Hospitable)	H210365-7
+	  Ring @ Orbit ?
+4 = World  (BigWorld)	F246323-8
+	  Ring @ Orbit ?
+5 = 
+6 = Planetoid belt	Y000200-5
+7 = 
+8 = Planetoid belt	F000354-6
+9 = 
+10 = World  (StormWorld)	Y231000-0
+	  Ring @ Orbit ?
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = World  (Worldlet)	H210362-8
+	  Ring @ Orbit ?
+17 = 
+18 = 
+19 = 
+Extra Stars = 0
+Unfilled = 11
+W = 11
+syscount = 1
+min = 0
+count = 9

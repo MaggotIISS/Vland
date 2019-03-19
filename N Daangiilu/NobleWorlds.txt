@@ -1,0 +1,202 @@
+
+0933 Arluk      
+	(Knight) Pa
+	(Count) IlKuAlMiEkKash
+
+
+0934 Imdakhun   
+	(Knight) IkKhinPu
+
+
+0938 Rhyolite   
+	(Knight) AdKuAdKhiid
+
+
+0939 Gashumu    
+	(Knight) KhiiDaa
+	(Baron) ZiLii
+
+
+1032 Umaanshar  
+	(Knight) KhegRasMaKha
+
+
+1033 Komirex    
+	(Knight) GuuIiLi
+
+
+1038 Isle       
+	(Knight) DinSasKamLiiAa
+	(Count) ShirShadGiirDa
+
+
+1131 Neegak     
+	(Knight) DishShuuIKhaUnNe
+
+
+1134 Jupset     
+	(Knight) ShurNiAaKha
+
+
+1135 Abalakova  
+	(Knight) GirBu
+	(Baronet) NuuUuUmKhii
+	(Baron) EnShiLinSarShar
+	(Viscount) IIg
+
+
+1136 Daangiilu  
+	(Knight) NeI
+	(Baronet) NiiUgLuAIn
+	(Baron) KaaDiIKhadKimMi
+
+
+1137 Usaamkirkhi
+	(Knight) IiISimLaAz
+	(Baronet) EsLiAkh
+	(Baron) UDu
+
+
+1138 Chrysantheu
+	(Knight) ShuuKhiIsh
+
+
+1139 Uureg      
+	(Knight) AgKinLeUAz
+	(Viscount) NiiGaaIish
+
+
+1140 Hiroshi    
+	(Knight) Laa
+	(Baron) Kum
+	(Marquis) AIkGi
+
+
+1232 Lekziika   
+	(Knight) ZaIlLiisKarKhaSud
+	(Baronet) U
+	(Baron) DaRam
+
+
+1235 Themistocle
+	(Knight) IidGa
+
+
+1236 Fymur      
+	(Knight) AAanPiig
+
+
+1237 Kanumshikaa
+	(Knight) AKaIgSheADem
+	(Baron) DiMi
+
+
+1238 Iplukaddesh
+	(Knight) EAKeGu
+
+
+1240 Nelson     
+	(Knight) GiDamKaAgZiiIg
+
+
+1332 Nii Khu    
+	(Knight) UkhKaaGurGirGuKash
+	(Count) IkSid
+
+
+1334 Lukham     
+	(Knight) ErShuKii
+	(Count) AKe
+	(Duke) ImSimBumKhiGush
+
+
+1336 Pygmy      
+	(Knight) ElDiDiisKerKiGa
+
+
+1337 Borealis   
+	(Knight) UumKaIkhKhiMinMii
+
+
+1339 Darm       
+	(Knight) IbGiAsShe
+
+
+1340 Anishda    
+	(Knight) AKhuKiIi
+
+
+1431 Daalurge   
+	(Knight) MurDuDuuGi
+	(Baron) Ug
+
+
+1432 Agagir     
+	(Knight) ImShuUKi
+
+
+1435 Dakeshir   
+	(Knight) GeShiAbMirMim
+
+
+1437 Igikuuni   
+	(Knight) UgKhaUnKhiShi
+	(Baron) KaADaSek
+	(Marquis) NaGaEl
+
+
+1438 Zaal       
+	(Knight) AdKuUudShiigLeDud
+	(Baron) AlRiAagSa
+
+
+1531 Kolrado    
+	(Knight) ElSeUd
+
+
+1533 Samotk     
+	(Knight) E
+
+
+1534 Senkon     
+	(Knight) UkShuLeAdKhirKha
+
+
+1535 Malapaan   
+	(Knight) IkSherKaAUAm
+	(Marquis) Ka
+	(Viscount) AGuGeUulNaKim
+
+
+1536 Pamiimkhi  
+	(Knight) ShuSheRiIkKir
+
+
+1539 Zarurza    
+	(Knight) KuAzDi
+
+
+1540 Limed      
+	(Knight) UkhNunGirGirSha
+
+
+1632 Imdur      
+	(Knight) SashMaLuuAdGe
+
+
+1633 Darkishar  
+	(Knight) ShiLaKii
+
+
+1634 Isuugi     
+	(Knight) IgDikDaKamZan
+	(Baron) Mu
+
+
+1637 Preserve   
+	(Knight) KiKushShi
+
+
+1638 Twana      
+	(Knight) LaKaKuur
+

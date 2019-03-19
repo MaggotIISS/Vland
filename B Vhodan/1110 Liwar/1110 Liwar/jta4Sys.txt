@@ -1,0 +1,14 @@
+Hex = 1110
+Name = Liwar
+UWP = C550300-A
+Remarks = De Lo Po
+{Ix} = { 0 }
+(Ex) = (A21-4)
+[Cx] = [1315]
+N = B
+B = S
+Z = -
+PBG = 405
+W = 9
+A = ImDv
+Stellar = K2 V

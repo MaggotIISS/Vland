@@ -1,0 +1,14 @@
+Hex = 1630
+Name = Kanoka
+UWP = E7B25A7-8
+Remarks = Fl He Ni
+{Ix} = { -3 }
+(Ex) = (A41-3)
+[Cx] = [5258]
+N = B
+B = -
+Z = -
+PBG = 603
+W = 12
+A = ImDv
+Stellar = M2 V

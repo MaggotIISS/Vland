@@ -1,0 +1,14 @@
+Hex = 0601
+Name = Athanuez
+UWP = B100843-B
+Remarks = Na Va Ph Pi
+{Ix} = { 2 }
+(Ex) = (B7C-1)
+[Cx] = [5A28]
+N = BDe
+B = -
+Z = -
+PBG = 101
+W = 8
+A = ImDv
+Stellar = K5 V M0 V

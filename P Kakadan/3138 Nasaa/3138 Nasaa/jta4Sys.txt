@@ -1,0 +1,14 @@
+Hex = 3138
+Name = Nasaa
+UWP = E425545-9
+Remarks = Ni
+{Ix} = { -2 }
+(Ex) = (942-4)
+[Cx] = [3337]
+N = B
+B = -
+Z = -
+PBG = 320
+W = 13
+A = ImDv
+Stellar = G8 V

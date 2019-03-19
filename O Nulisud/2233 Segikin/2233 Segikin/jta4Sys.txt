@@ -1,0 +1,14 @@
+Hex = 2233
+Name = Segikin
+UWP = D768A77-7
+Remarks = Hi
+{Ix} = { -1 }
+(Ex) = (C98-1)
+[Cx] = [A957]
+N = BE
+B = S
+Z = -
+PBG = 501
+W = 11
+A = ImDv
+Stellar = M3 V

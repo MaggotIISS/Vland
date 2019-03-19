@@ -1,0 +1,14 @@
+Hex = 2618
+Name = Dudid
+UWP = B510526-A
+Remarks = Ni
+{Ix} = { 1 }
+(Ex) = (845+1)
+[Cx] = [4649]
+N = B
+B = S
+Z = -
+PBG = 501
+W = 8
+A = ImDv
+Stellar = M0 V M0 V

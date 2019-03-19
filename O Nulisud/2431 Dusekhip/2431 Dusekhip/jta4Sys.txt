@@ -1,0 +1,14 @@
+Hex = 2431
+Name = Dusekhip
+UWP = B633964-D
+Remarks = Hi Na Po O:2432
+{Ix} = { 3 }
+(Ex) = (F8F+1)
+[Cx] = [7C3B]
+N = BE
+B = S
+Z = -
+PBG = 822
+W = 10
+A = ImDv
+Stellar = K7 V

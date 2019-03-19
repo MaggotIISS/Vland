@@ -1,0 +1,14 @@
+Hex = 2531
+Name = Kiddinu
+UWP = B555553-C
+Remarks = Ag Ni
+{Ix} = { 2 }
+(Ex) = (E46-1)
+[Cx] = [2729]
+N = BC
+B = -
+Z = -
+PBG = 434
+W = 11
+A = ImDv
+Stellar = M0 V

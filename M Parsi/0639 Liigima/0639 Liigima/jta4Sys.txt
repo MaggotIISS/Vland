@@ -1,0 +1,14 @@
+Hex = 0639
+Name = Liigima
+UWP = B7C2303-D
+Remarks = Fl He Lo
+{Ix} = { 1 }
+(Ex) = (821-2)
+[Cx] = [142A]
+N = B
+B = N
+Z = -
+PBG = 403
+W = 11
+A = ImDv
+Stellar = K9 V K2 V

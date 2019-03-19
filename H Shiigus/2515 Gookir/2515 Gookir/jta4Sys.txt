@@ -1,0 +1,14 @@
+Hex = 2515
+Name = Gookir
+UWP = B9D787C-A
+Remarks = Ph
+{Ix} = { 2 }
+(Ex) = (E7B+5)
+[Cx] = [BA8D]
+N = Be
+B = N
+Z = -
+PBG = 122
+W = 10
+A = ImDv
+Stellar = K8 V

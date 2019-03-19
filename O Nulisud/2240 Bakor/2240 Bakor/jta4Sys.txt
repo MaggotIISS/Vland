@@ -1,0 +1,14 @@
+Hex = 2240
+Name = Bakor
+UWP = B878869-8
+Remarks = Pa Ph Pi Mr
+{Ix} = { 0 }
+(Ex) = (B78+1)
+[Cx] = [9869]
+N = BcDe
+B = N
+Z = -
+PBG = 710
+W = 17
+A = ImDv
+Stellar = K0 V M3 V

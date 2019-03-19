@@ -1,0 +1,14 @@
+Hex = 0131
+Name = Skasputin
+UWP = C763340-9
+Remarks = Lo
+{Ix} = { -1 }
+(Ex) = (B21-5)
+[Cx] = [1214]
+N = B
+B = -
+Z = -
+PBG = 324
+W = 10
+A = ImDv
+Stellar = M2 V

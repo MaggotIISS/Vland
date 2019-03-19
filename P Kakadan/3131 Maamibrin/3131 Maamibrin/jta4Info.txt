@@ -1,0 +1,80 @@
+Hex = 3131
+Name = Maamibrin
+UWP = B5629CA-C
+Starport = B
+	Quality = Good
+	Yards = Spaceships
+	Repairs = Overhaul
+	Fuel = Both
+	Downport = Yes
+	Highport = Yes
+	possBases = NS
+Size = 5
+	DIGIT	DIA(MI)	DIA(KM)
+	5	5,000	8,000
+Atmosphere = 6
+	DIGIT	DESCRIPTION	EFFECTS
+	6	Standard	
+Hydrosphere = 2
+	DIGIT	DESCRIPTION
+	2	20%
+Population = 9
+	POPULATION UNDER 1,000,000,000
+	DIGIT	DESCRIPTION	VALUE
+	9	Billion	,000,000,000
+Government = C
+	DIGIT	DESCRIPTION	NOTE
+	C	Charismatic Oligarchy	Government by a select religious, mystic, or psionic group, organization, or class enjoying the overwhelming confidence of the citizenry
+Law Level = A
+	DIGIT	DESCRIPTION	NOTE
+	A	Extreme Law	Weapon possession prohibited
+Tech Level = C
+	DIGIT		
+	C		
+Remarks = Hi Pr Pz
+	CODE	SIZ	ATM	HYD	POP	GOVT	LAW	DEFINITION	FORMULA
+	Hi				9ABC			High Population	
+	Pr		68		59			Pre Rich	
+	Pz				789ABC			Puzzle	Amber Zone
+{Ix} = { 3 }
+	Starport B = +1
+	TL 12 = +1
+	Hi  = +1
+	Importance = Normal (3)+0=3
+(Ex) = (D8E+5)
+	Resources =  13
+	Labour =  8
+	Infrastructure =  14
+	Efficiency =  5
+	RU = 7280
+[Cx] = [BC7E]
+	Homogeneity = 11
+	Acceptance = 12
+	Strangeness = 7
+	Symbols = 14
+N = BcE
+	CODE	RANK	TC
+	B	Knight	any
+	c	Baronet	Pa Pr
+	E	Count	Hi
+B = -
+	DIGIT	DESCRIPTION	ALLEG
+Z = A
+	CODE	DESCRIPTION
+	A	Amber - Potentially dangerous.  Caution advised.  Imperial.
+PBG = 120
+	Population Multiplier = 1
+	POPULATION UNDER 1,000,000,000
+	Planetoid Belts = 2
+	Gas Giants = 0
+W = 13
+	Non Stars In System = 13
+	-1 (mainworld)
+	-2 (planetoid belts)
+	-0 (gas giants)
+	 = 10 other worlds
+A = ImDv
+	CODE	DESCRIPTION
+	ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)
+Stellar = F7 V
+	Stars = 1

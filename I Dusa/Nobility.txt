@@ -1,0 +1,5 @@
+B Knight = 6
+c Baronet = 2
+C Baron = 1
+D Marquis = 2
+e Viscount = 2

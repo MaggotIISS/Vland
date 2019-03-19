@@ -1,0 +1,14 @@
+Hex = 2236
+Name = Gaarid
+UWP = E543746-6
+Remarks = Po Pi
+{Ix} = { -2 }
+(Ex) = (965-3)
+[Cx] = [6545]
+N = BD
+B = -
+Z = -
+PBG = 213
+W = 10
+A = ImDv
+Stellar = K7 V M2 V
