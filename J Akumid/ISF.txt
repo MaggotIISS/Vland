@@ -1,5 +1,4 @@
-Vland/J Akumid
-
+<hr/>Vland/J Akumid
 0923 Gazzum - B549655-C
 	Defence CF = 2
 
@@ -44,47 +43,39 @@ Vland/J Akumid
 
 
 
-
-0927-C7939CD-A
-Commodore Amshirladu
-	Prec 13
-	Plan  3
-	Tactics -2
+<hr/>0927-C7939CD-A
+Commodore Sha
+	Prec 12
+	Plan  4
+	Tactics 0
 	C001-1U-730-7-A
-
-0927-C7939CD-A
-Commodore Kha
-	Prec 9
-	Plan  3
-	Tactics -2
+<hr/>0927-C7939CD-A
+Commodore Aam
+	Prec 12
+	Plan  5
+	Tactics 2
 	C002-1U-730-7-A
-
-1028-C555A64-9
-Commodore Iigadka
-	Prec 14
-	Plan  2
+<hr/>1028-C555A64-9
+Commodore Ulirke
+	Prec 8
+	Plan  5
 	Tactics 2
 	C001-1U-840-8-9
-
-1028-C555A64-9
-Commodore Ush
-	Prec 4
+<hr/>1028-C555A64-9
+Commodore Imiibe
+	Prec 8
 	Plan  5
 	Tactics 2
 	C002-1U-840-8-9
-
-1028-C555A64-9
-Commodore Ekhe
-	Prec 10
-	Plan  3
+<hr/>1028-C555A64-9
+Commodore Miknalurzu
+	Prec 9
+	Plan  5
 	Tactics 0
 	C003-1U-840-8-9
-
-1624-C631854-A
-Commodore Agi
-	Prec 17
-	Plan  4
-	Tactics 0
+<hr/>1624-C631854-A
+Commodore Khamkhuankurgiirkhir
+	Prec 4
+	Plan  5
+	Tactics 1
 	C001-1U-630-6-A
-
-

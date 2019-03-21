@@ -1,5 +1,4 @@
-Vland/A Voskhod
-
+<hr/>Vland/A Voskhod
 0101 Aakhorn - D556754-7
 	SDB Squadrons = 1
 	Troop CF = 1
@@ -102,47 +101,39 @@ Vland/A Voskhod
 
 
 
-
-0110-B100877-C
-Commodore Kika
-	Prec 9
-	Plan  4
-	Tactics 0
-	C001-1U-630-6-C
-
-0601-B100843-B
-Commodore Ilgiakhkakkir
-	Prec 11
+<hr/>0110-B100877-C
+Commodore Kheizganirkaal
+	Prec 7
 	Plan  2
-	Tactics 2
+	Tactics 1
+	C001-1U-630-6-C
+<hr/>0601-B100843-B
+Commodore Kiuglimdirgugiir
+	Prec 9
+	Plan  2
+	Tactics -2
 	C001-1U-630-6-B
-
-0705-C727830-9
-Commodore Kagdanlasgirgarkhu
-	Prec 10
-	Plan  5
-	Tactics 2
+<hr/>0705-C727830-9
+Commodore Igbeggiiiikshir
+	Prec 5
+	Plan  4
+	Tactics 1
 	C001-1U-630-6-9
-
-0708-B3109ED-E
-Commodore Alniaggukheuum
-	Prec 11
+<hr/>0708-B3109ED-E
+Commodore Ish
+	Prec 4
+	Plan  3
+	Tactics 0
+	C001-3U-730-7-E
+<hr/>0708-B3109ED-E
+Commodore Uashmiaak
+	Prec 7
 	Plan  3
 	Tactics 1
-	C001-3U-730-7-E
-
-0708-B3109ED-E
-Commodore Auuim
-	Prec 8
-	Plan  0
-	Tactics -1
 	C002-3U-730-7-E
-
-0708-B3109ED-E
-Commodore Sar
-	Prec 18
-	Plan  5
-	Tactics 0
+<hr/>0708-B3109ED-E
+Commodore Meanshaukh
+	Prec 9
+	Plan  4
+	Tactics -2
 	C003-3U-730-7-E
-
-

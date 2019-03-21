@@ -1,166 +1,166 @@
-
+<hr/>
 0101 Aakhorn  
-	(Knight) AsKuKhaE
-	(Baron) IgShaGuu
+	(Knight) IkhLuuUukhShiIgGum
+	(Baron) DanShi
 
-
+<hr/>
 0102 Rokii    
-	(Knight) I
+	(Knight) AashKhim
 
-
+<hr/>
 0104 Maluuf   
-	(Knight) GudLiirGurKuu
+	(Knight) UkhBaGushKa
 
-
+<hr/>
 0105 Gikkon   
-	(Knight) Kaag
+	(Knight) UGak
 
-
+<hr/>
 0107 Taraddiin
-	(Knight) KuA
-	(Baron) SerGanSerKhiIAk
+	(Knight) UkhNaMiAk
+	(Baron) LiidLuKhuPi
 
-
+<hr/>
 0109 Hakkat   
-	(Knight) IidGuurKaKamDiMush
-	(Baronet) ILaGi
-	(Viscount) U
+	(Knight) IidDii
+	(Baronet) IishGudLar
+	(Viscount) IimKaUmLuu
 
-
+<hr/>
 0110 Ossin    
-	(Knight) GeIk
-	(Marquis) GiirNerLuLanZiUs
-	(Viscount) AsRadDinKhishLiin
+	(Knight) UshShuu
+	(Marquis) MuuIikKe
+	(Viscount) UgKir
 
-
+<hr/>
 0202 Kalkako  
-	(Knight) IKhi
-	(Baronet) Ash
+	(Knight) UIlLukKuE
+	(Baronet) KiI
 
-
+<hr/>
 0203 Bannon's 
-	(Knight) Ka
+	(Knight) ImGuushLiis
 
-
+<hr/>
 0205 Khankari 
-	(Knight) Gii
-	(Baronet) AkhMishLiKiIsh
+	(Knight) UAm
+	(Baronet) MumGip
 
-
+<hr/>
 0209 Lankhi   
-	(Knight) KashKiiUsKisDeAd
-	(Baron) AkhShaIilGuuAadKhe
+	(Knight) KhaIKiKirLeDaa
+	(Baron) KinLimGaIgShan
 
-
+<hr/>
 0210 Khalgun  
-	(Knight) AmLiPuIm
-	(Baron) IgShiiKiUpGuuKhuug
-	(Marquis) As
+	(Knight) ASu
+	(Baron) LaGaarNuGigGa
+	(Marquis) NiLiEgMaa
 
-
+<hr/>
 0303 Anert    
-	(Knight) KiishDiiUmShiLis
+	(Knight) IgLamKaLishDuk
 
-
+<hr/>
 0306 Skathi   
-	(Knight) KarSharZemKiig
-	(Baron) GuLishZaaAashMiim
+	(Knight) IDi
+	(Baron) KirSiKupKe
 
-
+<hr/>
 0307 Enard    
-	(Knight) EkZumKiIAg
+	(Knight) GumGaIgRiAg
 
-
+<hr/>
 0402 Kuk      
-	(Knight) UdKemKuugShe
+	(Knight) ALaGeSe
 
-
+<hr/>
 0403 Apkeraas 
-	(Knight) KiKa
+	(Knight) UgLiIidNash
 
-
+<hr/>
 0404 Katti    
-	(Knight) UkhZirKham
+	(Knight) AUkGis
 
-
+<hr/>
 0408 Shaddukan
-	(Knight) DuIiz
+	(Knight) ANuunSuum
 
-
+<hr/>
 0502 Lugaluru 
-	(Knight) SiiIKuDaDaA
+	(Knight) AmNiinKaIk
 
-
+<hr/>
 0506 Gamibuu  
-	(Knight) KamMirShusGunGugLin
+	(Knight) ShaAaIikKud
 
-
+<hr/>
 0507 Kharta   
-	(Knight) UgLamMaKhu
+	(Knight) EbGiidShuu
 
-
+<hr/>
 0508 Arfaan   
-	(Knight) GaAgSha
-	(Baronet) GiKiIA
+	(Knight) EEl
+	(Baronet) A
 
-
+<hr/>
 0601 Athanuez 
-	(Knight) MuAgDakKiiMuIb
-	(Marquis) GarKhaadGaapShi
-	(Viscount) Gug
+	(Knight) AnDuuDag
+	(Marquis) NaIlLarGi
+	(Viscount) IidLuuSim
 
-
+<hr/>
 0605 Sheshat  
-	(Knight) AkGuIikhDuuAaDi
+	(Knight) Iz
 
-
+<hr/>
 0610 Rakurram 
-	(Knight) IikhShiNaDaIshSish
+	(Knight) IkhGash
 
-
+<hr/>
 0701 Taegzdueg
 	
 
-
+<hr/>
 0703 Khigapka 
 	
 
-
+<hr/>
 0705 Shukhuge 
-	(Knight) UPiUl
-	(Marquis) ImKirShaKheLa
-	(Viscount) DishNiIilDa
+	(Knight) UsLiI
+	(Marquis) IgGiLuLaSigShak
+	(Viscount) KhaGuUkKuug
 
-
+<hr/>
 0707 Lenordi  
-	(Knight) KuEzGaA
+	(Knight) NaKhiirMim
 
-
+<hr/>
 0708 Voskhod  
-	(Knight) AmZerGiKisKi
-	(Count) UEAkhKaKi
-	(Duke) GerShiAA
+	(Knight) ArGarKirKu
+	(Count) IKhiDiiGaKan
+	(Duke) AmKhaAa
 
-
+<hr/>
 0709 Kharzet  
-	(Knight) IlKuuLiIUu
-	(Baronet) DuKharKasShaGa
-	(Baron) DaUlSaaKhaKiirBar
+	(Knight) KarShirKhuIkKhur
+	(Baronet) ShaaADud
+	(Baron) AmDaAkhGa
 
-
+<hr/>
 0801 Ogerrgh  
 	
 
-
+<hr/>
 0804 Kegirur  
 	
 
-
+<hr/>
 0806 Gadiga   
-	(Knight) Da
+	(Knight) GaagGeg
 
-
+<hr/>
 0807 Kunumi   
-	(Knight) SheUumGuBe
-	(Baronet) DishGiishKhiisNi
+	(Knight) ShamDu
+	(Baronet) UgDeUsGiA
 

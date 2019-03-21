@@ -1,131 +1,131 @@
-
+<hr/>
 1011 Iren     
-	(Knight) LuA
-	(Viscount) IkhLaGaAkhShaGu
+	(Knight) UshMiUukhNaash
+	(Viscount) ASanMuumKhed
 
-
+<hr/>
 1012 Askhu    
-	(Knight) AsDum
+	(Knight) Mur
 
-
+<hr/>
 1112 Vallae   
-	(Knight) EzKiKhaAsh
-	(Baron) DesKisGupKarDu
-	(Marquis) DaKaKhiiKhigKud
+	(Knight) KirZaLaAkKheNa
+	(Baron) Esh
+	(Marquis) IipKanBiIk
 
-
+<hr/>
 1113 Thogho   
-	(Knight) AgKhiIkKiNuZur
-	(Baron) AamKharDuKarBurKa
+	(Knight) KerKaShush
+	(Baron) I
 
-
+<hr/>
 1114 Gukhaga  
-	(Knight) Ash
-	(Baron) DuDakGuIi
+	(Knight) AaLinGerKanMashKi
+	(Baron) InDiiUlSemLad
 
-
+<hr/>
 1116 Darmagu  
-	(Knight) DarShaIgBush
+	(Knight) AnKhimMeKiKug
 
-
+<hr/>
 1117 The Uris 
-	(Knight) IdKa
+	(Knight) IiIim
 
-
+<hr/>
 1119 Daku     
-	(Knight) ShiigMiiIkGarDi
+	(Knight) LaUIkLi
 
-
+<hr/>
 1120 Ideshe   
-	(Knight) IlKaKherLaUPush
-	(Baron) AagDaashNaGiAg
+	(Knight) ShiSiimMuSii
+	(Baron) ZumKarMimKhu
 
-
+<hr/>
 1211 Gagzoe   
-	(Knight) Ikh
-	(Baronet) KhuIAlShinLi
+	(Knight) ShashGuuLiIAk
+	(Baronet) DudGeSeShi
 
-
+<hr/>
 1215 Siruga   
-	(Knight) KeAaMurShuuIkh
+	(Knight) KiiIdMiiEGi
 
-
+<hr/>
 1217 Estoff   
-	(Knight) AGiIgRiirLas
+	(Knight) IkKanKhuShashBiNi
 
-
+<hr/>
 1219 Ramir    
-	(Knight) AshGaDarKu
+	(Knight) IisLiinKhaAnKirSha
 
-
+<hr/>
 1220 Imik     
-	(Knight) Uuz
+	(Knight) DirMe
 
-
+<hr/>
 1311 Kema     
-	(Knight) AmKarKaZidLiAm
+	(Knight) IUNe
 
-
+<hr/>
 1312 Taksar   
-	(Knight) KuAkNiUp
+	(Knight) NeKhiiDaAkShaI
 
-
+<hr/>
 1313 Hisus    
-	(Knight) AlGuAg
-	(Baronet) Uuk
-	(Marquis) KeUMu
-	(Viscount) IkhDiA
+	(Knight) EsDaIk
+	(Baronet) SharSinDeMimShaUsh
+	(Marquis) IsKaShiAAshGii
+	(Viscount) LiUpSiirShesKaKhem
 
-
+<hr/>
 1317 Anik     
-	(Knight) Ug
+	(Knight) AaNugMinNisLe
 
-
+<hr/>
 1319 Ganar    
-	(Knight) LimKimGi
+	(Knight) UushPigRushLaGeKush
 
-
+<hr/>
 1412 Karka    
-	(Knight) Ul
-	(Marquis) EkKiIiIshShe
-	(Viscount) IshDuIg
+	(Knight) UlNiiIKu
+	(Marquis) GuEbGirSaUkGar
+	(Viscount) ShirDisKeDiirDiDa
 
-
+<hr/>
 1414 Centra   
-	(Knight) U
+	(Knight) Gar
 
-
+<hr/>
 1417 Astira   
-	(Knight) KerKumSi
+	(Knight) IimMiDiEdNaa
 
-
+<hr/>
 1515 Luunbu   
-	(Knight) Ug
+	(Knight) KaUugShaMirShe
 
-
+<hr/>
 1516 Duam     
-	(Knight) DiiIgGiIkKa
-	(Baronet) RaAlRi
-	(Baron) DiGash
-	(Viscount) INiEdShe
+	(Knight) DiiDiIiIkLar
+	(Baronet) AlLiIAk
+	(Baron) ULug
+	(Viscount) DuIk
 
-
+<hr/>
 1519 Kagamira 
-	(Knight) LurKaAgShiUgLim
-	(Count) EDuKhun
-	(Duke) IkhGi
+	(Knight) AkhGaSaIgKhumSam
+	(Count) EdKi
+	(Duke) GesMii
 
-
+<hr/>
 1520 Shulishu 
-	(Knight) LaAabShuIiAkPi
+	(Knight) AaUlSharDu
 
-
+<hr/>
 1612 Ersii    
-	(Knight) IdKigLaI
+	(Knight) AlKagBamBuIz
 
-
+<hr/>
 1619 Midku    
-	(Knight) MashPashDuKe
-	(Baronet) AlNeGii
-	(Baron) ShuIAkh
+	(Knight) BemSham
+	(Baronet) PurGuDaIKha
+	(Baron) UnMi
 

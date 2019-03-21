@@ -1,5 +1,4 @@
-Vland/O Nulisud
-
+<hr/>Vland/O Nulisud
 ---HI POP TARGET---
 1740 Glanidarn - D4359CE-A
 	SDB Squadrons = 100
@@ -136,96 +135,81 @@ Vland/O Nulisud
 
 
 
-
-1740-D4359CE-A
-Commodore Liirsuuabkar
+<hr/>1740-D4359CE-A
+Commodore Kau
+	Prec 15
+	Plan  4
+	Tactics -1
+	B001-1U-740-20-A
+<hr/>1740-D4359CE-A
+Commodore Diuumkhii
+	Prec 13
+	Plan  4
+	Tactics 1
+???C001-1U-632-6(6)-A???
+<hr/>2035-B5409BA-C
+Commodore Liie
+	Prec 6
+	Plan  5
+	Tactics 2
+	C001-1U-730-7-C
+<hr/>2035-B5409BA-C
+Commodore Umgaasmud
+	Prec 9
+	Plan  4
+	Tactics 0
+	C002-1U-730-7-C
+<hr/>2138-B582ABA-E
+Commodore Iaknudir
+	Prec 8
+	Plan  5
+	Tactics 0
+	A001-3U-800-600-E
+<hr/>2138-B582ABA-E
+Commodore Zakhigaa
+	Prec 10
+	Plan  4
+	Tactics 1
+	C002-3U-840-8-E
+<hr/>2138-B582ABA-E
+Commodore Shingurgauuukshuu
 	Prec 14
 	Plan  4
-	Tactics 0
-	B001-1U-740-20-A
-
-1740-D4359CE-A
-Commodore Ukhriiukhdi
-	Prec 13
-	Plan  5
-	Tactics -2
-???C001-1U-632-6(6)-A???
-
-2035-B5409BA-C
-Commodore Muushassherkimi
-	Prec 15
-	Plan  5
-	Tactics 0
-	C001-1U-730-7-C
-
-2035-B5409BA-C
-Commodore Imku
-	Prec 12
-	Plan  3
-	Tactics 2
-	C002-1U-730-7-C
-
-2138-B582ABA-E
-Commodore Mugkinnukkikirnas
-	Prec 12
-	Plan  2
-	Tactics -1
-	A001-3U-800-600-E
-
-2138-B582ABA-E
-Commodore Maulkargasparma
-	Prec 10
-	Plan  3
-	Tactics -2
-	C002-3U-840-8-E
-
-2138-B582ABA-E
-Commodore Adsiishkham
-	Prec 7
-	Plan  4
-	Tactics -1
+	Tactics 1
 	C003-3U-840-8-E
-
-2138-B582ABA-E
-Commodore Aagzulurkhashamra
-	Prec 9
+<hr/>2138-B582ABA-E
+Commodore Akhmugsha
+	Prec 14
 	Plan  5
-	Tactics -1
+	Tactics 0
 	C004-3U-840-8-E
-
-2138-B582ABA-E
-Commodore Iimshaa
+<hr/>2138-B582ABA-E
+Commodore Aagai
 	Prec 13
 	Plan  5
 	Tactics 0
 ???C001-3U-943-9(9)-E???
-
-2431-B633964-D
-Commodore Ukhgikuumleak
-	Prec 14
-	Plan  3
-	Tactics 0
-	C001-2U-730-7-D
-
-2431-B633964-D
-Commodore Ad
-	Prec 6
-	Plan  2
-	Tactics 0
-	C002-2U-730-7-D
-
-2431-B633964-D
-Commodore Ish
-	Prec 12
-	Plan  4
-	Tactics -2
-	C003-2U-730-7-D
-
-2432-B987867-A
-Commodore Adinkaimi
+<hr/>2431-B633964-D
+Commodore Uul
 	Prec 7
 	Plan  5
-	Tactics 1
+	Tactics -2
+	C001-2U-730-7-D
+<hr/>2431-B633964-D
+Commodore Ikuungaargiisshaa
+	Prec 9
+	Plan  5
+	Tactics -1
+	C002-2U-730-7-D
+<hr/>2431-B633964-D
+Commodore Pirlisuu
+	Prec 13
+	Plan  5
+	Tactics 2
+	C003-2U-730-7-D
+<hr/>2432-B987867-A
+Commodore Akmakuiishshu
+	Prec 11
+	Plan  4
+	Tactics 2
 	C001-1U-630-6-A
-
-

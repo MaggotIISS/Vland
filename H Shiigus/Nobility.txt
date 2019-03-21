@@ -4,4 +4,4 @@ C Baron = 15
 D Marquis = 4
 e Viscount = 2
 E Count = 7
-f Duke = 4
+f duke = 4

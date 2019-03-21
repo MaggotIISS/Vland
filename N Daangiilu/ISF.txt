@@ -1,5 +1,4 @@
-Vland/N Daangiilu
-
+<hr/>Vland/N Daangiilu
 ---HI POP TARGET---
 0933 Arluk - C41198B-C
 	SDB Squadrons = 120
@@ -95,75 +94,63 @@ Vland/N Daangiilu
 1540 Limed - B430689-B
 	Defence CF = 2
 
-
-0933-C41198B-C
-Commodore Iknau
-	Prec 5
-	Plan  5
-	Tactics -1
-	C001-1U-730-7-C
-
-0933-C41198B-C
-Commodore Iksakha
+<hr/>0933-C41198B-C
+Commodore Se
 	Prec 9
 	Plan  5
 	Tactics 0
+	C001-1U-730-7-C
+<hr/>0933-C41198B-C
+Commodore Igbirsamgiadkhan
+	Prec 7
+	Plan  5
+	Tactics 2
 	C002-1U-730-7-C
-
-1038-E68AA87-B
-Commodore Ansumershirshir
-	Prec 11
+<hr/>1038-E68AA87-B
+Commodore Guad
+	Prec 12
 	Plan  3
 	Tactics 0
 	C001-1U-840-8-B
-
-1038-E68AA87-B
-Commodore Emguurshi
-	Prec 12
+<hr/>1038-E68AA87-B
+Commodore Uurshishig
+	Prec 13
 	Plan  3
-	Tactics -2
+	Tactics 2
 	C002-1U-840-8-B
-
-1038-E68AA87-B
-Commodore Inkalargu
-	Prec 12
-	Plan  4
-	Tactics 1
-	C003-1U-840-8-B
-
-1038-E68AA87-B
-Commodore Aakshuugiiiieikh
-	Prec 8
-	Plan  5
-	Tactics 0
-	C004-1U-840-8-B
-
-1139-B553859-B
-Commodore Ak
+<hr/>1038-E68AA87-B
+Commodore Uga
 	Prec 9
 	Plan  5
 	Tactics 0
+	C003-1U-840-8-B
+<hr/>1038-E68AA87-B
+Commodore Karduaddi
+	Prec 11
+	Plan  4
+	Tactics 0
+	C004-1U-840-8-B
+<hr/>1139-B553859-B
+Commodore Khikaugnunladgir
+	Prec 7
+	Plan  3
+	Tactics -1
 	C001-1U-630-6-B
-
-1332-A55497B-C
-Commodore Ikkhushammu
-	Prec 10
+<hr/>1332-A55497B-C
+Commodore Uudarsargaren
+	Prec 11
+	Plan  5
+	Tactics -1
+	C001-1U-730-7-C
+<hr/>1332-A55497B-C
+Commodore Uumki
+	Prec 9
+	Plan  4
+	Tactics 0
+	C002-1U-730-7-C
+<hr/>1535-C426841-A
+Commodore Gekmam
+	Prec 5
 	Plan  5
 	Tactics 0
-	C001-1U-730-7-C
-
-1332-A55497B-C
-Commodore Giiniag
-	Prec 13
-	Plan  5
-	Tactics 1
-	C002-1U-730-7-C
-
-1535-C426841-A
-Commodore Kaiil
-	Prec 10
-	Plan  3
-	Tactics 1
 	C001-1U-630-6-A
-
-

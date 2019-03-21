@@ -1,191 +1,191 @@
-
+<hr/>
 1722 Asanik      
-	(Knight) Mu
+	(Knight) Im
 
-
+<hr/>
 1725 Kalimgar    
-	(Knight) Kam
+	(Knight) AkBurSaIgMiAkh
 
-
+<hr/>
 1726 Gunavarum   
-	(Knight) Khii
+	(Knight) GigShinKhiPunLii
 
-
+<hr/>
 1728 Ashok       
-	(Knight) AGumPaa
+	(Knight) KiisKhuum
 
-
+<hr/>
 1729 Kargem      
-	(Knight) AgSheIDanShu
+	(Knight) Ga
 
-
+<hr/>
 1730 Lurkha      
-	(Knight) IDinDuk
-	(Baronet) AlKimShu
-	(Marquis) IkKhaKhiUg
-	(Viscount) SheLasGiiDiishShii
+	(Knight) DuuAaDi
+	(Baronet) Im
+	(Marquis) Di
+	(Viscount) AkhKheKisDaI
 
-
+<hr/>
 1821 Iikhok      
-	(Knight) GiAagKhiIkh
+	(Knight) AsMishGeDu
 
-
+<hr/>
 1822 Kasear      
-	(Knight) AakShuAdMiiArDi
-	(Count) ShuKa
-	(Duke) InKhumLaAkhLiKhir
+	(Knight) NaSiish
+	(Count) GisKhiUIkhDeAm
+	(Duke) ShaA
 
-
+<hr/>
 1825 Karfir      
-	(Knight) Ka
-	(Count) Am
+	(Knight) Gish
+	(Count) IkDaIiIshRap
 
-
+<hr/>
 1830 Sindal      
-	(Knight) LaUdMuMuun
+	(Knight) ApBirKiRu
 
-
+<hr/>
 1923 Sagida      
-	(Knight) IiKar
-	(Count) UE
+	(Knight) GiIShar
+	(Count) IUkShipGuEdLi
 
-
+<hr/>
 1928 Nimmer      
-	(Knight) ImKagKaIshMim
+	(Knight) Uukh
 
-
+<hr/>
 1929 Sakhem      
-	(Knight) KaGar
+	(Knight) IImShun
 
-
+<hr/>
 1930 Ziirkago    
-	(Knight) KiKiirKiishGiKhem
-	(Baron) Il
+	(Knight) IzKirDirRa
+	(Baron) KeKhaKiIsMashMim
 
-
+<hr/>
 2022 Emrim       
-	(Knight) Ki
+	(Knight) AdLir
 
-
+<hr/>
 2023 Zhattar     
-	(Knight) GaUugKaGaA
+	(Knight) KanDaMigMikLishDu
 
-
+<hr/>
 2027 Gaarluzargu 
-	(Knight) Ug
-	(Baron) GirKhipNaIkGashKin
-	(Marquis) DaKeUlGak
+	(Knight) DemShi
+	(Baron) UGarMi
+	(Marquis) AmMaaIidMem
 
-
+<hr/>
 2029 Gabik       
-	(Knight) SiAKenPiimShu
+	(Knight) KhaUlGiiId
 
-
+<hr/>
 2030 Duusan      
-	(Knight) ShiiAkDiKiBaGa
+	(Knight) IKarDarSuKhiim
 
-
+<hr/>
 2122 Lekkon      
-	(Knight) IsShiUug
+	(Knight) IAkhLushKanGii
 
-
+<hr/>
 2123 Blikig      
-	(Knight) ADir
-	(Baron) EAl
+	(Knight) KaamPa
+	(Baron) GaAkhGar
 
-
+<hr/>
 2124 Razzun      
-	(Knight) DunDii
-	(Marquis) DirMuuLaIIg
+	(Knight) LanGaUugNiim
+	(Marquis) GaAshKig
 
-
+<hr/>
 2125 Shib        
-	(Knight) UsLen
+	(Knight) AAbLurDirKe
 
-
+<hr/>
 2126 Dekhuun     
-	(Knight) IiKi
-	(Baron) LaIdDiUNuDi
-	(Marquis) IlSii
+	(Knight) PaSuIshSa
+	(Baron) UkhShi
+	(Marquis) IisGiShanKanDa
 
-
+<hr/>
 2129 Gunnar      
-	(Knight) UugKumKaAdBar
-	(Marquis) RuuUk
+	(Knight) UshLirMiiU
+	(Marquis) IidSiShiI
 
-
+<hr/>
 2221 Karlum      
-	(Knight) SinGaAIlDaaId
+	(Knight) UkLumKuugKiiA
 
-
+<hr/>
 2222 Markassar   
-	(Knight) NanMiIk
-	(Baronet) NiisShiKamShiiAdMek
-	(Marquis) UkGiIgBamKidLii
-	(Viscount) EkMa
+	(Knight) KiKishLuAKir
+	(Baronet) AkNaShiKushMish
+	(Marquis) IiGaImMaaAGu
+	(Viscount) AnLirGimGii
 
-
+<hr/>
 2223 Gurzish     
-	(Knight) Am
+	(Knight) AkhKiNim
 
-
+<hr/>
 2225 Iamone      
-	(Knight) AshMuUUlKur
-	(Count) DeUEk
+	(Knight) Shir
+	(Count) KuAAaAm
 
-
+<hr/>
 2227 Zikurag     
-	(Knight) AkBaShuDiKiGir
+	(Knight) Khi
 
-
+<hr/>
 2229 Munakhiin   
-	(Knight) UdLenMiUkSe
-	(Marquis) ADiAlLiUm
+	(Knight) Ki
+	(Marquis) UApKishShii
 
-
+<hr/>
 2321 Gikarlum    
-	(Knight) UAamKaaKashGesh
+	(Knight) DirKirGirKhenKiKii
 
-
+<hr/>
 2322 Hefas       
-	(Knight) GiAdDe
-	(Count) ImShash
+	(Knight) Ik
+	(Count) UshGaIkDi
 
-
+<hr/>
 2323 Zruub       
-	(Knight) EGuMasSheKaEk
+	(Knight) Uu
 
-
+<hr/>
 2324 Firdakh     
-	(Knight) GuBaaUuSamMaAm
+	(Knight) KharGar
 
-
+<hr/>
 2325 Derkhuun    
-	(Knight) UudKuMig
+	(Knight) IZu
 
-
+<hr/>
 2328 Fharnas     
-	(Knight) DiUlKaarKigDu
-	(Count) DesSha
+	(Knight) GiAkZaMa
+	(Count) IsKhaShii
 
-
+<hr/>
 2329 Tobrun      
-	(Knight) IshZiLiinMug
+	(Knight) SinDanGish
 
-
+<hr/>
 2330 Umzgaa      
-	(Knight) Si
+	(Knight) DaasGirKhiAlKheI
 
-
+<hr/>
 2425 Martle      
-	(Knight) I
-	(Count) InMasLiiBa
+	(Knight) Ug
+	(Count) KarPaMu
 
-
+<hr/>
 2426 Khanaddar   
-	(Knight) KhinKiMiiShiShir
+	(Knight) GurShaam
 
-
+<hr/>
 2429 Irgar       
-	(Knight) URushGarKhaIkSar
+	(Knight) GuAalSha
 

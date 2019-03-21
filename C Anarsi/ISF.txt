@@ -1,5 +1,4 @@
-Vland/C Anarsi
-
+<hr/>Vland/C Anarsi
 1701 Taksarrgh - B624697-A
 	Defence CF = 1
 
@@ -133,68 +132,57 @@ Vland/C Anarsi
 2409 Sardiika - A54467B-C
 	Defence CF = 2
 
-
-1903-A423979-E
-Commodore Kurbiis
-	Prec 7
-	Plan  4
-	Tactics 0
+<hr/>1903-A423979-E
+Commodore Kesshemsinshuikkaak
+	Prec 10
+	Plan  5
+	Tactics 1
 	C001-3U-730-7-E
-
-1903-A423979-E
-Commodore Ishshii
-	Prec 11
+<hr/>1903-A423979-E
+Commodore Ikhlinkheazkhiikhu
+	Prec 9
 	Plan  5
 	Tactics 0
 	C002-3U-730-7-E
-
-1903-A423979-E
-Commodore Gussiiu
-	Prec 14
-	Plan  5
+<hr/>1903-A423979-E
+Commodore Nabe
+	Prec 10
+	Plan  4
 	Tactics 1
 	C003-3U-730-7-E
-
-2008-C550AAE-C
-Commodore Giishgiimig
-	Prec 12
-	Plan  4
+<hr/>2008-C550AAE-C
+Commodore Kim
+	Prec 13
+	Plan  5
 	Tactics 0
 	C001-1U-840-8-C
-
-2008-C550AAE-C
-Commodore Iinkakhashsheukdak
-	Prec 8
-	Plan  5
-	Tactics 2
-	C002-1U-840-8-C
-
-2008-C550AAE-C
-Commodore Likukshiashle
-	Prec 12
-	Plan  5
-	Tactics -2
-	C003-1U-840-8-C
-
-2008-C550AAE-C
-Commodore Ainsikheishmi
+<hr/>2008-C550AAE-C
+Commodore Igmimmiaagiig
 	Prec 10
-	Plan  3
-	Tactics -1
-	C004-1U-840-8-C
-
-2205-B7479EA-C
-Commodore Sursamkakraslanma
-	Prec 7
 	Plan  5
-	Tactics 2
-	C001-1U-730-7-C
-
-2205-B7479EA-C
-Commodore Darkam
-	Prec 7
-	Plan  3
 	Tactics 0
+	C002-1U-840-8-C
+<hr/>2008-C550AAE-C
+Commodore Admishkuui
+	Prec 9
+	Plan  4
+	Tactics -1
+	C003-1U-840-8-C
+<hr/>2008-C550AAE-C
+Commodore Um
+	Prec 12
+	Plan  2
+	Tactics 0
+	C004-1U-840-8-C
+<hr/>2205-B7479EA-C
+Commodore Uklug
+	Prec 10
+	Plan  5
+	Tactics 1
+	C001-1U-730-7-C
+<hr/>2205-B7479EA-C
+Commodore Aakgashkhiled
+	Prec 10
+	Plan  2
+	Tactics 1
 	C002-1U-730-7-C
-
-

@@ -1,5 +1,4 @@
-Vland/M Parsi
-
+<hr/>Vland/M Parsi
 ---HI POP TARGET---
 0132 Kald - C5509AB-A
 	SDB Squadrons = 100
@@ -108,96 +107,81 @@ Vland/M Parsi
 0833 Karbarlah - D5878A8-6
 	Defence CF = 20
 
-
-0132-C5509AB-A
-Commodore Ugmigdukhiinkhiir
-	Prec 6
+<hr/>0132-C5509AB-A
+Commodore Ebkuag
+	Prec 10
 	Plan  3
-	Tactics -2
+	Tactics -1
 	C001-1U-730-7-A
-
-0132-C5509AB-A
-Commodore Shaplulusar
+<hr/>0132-C5509AB-A
+Commodore Uknukiipgem
+	Prec 10
+	Plan  5
+	Tactics 0
+	C002-1U-730-7-A
+<hr/>0232-D9C7887-9
+Commodore Uuim
+	Prec 9
+	Plan  4
+	Tactics 1
+	C001-1U-630-6-9
+<hr/>0431-B584A85-E
+Commodore Sha
+	Prec 11
+	Plan  5
+	Tactics -2
+	C001-3U-840-8-E
+<hr/>0431-B584A85-E
+Commodore Ma
 	Prec 8
 	Plan  4
+	Tactics -2
+	C002-3U-840-8-E
+<hr/>0431-B584A85-E
+Commodore Shanrakuigsiii
+	Prec 11
+	Plan  5
 	Tactics 2
-	C002-1U-730-7-A
-
-0232-D9C7887-9
-Commodore Aaliiadshersuum
-	Prec 5
-	Plan  0
+	C003-3U-840-8-E
+<hr/>0431-B584A85-E
+Commodore Akgaeuul
+	Prec 7
+	Plan  5
 	Tactics 2
-	C001-1U-630-6-9
-
-0431-B584A85-E
-Commodore Igshuliiii
+	C004-3U-840-8-E
+<hr/>0431-B584A85-E
+Commodore Suukaa
+	Prec 11
+	Plan  3
+	Tactics 2
+	C005-3U-840-8-E
+<hr/>0740-B683A9B-D
+Commodore Eshkankaiigkhaa
 	Prec 12
 	Plan  5
-	Tactics 0
-	C001-3U-840-8-E
-
-0431-B584A85-E
-Commodore Akgigassilag
-	Prec 9
-	Plan  4
-	Tactics -1
-	C002-3U-840-8-E
-
-0431-B584A85-E
-Commodore Adii
-	Prec 16
-	Plan  2
-	Tactics 0
-	C003-3U-840-8-E
-
-0431-B584A85-E
-Commodore Kurdakenshishsaashme
-	Prec 9
-	Plan  2
-	Tactics -2
-	C004-3U-840-8-E
-
-0431-B584A85-E
-Commodore Uu
-	Prec 8
-	Plan  5
-	Tactics -1
-	C005-3U-840-8-E
-
-0740-B683A9B-D
-Commodore Khirduuke
-	Prec 10
-	Plan  4
-	Tactics 0
+	Tactics 2
 	C001-2U-840-8-D
-
-0740-B683A9B-D
-Commodore Udlirdermush
-	Prec 6
+<hr/>0740-B683A9B-D
+Commodore Deiiga
+	Prec 11
 	Plan  5
 	Tactics -1
 	C002-2U-840-8-D
-
-0740-B683A9B-D
-Commodore Masdaiiiksug
-	Prec 13
-	Plan  5
-	Tactics -1
-	C003-2U-840-8-D
-
-0740-B683A9B-D
-Commodore Uudgummuagkirkaa
-	Prec 14
-	Plan  4
-	Tactics 2
-	C004-2U-840-8-D
-
-0740-B683A9B-D
-Commodore Iilshu
-	Prec 8
+<hr/>0740-B683A9B-D
+Commodore Akdum
+	Prec 9
 	Plan  5
 	Tactics 1
+	C003-2U-840-8-D
+<hr/>0740-B683A9B-D
+Commodore Adliiikhdum
+	Prec 14
+	Plan  4
+	Tactics -2
+	C004-2U-840-8-D
+<hr/>0740-B683A9B-D
+Commodore Gii
+	Prec 7
+	Plan  5
+	Tactics -2
 	C005-2U-840-8-D
-
-
