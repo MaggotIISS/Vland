@@ -1,4 +1,4 @@
-<hr/>Vland/M Parsi
+Vland/M Parsi
 ---HI POP TARGET---
 0132 Kald - C5509AB-A
 	SDB Squadrons = 100
@@ -108,80 +108,80 @@
 	Defence CF = 20
 
 <hr/>0132-C5509AB-A
-Commodore Ebkuag
-	Prec 10
-	Plan  3
-	Tactics -1
+Commodore Egrinkhirmaa
+	Prec 5
+	Plan  4
+	Tactics 0
 	C001-1U-730-7-A
 <hr/>0132-C5509AB-A
-Commodore Uknukiipgem
-	Prec 10
+Commodore Ad
+	Prec 6
 	Plan  5
 	Tactics 0
 	C002-1U-730-7-A
 <hr/>0232-D9C7887-9
-Commodore Uuim
-	Prec 9
-	Plan  4
+Commodore Uklainluigla
+	Prec 13
+	Plan  5
 	Tactics 1
 	C001-1U-630-6-9
 <hr/>0431-B584A85-E
-Commodore Sha
+Commodore Aklashi
 	Prec 11
 	Plan  5
-	Tactics -2
+	Tactics 1
 	C001-3U-840-8-E
 <hr/>0431-B584A85-E
-Commodore Ma
-	Prec 8
-	Plan  4
-	Tactics -2
+Commodore Dar
+	Prec 9
+	Plan  5
+	Tactics 1
 	C002-3U-840-8-E
 <hr/>0431-B584A85-E
-Commodore Shanrakuigsiii
-	Prec 11
-	Plan  5
-	Tactics 2
+Commodore Adiashkhiiggi
+	Prec 9
+	Plan  3
+	Tactics 0
 	C003-3U-840-8-E
 <hr/>0431-B584A85-E
-Commodore Akgaeuul
-	Prec 7
+Commodore Shushaedinur
+	Prec 5
 	Plan  5
 	Tactics 2
 	C004-3U-840-8-E
 <hr/>0431-B584A85-E
-Commodore Suukaa
-	Prec 11
-	Plan  3
+Commodore Shamshi
+	Prec 7
+	Plan  5
 	Tactics 2
 	C005-3U-840-8-E
 <hr/>0740-B683A9B-D
-Commodore Eshkankaiigkhaa
-	Prec 12
-	Plan  5
-	Tactics 2
+Commodore Shikiiiknun
+	Prec 6
+	Plan  4
+	Tactics 0
 	C001-2U-840-8-D
 <hr/>0740-B683A9B-D
-Commodore Deiiga
-	Prec 11
-	Plan  5
-	Tactics -1
+Commodore Akhgargurli
+	Prec 3
+	Plan  2
+	Tactics 2
 	C002-2U-840-8-D
 <hr/>0740-B683A9B-D
-Commodore Akdum
-	Prec 9
+Commodore Idushigagshi
+	Prec 10
 	Plan  5
-	Tactics 1
+	Tactics -2
 	C003-2U-840-8-D
 <hr/>0740-B683A9B-D
-Commodore Adliiikhdum
-	Prec 14
+Commodore Mamia
+	Prec 8
 	Plan  4
-	Tactics -2
+	Tactics -1
 	C004-2U-840-8-D
 <hr/>0740-B683A9B-D
-Commodore Gii
-	Prec 7
-	Plan  5
-	Tactics -2
+Commodore Uisshe
+	Prec 8
+	Plan  4
+	Tactics -1
 	C005-2U-840-8-D

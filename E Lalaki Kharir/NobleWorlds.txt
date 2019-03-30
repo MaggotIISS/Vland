@@ -1,17 +1,10 @@
-<hr/>
 0211 Giikur   
-	(Knight) IlKe
-	(Baronet) IkShiIn
-
+	(Knight) AshGaShuUuSaNa
+	(Baronet) InMaIiDimLiLii
+<hr/>0311 Omero    
+	(Knight) Duu
+<hr/>0619 Lalaki   
+	(Knight) SamSuAmShi
+<hr/>0711 Rishiin  
+	(Knight) SunGa
 <hr/>
-0311 Omero    
-	(Knight) Ki
-
-<hr/>
-0619 Lalaki   
-	(Knight) UpShaGuGakKiKug
-
-<hr/>
-0711 Rishiin  
-	(Knight) En
-

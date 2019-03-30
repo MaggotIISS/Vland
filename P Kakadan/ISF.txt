@@ -1,4 +1,4 @@
-<hr/>Vland/P Kakadan
+Vland/P Kakadan
 ---HI POP TARGET---
 2533 Aki - D697AFF-A
 	SDB Squadrons = 1000
@@ -218,122 +218,122 @@
 
 
 <hr/>2533-D697AFF-A
-Commodore Uugshiisger
-	Prec 10
-	Plan  5
-	Tactics 0
+Commodore Akhdiigkuuiigliug
+	Prec 12
+	Plan  3
+	Tactics 1
 	C001-1U-840-8-A
 <hr/>2533-D697AFF-A
-Commodore Ig
-	Prec 11
-	Plan  4
-	Tactics 2
+Commodore Kau
+	Prec 14
+	Plan  2
+	Tactics -1
 	C002-1U-840-8-A
 <hr/>2533-D697AFF-A
-Commodore Ishashshemlaag
-	Prec 10
-	Plan  2
-	Tactics -2
+Commodore In
+	Prec 11
+	Plan  5
+	Tactics -1
 	C003-1U-840-8-A
 <hr/>2540-A7698B9-D
-Commodore Il
-	Prec 7
-	Plan  4
-	Tactics -1
-	C001-2U-630-6-D
-<hr/>2540-A7698B9-D
-Commodore Maasiamgu
+Commodore Iigkhuiadkiish
 	Prec 14
 	Plan  3
 	Tactics 1
-	C002-2U-630-6-D
-<hr/>2631-E789ABE-A
-Commodore Uumkaiiakh
-	Prec 6
-	Plan  3
-	Tactics 0
-	C001-1U-840-8-A
-<hr/>2631-E789ABE-A
-Commodore Shigin
+	C001-2U-630-6-D
+<hr/>2540-A7698B9-D
+Commodore Ilma
 	Prec 11
 	Plan  5
+	Tactics -2
+	C002-2U-630-6-D
+<hr/>2631-E789ABE-A
+Commodore Aaamdurshaklakhar
+	Prec 12
+	Plan  2
 	Tactics -1
+	C001-1U-840-8-A
+<hr/>2631-E789ABE-A
+Commodore Eg
+	Prec 11
+	Plan  3
+	Tactics 0
 	C002-1U-840-8-A
 <hr/>2631-E789ABE-A
-Commodore Aiikziik
-	Prec 10
-	Plan  0
-	Tactics 2
+Commodore De
+	Prec 14
+	Plan  2
+	Tactics 0
 	C003-1U-840-8-A
 <hr/>2737-B2009AB-E
-Commodore Uggeispamarshii
-	Prec 8
-	Plan  5
+Commodore Khamirishkaii
+	Prec 9
+	Plan  4
 	Tactics -2
 	C001-3U-730-7-E
 <hr/>2737-B2009AB-E
-Commodore Amli
+Commodore Shiuulkii
 	Prec 12
-	Plan  5
+	Plan  3
 	Tactics -2
 	C002-3U-730-7-E
 <hr/>2737-B2009AB-E
-Commodore Uimishsar
+Commodore Shaliirgiiiisdaauz
 	Prec 12
-	Plan  2
-	Tactics 2
+	Plan  4
+	Tactics 1
 	C003-3U-730-7-E
 <hr/>2739-AAB5895-D
-Commodore Akkhaigkiil
-	Prec 15
-	Plan  2
-	Tactics -1
+Commodore Zurkhaa
+	Prec 12
+	Plan  4
+	Tactics -2
 	C001-2U-630-6-D
 <hr/>2739-AAB5895-D
-Commodore Gimkunkham
-	Prec 10
-	Plan  0
-	Tactics -1
+Commodore Augmemirkashur
+	Prec 8
+	Plan  5
+	Tactics 2
 	C002-2U-630-6-D
 <hr/>2931-A200976-F
-Commodore Akgukkhiikdaarkhish
-	Prec 5
-	Plan  4
-	Tactics -1
+Commodore Shi
+	Prec 12
+	Plan  0
+	Tactics -2
 	C001-4U-730-7-F
 <hr/>2931-A200976-F
-Commodore Gii
-	Prec 10
-	Plan  4
-	Tactics 0
+Commodore Dukagirpa
+	Prec 11
+	Plan  5
+	Tactics 1
 	C002-4U-730-7-F
 <hr/>2931-A200976-F
-Commodore Igdishaardaa
-	Prec 8
+Commodore Imniulshiesh
+	Prec 9
 	Plan  4
-	Tactics 0
+	Tactics -1
 	C003-4U-730-7-F
 <hr/>3031-C202974-C
-Commodore Ib
-	Prec 13
-	Plan  5
-	Tactics 0
+Commodore Igaumlardiag
+	Prec 11
+	Plan  4
+	Tactics 2
 	C001-1U-730-7-C
 <hr/>3031-C202974-C
-Commodore Ak
-	Prec 11
-	Plan  2
+Commodore Amsha
+	Prec 8
+	Plan  5
 	Tactics -1
 	C002-1U-730-7-C
 <hr/>3131-B5629CA-C
-Commodore Kaaadkarsar
-	Prec 12
-	Plan  2
+Commodore Khekili
+	Prec 10
+	Plan  5
 	Tactics 0
 	C001-1U-730-7-C
 <hr/>3131-B5629CA-C
-Commodore Adkaa
-	Prec 6
+Commodore Diimiimdukigakhu
+	Prec 4
 	Plan  5
-	Tactics 2
+	Tactics -1
 	C002-1U-730-7-C

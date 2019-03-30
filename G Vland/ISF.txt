@@ -1,4 +1,4 @@
-<hr/>Vland/G Vland
+Vland/G Vland
 1716 Enaa - B300859-B
 	SDB Squadrons = 12
 	Starship Squadrons = 1
@@ -146,152 +146,152 @@
 
 
 <hr/>1716-B300859-B
-Commodore Al
-	Prec 5
+Commodore Amke
+	Prec 14
 	Plan  5
-	Tactics 0
+	Tactics 2
 	C001-1U-630-6-B
 <hr/>1817-A430998-F
-Commodore Ikkir
-	Prec 13
+Commodore Shaikli
+	Prec 15
 	Plan  5
-	Tactics -1
+	Tactics 2
 	C001-4U-730-7-F
 <hr/>1817-A430998-F
-Commodore Ra
-	Prec 7
-	Plan  5
+Commodore Rishke
+	Prec 10
+	Plan  2
 	Tactics 0
 	C002-4U-730-7-F
 <hr/>1817-A430998-F
-Commodore Iek
-	Prec 14
-	Plan  5
+Commodore Amguii
+	Prec 10
+	Plan  2
 	Tactics -2
 	C003-4U-730-7-F
 <hr/>1919-B575A77-E
-Commodore Idgaigdashur
-	Prec 12
+Commodore Igmirguikia
+	Prec 8
 	Plan  3
-	Tactics 0
+	Tactics 1
 	C001-3U-840-8-E
 <hr/>1919-B575A77-E
-Commodore Iigga
-	Prec 10
-	Plan  3
-	Tactics -1
+Commodore Ikdin
+	Prec 12
+	Plan  4
+	Tactics 1
 	C002-3U-840-8-E
 <hr/>1919-B575A77-E
-Commodore Kug
-	Prec 7
+Commodore Uui
+	Prec 14
 	Plan  3
 	Tactics -1
 	C003-3U-840-8-E
 <hr/>1919-B575A77-E
-Commodore Uud
-	Prec 10
+Commodore Shuikkiaad
+	Prec 11
 	Plan  5
-	Tactics -2
+	Tactics -1
 	C004-3U-840-8-E
 <hr/>1919-B575A77-E
-Commodore Ikkhusadkhishu
-	Prec 9
-	Plan  5
-	Tactics -2
+Commodore Iimri
+	Prec 8
+	Plan  3
+	Tactics 0
 	C005-3U-840-8-E
 <hr/>2013-C9C5984-B
-Commodore Ii
-	Prec 12
+Commodore Lersishar
+	Prec 9
 	Plan  2
-	Tactics 1
+	Tactics 0
 	C001-1U-730-7-B
 <hr/>2013-C9C5984-B
-Commodore Nishshaik
-	Prec 15
-	Plan  5
-	Tactics 0
+Commodore Ikshunkhiiimpugla
+	Prec 10
+	Plan  3
+	Tactics 2
 	C002-1U-730-7-B
 <hr/>2017-B769A78-B
-Commodore U
+Commodore Ukdamku
 	Prec 9
 	Plan  5
-	Tactics -2
+	Tactics 2
 	C001-1U-840-8-B
 <hr/>2017-B769A78-B
-Commodore Iskik
-	Prec 12
-	Plan  2
+Commodore Kurkharkiikhelipkhis
+	Prec 10
+	Plan  3
 	Tactics 2
 	C002-1U-840-8-B
 <hr/>2017-B769A78-B
-Commodore Uugrii
+Commodore Ushdarke
 	Prec 13
-	Plan  3
+	Plan  4
 	Tactics -1
 	C003-1U-840-8-B
 <hr/>2017-B769A78-B
-Commodore Shiash
-	Prec 14
-	Plan  2
-	Tactics -2
+Commodore Giimlemdiigdikan
+	Prec 11
+	Plan  0
+	Tactics 1
 	C004-1U-840-8-B
 <hr/>2111-C779A77-D
-Commodore Baud
-	Prec 9
-	Plan  5
-	Tactics 0
+Commodore Algammi
+	Prec 11
+	Plan  3
+	Tactics -1
 	C001-2U-840-8-D
 <hr/>2111-C779A77-D
-Commodore Uia
+Commodore Laarna
 	Prec 12
-	Plan  2
-	Tactics 0
+	Plan  1
+	Tactics 1
 	C002-2U-840-8-D
 <hr/>2111-C779A77-D
-Commodore Iggikhiiim
-	Prec 13
-	Plan  5
-	Tactics 1
+Commodore Shaiddusluapla
+	Prec 11
+	Plan  1
+	Tactics -1
 	C003-2U-840-8-D
 <hr/>2111-C779A77-D
-Commodore Inkaiushsaem
-	Prec 14
-	Plan  4
-	Tactics 0
+Commodore Shiirmug
+	Prec 17
+	Plan  5
+	Tactics -2
 	C004-2U-840-8-D
 <hr/>2111-C779A77-D
-Commodore Illimgagmup
-	Prec 13
-	Plan  5
-	Tactics 1
+Commodore Khumkashaaash
+	Prec 7
+	Plan  2
+	Tactics -1
 	C005-2U-840-8-D
 <hr/>2319-A7669BB-A
-Commodore Giugi
-	Prec 4
-	Plan  4
-	Tactics -1
+Commodore Unkhikemam
+	Prec 14
+	Plan  5
+	Tactics -2
 	C001-1U-730-7-A
 <hr/>2319-A7669BB-A
-Commodore Isshed
-	Prec 11
-	Plan  2
-	Tactics 0
+Commodore Da
+	Prec 7
+	Plan  5
+	Tactics -1
 	C002-1U-730-7-A
 <hr/>2412-E563A95-A
-Commodore Akhula
-	Prec 14
-	Plan  3
+Commodore Gii
+	Prec 16
+	Plan  5
 	Tactics -1
 	C001-1U-840-8-A
 <hr/>2412-E563A95-A
-Commodore I
-	Prec 8
-	Plan  5
+Commodore Udkimkemimkilaa
+	Prec 12
+	Plan  4
 	Tactics 0
 	C002-1U-840-8-A
 <hr/>2412-E563A95-A
-Commodore Shii
-	Prec 10
+Commodore Rashigurkadsii
+	Prec 11
 	Plan  5
-	Tactics 0
+	Tactics 2
 	C003-1U-840-8-A

@@ -1,4 +1,4 @@
-<hr/>Vland/B Vhodan
+Vland/B Vhodan
 0909 Jiinasha - C200789-A
 	SDB Squadrons = 1
 	Troop CF = 1
@@ -147,134 +147,134 @@
 
 
 <hr/>1007-C69A9CC-C
-Commodore Shuash
-	Prec 9
+Commodore Aaddiigkhaaashkur
+	Prec 17
 	Plan  5
-	Tactics 2
+	Tactics -2
 	C001-1U-730-7-C
 <hr/>1007-C69A9CC-C
-Commodore Lurmizimkhamshi
-	Prec 16
-	Plan  2
+Commodore Aggamku
+	Prec 13
+	Plan  3
 	Tactics 0
 	C002-1U-730-7-C
 <hr/>1102-A547857-D
-Commodore Ikkhelakda
-	Prec 9
+Commodore Nagnuukakshi
+	Prec 13
 	Plan  5
-	Tactics 1
+	Tactics -2
 	C001-2U-630-6-D
 <hr/>1102-A547857-D
-Commodore Ania
+Commodore Uaushmimpa
+	Prec 12
+	Plan  0
+	Tactics 1
+	C002-2U-630-6-D
+<hr/>1107-B4328DH-A
+Commodore Iigbediashkar
+	Prec 9
+	Plan  3
+	Tactics -1
+	C001-1U-630-6-A
+<hr/>1108-C76A9AB-C
+Commodore Shii
+	Prec 8
+	Plan  4
+	Tactics 2
+	C001-1U-730-7-C
+<hr/>1108-C76A9AB-C
+Commodore Iksuush
 	Prec 7
 	Plan  5
 	Tactics -1
-	C002-2U-630-6-D
-<hr/>1107-B4328DH-A
-Commodore Daakshemluudiiag
-	Prec 10
-	Plan  5
-	Tactics 1
-	C001-1U-630-6-A
-<hr/>1108-C76A9AB-C
-Commodore Iiniimgag
-	Prec 12
-	Plan  5
-	Tactics 0
-	C001-1U-730-7-C
-<hr/>1108-C76A9AB-C
-Commodore Khiidnarmu
-	Prec 18
-	Plan  5
-	Tactics -1
 	C002-1U-730-7-C
 <hr/>1208-A758A8A-D
-Commodore Idkarkaaigbirkii
-	Prec 8
-	Plan  3
-	Tactics -2
-	C001-2U-840-8-D
-<hr/>1208-A758A8A-D
-Commodore Mamkhiugpirga
-	Prec 8
-	Plan  3
-	Tactics 2
-	C002-2U-840-8-D
-<hr/>1208-A758A8A-D
-Commodore Adshashmidangi
-	Prec 10
+Commodore Ubuashrudnu
+	Prec 15
 	Plan  2
 	Tactics 0
-	C003-2U-840-8-D
+	C001-2U-840-8-D
 <hr/>1208-A758A8A-D
-Commodore Adaim
-	Prec 16
+Commodore Ashiuk
+	Prec 7
 	Plan  5
 	Tactics 1
-	C004-2U-840-8-D
+	C002-2U-840-8-D
 <hr/>1208-A758A8A-D
-Commodore Shap
-	Prec 14
+Commodore Nursaggishlir
+	Prec 5
 	Plan  5
 	Tactics -1
+	C003-2U-840-8-D
+<hr/>1208-A758A8A-D
+Commodore Akmarduumlid
+	Prec 12
+	Plan  5
+	Tactics -1
+	C004-2U-840-8-D
+<hr/>1208-A758A8A-D
+Commodore Ud
+	Prec 13
+	Plan  4
+	Tactics 1
 	C005-2U-840-8-D
 <hr/>1405-B89A8AA-C
-Commodore Giisuikhnarli
-	Prec 11
-	Plan  5
+Commodore Udgii
+	Prec 8
+	Plan  4
 	Tactics 0
 	C001-1U-630-6-C
 <hr/>1407-E539A77-C
-Commodore Niisiirda
+Commodore Aakekluami
 	Prec 13
-	Plan  5
-	Tactics -1
+	Plan  3
+	Tactics -2
 	C001-1U-840-8-C
 <hr/>1407-E539A77-C
-Commodore U
-	Prec 7
-	Plan  4
-	Tactics 0
+Commodore Gam
+	Prec 13
+	Plan  2
+	Tactics -1
 	C002-1U-840-8-C
 <hr/>1407-E539A77-C
-Commodore Daganalurkhur
-	Prec 8
-	Plan  3
-	Tactics 0
-	C003-1U-840-8-C
-<hr/>1407-E539A77-C
-Commodore Kamlaasam
-	Prec 15
-	Plan  5
-	Tactics 0
-	C004-1U-840-8-C
-<hr/>1408-B552A78-E
-Commodore Akhgail
-	Prec 13
-	Plan  3
-	Tactics 1
-	C001-3U-840-8-E
-<hr/>1408-B552A78-E
-Commodore Bimgargeik
-	Prec 14
-	Plan  0
-	Tactics -2
-	C002-3U-840-8-E
-<hr/>1408-B552A78-E
-Commodore Ad
+Commodore Euiimkais
 	Prec 7
 	Plan  5
+	Tactics -1
+	C003-1U-840-8-C
+<hr/>1407-E539A77-C
+Commodore Khiiumaska
+	Prec 12
+	Plan  3
 	Tactics 2
+	C004-1U-840-8-C
+<hr/>1408-B552A78-E
+Commodore Iiaii
+	Prec 13
+	Plan  4
+	Tactics 2
+	C001-3U-840-8-E
+<hr/>1408-B552A78-E
+Commodore Karsishakeggia
+	Prec 13
+	Plan  4
+	Tactics 2
+	C002-3U-840-8-E
+<hr/>1408-B552A78-E
+Commodore Aila
+	Prec 10
+	Plan  3
+	Tactics 0
 	C003-3U-840-8-E
 <hr/>1408-B552A78-E
-Commodore Maaag
-	Prec 8
+Commodore Apiipmiiak
+	Prec 10
 	Plan  5
-	Tactics -1
+	Tactics 0
 	C004-3U-840-8-E
 <hr/>1408-B552A78-E
-Commodore Amzesguak
-	Prec 12
-	Plan  5
+Commodore Aakmile
+	Prec 11
+	Plan  4
 	Tactics 0
 	C005-3U-840-8-E

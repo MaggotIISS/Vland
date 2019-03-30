@@ -1,186 +1,103 @@
-<hr/>
 0131 Skasputin
-	(Knight) Na
-
-<hr/>
-0132 Kald     
-	(Knight) IigMuA
-	(Count) INisLinKaDiirDu
-
-<hr/>
-0134 Zanagud  
-	(Knight) AgKhuKiLurShun
-	(Baron) AkKharKaIIik
-
-<hr/>
-0135 Sakin    
-	(Knight) GishMaLiUg
-
-<hr/>
-0137 Shaaki   
-	(Knight) IMimKaAkGurMun
-
-<hr/>
-0232 Tratami  
-	(Knight) AshKidDeGadMiGaa
-	(Viscount) RanGiGagKiSha
-
-<hr/>
-0234 Nurrungar
-	(Knight) GurKimMaA
-
-<hr/>
-0236 Khishugii
-	(Knight) UgKer
-
-<hr/>
-0237 Shashim  
-	(Knight) Akh
-
-<hr/>
-0333 Paspaa   
-	(Knight) UAIgShuE
-	(Baronet) KuIlLushDarDu
-
-<hr/>
-0335 Nadud    
-	(Knight) GaSaamLaDuKushNis
-
-<hr/>
-0336 Parsi    
-	(Knight) AGas
-	(Count) UkKuKaUKuUm
-	(Duke) KuuAkh
-
-<hr/>
-0338 Vanessa  
-	(Knight) UzSaMaaUgMamGu
-
-<hr/>
-0340 Jessheim 
-	(Knight) LeUuIiAl
-
-<hr/>
-0431 Answerin 
-	(Knight) LaUGim
-	(Count) DiishKhaEUu
-
-<hr/>
-0434 Geguru   
-	(Knight) KhigDushKhuuIis
-
-<hr/>
-0435 Ganidam  
-	(Knight) UUud
-
-<hr/>
-0436 Meprim   
-	(Knight) IlNaU
-
-<hr/>
-0437 Thatii   
-	(Knight) KhuSaIg
-
-<hr/>
-0531 Seglound 
-	(Knight) ShurGaamMaanKu
-
-<hr/>
-0532 Kinswana 
-	(Knight) A
-
-<hr/>
-0533 Khi Tai  
-	(Knight) DurKaUdSi
-	(Baron) KhimGam
-
-<hr/>
-0534 Khakkakum
-	(Knight) KuAkhKhunLaamZum
-	(Baron) GaLiEkSePunKam
-
-<hr/>
-0536 Fauski   
-	(Knight) DuLa
-	(Marquis) MuKanGash
-
-<hr/>
-0631 Enbart   
-	(Knight) Uum
-
-<hr/>
-0633 Kamar Kur
-	(Knight) IgMigDiBa
+	(Knight) U
+<hr/>0132 Kald     
+	(Knight) UlKiEAKarGa
+	(Count) NeIlGiiLipSa
+<hr/>0134 Zanagud  
+	(Knight) UImLu
 	(Baron) A
-
+<hr/>0135 Sakin    
+	(Knight) SirKim
+<hr/>0137 Shaaki   
+	(Knight) Ush
+<hr/>0232 Tratami  
+	(Knight) UumLa
+	(Viscount) SuAagSuuGarKaagNi
+<hr/>0234 Nurrungar
+	(Knight) KhaMus
+<hr/>0236 Khishugii
+	(Knight) AkGuIikh
+<hr/>0237 Shashim  
+	(Knight) Gi
+<hr/>0333 Paspaa   
+	(Knight) IgKeLed
+	(Baronet) GakShirKhurKhagKi
+<hr/>0335 Nadud    
+	(Knight) KumKiiIkDemDaI
+<hr/>0336 Parsi    
+	(Knight) Ka
+	(Count) DiDuush
+	(Duke) Ush
+<hr/>0338 Vanessa  
+	(Knight) UAsh
+<hr/>0340 Jessheim 
+	(Knight) A
+<hr/>0431 Answerin 
+	(Knight) KiIilShurKuEmShu
+	(Count) LeDiik
+<hr/>0434 Geguru   
+	(Knight) KanDuurNaaKuShaaIib
+<hr/>0435 Ganidam  
+	(Knight) DarDeUn
+<hr/>0436 Meprim   
+	(Knight) MiEdKii
+<hr/>0437 Thatii   
+	(Knight) KidSu
+<hr/>0531 Seglound 
+	(Knight) DuGiKirMarShi
+<hr/>0532 Kinswana 
+	(Knight) Ab
+<hr/>0533 Khi Tai  
+	(Knight) Gu
+	(Baron) UgSuuIKir
+<hr/>0534 Khakkakum
+	(Knight) LaUukh
+	(Baron) ZiipBuudKhuur
+<hr/>0536 Fauski   
+	(Knight) KuUkLa
+	(Marquis) KugNidDus
+<hr/>0631 Enbart   
+	(Knight) Ir
+<hr/>0633 Kamar Kur
+	(Knight) IKa
+	(Baron) GiKiiAAa
+<hr/>0635 Savvud   
+	(Knight) KhanKhaMarKhish
+	(Baronet) KhiLimKharDiiIgGir
+<hr/>0637 Bood     
+	(Knight) IbGa
+<hr/>0639 Liigima  
+	(Knight) EsDa
+<hr/>0640 Aquacade 
+	(Knight) Ra
+<hr/>0732 Pirumush 
+	(Knight) IkShiAnGa
+<hr/>0734 Kishbar  
+	(Knight) IkDaAdBuAUu
+<hr/>0737 Kuzey Ana
+	(Knight) IikLiKam
+<hr/>0738 Daglari  
+	(Knight) Ig
+<hr/>0739 Trabbon  
+	(Knight) LeE
+	(Baron) Ikh
+<hr/>0740 Kirov    
+	(Knight) ElDuIshGi
+	(Count) LiiEmGir
+<hr/>0831 Igsudi   
+	(Knight) KaIshKhigGaMuAk
+<hr/>0832 Kirlikin 
+	(Knight) DaNiiGaamLuBu
+	(Marquis) UsNarDadMaShug
+<hr/>0833 Karbarlah
+	(Knight) LaKharDir
+	(Baronet) LiUKiisLim
+	(Baron) IipMiShuMir
+	(Viscount) ZemKhir
+<hr/>0834 Khisber  
+	(Knight) ShiLuuA
+<hr/>0835 Zhirka   
+	(Knight) Ku
+<hr/>0839 Kiimiim  
+	(Knight) AkSuEgLiUuGen
 <hr/>
-0635 Savvud   
-	(Knight) IkhNii
-	(Baronet) GarKha
-
-<hr/>
-0637 Bood     
-	(Knight) UIlLaIIg
-
-<hr/>
-0639 Liigima  
-	(Knight) IzKemBeIIgGu
-
-<hr/>
-0640 Aquacade 
-	(Knight) AmGarKhaAmKum
-
-<hr/>
-0732 Pirumush 
-	(Knight) EAlGa
-
-<hr/>
-0734 Kishbar  
-	(Knight) UkhNush
-
-<hr/>
-0737 Kuzey Ana
-	(Knight) IUgMarNaNuuIm
-
-<hr/>
-0738 Daglari  
-	(Knight) IkhShurDumSharDii
-
-<hr/>
-0739 Trabbon  
-	(Knight) IiI
-	(Baron) AGaGaashNiIk
-
-<hr/>
-0740 Kirov    
-	(Knight) GeIikKuu
-	(Count) MipGii
-
-<hr/>
-0831 Igsudi   
-	(Knight) UukBaIsKhiNis
-
-<hr/>
-0832 Kirlikin 
-	(Knight) UzMaALirMarPas
-	(Marquis) IUShaadGirDe
-
-<hr/>
-0833 Karbarlah
-	(Knight) APaAgDaIlKhu
-	(Baronet) AbKimGak
-	(Baron) U
-	(Viscount) UukhPiUkLashShe
-
-<hr/>
-0834 Khisber  
-	(Knight) IsKirDaDaUushKha
-
-<hr/>
-0835 Zhirka   
-	(Knight) NurKhu
-
-<hr/>
-0839 Kiimiim  
-	(Knight) GuIish
-

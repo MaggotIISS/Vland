@@ -1,187 +1,102 @@
-<hr/>
 1701 Taksarrgh
 	
-
-<hr/>
-1703 Dathsuts 
+<hr/>1703 Dathsuts 
 	
-
-<hr/>
-1704 Rronaetut
+<hr/>1704 Rronaetut
 	
-
-<hr/>
-1705 Ugarun   
-	(Knight) Id
-
-<hr/>
-1708 Zelaklaka
-	(Knight) AnShiim
-
-<hr/>
-1709 Zigaadig 
-	(Knight) IgKinSheAshSha
-
-<hr/>
-1710 Tollori  
-	(Knight) UkDaA
-	(Baronet) UkhKaLu
-	(Baron) IishBir
-
-<hr/>
-1801 Newcastle
+<hr/>1705 Ugarun   
+	(Knight) KhiUzRidKhu
+<hr/>1708 Zelaklaka
+	(Knight) AshGugLiANaUm
+<hr/>1709 Zigaadig 
+	(Knight) ShaIidGuKashMa
+<hr/>1710 Tollori  
+	(Knight) InDamKaagGuAshLer
+	(Baronet) AshKhiirMugGa
+	(Baron) SishKhaAsh
+<hr/>1801 Newcastle
 	
-
-<hr/>
-1802 Zannokh  
+<hr/>1802 Zannokh  
 	
-
-<hr/>
-1803 Ronni    
+<hr/>1803 Ronni    
 	
-
-<hr/>
-1804 Kashiin  
+<hr/>1804 Kashiin  
 	
-
-<hr/>
-1807 Ranilson 
-	(Knight) AkLimDam
-
-<hr/>
-1810 Eshu     
-	(Knight) IZumKhigPiZaRi
-
-<hr/>
-1901 Ghurrllek
+<hr/>1807 Ranilson 
+	(Knight) AkKhamKiAkhNiir
+<hr/>1810 Eshu     
+	(Knight) UnMuu
+<hr/>1901 Ghurrllek
 	
-
-<hr/>
-1903 Gemid    
+<hr/>1903 Gemid    
 	
-
-<hr/>
-1904 Daama    
+<hr/>1904 Daama    
 	
-
-<hr/>
-1906 Envar    
-	(Knight) UkhDaSiGiGaar
-
-<hr/>
-1907 Kakkin   
-	(Knight) Shi
-
-<hr/>
-1909 Nashazi  
-	(Knight) I
-
-<hr/>
-2005 Gadushan 
-	(Knight) GiIiKim
-
-<hr/>
-2006 Niitomok 
-	(Knight) KiIigGiKuUsh
-
-<hr/>
-2007 Kaaka    
-	(Knight) EKiimKuKeZanZa
-	(Baron) LarGam
-
-<hr/>
-2008 Morimur  
-	(Knight) LumDaAm
-	(Count) KirDiAakhNe
-
-<hr/>
-2101 Miiko Bel
-	
-
-<hr/>
-2103 Hteh Hut 
-	
-
-<hr/>
-2105 Ninnigam 
-	(Knight) Gi
-
-<hr/>
-2106 Hellvapla
-	(Knight) IshGinMuIg
-
-<hr/>
-2107 Sadniben 
-	(Knight) ShiAgMemPiAkKer
-	(Count) EgKa
-
-<hr/>
-2203 Angvae   
-	
-
-<hr/>
-2205 Anarsi   
-	(Knight) ShiAmLuumGeA
-	(Count) Il
-	(Duke) IishNiUsKurNaAkh
-
-<hr/>
-2208 Kuzashami
-	(Knight) ShaShaRaAb
-	(Baronet) AnGaMiiGurKa
-	(Marquis) NeAGunMaIsh
-	(Viscount) KaIGiKeGaaI
-
-<hr/>
-2210 Deglaraar
-	(Knight) AdDuAd
-
-<hr/>
-2301 Knaeghzok
-	
-
-<hr/>
-2306 Nelak    
-	(Knight) Mu
-
-<hr/>
-2308 Bolziin  
-	(Knight) AmGaBamShiin
-
-<hr/>
-2309 Moribur  
-	(Knight) UIim
-
-<hr/>
-2310 Barshun  
-	(Knight) Um
-
-<hr/>
-2402 Kfoerudzo
-	
-
-<hr/>
-2406 Derekam  
+<hr/>1906 Envar    
+	(Knight) UkGiirShe
+<hr/>1907 Kakkin   
+	(Knight) LaKaMaAsKiiRa
+<hr/>1909 Nashazi  
+	(Knight) ShiKir
+<hr/>2005 Gadushan 
+	(Knight) DinLirKhuRer
+<hr/>2006 Niitomok 
+	(Knight) GaKiIsDaKiin
+<hr/>2007 Kaaka    
 	(Knight) A
-	(Baronet) GiKhiEk
-	(Marquis) UIAAkDag
-	(Viscount) UukKarKhaaAk
-
+	(Baron) AnKarKhiLuLiUg
+<hr/>2008 Morimur  
+	(Knight) GiGarBu
+	(Count) Khu
+<hr/>2101 Miiko Bel
+	
+<hr/>2103 Hteh Hut 
+	
+<hr/>2105 Ninnigam 
+	(Knight) EkZuGirGuur
+<hr/>2106 Hellvapla
+	(Knight) KirGir
+<hr/>2107 Sadniben 
+	(Knight) AAkhKam
+	(Count) GushKuUpLur
+<hr/>2203 Angvae   
+	
+<hr/>2205 Anarsi   
+	(Knight) IigNu
+	(Count) UshNarDeLiGiIk
+	(Duke) DaaIsKiUKuAkh
+<hr/>2208 Kuzashami
+	(Knight) Ig
+	(Baronet) AgGaLurKur
+	(Marquis) La
+	(Viscount) KharNash
+<hr/>2210 Deglaraar
+	(Knight) AdKharShii
+<hr/>2301 Knaeghzok
+	
+<hr/>2306 Nelak    
+	(Knight) IigLuur
+<hr/>2308 Bolziin  
+	(Knight) GuuAm
+<hr/>2309 Moribur  
+	(Knight) UuzShuuGunDa
+<hr/>2310 Barshun  
+	(Knight) IikhShudKerDiKuu
+<hr/>2402 Kfoerudzo
+	
+<hr/>2406 Derekam  
+	(Knight) ShuRinShu
+	(Baronet) Ki
+	(Marquis) KiUAp
+	(Viscount) MamMeKiiI
+<hr/>2407 Gida     
+	(Knight) ShedLiIiUgKarKhi
+<hr/>2408 Shabii   
+	(Knight) IkKar
+	(Baron) AkDisPaKuurKamGur
+<hr/>2409 Sardiika 
+	(Knight) AlShiDiinGiAdPi
+	(Baron) AEKamGaashShikNa
+<hr/>2410 Karamurse
+	(Knight) A
 <hr/>
-2407 Gida     
-	(Knight) GiGaIlMus
-
-<hr/>
-2408 Shabii   
-	(Knight) KimGiInKhan
-	(Baron) KaAAgKirGush
-
-<hr/>
-2409 Sardiika 
-	(Knight) AlSinGi
-	(Baron) IiAKiLamKi
-
-<hr/>
-2410 Karamurse
-	(Knight) ShuuMim
-

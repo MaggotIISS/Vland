@@ -1,202 +1,115 @@
-<hr/>
 0933 Arluk      
-	(Knight) KharKuuDaAkMam
-	(Count) KaIgKamKish
-
-<hr/>
-0934 Imdakhun   
-	(Knight) Mud
-
-<hr/>
-0938 Rhyolite   
-	(Knight) KiUulMupMishShur
-
-<hr/>
-0939 Gashumu    
-	(Knight) KiiAn
-	(Baron) Khu
-
-<hr/>
-1032 Umaanshar  
-	(Knight) KhaKigKaAk
-
-<hr/>
-1033 Komirex    
-	(Knight) KaanSha
-
-<hr/>
-1038 Isle       
-	(Knight) Ek
-	(Count) ImGirKhushKhuMi
-
-<hr/>
-1131 Neegak     
-	(Knight) EIKuKhaaMu
-
-<hr/>
-1134 Jupset     
-	(Knight) KunGeDiGiIGum
-
-<hr/>
-1135 Abalakova  
-	(Knight) KushLa
-	(Baronet) IkKaLurSumMin
-	(Baron) Le
-	(Viscount) AUlShuuLirDi
-
-<hr/>
-1136 Daangiilu  
-	(Knight) Ek
-	(Baronet) AI
-	(Baron) AKuUu
-
-<hr/>
-1137 Usaamkirkhi
-	(Knight) GirPip
-	(Baronet) IkhMiir
-	(Baron) AkKu
-
-<hr/>
-1138 Chrysantheu
-	(Knight) IKiikShaAgGash
-
-<hr/>
-1139 Uureg      
-	(Knight) Gi
-	(Viscount) AAkhGeUs
-
-<hr/>
-1140 Hiroshi    
-	(Knight) GirSaEGuuShum
-	(Baron) NiMuShunGiiShimShi
-	(Marquis) AshMi
-
-<hr/>
-1232 Lekziika   
-	(Knight) AMirKushDuShaaI
-	(Baronet) Uz
-	(Baron) Ga
-
-<hr/>
-1235 Themistocle
-	(Knight) IkKhuDam
-
-<hr/>
-1236 Fymur      
-	(Knight) DuuUdKhuDishKhaaLi
-
-<hr/>
-1237 Kanumshikaa
-	(Knight) EIsSaKu
-	(Baron) ShirKhiUAlGeKhe
-
-<hr/>
-1238 Iplukaddesh
-	(Knight) IiIkhLir
-
-<hr/>
-1240 Nelson     
-	(Knight) PimMidKhamGim
-
-<hr/>
-1332 Nii Khu    
-	(Knight) KiUAdDi
-	(Count) IZeKaDaE
-
-<hr/>
-1334 Lukham     
-	(Knight) KhirKhagDiIn
-	(Count) IUugKiir
-	(Duke) AzKuIkBagPimDa
-
-<hr/>
-1336 Pygmy      
-	(Knight) LiUulGigPi
-
-<hr/>
-1337 Borealis   
-	(Knight) IiIkMigZugShi
-
-<hr/>
-1339 Darm       
-	(Knight) IkhZamGarZimShii
-
-<hr/>
-1340 Anishda    
-	(Knight) UKhaUIgSuU
-
-<hr/>
-1431 Daalurge   
-	(Knight) KeshNan
-	(Baron) UudKadKhir
-
-<hr/>
-1432 Agagir     
-	(Knight) GisKiSaKa
-
-<hr/>
-1435 Dakeshir   
-	(Knight) IimGanMaakKam
-
-<hr/>
-1437 Igikuuni   
-	(Knight) UgLiKu
-	(Baron) AaDiAshGiIn
-	(Marquis) IidDeshLaashGuuGi
-
-<hr/>
-1438 Zaal       
-	(Knight) AlKhaNishZishSar
-	(Baron) KiKii
-
-<hr/>
-1531 Kolrado    
-	(Knight) IIshGi
-
-<hr/>
-1533 Samotk     
-	(Knight) KimLamKuIk
-
-<hr/>
-1534 Senkon     
-	(Knight) UUkhDuShaIigGush
-
-<hr/>
-1535 Malapaan   
-	(Knight) KaUumKhukSu
-	(Marquis) KhurGusKi
-	(Viscount) MuLimMaShuuAmLesh
-
-<hr/>
-1536 Pamiimkhi  
-	(Knight) UugMiIikhDuU
-
-<hr/>
-1539 Zarurza    
-	(Knight) PaGakGaarKuk
-
-<hr/>
-1540 Limed      
-	(Knight) GedSher
-
-<hr/>
-1632 Imdur      
-	(Knight) UlGaIi
-
-<hr/>
-1633 Darkishar  
-	(Knight) UlLamShaGar
-
-<hr/>
-1634 Isuugi     
-	(Knight) KiIIkhLim
-	(Baron) NaDuIKhi
-
-<hr/>
-1637 Preserve   
+	(Knight) AId
+	(Count) UgSarDiNim
+<hr/>0934 Imdakhun   
+	(Knight) UIlSi
+<hr/>0938 Rhyolite   
+	(Knight) IzGiAkSaAshSha
+<hr/>0939 Gashumu    
+	(Knight) Ush
+	(Baron) AkKuAAg
+<hr/>1032 Umaanshar  
+	(Knight) Um
+<hr/>1033 Komirex    
+	(Knight) EgGuPikKirBirMu
+<hr/>1038 Isle       
+	(Knight) IsNuu
+	(Count) IrGumRapLiUz
+<hr/>1131 Neegak     
+	(Knight) AgLad
+<hr/>1134 Jupset     
+	(Knight) UUukShaKhirSur
+<hr/>1135 Abalakova  
+	(Knight) UkLeAdKhis
+	(Baronet) ALiUkKas
+	(Baron) MarShiUgKuu
+	(Viscount) IlNi
+<hr/>1136 Daangiilu  
+	(Knight) ALurGuUAdZin
+	(Baronet) GiInLu
+	(Baron) MaAdMimNiAsh
+<hr/>1137 Usaamkirkhi
+	(Knight) UlKiiUlLaaKiNa
+	(Baronet) EAlMiishLarSha
+	(Baron) IikKhirKhimShiImMu
+<hr/>1138 Chrysantheu
+	(Knight) LuGusGurShupBa
+<hr/>1139 Uureg      
+	(Knight) UlKaaAsh
+	(Viscount) IlGaNamSiZaa
+<hr/>1140 Hiroshi    
+	(Knight) ShurGiAam
+	(Baron) IdGa
+	(Marquis) DunDiUlSiIid
+<hr/>1232 Lekziika   
+	(Knight) IiAk
+	(Baronet) UsLadLi
+	(Baron) AUgGunKhid
+<hr/>1235 Themistocle
+	(Knight) GaIkhKiAGash
+<hr/>1236 Fymur      
+	(Knight) RiiNunSiGud
+<hr/>1237 Kanumshikaa
+	(Knight) KhiidKirMaarShiim
+	(Baron) Uk
+<hr/>1238 Iplukaddesh
+	(Knight) IdKhaA
+<hr/>1240 Nelson     
+	(Knight) NumKa
+<hr/>1332 Nii Khu    
+	(Knight) GiUmSe
+	(Count) Naag
+<hr/>1334 Lukham     
+	(Knight) ElKham
+	(Count) UMarMaEGan
+	(Duke) MushKhiKunDuKu
+<hr/>1336 Pygmy      
+	(Knight) IiGarGiIgKhipKhuur
+<hr/>1337 Borealis   
+	(Knight) NirGiinLuuEnShisBaa
+<hr/>1339 Darm       
+	(Knight) DiiKarLirDaShan
+<hr/>1340 Anishda    
+	(Knight) IIgLiIkh
+<hr/>1431 Daalurge   
+	(Knight) IiE
+	(Baron) IAlShimZiiGaAsh
+<hr/>1432 Agagir     
+	(Knight) LarLuuIk
+<hr/>1435 Dakeshir   
+	(Knight) AgGadKuGaDu
+<hr/>1437 Igikuuni   
+	(Knight) AkGe
+	(Baron) U
+	(Marquis) Id
+<hr/>1438 Zaal       
+	(Knight) KaAaIkMuu
+	(Baron) ShaPer
+<hr/>1531 Kolrado    
+	(Knight) MenNeAdKuIkSii
+<hr/>1533 Samotk     
+	(Knight) GiirLaDen
+<hr/>1534 Senkon     
+	(Knight) IGaaMiMishRi
+<hr/>1535 Malapaan   
+	(Knight) Ik
+	(Marquis) AdZaIGa
+	(Viscount) AshLiir
+<hr/>1536 Pamiimkhi  
+	(Knight) AshDuShirKaEkLu
+<hr/>1539 Zarurza    
+	(Knight) IkKhinDuGaaUSiir
+<hr/>1540 Limed      
+	(Knight) LiiKhusSaInMush
+<hr/>1632 Imdur      
+	(Knight) AkDiUIkLi
+<hr/>1633 Darkishar  
+	(Knight) Aa
+<hr/>1634 Isuugi     
+	(Knight) EmKu
+	(Baron) DarGuKa
+<hr/>1637 Preserve   
+	(Knight) AanDirSimKiAAg
+<hr/>1638 Twana      
 	(Knight) U
-
 <hr/>
-1638 Twana      
-	(Knight) A
-

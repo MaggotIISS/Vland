@@ -1,4 +1,4 @@
-<hr/>Vland/K Kasear
+Vland/K Kasear
 1725 Kalimgar - B799667-B
 	Defence CF = 2
 
@@ -147,104 +147,104 @@
 
 
 <hr/>1730-B6748AA-A
-Commodore Ismiuan
+Commodore Degni
 	Prec 12
-	Plan  3
-	Tactics 0
+	Plan  4
+	Tactics 2
 	C001-1U-630-6-A
 <hr/>1822-A5479AE-E
-Commodore Kaasharkaa
-	Prec 9
+Commodore Akkar
+	Prec 7
 	Plan  4
 	Tactics -1
 	C001-3U-730-7-E
 <hr/>1822-A5479AE-E
-Commodore Ikmasliiii
-	Prec 9
-	Plan  5
-	Tactics 0
+Commodore Alki
+	Prec 12
+	Plan  4
+	Tactics 2
 	C002-3U-730-7-E
 <hr/>1822-A5479AE-E
-Commodore Lumuksakheaaddar
-	Prec 11
+Commodore Nuurdiiaz
+	Prec 13
 	Plan  5
 	Tactics -1
 	C003-3U-730-7-E
 <hr/>1923-C423965-C
-Commodore Giilbarkhapar
-	Prec 16
-	Plan  3
-	Tactics 0
+Commodore Iimu
+	Prec 12
+	Plan  4
+	Tactics 2
 	C001-1U-730-7-C
 <hr/>1923-C423965-C
-Commodore Mipsiasgug
-	Prec 15
-	Plan  2
-	Tactics 0
+Commodore Umkukhu
+	Prec 11
+	Plan  5
+	Tactics 1
 	C002-1U-730-7-C
 <hr/>2225-C310A9A-E
-Commodore Uu
-	Prec 16
-	Plan  3
-	Tactics 1
+Commodore Khigdagagarsirdir
+	Prec 9
+	Plan  5
+	Tactics 0
 	A001-3U-800-600-E
 <hr/>2225-C310A9A-E
-Commodore Deiikh
-	Prec 18
-	Plan  5
-	Tactics -2
+Commodore Shaarliiaamkapishiim
+	Prec 11
+	Plan  2
+	Tactics 0
 	C002-3U-840-8-E
 <hr/>2225-C310A9A-E
-Commodore Girkanma
-	Prec 14
-	Plan  5
-	Tactics 1
+Commodore Iikkamapuumdi
+	Prec 16
+	Plan  2
+	Tactics 0
 	C003-3U-840-8-E
 <hr/>2225-C310A9A-E
-Commodore Ignarkikiigkiu
-	Prec 10
+Commodore Nergimgagash
+	Prec 8
 	Plan  5
 	Tactics 0
 	C004-3U-840-8-E
 <hr/>2225-C310A9A-E
-Commodore Uudkuamkharkarsha
-	Prec 8
+Commodore Akgirshinga
+	Prec 13
 	Plan  5
-	Tactics 2
+	Tactics -2
 ???C001-3U-943-9(9)-E???
 <hr/>2328-D8D8A97-B
-Commodore Girmiak
-	Prec 11
-	Plan  3
-	Tactics 1
-	C001-1U-840-8-B
-<hr/>2328-D8D8A97-B
-Commodore Ukna
-	Prec 6
+Commodore Eazkim
+	Prec 10
 	Plan  5
 	Tactics 0
+	C001-1U-840-8-B
+<hr/>2328-D8D8A97-B
+Commodore Miigagidakkhi
+	Prec 12
+	Plan  5
+	Tactics 2
 	C002-1U-840-8-B
 <hr/>2328-D8D8A97-B
-Commodore Gunmakemkiimadkiis
-	Prec 14
+Commodore Iklaakhmu
+	Prec 8
 	Plan  5
-	Tactics 1
+	Tactics -2
 	C003-1U-840-8-B
 <hr/>2328-D8D8A97-B
-Commodore Zirkiaagrea
-	Prec 6
+Commodore Uummauukhshar
+	Prec 9
 	Plan  5
 	Tactics 2
 	C004-1U-840-8-B
 <hr/>2425-C54099B-A
-Commodore Ushzuungu
-	Prec 5
+Commodore Amkaiin
+	Prec 10
 	Plan  5
-	Tactics 0
+	Tactics -2
 	C001-1U-730-7-A
 <hr/>2425-C54099B-A
-Commodore Uuslii
-	Prec 12
-	Plan  5
-	Tactics -1
+Commodore Sheukbiiiig
+	Prec 8
+	Plan  3
+	Tactics 1
 	C002-1U-730-7-A

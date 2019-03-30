@@ -1,165 +1,98 @@
-<hr/>
 1716 Enaa       
-	(Knight) PaaAIikPumLuur
-	(Marquis) UpDirShiEUsh
-	(Viscount) KerSharGeIm
-
+	(Knight) UdGiAbNa
+	(Marquis) AshKhiimGiIdKhi
+	(Viscount) Shar
+<hr/>1717 Vland      
+	(Knight) AagKhiiShuUushGi
+	(Count) AshNeshDaa
+	(Duke) NuKak
+	(Archduke) Uk
+<hr/>1718 Kirma      
+	(Knight) AGu
+<hr/>1719 Sazisi     
+	(Knight) Ud
+	(Baron) LimDurShaar
+<hr/>1811 Anaam      
+	(Knight) NaarShaUshLiigGuUb
+	(Marquis) NaAgGirKamGu
+<hr/>1813 Khusher    
+	(Knight) Gir
+	(Baron) GadLarSaag
+	(Marquis) MarDaaKag
+<hr/>1816 Shinla     
+	(Knight) RumDuu
+	(Baron) ShiIkKuAdPug
+	(Viscount) IzKhuAd
+<hr/>1817 Tauri      
+	(Knight) LakGasGiKi
+	(Count) Em
+<hr/>1819 Dusu       
+	(Knight) IigDiUudGa
+<hr/>1820 Kha        
+	(Knight) EGaAMim
+	(Baron) IigKiIishLagDagShiin
+<hr/>1915 Giinam     
+	(Knight) Iir
+<hr/>1916 Kipii      
+	(Knight) ShaaNiiUshLa
+<hr/>1918 Kusheggi   
+	(Knight) IshMiAA
+	(Baron) UGaSiLesh
+	(Marquis) AkhNu
+<hr/>1919 Khula      
+	(Knight) AkKirDaagDaUAa
+	(Count) EmSherShiE
+	(duke) AA
+<hr/>1920 Inkha      
+	(Knight) IdGiUkKeKar
+	(Baronet) AlLaIMaGa
+<hr/>2013 Isbudin    
+	(Knight) Ag
+	(Count) KuSaDuIKir
+<hr/>2016 Zurrian    
+	(Knight) IIgKir
+	(Baronet) AshShurShu
+<hr/>2017 Tahaver    
+	(Knight) UgKu
+	(Count) Su
+<hr/>2019 Lobode     
+	(Knight) UumLiU
+	(Baron) ZimNiEmGeUukh
+<hr/>2020 Shushguum  
+	(Knight) GemDiiAkh
+<hr/>2111 Flire      
+	(Knight) IzGaAmKum
+	(Count) KaIid
+<hr/>2113 Ishala     
+	(Knight) UkKishShushGa
+	(Baron) ZemMuIILim
+<hr/>2115 Zedu Gisla 
+	(Knight) AdMiUg
+<hr/>2117 Uri        
+	(Knight) IkhKarShiUgShii
+<hr/>2120 Pyam       
+	(Knight) KerMuudMiAkhLeGish
+<hr/>2211 Irila      
+	(Knight) IdDiAak
+	(Baronet) UkhMarShu
+<hr/>2216 Ashbakha   
+	(Knight) MiUkKhashGaIikh
+<hr/>2314 Dangasha   
+	(Knight) UbMiKaa
+<hr/>2316 Kagush     
+	(Knight) KishGimKeKad
+<hr/>2319 Shudi      
+	(Knight) IKhaDaSi
+	(Baronet) DinMirLimMaKhii
+	(Count) ZeGiUdGushKi
+<hr/>2320 Gidapisek  
+	(Knight) AlSaUkGiNun
+<hr/>2412 Ansin      
+	(Knight) GaMuuAkZi
+	(Count) AagDaIgShiEshKhan
+<hr/>2416 Liisurkhish
+	(Knight) IigBiIk
+	(Baron) ImShir
+<hr/>2419 Nasha      
+	(Knight) Shu
 <hr/>
-1717 Vland      
-	(Knight) AgKhiGiIdKhu
-	(Count) Kha
-	(Duke) KaUmLiimShiIzDii
-	(Archduke) DinShiiDin
-
-<hr/>
-1718 Kirma      
-	(Knight) UnNimDiiKhuIsh
-
-<hr/>
-1719 Sazisi     
-	(Knight) UkKishGiKiShii
-	(Baron) UulGarNeIsGiiGash
-
-<hr/>
-1811 Anaam      
-	(Knight) KapGaMinLaGi
-	(Marquis) ShishDimMa
-
-<hr/>
-1813 Khusher    
-	(Knight) MiMaIkhMirShumKir
-	(Baron) PiEKiirGaashKaMi
-	(Marquis) ManShanSuIkLaag
-
-<hr/>
-1816 Shinla     
-	(Knight) IpDuGam
-	(Baron) UdKiAU
-	(Viscount) ANaLash
-
-<hr/>
-1817 Tauri      
-	(Knight) Uush
-	(Count) KhishMiUl
-
-<hr/>
-1819 Dusu       
-	(Knight) DidShiirDiiGuushBumKa
-
-<hr/>
-1820 Kha        
-	(Knight) IlKus
-	(Baron) Uug
-
-<hr/>
-1915 Giinam     
-	(Knight) UNiIb
-
-<hr/>
-1916 Kipii      
-	(Knight) Kam
-
-<hr/>
-1918 Kusheggi   
-	(Knight) Mu
-	(Baron) IshGir
-	(Marquis) MaAgShaAam
-
-<hr/>
-1919 Khula      
-	(Knight) DimShaEdPa
-	(Count) UukKhidKiLi
-	(duke) EkGiShimGaMuun
-
-<hr/>
-1920 Inkha      
-	(Knight) LiMeshKuEgSum
-	(Baronet) Uuz
-
-<hr/>
-2013 Isbudin    
-	(Knight) Lud
-	(Count) AsKhirKhiSuIg
-
-<hr/>
-2016 Zurrian    
-	(Knight) IisSiABaDuUg
-	(Baronet) IiKi
-
-<hr/>
-2017 Tahaver    
-	(Knight) AmGasMuLur
-	(Count) KaIAgDa
-
-<hr/>
-2019 Lobode     
-	(Knight) AshKunGii
-	(Baron) Ku
-
-<hr/>
-2020 Shushguum  
-	(Knight) Sa
-
-<hr/>
-2111 Flire      
-	(Knight) Kir
-	(Count) KhuuImKaKirDii
-
-<hr/>
-2113 Ishala     
-	(Knight) KhaIkhKirLii
-	(Baron) IimDinGaMa
-
-<hr/>
-2115 Zedu Gisla 
-	(Knight) KanMimNe
-
-<hr/>
-2117 Uri        
-	(Knight) IDa
-
-<hr/>
-2120 Pyam       
-	(Knight) URa
-
-<hr/>
-2211 Irila      
-	(Knight) AnNumGiNidRiiMa
-	(Baronet) UKherGinKhaUu
-
-<hr/>
-2216 Ashbakha   
-	(Knight) EnMaMiishGii
-
-<hr/>
-2314 Dangasha   
-	(Knight) AIilShaa
-
-<hr/>
-2316 Kagush     
-	(Knight) IshDasMiAaAgLash
-
-<hr/>
-2319 Shudi      
-	(Knight) UdSuUlKuKhiinMa
-	(Baronet) Kur
-	(Count) DaKuuGaNuAgKi
-
-<hr/>
-2320 Gidapisek  
-	(Knight) IimSha
-
-<hr/>
-2412 Ansin      
-	(Knight) IdKiiGaa
-	(Count) SasDiMap
-
-<hr/>
-2416 Liisurkhish
-	(Knight) DiGi
-	(Baron) AgKimDaMuLumDi
-
-<hr/>
-2419 Nasha      
-	(Knight) EGanGu
-

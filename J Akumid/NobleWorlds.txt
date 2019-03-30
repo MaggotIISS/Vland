@@ -1,75 +1,42 @@
-<hr/>
 0921 Ganiir     
-	(Knight) NidLunSuI
-
+	(Knight) Ikh
+<hr/>0923 Gazzum     
+	(Knight) Ka
+<hr/>0924 Shugandarsi
+	(Knight) Uuk
+<hr/>0927 Havland    
+	(Knight) UgPimKhaIsh
+	(Count) AalLishKuurKhuAlKhi
+<hr/>0930 Gokodeyo   
+	(Knight) AKiGurMugSe
+	(Baron) LiAkKuu
+	(Viscount) KaLiIp
+<hr/>1028 Apurshish  
+	(Knight) U
+	(Count) IlKhuLuLiGa
+<hr/>1128 Shakshim   
+	(Knight) Ku
+<hr/>1227 Sumabaal   
+	(Knight) A
+<hr/>1323 Robbuun    
+	(Knight) UkhKhimLaaUBuur
+<hr/>1523 Ilma       
+	(Knight) ELadShiA
+	(Marquis) Di
+<hr/>1530 Bakog      
+	(Knight) IiDe
+<hr/>1623 Etsur      
+	(Knight) AGiUuIshKigKhu
+<hr/>1624 Zushar     
+	(Knight) IshManMaIGi
+	(Viscount) AgShaaSa
+<hr/>1625 Bashimus   
+	(Knight) IkShiInGag
+<hr/>1626 Lalazim    
+	(Knight) AsDiirSi
+<hr/>1628 Akumid     
+	(Knight) Kad
+	(Baronet) IigLanKheU
+<hr/>1630 Kanoka     
+	(Knight) BamShemZuushKirDidNash
 <hr/>
-0923 Gazzum     
-	(Knight) DaaGur
-
-<hr/>
-0924 Shugandarsi
-	(Knight) ShaKiDarKhaUb
-
-<hr/>
-0927 Havland    
-	(Knight) KanRiKhaShushGaGum
-	(Count) DapGeAd
-
-<hr/>
-0930 Gokodeyo   
-	(Knight) AzKa
-	(Baron) Ukh
-	(Viscount) AKhar
-
-<hr/>
-1028 Apurshish  
-	(Knight) IA
-	(Count) UlDeshDi
-
-<hr/>
-1128 Shakshim   
-	(Knight) Gaas
-
-<hr/>
-1227 Sumabaal   
-	(Knight) NaIkMarGuuLa
-
-<hr/>
-1323 Robbuun    
-	(Knight) LurLaAIkMas
-
-<hr/>
-1523 Ilma       
-	(Knight) AshSaEdBiin
-	(Marquis) ZegDigKam
-
-<hr/>
-1530 Bakog      
-	(Knight) MiIlLar
-
-<hr/>
-1623 Etsur      
-	(Knight) Ar
-
-<hr/>
-1624 Zushar     
-	(Knight) AKaagZamBaUug
-	(Viscount) UkMi
-
-<hr/>
-1625 Bashimus   
-	(Knight) ShaApShiir
-
-<hr/>
-1626 Lalazim    
-	(Knight) LaIidKeAdGaGu
-
-<hr/>
-1628 Akumid     
-	(Knight) IGiIid
-	(Baronet) UugMupKiir
-
-<hr/>
-1630 Kanoka     
-	(Knight) An
-

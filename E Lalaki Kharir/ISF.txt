@@ -1,4 +1,4 @@
-<hr/>Vland/E Lalaki Kharir
+Vland/E Lalaki Kharir
 0619 Lalaki - A9B4785-D
 	SDB Squadrons = 1
 	Troop CF = 5

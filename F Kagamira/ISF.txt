@@ -1,4 +1,4 @@
-<hr/>Vland/F Kagamira
+Vland/F Kagamira
 1011 Iren - A8C389E-C
 	SDB Squadrons = 12
 	Starship Squadrons = 1
@@ -61,38 +61,38 @@
 
 
 <hr/>1011-A8C389E-C
-Commodore Khudshiiggiida
-	Prec 11
-	Plan  4
+Commodore Kuez
+	Prec 9
+	Plan  5
 	Tactics 0
 	C001-1U-630-6-C
 <hr/>1519-B577A83-E
-Commodore Aakhe
-	Prec 14
-	Plan  3
-	Tactics 1
-	C001-3U-840-8-E
-<hr/>1519-B577A83-E
-Commodore Khirkashnaamdash
-	Prec 9
-	Plan  3
-	Tactics -1
-	C002-3U-840-8-E
-<hr/>1519-B577A83-E
-Commodore Iimkhuuuugdiuuil
+Commodore Miguuum
 	Prec 13
 	Plan  5
-	Tactics -2
-	C003-3U-840-8-E
+	Tactics 0
+	C001-3U-840-8-E
 <hr/>1519-B577A83-E
-Commodore Gudla
+Commodore Uaakrigka
+	Prec 11
+	Plan  2
+	Tactics -2
+	C002-3U-840-8-E
+<hr/>1519-B577A83-E
+Commodore Shan
 	Prec 11
 	Plan  3
+	Tactics 0
+	C003-3U-840-8-E
+<hr/>1519-B577A83-E
+Commodore Miium
+	Prec 15
+	Plan  4
 	Tactics -2
 	C004-3U-840-8-E
 <hr/>1519-B577A83-E
-Commodore Elluipaka
-	Prec 9
-	Plan  2
-	Tactics -2
+Commodore Diekgiiuuzzamus
+	Prec 8
+	Plan  4
+	Tactics 0
 	C005-3U-840-8-E

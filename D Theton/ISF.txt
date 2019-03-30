@@ -1,4 +1,4 @@
-<hr/>Vland/D Theton
+Vland/D Theton
 2603 Kaengtsaelzon - B100857-A
 	SDB Squadrons = 10
 	Starship Squadrons = 1
@@ -68,38 +68,38 @@
 	Defence CF = 2
 
 <hr/>2603-B100857-A
-Commodore Kaukshurganadkhash
-	Prec 6
+Commodore Kaishmuriidlid
+	Prec 5
 	Plan  3
 	Tactics -1
 	C001-1U-630-6-A
 <hr/>2808-D575A84-A
-Commodore Sakirlamgimauuk
+Commodore Kislisasadkiiuk
 	Prec 12
-	Plan  4
-	Tactics 0
+	Plan  5
+	Tactics 1
 	C001-1U-840-8-A
 <hr/>2808-D575A84-A
-Commodore Kenkaagkhaiil
-	Prec 7
-	Plan  3
-	Tactics 2
-	C002-1U-840-8-A
-<hr/>2808-D575A84-A
-Commodore Ikdaash
+Commodore Edkhaug
 	Prec 11
 	Plan  5
-	Tactics -2
+	Tactics 0
+	C002-1U-840-8-A
+<hr/>2808-D575A84-A
+Commodore Aaakliian
+	Prec 14
+	Plan  5
+	Tactics 1
 	C003-1U-840-8-A
 <hr/>3106-C300999-C
-Commodore Iiikkhapam
-	Prec 4
+Commodore Shagurkaunukem
+	Prec 13
 	Plan  4
 	Tactics -2
 	C001-1U-730-7-C
 <hr/>3106-C300999-C
-Commodore Izliaaglankir
-	Prec 14
-	Plan  4
+Commodore Puegguidmiii
+	Prec 13
+	Plan  5
 	Tactics 0
 	C002-1U-730-7-C

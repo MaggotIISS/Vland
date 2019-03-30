@@ -1,192 +1,111 @@
-<hr/>
 1732 Nikham   
-	(Knight) AgKirKii
-
+	(Knight) Ak
+<hr/>1734 Miku     
+	(Knight) DinKiIishKuur
+<hr/>1735 Zhinutar 
+	(Knight) UmShirKi
+<hr/>1736 Ake      
+	(Knight) UgBuMaaAdGii
+<hr/>1740 Glanidarn
+	(Knight) Es
+	(Count) DinSinGikLaKim
+<hr/>1831 Mekhe    
+	(Knight) AagKhenGiiMuurDas
+	(Baron) IsRa
+<hr/>1833 Shadi    
+	(Knight) KaEdGiiKushShaap
+	(Baronet) KharDiimKa
+<hr/>1839 Kordanor 
+	(Knight) UshMuAgGuunKeI
+	(Baron) LuuDuUn
+	(Marquis) UlShuGaId
+<hr/>1931 Shorlon  
+	(Knight) AsShi
+<hr/>1932 Sharan   
+	(Knight) NikLanDim
+<hr/>1933 Kaskar   
+	(Knight) EkSaEkMashGaLuum
+<hr/>1936 Ekhin    
+	(Knight) IbShugGishLiigMugKha
+<hr/>1937 Nulisud  
+	(Knight) DudLiiKu
+<hr/>2032 Vuldaan  
+	(Knight) LugKir
+	(Marquis) AgMuSiirShaNi
+<hr/>2035 Hykluitt 
+	(Knight) IsDanKuEgLaA
+	(Count) KarRuUukh
+	(duke) IUShaap
+<hr/>2036 Diinagar 
+	(Knight) IshRuGagRur
+<hr/>2039 Miizam   
+	(Knight) GiIDaaI
+<hr/>2132 Imshiig  
+	(Knight) IkhShuAmSar
+	(Baron) Ge
+<hr/>2133 Iddun    
+	(Knight) UumPurDuIimLim
+<hr/>2134 Zemal    
+	(Knight) IiKuAmZi
+<hr/>2137 Shaka    
+	(Knight) EgLumKuur
+<hr/>2138 Istuary  
+	(Knight) UIkShiipShuuEg
+	(Count) UnMeEkZiUmSush
+<hr/>2139 Zolo     
+	(Knight) ImSaUAshLir
+<hr/>2232 Gikarlum 
+	(Knight) As
+<hr/>2233 Segikin  
+	(Knight) IgKeGiigKarRe
+	(Count) IdKhiid
+<hr/>2235 Rishin   
+	(Knight) AMaGarLu
+<hr/>2236 Gaarid   
+	(Knight) PirKanGiGiUlKi
+	(Marquis) NaanKhar
+<hr/>2238 Khugan   
+	(Knight) Ig
+	(Baronet) IiEgLurRaKarLe
+<hr/>2240 Bakor    
+	(Knight) ReKa
+	(Baronet) DiGipGaLinKhii
+	(Marquis) IiI
+	(Viscount) IlGisRa
+<hr/>2331 Aaluggidi
+	(Knight) UlGuushSi
+<hr/>2332 Zaakkusha
+	(Knight) AGiIlDeIikh
+	(Baronet) Dar
+<hr/>2335 Miiliinlu
+	(Knight) DamShuIiAmGu
+<hr/>2336 Kunni    
+	(Knight) MiUuIimKi
+	(Baronet) IshMuuShiIkLiAg
+	(Baron) Kag
+<hr/>2337 Idi      
+	(Knight) AkRerGi
+<hr/>2340 Orguk    
+	(Knight) GaashLisLaAaIkhKha
+	(Baron) KhaLan
+<hr/>2431 Dusekhip 
+	(Knight) UmSurKudDaAb
+	(Count) KheAakZuDi
+<hr/>2432 Korm     
+	(Knight) ShaKunGi
+	(Baronet) Uum
+	(Baron) SuUm
+	(Viscount) I
+<hr/>2433 Ashuugakh
+	(Knight) GaKhiiKhiUdKaLiim
+	(Marquis) ShagLiGaPurManShaa
+	(Viscount) EshGum
+<hr/>2435 Li       
+	(Knight) KuuUmShunKharKiiIish
+	(Marquis) SheADeKha
+	(Viscount) IkMiKuKi
+<hr/>2438 Shakir   
+	(Knight) AkMerGiinGiishKashGer
+<hr/>2440 Shuurdiik
+	(Knight) IkKhushKhuuIkDu
 <hr/>
-1734 Miku     
-	(Knight) AgMuuMuIiAb
-
-<hr/>
-1735 Zhinutar 
-	(Knight) DaE
-
-<hr/>
-1736 Ake      
-	(Knight) IlKaNimShi
-
-<hr/>
-1740 Glanidarn
-	(Knight) KhuInNigDiiUr
-	(Count) DaKhin
-
-<hr/>
-1831 Mekhe    
-	(Knight) AEkSashGi
-	(Baron) DiIgKiIlKhiirGii
-
-<hr/>
-1833 Shadi    
-	(Knight) ShiAd
-	(Baronet) ShiGe
-
-<hr/>
-1839 Kordanor 
-	(Knight) ShuKadKa
-	(Baron) Ga
-	(Marquis) ShiAg
-
-<hr/>
-1931 Shorlon  
-	(Knight) BaUlNaGiishLer
-
-<hr/>
-1932 Sharan   
-	(Knight) AshGuuAdMaa
-
-<hr/>
-1933 Kaskar   
-	(Knight) GaaShigMiiSash
-
-<hr/>
-1936 Ekhin    
-	(Knight) SharKaPi
-
-<hr/>
-1937 Nulisud  
-	(Knight) Dak
-
-<hr/>
-2032 Vuldaan  
-	(Knight) IiGegGishKenKhamKe
-	(Marquis) GuurLaAAlKaGam
-
-<hr/>
-2035 Hykluitt 
-	(Knight) UI
-	(Count) IidSamKuAgNeGup
-	(duke) KiShe
-
-<hr/>
-2036 Diinagar 
-	(Knight) Sas
-
-<hr/>
-2039 Miizam   
-	(Knight) DaA
-
-<hr/>
-2132 Imshiig  
-	(Knight) Shii
-	(Baron) IIlSiEg
-
-<hr/>
-2133 Iddun    
-	(Knight) Li
-
-<hr/>
-2134 Zemal    
-	(Knight) IgLuSaAshKi
-
-<hr/>
-2137 Shaka    
-	(Knight) Am
-
-<hr/>
-2138 Istuary  
-	(Knight) UmGigKhiKiUkhMu
-	(Count) SurMushDin
-
-<hr/>
-2139 Zolo     
-	(Knight) DiiBish
-
-<hr/>
-2232 Gikarlum 
-	(Knight) ShiishGaIm
-
-<hr/>
-2233 Segikin  
-	(Knight) AdMaAmSirShu
-	(Count) KenGa
-
-<hr/>
-2235 Rishin   
-	(Knight) IgKaDi
-
-<hr/>
-2236 Gaarid   
-	(Knight) EshBirKa
-	(Marquis) ULiUlLaA
-
-<hr/>
-2238 Khugan   
-	(Knight) ApLuIk
-	(Baronet) MaEnKuAGagKiir
-
-<hr/>
-2240 Bakor    
-	(Knight) IkhShiishKidGagGeA
-	(Baronet) U
-	(Marquis) Za
-	(Viscount) AsShaaKheshSushKhaA
-
-<hr/>
-2331 Aaluggidi
-	(Knight) Kir
-
-<hr/>
-2332 Zaakkusha
-	(Knight) AIKe
-	(Baronet) BanGaUBugGepKhu
-
-<hr/>
-2335 Miiliinlu
-	(Knight) KaIgLi
-
-<hr/>
-2336 Kunni    
-	(Knight) MerKa
-	(Baronet) ImKuuIgZuIl
-	(Baron) UdBe
-
-<hr/>
-2337 Idi      
-	(Knight) IlLiBiiAIk
-
-<hr/>
-2340 Orguk    
-	(Knight) Zas
-	(Baron) IshKuuKhemKheGa
-
-<hr/>
-2431 Dusekhip 
-	(Knight) IlDaDirGe
-	(Count) Shi
-
-<hr/>
-2432 Korm     
-	(Knight) IIlLimSuk
-	(Baronet) AlLaAlKuuUkGaa
-	(Baron) AUbGinKha
-	(Viscount) LiASashGa
-
-<hr/>
-2433 Ashuugakh
-	(Knight) NimGan
-	(Marquis) IiDaLadKhir
-	(Viscount) Akh
-
-<hr/>
-2435 Li       
-	(Knight) UmKush
-	(Marquis) Ug
-	(Viscount) IzLiirKhidShanMig
-
-<hr/>
-2438 Shakir   
-	(Knight) EAak
-
-<hr/>
-2440 Shuurdiik
-	(Knight) Gur
-

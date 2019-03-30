@@ -1,4 +1,4 @@
-<hr/>Vland/H Shiigus
+Vland/H Shiigus
 2511 Iigshuren - B66A766-C
 	SDB Squadrons = 1
 	Troop CF = 2
@@ -158,122 +158,122 @@
 
 
 <hr/>2515-B9D787C-A
-Commodore Iikkarkiiguuur
+Commodore Elshadma
 	Prec 10
-	Plan  3
-	Tactics 1
+	Plan  1
+	Tactics -1
 	C001-1U-630-6-A
 <hr/>2713-BA8AA97-C
-Commodore Saadguudargirsu
-	Prec 8
-	Plan  1
-	Tactics 1
-	C001-1U-840-8-C
-<hr/>2713-BA8AA97-C
-Commodore Aashkuug
-	Prec 8
-	Plan  3
-	Tactics -1
-	C002-1U-840-8-C
-<hr/>2713-BA8AA97-C
-Commodore Ikmiag
-	Prec 10
-	Plan  5
-	Tactics 2
-	C003-1U-840-8-C
-<hr/>2713-BA8AA97-C
-Commodore Iiiialka
-	Prec 14
-	Plan  4
-	Tactics 1
-	C004-1U-840-8-C
-<hr/>2816-B6569AD-9
-Commodore Giuzdiikurgii
+Commodore Dim
 	Prec 10
 	Plan  5
 	Tactics 0
+	C001-1U-840-8-C
+<hr/>2713-BA8AA97-C
+Commodore Pun
+	Prec 8
+	Plan  0
+	Tactics 0
+	C002-1U-840-8-C
+<hr/>2713-BA8AA97-C
+Commodore Egde
+	Prec 8
+	Plan  3
+	Tactics -2
+	C003-1U-840-8-C
+<hr/>2713-BA8AA97-C
+Commodore Adziuk
+	Prec 8
+	Plan  3
+	Tactics 2
+	C004-1U-840-8-C
+<hr/>2816-B6569AD-9
+Commodore Aakirkaakhgi
+	Prec 12
+	Plan  2
+	Tactics 1
 	C001-1U-730-7-9
 <hr/>2816-B6569AD-9
-Commodore Bi
-	Prec 11
-	Plan  5
+Commodore Ik
+	Prec 10
+	Plan  4
 	Tactics 2
 	C002-1U-730-7-9
 <hr/>2914-B9B6999-D
-Commodore Iglu
-	Prec 8
-	Plan  3
-	Tactics 0
+Commodore Ikkhiigishgiplu
+	Prec 10
+	Plan  5
+	Tactics -1
 	C001-2U-730-7-D
 <hr/>2914-B9B6999-D
-Commodore Askhiiakzurde
-	Prec 15
-	Plan  3
-	Tactics 0
+Commodore Agdiirkaa
+	Prec 11
+	Plan  5
+	Tactics 1
 	C002-2U-730-7-D
 <hr/>2914-B9B6999-D
-Commodore Aukguugga
-	Prec 7
-	Plan  2
-	Tactics 0
+Commodore Kuurla
+	Prec 13
+	Plan  3
+	Tactics 1
 	C003-2U-730-7-D
 <hr/>3011-E594A8A-A
-Commodore Shuargeshdisdam
-	Prec 13
-	Plan  4
+Commodore Ushisla
+	Prec 15
+	Plan  5
 	Tactics -1
 	C001-1U-840-8-A
 <hr/>3011-E594A8A-A
-Commodore Marledzishlaizde
-	Prec 7
-	Plan  3
-	Tactics 0
+Commodore Shaukbaa
+	Prec 12
+	Plan  2
+	Tactics 2
 	C002-1U-840-8-A
 <hr/>3011-E594A8A-A
-Commodore Akkurkiiiikhpa
-	Prec 9
-	Plan  5
-	Tactics 0
+Commodore Uldee
+	Prec 15
+	Plan  2
+	Tactics -1
 	C003-1U-840-8-A
 <hr/>3020-C100858-C
-Commodore As
-	Prec 10
-	Plan  5
-	Tactics -2
+Commodore Lagiamkhagaka
+	Prec 11
+	Plan  1
+	Tactics 1
 	C001-1U-630-6-C
 <hr/>3212-B41097B-E
-Commodore Kuinli
-	Prec 11
-	Plan  3
-	Tactics -2
+Commodore Ugdaaa
+	Prec 13
+	Plan  2
+	Tactics 2
 	C001-3U-730-7-E
 <hr/>3212-B41097B-E
-Commodore Iua
+Commodore Khaakeil
 	Prec 12
 	Plan  5
-	Tactics 2
+	Tactics -2
 	C002-3U-730-7-E
 <hr/>3212-B41097B-E
-Commodore Uam
-	Prec 14
-	Plan  4
-	Tactics -1
+Commodore Dukdaadi
+	Prec 15
+	Plan  5
+	Tactics 0
 	C003-3U-730-7-E
 <hr/>3215-B64A998-E
-Commodore Gin
-	Prec 14
-	Plan  3
-	Tactics 0
-	C001-3U-730-7-E
-<hr/>3215-B64A998-E
-Commodore Akhgiri
+Commodore Agsuuinsheukhu
 	Prec 8
 	Plan  5
-	Tactics -1
+	Tactics 2
+	C001-3U-730-7-E
+<hr/>3215-B64A998-E
+Commodore Aagkaar
+	Prec 5
+	Plan  4
+	Tactics -2
 	C002-3U-730-7-E
 <hr/>3215-B64A998-E
-Commodore Azgeal
-	Prec 18
-	Plan  5
-	Tactics -2
+Commodore Muurkashza
+	Prec 9
+	Plan  3
+	Tactics -1
 	C003-3U-730-7-E

@@ -1,118 +1,63 @@
-<hr/>
 2501 Khugan   
 	
-
-<hr/>
-2502 Rhodes   
+<hr/>2502 Rhodes   
 	
-
-<hr/>
-2507 Shunisar 
-	(Knight) ShuumGadGuGarDe
-	(Baron) IgDaA
-
-<hr/>
-2508 Nii      
-	(Knight) AMaLiKerKhuUul
-
-<hr/>
-2602 Daztsoun 
+<hr/>2507 Shunisar 
+	(Knight) UgNir
+	(Baron) Mu
+<hr/>2508 Nii      
+	(Knight) Im
+<hr/>2602 Daztsoun 
 	
-
-<hr/>
-2603 Kaengtsae
+<hr/>2603 Kaengtsae
 	
-
-<hr/>
-2604 Fongknoe 
+<hr/>2604 Fongknoe 
 	
-
-<hr/>
-2605 Raltaedz 
-	(Knight) Ash
-
-<hr/>
-2610 Malokh   
-	(Knight) AgRuIkhKan
-
-<hr/>
-2804 Ongvaturr
+<hr/>2605 Raltaedz 
+	(Knight) ShiKhuMin
+<hr/>2610 Malokh   
+	(Knight) IikKur
+<hr/>2804 Ongvaturr
 	
-
-<hr/>
-2806 Paval    
-	(Knight) Il
-
-<hr/>
-2808 Spinport 
-	(Knight) IimKirLamLii
-	(Count) AkhKamDur
-
-<hr/>
-2905 Zupilak  
-	(Knight) UkhGiir
-
-<hr/>
-2907 Akkunat  
-	(Knight) Ub
-	(Baron) Gus
-
-<hr/>
-2909 Goobsfol 
-	(Knight) IgDiI
-
-<hr/>
-3002 Ksuerrgh 
+<hr/>2806 Paval    
+	(Knight) AkhGuupDinShaArGi
+<hr/>2808 Spinport 
+	(Knight) Kash
+	(Count) DirKhiInLunBiUsh
+<hr/>2905 Zupilak  
+	(Knight) MuGarSu
+<hr/>2907 Akkunat  
+	(Knight) UulZeIAshKumKhiim
+	(Baron) KeKudGiIkKa
+<hr/>2909 Goobsfol 
+	(Knight) AgMapSiKhaI
+<hr/>3002 Ksuerrgh 
 	
-
-<hr/>
-3003 Khughfudz
+<hr/>3003 Khughfudz
 	
-
-<hr/>
-3004 Shupin   
+<hr/>3004 Shupin   
 	
-
-<hr/>
-3006 Mukata   
-	(Knight) AKher
-
-<hr/>
-3008 Shishaldi
-	(Knight) AmSamLiLeAkhLa
-
-<hr/>
-3106 Arga     
-	(Knight) GirKaNiShaShiKha
-	(Count) Ukh
-
-<hr/>
-3107 Theton   
-	(Knight) IIl
-
-<hr/>
-3201 Thoegzkna
+<hr/>3006 Mukata   
+	(Knight) IilShiidDiirSuAd
+<hr/>3008 Shishaldi
+	(Knight) KaAd
+<hr/>3106 Arga     
+	(Knight) Ir
+	(Count) BiImKaAk
+<hr/>3107 Theton   
+	(Knight) IigKhu
+<hr/>3201 Thoegzkna
 	
-
-<hr/>
-3202 Vutsarrgh
+<hr/>3202 Vutsarrgh
 	
-
+<hr/>3206 Argonos  
+	(Knight) AGii
+<hr/>3208 Sardia   
+	(Knight) GarGiEg
+<hr/>3209 Veppim   
+	(Knight) ImKhuMashLuMi
+	(Baronet) AkShashLeshLer
+	(Baron) NaKinGa
+<hr/>3210 Tasho    
+	(Knight) GuKurGuUsh
 <hr/>
-3206 Argonos  
-	(Knight) AsGushKhuNaa
-
-<hr/>
-3208 Sardia   
-	(Knight) GiAd
-
-<hr/>
-3209 Veppim   
-	(Knight) DamKiAkGi
-	(Baronet) AU
-	(Baron) UIlNaAakGiIil
-
-<hr/>
-3210 Tasho    
-	(Knight) A
-

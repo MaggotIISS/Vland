@@ -1,140 +1,79 @@
-<hr/>
 0902 Otsaellgh
 	
-
-<hr/>
-0906 Iishashun
-	(Knight) A
-
-<hr/>
-0909 Jiinasha 
-	(Knight) RaarRash
-	(Marquis) Kash
-
-<hr/>
-1001 Odhughe  
+<hr/>0906 Iishashun
+	(Knight) IgLuMu
+<hr/>0909 Jiinasha 
+	(Knight) Aa
+	(Marquis) Ak
+<hr/>1001 Odhughe  
 	
-
-<hr/>
-1003 Anaanika 
+<hr/>1003 Anaanika 
 	
-
-<hr/>
-1004 Esngougz 
+<hr/>1004 Esngougz 
 	
-
-<hr/>
-1007 Laaru    
-	(Knight) KiiAgKuuI
-	(Count) AUkKuAlDiGaa
-
-<hr/>
-1102 Azu      
+<hr/>1007 Laaru    
+	(Knight) IdKii
+	(Count) LiA
+<hr/>1102 Azu      
 	
-
-<hr/>
-1104 Gvaellekh
+<hr/>1104 Gvaellekh
 	
-
-<hr/>
-1107 Sikilar  
-	(Knight) UGiGarKug
-	(Viscount) AshLirGuunGinShiIn
-
-<hr/>
-1108 Vakhoneri
-	(Knight) KhuEkShadGiimGaaIg
-	(Baronet) DarGuAdGinDu
-	(Count) KiIlZiUm
-
-<hr/>
-1109 Suraggins
-	(Knight) Ed
-
-<hr/>
-1110 Liwar    
-	(Knight) MaEKaIkSiir
-
-<hr/>
-1201 Erim     
+<hr/>1107 Sikilar  
+	(Knight) Aag
+	(Viscount) DiisGaaUGun
+<hr/>1108 Vakhoneri
+	(Knight) GiiDaIn
+	(Baronet) KhiirMe
+	(Count) AgLuUkShen
+<hr/>1109 Suraggins
+	(Knight) GashGigShi
+<hr/>1110 Liwar    
+	(Knight) An
+<hr/>1201 Erim     
 	
-
-<hr/>
-1202 Anghurr  
+<hr/>1202 Anghurr  
 	
-
-<hr/>
-1203 Angvae   
+<hr/>1203 Angvae   
 	
-
-<hr/>
-1206 Kummus   
-	(Knight) AmKuUk
-
-<hr/>
-1208 Vhodan   
-	(Knight) DashBaAashGaa
-	(Count) EGig
-	(Duke) RaUushLipDi
-
-<hr/>
-1309 Enpar Kon
-	(Knight) GirKusPaKhir
-	(Baron) MurKuuGiIAsNag
-	(Marquis) UsGiisDaIbPigKhaa
-
-<hr/>
-1403 Deraan   
+<hr/>1206 Kummus   
+	(Knight) MiKiEl
+<hr/>1208 Vhodan   
+	(Knight) IsMarKuAA
+	(Count) MuIAlSeIs
+	(Duke) UulKudKhu
+<hr/>1309 Enpar Kon
+	(Knight) KaIikShuAg
+	(Baron) IbLig
+	(Marquis) SharGiAagShemDi
+<hr/>1403 Deraan   
 	
-
-<hr/>
-1405 Diiron   
-	(Knight) EKam
-	(Marquis) GeshLaI
-	(Viscount) IshDaaAgShiPiDa
-
-<hr/>
-1406 Timat    
-	(Knight) KhiiGaaIilKeRuuGish
-	(Baron) GaKhaaMiir
-
-<hr/>
-1407 Guusimka 
-	(Knight) EzKirLir
-	(Count) AkGu
-
-<hr/>
-1408 Maran    
-	(Knight) AaMa
-	(Count) Ig
-
-<hr/>
-1410 Zentove  
-	(Knight) IiGar
-
-<hr/>
-1505 Odinaga  
-	(Knight) MuLaUg
-
-<hr/>
-1509 Audhumla 
-	(Knight) IAgLuu
-
-<hr/>
-1604 Gamgilebo
+<hr/>1405 Diiron   
+	(Knight) DeIgKhaanLi
+	(Marquis) IirSiAIGadKam
+	(Viscount) IiAIlKhuMiiUl
+<hr/>1406 Timat    
+	(Knight) ShiiAgShaSeKiI
+	(Baron) GiinGashMaKish
+<hr/>1407 Guusimka 
+	(Knight) IIGagKhinMuEg
+	(Count) UsGaEkhGi
+<hr/>1408 Maran    
+	(Knight) MuurKash
+	(Count) ShimShiAkh
+<hr/>1410 Zentove  
+	(Knight) AgSii
+<hr/>1505 Odinaga  
+	(Knight) KhirKarBeDiishDigDi
+<hr/>1509 Audhumla 
+	(Knight) AgMikGiAdKim
+<hr/>1604 Gamgilebo
 	
-
+<hr/>1606 Dannar   
+	(Knight) AsGuIl
+<hr/>1608 Riinel   
+	(Knight) AkhGiiAg
+	(Baron) IAnKha
+<hr/>1609 Sakkuum  
+	(Knight) AkhKiIIEmKhan
+	(Marquis) ALash
 <hr/>
-1606 Dannar   
-	(Knight) SiGaKarDaaIilDur
-
-<hr/>
-1608 Riinel   
-	(Knight) LuurShar
-	(Baron) DasPuKhi
-
-<hr/>
-1609 Sakkuum  
-	(Knight) DiiIDaKiiKhaAa
-	(Marquis) Lush
-

@@ -1,222 +1,129 @@
-<hr/>
 2531 Kiddinu 
-	(Knight) KharLaUkh
-	(Baron) IUl
-
-<hr/>
-2533 Aki     
-	(Knight) GuIlKhedKiIZish
-	(Count) IigKi
-
-<hr/>
-2534 Zerapii 
-	(Knight) IAak
-	(Marquis) LanKhiisNagShaSa
-
-<hr/>
-2536 Linissa 
-	(Knight) KhunLuAg
-	(Marquis) Ig
-
-<hr/>
-2539 Nunaat  
-	(Knight) GirLaIdGaSeKur
-
-<hr/>
-2540 Kalaalit
-	(Knight) GiKhiIkKhiEgMu
-	(Baron) ShuEdLeGukKhumGa
-	(Viscount) UudZur
-
-<hr/>
-2631 Kane    
-	(Knight) Gik
-	(Count) ShiAkhNigDaKiinKam
-
-<hr/>
-2634 Wakarsat
-	(Knight) AIk
-	(Baron) UpSaDiKhir
-
-<hr/>
-2636 Kakadan 
-	(Knight) DuudMeShiLaAalDa
-
-<hr/>
-2637 Akon    
-	(Knight) IikGeLapGar
-	(Baronet) IiShiiUUug
-
-<hr/>
-2640 Statia  
-	(Knight) Ka
-
-<hr/>
-2732 Dnak'kri
-	(Knight) RaAg
-	(Baron) KiIzZiis
-
-<hr/>
-2733 Jarmat  
-	(Knight) IkhGimKaKuNu
-
-<hr/>
-2734 Rambant 
-	(Knight) ElMiAsh
-
-<hr/>
-2737 Kesali  
-	(Knight) SharShugSherLuurKu
-	(Count) DeshGiDaamDiIi
-	(duke) UudShagShu
-
-<hr/>
-2738 Tepmaa  
-	(Knight) IsKimDiLaLiinGe
-
-<hr/>
-2739 Sg'aa   
-	(Knight) EbKam
-	(Viscount) IgNaadBuELish
-
-<hr/>
-2740 P'ginzh 
-	(Knight) AlShir
-	(Baron) GaadMa
-
-<hr/>
-2831 Kiimzhal
-	(Knight) AgKiKa
-	(Baron) IdKaaIgShii
-
-<hr/>
-2832 Telkaa  
-	(Knight) KaAgDagSarKhiimKir
-
-<hr/>
-2836 Inushir 
-	(Knight) AkKapSha
-	(Count) LuImNuDa
-
-<hr/>
-2837 Piazza  
-	(Knight) SaashKhaa
-	(Baron) Am
-
-<hr/>
-2839 Zombagu 
-	(Knight) MeIsLum
-	(Baron) NaUr
-	(duke) Kum
-
-<hr/>
-2931 Icuspin 
-	(Knight) EshGaIkGiid
-	(Count) SuuIshShiiEshDeIsh
-	(Duke) KamSaashDashSidKha
-
-<hr/>
-2932 Zanski  
-	(Knight) IiKhuAAgRar
-	(Baronet) Ikh
-	(Baron) KiAgGiKu
-
-<hr/>
-2933 Kanat   
-	(Knight) AgMiinDar
-
-<hr/>
-2934 Assazak 
-	(Knight) Shir
-	(Marquis) Be
-	(Viscount) AIkSuug
-
-<hr/>
-2936 Elafdt  
-	(Knight) Kur
-
-<hr/>
-2938 Punnari 
-	(Knight) MiKukZaSha
-
-<hr/>
-2939 Teralvar
-	(Knight) ImShadMuUshDemKu
-	(Baronet) Ash
-	(Baron) UU
-
-<hr/>
-3031 New Sale
-	(Knight) Im
-	(Count) MuuUshMir
-
-<hr/>
-3032 Matuyama
-	(Knight) LirZidLes
-	(Marquis) UgShurGirNu
+	(Knight) LuGaShaGaLishGu
+	(Baron) AkShiUkGaar
+<hr/>2533 Aki     
+	(Knight) GurGigDurKii
+	(Count) GiGa
+<hr/>2534 Zerapii 
+	(Knight) UKharLuGuIKa
+	(Marquis) ZuKashBa
+<hr/>2536 Linissa 
+	(Knight) AshKiIz
+	(Marquis) UshLiIkhKu
+<hr/>2539 Nunaat  
+	(Knight) SuIirRaAshGe
+<hr/>2540 Kalaalit
+	(Knight) IDuKha
+	(Baron) DakShuKuE
+	(Viscount) MaIAaKiAkh
+<hr/>2631 Kane    
+	(Knight) ArSha
+	(Count) Iid
+<hr/>2634 Wakarsat
+	(Knight) KiMirGamKa
+	(Baron) SurGuush
+<hr/>2636 Kakadan 
+	(Knight) MashLuuNiUgLu
+<hr/>2637 Akon    
+	(Knight) AashMeArDa
+	(Baronet) MapGiinSanKiAd
+<hr/>2640 Statia  
+	(Knight) ZirMa
+<hr/>2732 Dnak'kri
+	(Knight) EkhGarGiigLiEr
+	(Baron) KaIz
+<hr/>2733 Jarmat  
+	(Knight) Dar
+<hr/>2734 Rambant 
+	(Knight) IdKhudMi
+<hr/>2737 Kesali  
+	(Knight) Ku
+	(Count) NuDaUDen
+	(duke) AaAagBim
+<hr/>2738 Tepmaa  
+	(Knight) Ed
+<hr/>2739 Sg'aa   
+	(Knight) Rur
+	(Viscount) GuIAagKuAlGa
+<hr/>2740 P'ginzh 
+	(Knight) AdKhe
+	(Baron) UnGamGiA
+<hr/>2831 Kiimzhal
+	(Knight) UdGirShaUk
+	(Baron) UkShi
+<hr/>2832 Telkaa  
+	(Knight) GunKaaIgMugRasGi
+<hr/>2836 Inushir 
+	(Knight) Neg
+	(Count) MaAgKhiKhuSip
+<hr/>2837 Piazza  
+	(Knight) AgDaaSaKagLiUu
+	(Baron) An
+<hr/>2839 Zombagu 
+	(Knight) MamKaan
+	(Baron) IUKudGaUDu
+	(duke) UnDishPiAanKu
+<hr/>2931 Icuspin 
+	(Knight) AshGishSha
+	(Count) Mish
+	(Duke) ImShim
+<hr/>2932 Zanski  
+	(Knight) KurGaDimKar
+	(Baronet) KinSa
+	(Baron) UdMiiSheIkGus
+<hr/>2933 Kanat   
+	(Knight) Ig
+<hr/>2934 Assazak 
+	(Knight) DiAaAagKuNiiAas
+	(Marquis) DaadShiAAmShi
+	(Viscount) UugLaIi
+<hr/>2936 Elafdt  
+	(Knight) SaUdNaKhiI
+<hr/>2938 Punnari 
+	(Knight) AkhDashKiMiPuAg
+<hr/>2939 Teralvar
+	(Knight) DaKharKashGe
+	(Baronet) Dam
+	(Baron) IkMaKhin
+<hr/>3031 New Sale
+	(Knight) Ii
+	(Count) Shad
+<hr/>3032 Matuyama
+	(Knight) Di
+	(Marquis) DiUsMarDuu
 	(Viscount) Ma
-
+<hr/>3035 Zhanora 
+	(Knight) IgKhiLaAd
+<hr/>3037 Raanbazz
+	(Knight) AgGinLur
+<hr/>3039 Gilnat P
+	(Knight) AshGamGaaAgNuu
+<hr/>3131 Maamibri
+	(Knight) ArShiIgMirDaaIikh
+	(Baronet) MaashBa
+	(Count) IgKur
+<hr/>3134 Toborit 
+	(Knight) UgDushKeII
+<hr/>3135 Debekov 
+	(Knight) EdZaaISi
+<hr/>3137 Alleman 
+	(Knight) GaaSuuAsh
+<hr/>3138 Nasaa   
+	(Knight) NurKa
+<hr/>3140 Zana    
+	(Knight) UkhLashKirSuAUm
+<hr/>3231 Vanutapp
+	(Knight) UIAgGiig
+	(Baron) AkMamGirSherLi
+<hr/>3232 Tamayo  
+	(Knight) AgGapKhiUSi
+<hr/>3235 Debort  
+	(Knight) IbShiKhish
+	(Baron) IizKurDimNa
+<hr/>3237 Zhannag 
+	(Knight) ShirMuudGir
+<hr/>3238 Lamiina 
+	(Knight) AbMirSiKa
+<hr/>3239 Lannazol
+	(Knight) LiimGaMiUUIsh
 <hr/>
-3035 Zhanora 
-	(Knight) MaaIgKiGaar
-
-<hr/>
-3037 Raanbazz
-	(Knight) SaImKashKi
-
-<hr/>
-3039 Gilnat P
-	(Knight) AzKiiIgGaMuAk
-
-<hr/>
-3131 Maamibri
-	(Knight) UuA
-	(Baronet) Ag
-	(Count) UudKarMikKhag
-
-<hr/>
-3134 Toborit 
-	(Knight) EkhGishKiU
-
-<hr/>
-3135 Debekov 
-	(Knight) AMiUudMash
-
-<hr/>
-3137 Alleman 
-	(Knight) ShuMiiUAKaGa
-
-<hr/>
-3138 Nasaa   
-	(Knight) KhaUukGiAAn
-
-<hr/>
-3140 Zana    
-	(Knight) IilNishZaKhaAlLud
-
-<hr/>
-3231 Vanutapp
-	(Knight) KashMish
-	(Baron) RagShaUlGaAdGi
-
-<hr/>
-3232 Tamayo  
-	(Knight) ENerKaAm
-
-<hr/>
-3235 Debort  
-	(Knight) AAShiKagGiShiin
-	(Baron) SaEIgGaLi
-
-<hr/>
-3237 Zhannag 
-	(Knight) Ug
-
-<hr/>
-3238 Lamiina 
-	(Knight) ShiIIshNaAkMar
-
-<hr/>
-3239 Lannazol
-	(Knight) Ish
-

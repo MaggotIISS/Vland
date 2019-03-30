@@ -1,32 +1,21 @@
-<hr/>
 0221 Keshiil    
-	(Knight) Shiim
-	(Viscount) MarLaaNanGi
-
+	(Knight) IgDurKuGiirGi
+	(Viscount) AagMeIdDigZaKa
+<hr/>0422 Niirka     
+	(Knight) KuKaPuur
+	(Marquis) InSiIiIig
+<hr/>0430 Khulekii   
+	(Knight) IrKiGuKaAkGi
+	(Baronet) UugMirKimDirGi
+	(Marquis) SiPiiGegGuuAm
+	(Viscount) AAE
+<hr/>0530 Pirrom     
+	(Knight) Ul
+	(Baronet) RiKaIkNiKisGash
+	(Baron) GaKi
+<hr/>0622 Beshe      
+	(Knight) UugLa
+	(Viscount) Pish
+<hr/>0630 Giraran    
+	(Knight) Id
 <hr/>
-0422 Niirka     
-	(Knight) ShiAkhKhi
-	(Marquis) IisShaAa
-
-<hr/>
-0430 Khulekii   
-	(Knight) KaAnNikGar
-	(Baronet) ShiirKaaShi
-	(Marquis) Ak
-	(Viscount) E
-
-<hr/>
-0530 Pirrom     
-	(Knight) MiEkSiIkhGa
-	(Baronet) GiUUIlMir
-	(Baron) Il
-
-<hr/>
-0622 Beshe      
-	(Knight) AkRuurGeshLaUkh
-	(Viscount) UudBaIlGimKiMi
-
-<hr/>
-0630 Giraran    
-	(Knight) AkhKashKii
-

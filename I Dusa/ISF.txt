@@ -1,4 +1,4 @@
-<hr/>Vland/I Dusa
+Vland/I Dusa
 0221 Keshiil - C530833-9
 	SDB Squadrons = 10
 	Starship Squadrons = 1
@@ -31,8 +31,8 @@
 
 
 <hr/>0221-C530833-9
-Commodore Kamkhurgausguni
-	Prec 13
-	Plan  5
-	Tactics 0
+Commodore Duuliikkhushku
+	Prec 8
+	Plan  0
+	Tactics -1
 	C001-1U-630-6-9

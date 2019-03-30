@@ -1,0 +1,24 @@
+Vland/P Kakadan/2737 Kesali
+B2009AB-E
+
+Begins with Love
+Partner is Commoner from other
+
+1 INTERESTS
+1 = Military
+	16
+
+Tech Level	0
+Population	0
+Military	16
+Infrastructure	0
+Resource Units	0
+
+Progression	Progressive
+Planning	Short Term (2-5 yrs)
+Advancement	Enterprising
+Growth	Competitive
+Militancy	Peaceable
+Unity	Harmonious
+Tolerance	Friendly
+
