@@ -111,20 +111,6 @@ Vland/P Kakadan
 
 
 
----HI POP TARGET---
-2836 Inushir - E989ADE-7
-	SDB Squadrons = 500
-	Troop CF = 100
-	Defence CF = 5000
-  TROOP FORCES
-0001-2111-20(5)-7
-0002-2111-20(5)-7
-0003-2111-20(5)-7
-0004-2111-20(5)-7
-0005-2111-20(5)-7
-
-
-
 2837 Piazza - C794685-6
 	Defence CF = 1
 
@@ -217,123 +203,23 @@ Vland/P Kakadan
 
 
 
-<hr/>2533-D697AFF-A
-Commodore Akhdiigkuuiigliug
-	Prec 12
-	Plan  3
-	Tactics 1
 	C001-1U-840-8-A
-<hr/>2533-D697AFF-A
-Commodore Kau
-	Prec 14
-	Plan  2
-	Tactics -1
 	C002-1U-840-8-A
-<hr/>2533-D697AFF-A
-Commodore In
-	Prec 11
-	Plan  5
-	Tactics -1
 	C003-1U-840-8-A
-<hr/>2540-A7698B9-D
-Commodore Iigkhuiadkiish
-	Prec 14
-	Plan  3
-	Tactics 1
 	C001-2U-630-6-D
-<hr/>2540-A7698B9-D
-Commodore Ilma
-	Prec 11
-	Plan  5
-	Tactics -2
 	C002-2U-630-6-D
-<hr/>2631-E789ABE-A
-Commodore Aaamdurshaklakhar
-	Prec 12
-	Plan  2
-	Tactics -1
 	C001-1U-840-8-A
-<hr/>2631-E789ABE-A
-Commodore Eg
-	Prec 11
-	Plan  3
-	Tactics 0
 	C002-1U-840-8-A
-<hr/>2631-E789ABE-A
-Commodore De
-	Prec 14
-	Plan  2
-	Tactics 0
 	C003-1U-840-8-A
-<hr/>2737-B2009AB-E
-Commodore Khamirishkaii
-	Prec 9
-	Plan  4
-	Tactics -2
 	C001-3U-730-7-E
-<hr/>2737-B2009AB-E
-Commodore Shiuulkii
-	Prec 12
-	Plan  3
-	Tactics -2
 	C002-3U-730-7-E
-<hr/>2737-B2009AB-E
-Commodore Shaliirgiiiisdaauz
-	Prec 12
-	Plan  4
-	Tactics 1
 	C003-3U-730-7-E
-<hr/>2739-AAB5895-D
-Commodore Zurkhaa
-	Prec 12
-	Plan  4
-	Tactics -2
 	C001-2U-630-6-D
-<hr/>2739-AAB5895-D
-Commodore Augmemirkashur
-	Prec 8
-	Plan  5
-	Tactics 2
 	C002-2U-630-6-D
-<hr/>2931-A200976-F
-Commodore Shi
-	Prec 12
-	Plan  0
-	Tactics -2
 	C001-4U-730-7-F
-<hr/>2931-A200976-F
-Commodore Dukagirpa
-	Prec 11
-	Plan  5
-	Tactics 1
 	C002-4U-730-7-F
-<hr/>2931-A200976-F
-Commodore Imniulshiesh
-	Prec 9
-	Plan  4
-	Tactics -1
 	C003-4U-730-7-F
-<hr/>3031-C202974-C
-Commodore Igaumlardiag
-	Prec 11
-	Plan  4
-	Tactics 2
 	C001-1U-730-7-C
-<hr/>3031-C202974-C
-Commodore Amsha
-	Prec 8
-	Plan  5
-	Tactics -1
 	C002-1U-730-7-C
-<hr/>3131-B5629CA-C
-Commodore Khekili
-	Prec 10
-	Plan  5
-	Tactics 0
 	C001-1U-730-7-C
-<hr/>3131-B5629CA-C
-Commodore Diimiimdukigakhu
-	Prec 4
-	Plan  5
-	Tactics -1
 	C002-1U-730-7-C
