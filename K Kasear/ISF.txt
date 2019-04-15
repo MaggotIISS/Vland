@@ -146,105 +146,20 @@ Vland/K Kasear
 
 
 
-<hr/>1730-B6748AA-A
-Commodore Degni
-	Prec 12
-	Plan  4
-	Tactics 2
 	C001-1U-630-6-A
-<hr/>1822-A5479AE-E
-Commodore Akkar
-	Prec 7
-	Plan  4
-	Tactics -1
 	C001-3U-730-7-E
-<hr/>1822-A5479AE-E
-Commodore Alki
-	Prec 12
-	Plan  4
-	Tactics 2
 	C002-3U-730-7-E
-<hr/>1822-A5479AE-E
-Commodore Nuurdiiaz
-	Prec 13
-	Plan  5
-	Tactics -1
 	C003-3U-730-7-E
-<hr/>1923-C423965-C
-Commodore Iimu
-	Prec 12
-	Plan  4
-	Tactics 2
 	C001-1U-730-7-C
-<hr/>1923-C423965-C
-Commodore Umkukhu
-	Prec 11
-	Plan  5
-	Tactics 1
 	C002-1U-730-7-C
-<hr/>2225-C310A9A-E
-Commodore Khigdagagarsirdir
-	Prec 9
-	Plan  5
-	Tactics 0
 	A001-3U-800-600-E
-<hr/>2225-C310A9A-E
-Commodore Shaarliiaamkapishiim
-	Prec 11
-	Plan  2
-	Tactics 0
 	C002-3U-840-8-E
-<hr/>2225-C310A9A-E
-Commodore Iikkamapuumdi
-	Prec 16
-	Plan  2
-	Tactics 0
 	C003-3U-840-8-E
-<hr/>2225-C310A9A-E
-Commodore Nergimgagash
-	Prec 8
-	Plan  5
-	Tactics 0
 	C004-3U-840-8-E
-<hr/>2225-C310A9A-E
-Commodore Akgirshinga
-	Prec 13
-	Plan  5
-	Tactics -2
 ???C001-3U-943-9(9)-E???
-<hr/>2328-D8D8A97-B
-Commodore Eazkim
-	Prec 10
-	Plan  5
-	Tactics 0
 	C001-1U-840-8-B
-<hr/>2328-D8D8A97-B
-Commodore Miigagidakkhi
-	Prec 12
-	Plan  5
-	Tactics 2
 	C002-1U-840-8-B
-<hr/>2328-D8D8A97-B
-Commodore Iklaakhmu
-	Prec 8
-	Plan  5
-	Tactics -2
 	C003-1U-840-8-B
-<hr/>2328-D8D8A97-B
-Commodore Uummauukhshar
-	Prec 9
-	Plan  5
-	Tactics 2
 	C004-1U-840-8-B
-<hr/>2425-C54099B-A
-Commodore Amkaiin
-	Prec 10
-	Plan  5
-	Tactics -2
 	C001-1U-730-7-A
-<hr/>2425-C54099B-A
-Commodore Sheukbiiiig
-	Prec 8
-	Plan  3
-	Tactics 1
 	C002-1U-730-7-A

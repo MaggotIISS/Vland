@@ -94,63 +94,13 @@ Vland/N Daangiilu
 1540 Limed - B430689-B
 	Defence CF = 2
 
-<hr/>0933-C41198B-C
-Commodore Iiargukargar
-	Prec 7
-	Plan  5
-	Tactics -2
 	C001-1U-730-7-C
-<hr/>0933-C41198B-C
-Commodore Aigda
-	Prec 11
-	Plan  5
-	Tactics 0
 	C002-1U-730-7-C
-<hr/>1038-E68AA87-B
-Commodore Melekangirge
-	Prec 9
-	Plan  4
-	Tactics 2
 	C001-1U-840-8-B
-<hr/>1038-E68AA87-B
-Commodore Sha
-	Prec 14
-	Plan  5
-	Tactics 0
 	C002-1U-840-8-B
-<hr/>1038-E68AA87-B
-Commodore Ar
-	Prec 11
-	Plan  2
-	Tactics -1
 	C003-1U-840-8-B
-<hr/>1038-E68AA87-B
-Commodore Diikakumangu
-	Prec 6
-	Plan  3
-	Tactics 0
 	C004-1U-840-8-B
-<hr/>1139-B553859-B
-Commodore Akhgarmuuishshiag
-	Prec 14
-	Plan  5
-	Tactics -2
 	C001-1U-630-6-B
-<hr/>1332-A55497B-C
-Commodore Khu
-	Prec 13
-	Plan  3
-	Tactics 0
 	C001-1U-730-7-C
-<hr/>1332-A55497B-C
-Commodore Kaiid
-	Prec 8
-	Plan  5
-	Tactics 0
 	C002-1U-730-7-C
-<hr/>1535-C426841-A
-Commodore Garkinkamisnankan
-	Prec 6
-	Plan  3
-	Tactics 0
 	C001-1U-630-6-A

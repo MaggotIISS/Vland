@@ -1,6 +1,5 @@
 //	0101 Aakhorn
 ////////////////////////////////////////////////////////////////////////////////
-// Rearden
 FC
 0 = 
 1 = 
@@ -14,12 +13,12 @@ FC
 9 = 
 BC
 0 = 0101 Aakhorn
-1 = 
-2 = Size
-3 = Quality
-4 = Armament
-5 = Mobility
-6 = Type
-7 = CF
-8 = TF
-9 = TL
+1 = D556754-7
+2 = SDBs 1
+3 = Rons X
+4 = Def CF 5
+5 = Troops 1
+6 = Pop < 20 M
+7 = Belts 0
+8 = GGs 4
+9 = Worlds 11 G

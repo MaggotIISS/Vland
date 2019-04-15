@@ -43,39 +43,9 @@ Vland/J Akumid
 
 
 
-<hr/>0927-C7939CD-A
-Commodore Keishship
-	Prec 16
-	Plan  4
-	Tactics 0
 	C001-1U-730-7-A
-<hr/>0927-C7939CD-A
-Commodore Kiid
-	Prec 14
-	Plan  3
-	Tactics 0
 	C002-1U-730-7-A
-<hr/>1028-C555A64-9
-Commodore Geakgidsiidirmi
-	Prec 8
-	Plan  5
-	Tactics -2
 	C001-1U-840-8-9
-<hr/>1028-C555A64-9
-Commodore Uukiiig
-	Prec 11
-	Plan  5
-	Tactics -2
 	C002-1U-840-8-9
-<hr/>1028-C555A64-9
-Commodore Lumnurkiga
-	Prec 9
-	Plan  3
-	Tactics 0
 	C003-1U-840-8-9
-<hr/>1624-C631854-A
-Commodore Uiadlieash
-	Prec 8
-	Plan  4
-	Tactics 2
 	C001-1U-630-6-A

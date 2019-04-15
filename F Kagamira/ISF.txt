@@ -60,39 +60,9 @@ Vland/F Kagamira
 
 
 
-<hr/>1011-A8C389E-C
-Commodore Kuez
-	Prec 9
-	Plan  5
-	Tactics 0
 	C001-1U-630-6-C
-<hr/>1519-B577A83-E
-Commodore Miguuum
-	Prec 13
-	Plan  5
-	Tactics 0
 	C001-3U-840-8-E
-<hr/>1519-B577A83-E
-Commodore Uaakrigka
-	Prec 11
-	Plan  2
-	Tactics -2
 	C002-3U-840-8-E
-<hr/>1519-B577A83-E
-Commodore Shan
-	Prec 11
-	Plan  3
-	Tactics 0
 	C003-3U-840-8-E
-<hr/>1519-B577A83-E
-Commodore Miium
-	Prec 15
-	Plan  4
-	Tactics -2
 	C004-3U-840-8-E
-<hr/>1519-B577A83-E
-Commodore Diekgiiuuzzamus
-	Prec 8
-	Plan  4
-	Tactics 0
 	C005-3U-840-8-E

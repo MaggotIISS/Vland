@@ -1,0 +1,34 @@
+Vland/P Kakadan/2931 Icuspin
+B2009AB-E 
+
+Begins with Love
+Partner is Commoner from other
+
+6 INTERESTS
+1 = Resource Units
+	800
+2 = Resource Units
+	800
+3 = Tech Level
+	1
+4 = Infrastructure
+	1
+5 = Population
+	25000
+6 = Infrastructure
+	3
+
+Tech Level	1
+Population	25000
+Military	0
+Infrastructure	4
+Resource Units	1600
+
+Progression	Conservative
+Planning	Medium Term (6-10 yrs)
+Advancement	Indifferent
+Growth	Competitive
+Militancy	Militant
+Unity	Discordant
+Tolerance	Friendly
+

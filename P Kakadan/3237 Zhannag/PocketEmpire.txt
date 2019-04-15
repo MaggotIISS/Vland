@@ -1,0 +1,24 @@
+Vland/P Kakadan/2737 Kesali
+B2009AB-E
+
+Begins with Rejection
+Partner is Commoner from other
+
+1 INTERESTS
+1 = Tech Level
+	1
+
+Tech Level	1
+Population	0
+Military	0
+Infrastructure	0
+Resource Units	0
+
+Progression	Progressive
+Planning	Long Term (11-50 yrs)
+Advancement	Advancing
+Growth	Competitive
+Militancy	Neutral
+Unity	Discordant
+Tolerance	Friendly
+

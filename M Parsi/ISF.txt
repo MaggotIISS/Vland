@@ -107,81 +107,16 @@ Vland/M Parsi
 0833 Karbarlah - D5878A8-6
 	Defence CF = 20
 
-<hr/>0132-C5509AB-A
-Commodore Egrinkhirmaa
-	Prec 5
-	Plan  4
-	Tactics 0
 	C001-1U-730-7-A
-<hr/>0132-C5509AB-A
-Commodore Ad
-	Prec 6
-	Plan  5
-	Tactics 0
 	C002-1U-730-7-A
-<hr/>0232-D9C7887-9
-Commodore Uklainluigla
-	Prec 13
-	Plan  5
-	Tactics 1
 	C001-1U-630-6-9
-<hr/>0431-B584A85-E
-Commodore Aklashi
-	Prec 11
-	Plan  5
-	Tactics 1
 	C001-3U-840-8-E
-<hr/>0431-B584A85-E
-Commodore Dar
-	Prec 9
-	Plan  5
-	Tactics 1
 	C002-3U-840-8-E
-<hr/>0431-B584A85-E
-Commodore Adiashkhiiggi
-	Prec 9
-	Plan  3
-	Tactics 0
 	C003-3U-840-8-E
-<hr/>0431-B584A85-E
-Commodore Shushaedinur
-	Prec 5
-	Plan  5
-	Tactics 2
 	C004-3U-840-8-E
-<hr/>0431-B584A85-E
-Commodore Shamshi
-	Prec 7
-	Plan  5
-	Tactics 2
 	C005-3U-840-8-E
-<hr/>0740-B683A9B-D
-Commodore Shikiiiknun
-	Prec 6
-	Plan  4
-	Tactics 0
 	C001-2U-840-8-D
-<hr/>0740-B683A9B-D
-Commodore Akhgargurli
-	Prec 3
-	Plan  2
-	Tactics 2
 	C002-2U-840-8-D
-<hr/>0740-B683A9B-D
-Commodore Idushigagshi
-	Prec 10
-	Plan  5
-	Tactics -2
 	C003-2U-840-8-D
-<hr/>0740-B683A9B-D
-Commodore Mamia
-	Prec 8
-	Plan  4
-	Tactics -1
 	C004-2U-840-8-D
-<hr/>0740-B683A9B-D
-Commodore Uisshe
-	Prec 8
-	Plan  4
-	Tactics -1
 	C005-2U-840-8-D

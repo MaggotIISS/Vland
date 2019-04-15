@@ -146,135 +146,25 @@ Vland/B Vhodan
 
 
 
-<hr/>1007-C69A9CC-C
-Commodore Aaddiigkhaaashkur
-	Prec 17
-	Plan  5
-	Tactics -2
 	C001-1U-730-7-C
-<hr/>1007-C69A9CC-C
-Commodore Aggamku
-	Prec 13
-	Plan  3
-	Tactics 0
 	C002-1U-730-7-C
-<hr/>1102-A547857-D
-Commodore Nagnuukakshi
-	Prec 13
-	Plan  5
-	Tactics -2
 	C001-2U-630-6-D
-<hr/>1102-A547857-D
-Commodore Uaushmimpa
-	Prec 12
-	Plan  0
-	Tactics 1
 	C002-2U-630-6-D
-<hr/>1107-B4328DH-A
-Commodore Iigbediashkar
-	Prec 9
-	Plan  3
-	Tactics -1
 	C001-1U-630-6-A
-<hr/>1108-C76A9AB-C
-Commodore Shii
-	Prec 8
-	Plan  4
-	Tactics 2
 	C001-1U-730-7-C
-<hr/>1108-C76A9AB-C
-Commodore Iksuush
-	Prec 7
-	Plan  5
-	Tactics -1
 	C002-1U-730-7-C
-<hr/>1208-A758A8A-D
-Commodore Ubuashrudnu
-	Prec 15
-	Plan  2
-	Tactics 0
 	C001-2U-840-8-D
-<hr/>1208-A758A8A-D
-Commodore Ashiuk
-	Prec 7
-	Plan  5
-	Tactics 1
 	C002-2U-840-8-D
-<hr/>1208-A758A8A-D
-Commodore Nursaggishlir
-	Prec 5
-	Plan  5
-	Tactics -1
 	C003-2U-840-8-D
-<hr/>1208-A758A8A-D
-Commodore Akmarduumlid
-	Prec 12
-	Plan  5
-	Tactics -1
 	C004-2U-840-8-D
-<hr/>1208-A758A8A-D
-Commodore Ud
-	Prec 13
-	Plan  4
-	Tactics 1
 	C005-2U-840-8-D
-<hr/>1405-B89A8AA-C
-Commodore Udgii
-	Prec 8
-	Plan  4
-	Tactics 0
 	C001-1U-630-6-C
-<hr/>1407-E539A77-C
-Commodore Aakekluami
-	Prec 13
-	Plan  3
-	Tactics -2
 	C001-1U-840-8-C
-<hr/>1407-E539A77-C
-Commodore Gam
-	Prec 13
-	Plan  2
-	Tactics -1
 	C002-1U-840-8-C
-<hr/>1407-E539A77-C
-Commodore Euiimkais
-	Prec 7
-	Plan  5
-	Tactics -1
 	C003-1U-840-8-C
-<hr/>1407-E539A77-C
-Commodore Khiiumaska
-	Prec 12
-	Plan  3
-	Tactics 2
 	C004-1U-840-8-C
-<hr/>1408-B552A78-E
-Commodore Iiaii
-	Prec 13
-	Plan  4
-	Tactics 2
 	C001-3U-840-8-E
-<hr/>1408-B552A78-E
-Commodore Karsishakeggia
-	Prec 13
-	Plan  4
-	Tactics 2
 	C002-3U-840-8-E
-<hr/>1408-B552A78-E
-Commodore Aila
-	Prec 10
-	Plan  3
-	Tactics 0
 	C003-3U-840-8-E
-<hr/>1408-B552A78-E
-Commodore Apiipmiiak
-	Prec 10
-	Plan  5
-	Tactics 0
 	C004-3U-840-8-E
-<hr/>1408-B552A78-E
-Commodore Aakmile
-	Prec 11
-	Plan  4
-	Tactics 0
 	C005-3U-840-8-E

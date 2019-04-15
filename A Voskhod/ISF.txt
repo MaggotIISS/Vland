@@ -101,39 +101,9 @@ Vland/A Voskhod
 
 
 
-<hr/>0110-B100877-C
-Commodore Ga
-	Prec 10
-	Plan  4
-	Tactics 2
 	C001-1U-630-6-C
-<hr/>0601-B100843-B
-Commodore Ka
-	Prec 11
-	Plan  4
-	Tactics 2
 	C001-1U-630-6-B
-<hr/>0705-C727830-9
-Commodore Igmunagulash
-	Prec 12
-	Plan  5
-	Tactics -2
 	C001-1U-630-6-9
-<hr/>0708-B3109ED-E
-Commodore Ilaeaaa
-	Prec 10
-	Plan  3
-	Tactics 1
 	C001-3U-730-7-E
-<hr/>0708-B3109ED-E
-Commodore Adlaup
-	Prec 9
-	Plan  3
-	Tactics 0
 	C002-3U-730-7-E
-<hr/>0708-B3109ED-E
-Commodore Man
-	Prec 10
-	Plan  5
-	Tactics -1
 	C003-3U-730-7-E

@@ -67,39 +67,9 @@ Vland/D Theton
 3107 Theton - BABA653-C
 	Defence CF = 2
 
-<hr/>2603-B100857-A
-Commodore Kaishmuriidlid
-	Prec 5
-	Plan  3
-	Tactics -1
 	C001-1U-630-6-A
-<hr/>2808-D575A84-A
-Commodore Kislisasadkiiuk
-	Prec 12
-	Plan  5
-	Tactics 1
 	C001-1U-840-8-A
-<hr/>2808-D575A84-A
-Commodore Edkhaug
-	Prec 11
-	Plan  5
-	Tactics 0
 	C002-1U-840-8-A
-<hr/>2808-D575A84-A
-Commodore Aaakliian
-	Prec 14
-	Plan  5
-	Tactics 1
 	C003-1U-840-8-A
-<hr/>3106-C300999-C
-Commodore Shagurkaunukem
-	Prec 13
-	Plan  4
-	Tactics -2
 	C001-1U-730-7-C
-<hr/>3106-C300999-C
-Commodore Puegguidmiii
-	Prec 13
-	Plan  5
-	Tactics 0
 	C002-1U-730-7-C

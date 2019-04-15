@@ -30,9 +30,4 @@ Vland/I Dusa
 
 
 
-<hr/>0221-C530833-9
-Commodore Duuliikkhushku
-	Prec 8
-	Plan  0
-	Tactics -1
 	C001-1U-630-6-9

@@ -5,24 +5,24 @@ Begins with Affection
 Partner is Lesser noble from own
 
 6 INTERESTS
-1 = Military
-	32
-2 = Tech Level
+1 = Tech Level
 	4
-3 = Infrastructure
-	4
-4 = Military
-	32
+2 = Population
+	100000
+3 = Military
+	8
+4 = Resource Units
+	1600
 5 = Resource Units
 	1600
 6 = Resource Units
 	1600
 
 Tech Level	4
-Population	0
-Military	64
-Infrastructure	4
-Resource Units	3200
+Population	100000
+Military	8
+Infrastructure	0
+Resource Units	4800
 
 Progression	Progressive
 Planning	Very Long Term (51-100 yrs)

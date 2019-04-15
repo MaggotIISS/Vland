@@ -18,6 +18,7 @@
 2740 P'ginzh
 2831 Kiimzhal
 2832 Telkaa
+2836 Inushir
 2837 Piazza
 2839 Zombagu
 2931 Icuspin
@@ -64,6 +65,7 @@ C:\T5\Vland\P Kakadan\2739 Sg'aa\2739 Sg'aa
 C:\T5\Vland\P Kakadan\2740 P'ginzh\2740 P'ginzh
 C:\T5\Vland\P Kakadan\2831 Kiimzhal\2831 Kiimzhal
 C:\T5\Vland\P Kakadan\2832 Telkaa\2832 Telkaa
+C:\T5\Vland\P Kakadan\2836 Inushir\2836 Inushir
 C:\T5\Vland\P Kakadan\2837 Piazza\2837 Piazza
 C:\T5\Vland\P Kakadan\2839 Zombagu\2839 Zombagu
 C:\T5\Vland\P Kakadan\2931 Icuspin\2931 Icuspin

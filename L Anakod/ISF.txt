@@ -141,69 +141,14 @@ Vland/L Anakod
 3229 Diikaras - AA9A651-F
 	Defence CF = 2
 
-<hr/>2530-B6668A8-A
-Commodore Laaa
-	Prec 6
-	Plan  4
-	Tactics -1
 	C001-1U-630-6-A
-<hr/>2824-C300963-C
-Commodore Aau
-	Prec 11
-	Plan  4
-	Tactics 2
 	C001-1U-730-7-C
-<hr/>2824-C300963-C
-Commodore Kurkuigsherar
-	Prec 11
-	Plan  3
-	Tactics -1
 	C002-1U-730-7-C
-<hr/>2827-E100979-B
-Commodore Daiigum
-	Prec 13
-	Plan  2
-	Tactics 0
 	C001-1U-730-7-B
-<hr/>2827-E100979-B
-Commodore Akhmimidka
-	Prec 12
-	Plan  5
-	Tactics 0
 	C002-1U-730-7-B
-<hr/>2829-A5779B6-C
-Commodore Alkushshasarsha
-	Prec 6
-	Plan  4
-	Tactics 0
 	C001-1U-730-7-C
-<hr/>2829-A5779B6-C
-Commodore Em
-	Prec 7
-	Plan  5
-	Tactics 0
 	C002-1U-730-7-C
-<hr/>3125-C676AE9-C
-Commodore Aksirkhandiirshurkhar
-	Prec 10
-	Plan  4
-	Tactics 2
 	C001-1U-840-8-C
-<hr/>3125-C676AE9-C
-Commodore Imbumiglu
-	Prec 10
-	Plan  5
-	Tactics 1
 	C002-1U-840-8-C
-<hr/>3125-C676AE9-C
-Commodore Ushshashkhiiikhki
-	Prec 7
-	Plan  5
-	Tactics 0
 	C003-1U-840-8-C
-<hr/>3125-C676AE9-C
-Commodore Aasshaamkiirkhia
-	Prec 17
-	Plan  0
-	Tactics 0
 	C004-1U-840-8-C

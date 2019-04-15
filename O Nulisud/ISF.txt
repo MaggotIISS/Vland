@@ -135,81 +135,16 @@ Vland/O Nulisud
 
 
 
-<hr/>1740-D4359CE-A
-Commodore Diiingemardan
-	Prec 15
-	Plan  5
-	Tactics -1
 	B001-1U-740-20-A
-<hr/>1740-D4359CE-A
-Commodore Ki
-	Prec 9
-	Plan  4
-	Tactics 0
 ???C001-1U-632-6(6)-A???
-<hr/>2035-B5409BA-C
-Commodore Gushkuual
-	Prec 9
-	Plan  4
-	Tactics 1
 	C001-1U-730-7-C
-<hr/>2035-B5409BA-C
-Commodore Ukgarpumerkia
-	Prec 14
-	Plan  4
-	Tactics 1
 	C002-1U-730-7-C
-<hr/>2138-B582ABA-E
-Commodore Sharminiuksumzu
-	Prec 3
-	Plan  3
-	Tactics 0
 	A001-3U-800-600-E
-<hr/>2138-B582ABA-E
-Commodore Ardimgungingia
-	Prec 12
-	Plan  4
-	Tactics -1
 	C002-3U-840-8-E
-<hr/>2138-B582ABA-E
-Commodore Agkhapadshu
-	Prec 11
-	Plan  3
-	Tactics -2
 	C003-3U-840-8-E
-<hr/>2138-B582ABA-E
-Commodore Kishguki
-	Prec 14
-	Plan  5
-	Tactics 0
 	C004-3U-840-8-E
-<hr/>2138-B582ABA-E
-Commodore Ig
-	Prec 11
-	Plan  4
-	Tactics -2
 ???C001-3U-943-9(9)-E???
-<hr/>2431-B633964-D
-Commodore Mamdiduu
-	Prec 10
-	Plan  5
-	Tactics -1
 	C001-2U-730-7-D
-<hr/>2431-B633964-D
-Commodore Iishraamlu
-	Prec 15
-	Plan  2
-	Tactics 1
 	C002-2U-730-7-D
-<hr/>2431-B633964-D
-Commodore I
-	Prec 12
-	Plan  0
-	Tactics -1
 	C003-2U-730-7-D
-<hr/>2432-B987867-A
-Commodore Gugaasaiid
-	Prec 7
-	Plan  3
-	Tactics -2
 	C001-1U-630-6-A

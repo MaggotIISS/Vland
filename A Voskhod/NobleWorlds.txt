@@ -1,95 +1,181 @@
-0101 Aakhorn  
-	(Knight) MaSaRuLuULa
-	(Baron) Ik
-<hr/>0102 Rokii    
-	(Knight) PunShuumZaU
-<hr/>0104 Maluuf   
-	(Knight) SiUunMer
-<hr/>0105 Gikkon   
-	(Knight) EshGiirKiIsLaU
-<hr/>0107 Taraddiin
-	(Knight) Al
-	(Baron) UzNurKash
-<hr/>0109 Hakkat   
-	(Knight) AakGuShur
-	(Baronet) AKar
-	(Viscount) AaBaI
-<hr/>0110 Ossin    
-	(Knight) Iil
-	(Marquis) A
-	(Viscount) ShaDiMumKhaIg
-<hr/>0202 Kalkako  
-	(Knight) IShaKiish
-	(Baronet) IikKharShur
-<hr/>0203 Bannon's 
-	(Knight) IiKikShashShiAdKu
-<hr/>0205 Khankari 
-	(Knight) ShiEshZuurGid
-	(Baronet) GiIikShaLaU
-<hr/>0209 Lankhi   
-	(Knight) GirNiSishLaLagDag
-	(Baron) AKhurGiiKhi
-<hr/>0210 Khalgun  
-	(Knight) IisMeLishKhiAmKa
-	(Baron) AUGumShi
-	(Marquis) BiishMiiIibGar
-<hr/>0303 Anert    
-	(Knight) GiinGuEkhDaSheEd
-<hr/>0306 Skathi   
-	(Knight) IisDiiMu
-	(Baron) UudKid
-<hr/>0307 Enard    
-	(Knight) Al
-<hr/>0402 Kuk      
-	(Knight) Lur
-<hr/>0403 Apkeraas 
-	(Knight) IsBiAag
-<hr/>0404 Katti    
-	(Knight) AzPeA
-<hr/>0408 Shaddukan
-	(Knight) Ush
-<hr/>0502 Lugaluru 
-	(Knight) IkShinDaadGaash
-<hr/>0506 Gamibuu  
-	(Knight) DiI
-<hr/>0507 Kharta   
-	(Knight) LiikLa
-<hr/>0508 Arfaan   
-	(Knight) ImDush
-	(Baronet) IikhLashKhiLu
-<hr/>0601 Athanuez 
-	(Knight) Li
-	(Marquis) UkhMiDamDu
-	(Viscount) GudLin
-<hr/>0605 Sheshat  
-	(Knight) KuKaRiI
-<hr/>0610 Rakurram 
-	(Knight) KuusKhuurShaUlMaGuu
-<hr/>0701 Taegzdueg
-	
-<hr/>0703 Khigapka 
-	
-<hr/>0705 Shukhuge 
-	(Knight) GudKuGiIGir
-	(Marquis) IEmGuun
-	(Viscount) UnLa
-<hr/>0707 Lenordi  
-	(Knight) KamKiKurLim
-<hr/>0708 Voskhod  
-	(Knight) AIsh
-	(Count) ShaGiIiUIs
-	(Duke) SuShishGim
-<hr/>0709 Kharzet  
-	(Knight) ShisKaDuUkZa
-	(Baronet) IAkMiiIik
-	(Baron) EgDeAKamKa
-<hr/>0801 Ogerrgh  
-	
-<hr/>0804 Kegirur  
-	
-<hr/>0806 Gadiga   
-	(Knight) ShirLeEIiIlMa
-<hr/>0807 Kunumi   
-	(Knight) IiIkKaEsh
-	(Baronet) UIikhKhugMadKii
-<hr/>
+2737 Kesali               B2009AB-E Hi In Na Va Pz             { 4 }  (E8G+5) [BD7G] BEf  N  A 503 6  ImDv M3 V           
+	(Knight) SherGeIinKiIl
+	(Count) ShaanGam
+	(duke) BuAkhKipMuDiirKa
+
+2839 Zombagu              A684730-B Ag Ri An                   { 4 }  (F6E+1) [2B16] BCf  -  - 924 9  ImDv F7 V           
+	(Knight) LuAg
+	(Baron) KaAlShir
+	(duke) GaUkGiShiA
+
+2931 Icuspin              A200976-F Hi In Na Va Cp             { 4 }  (D8G+3) [8D4E] BEF  -  - 820 13 ImDv M2 V           
+	(Knight) ShirShiSaAAkKar
+	(Count) NuurMurKigKham
+	(Duke) KhiIdGaIgKaKam
+
+
+2540 Kalaalit             A7698B9-D Ri Ph Pz                   { 3 }  (B7E+4) [9B6E] BCe  N  A 510 6  ImDv M3 V           
+	(Knight) KaAbNerDum
+	(Baron) MuuKush
+	(Viscount) GiRiAsh
+
+2634 Wakarsat             B68A789-B Ri Wa                      { 3 }  (E6D+4) [8A6C] BC   N  - 814 13 ImDv M0 V           
+	(Knight) AamMu
+	(Baron) IMumDagMip
+
+2932 Zanski               B585530-B Ag Ni Pr                   { 3 }  (A47-1) [1816] BcC  NW - 421 12 ImDv M3 V           
+	(Knight) SumGiAk
+	(Baronet) IlGuuIshGuur
+	(Baron) UAshSirKhaKiIs
+
+3031 New Salen            C202974-C Hi Ic In Na Va             { 3 }  (D8E+1) [7C3A] BE   -  - 920 13 ImDv M2 V           
+	(Knight) IidKasGiimSamLi
+	(Count) BiiUgGaaARu
+
+3131 Maamibrin            B5629CA-C Hi Pr Pz                   { 3 }  (D8E+5) [BC7E] BcE  -  A 120 13 ImDv F7 V           
+	(Knight) Sa
+	(Baronet) AashShashDiAgGiAs
+	(Count) MiiKaDuSirDa
+
+3235 Debort               B581778-A Ri                         { 3 }  (A6C+3) [7A5A] BC   N  - 510 14 ImDv F9 V G4 V      
+	(Knight) KiAd
+	(Baron) UunKuurMiIkhGa
+
+
+2531 Kiddinu              B555553-C Ag Ni                      { 2 }  (E46-1) [2729] BC   -  - 434 11 ImDv M0 V           
+	(Knight) LidKuAa
+	(Baron) Ge
+
+2533 Aki                  D697AFF-A Hi In Pz                   { 2 }  (D9C+5) [FCAF] BE   -  A 110 13 ImDv F5 V M0 V      
+	(Knight) IshKanSim
+	(Count) IKarKamKuAal
+
+2739 Sg'aa                AAB5895-D Fl Ph                      { 2 }  (E7D+1) [6A3B] Be   -  - 613 11 ImDv K6 V M4 V      
+	(Knight) AakNadLiirRaUs
+	(Viscount) EIshLaKha
+
+3231 Vanutappan           B547547-B Ag Ni                      { 2 }  (D46+2) [575B] BC   -  - 624 14 ImDv F7 V M9 V      
+	(Knight) GiU
+	(Baron) MiAShiKi
+
+
+2534 Zerapii              C411774-A Ic Na Pi                   { 1 }  (D6A-1) [5838] BD   S  - 822 12 ImDv M1 V           
+	(Knight) UushPuuUk
+	(Marquis) IdKhunGiiSem
+
+2539 Nunaat               B624248-C Lo                         { 1 }  (A11+1) [235C] B    N  - 924 9  ImDv M0 V           
+	(Knight) ShidGuuADis
+
+2631 Kane                 E789ABE-A Hi Pz                      { 1 }  (H9B+5) [EB9E] BE   -  A 723 10 ImDv K9 V           
+	(Knight) KerBiish
+	(Count) AkSiIishKhaA
+
+2636 Kakadan              A9C7400-F Fl Ni                      { 1 }  (734-3) [151A] B    N  - 601 8  ImDv M2 V           
+	(Knight) UUUshGumShaA
+
+2637 Akon                 A56358A-D Ni Pr                      { 1 }  (A45+3) [767F] Bc   N  - 703 10 ImDv K4 V M1 V      
+	(Knight) SheAIkhSharSem
+	(Baronet) IdGaaKuurLa
+
+2640 Statia               B300440-D Ni Va                      { 1 }  (734-3) [1518] B    -  - 310 13 ImDv M1 V           
+	(Knight) UdNanShiAU
+
+2733 Jarmat               A310122-D Lo                         { 1 }  (811-3) [1219] B    -  - 614 9  ImDv M0 V           
+	(Knight) AkGurGuuShakDiA
+
+2734 Rambant              B310113-C Lo                         { 1 }  (711-2) [1229] B    -  - 104 11 ImDv F4 V K0 V      
+	(Knight) GerSaa
+
+2738 Tepmaa               B410251-D Lo                         { 1 }  (911-3) [1319] B    S  - 323 12 ImDv M0 V           
+	(Knight) U
+
+2831 Kiimzhal             C55455A-A Ag Ni                      { 1 }  (845+3) [767C] BC   -  - 801 8  ImDv M3 V M7 V      
+	(Knight) GuuKeAAkKir
+	(Baron) SinKhiKhiDishPuk
+
+2933 Kanat                B567359-B Lo                         { 1 }  (921+2) [446C] B    -  - 513 13 ImDv M2 V           
+	(Knight) ADi
+
+2938 Punnari              B737358-D Lo RsA                     { 1 }  (621+1) [345D] B    N  - 101 13 ImDv M2 V M5 V      
+	(Knight) IikKiShiAk
+
+3037 Raanbazziil          A428334-E Lo                         { 1 }  (621-1) [143C] B    N  - 110 10 ImDv M0 V           
+	(Knight) Ku
+
+3039 Gilnat Paz           A535300-E Lo                         { 1 }  (821-3) [1419] B    -  - 721 11 ImDv M1 V           
+	(Knight) AarGeshGaI
+
+3135 Debekov              B572305-B He Lo                      { 1 }  (621-1) [1439] B    N  - 901 11 ImDv M2 V           
+	(Knight) AdGuusDurGaGuuLash
+
+3137 Alleman              A200555-F Ni Va                      { 1 }  (945-1) [363D] B    -  - 702 13 ImDv K6 III K1 V    
+	(Knight) IzGuusMirLesShu
+
+3232 Tamayo               A779568-C Ni O:2931                  { 1 }  (845+1) [565C] B    -  - 601 11 ImDv M0 V G6 V M6 V 
+	(Knight) Mii
+
+
+2740 P'ginzh              C554567-9 Ag Ni O:2839               { 0 }  (844+1) [5559] BC   S  - 710 14 ImDv M2 V           
+	(Knight) Ash
+	(Baron) GaagZarLuImLerShir
+
+2832 Telkaa               C635515-A Ni                         { 0 }  (A44-2) [3538] B    -  - 721 10 ImDv M2 V K3 V K3 V 
+	(Knight) KeKir
+
+2939 Teralvar             C585563-9 Ag Ni Pr O:2839            { 0 }  (844-3) [2526] BcC  S  - 701 7  ImDv G3 V M8 V      
+	(Knight) AkMuAEdKuupGar
+	(Baronet) SamKhaKuuKush
+	(Baron) GurGiDed
+
+3237 Zhannag              C534373-A Lo                         { 0 }  (C21-3) [1327] B    S  - 634 13 ImDv G8 V           
+	(Knight) GuNashKhuuAarGidKir
+
+
+2732 Dnak'kritz           D582758-7 Ri                         { -1 } (967-1) [7657] BC   S  - 104 7  ImDv G0 V M2 V      
+	(Knight) Ga
+	(Baron) SharLas
+
+2836 Inushir              E989ADE-7 Hi Pz                      { -1 } (C98+3) [E99B] BE   -  A 623 17 ImDv K0 V           
+	(Knight) IkKhiGuAkGeAs
+	(Count) UgSharKuZu
+
+2837 Piazza               C794685-6 Ag Ni                      { -1 } (853-3) [4534] BC   -  - 822 12 ImDv K4 V M3 V      
+	(Knight) GaIimKipKhud
+	(Baron) AagShuA
+
+2934 Assazak              C5908C9-8 De He Ph Pi Pz             { -1 } (B77+1) [9769] BDe  -  A 401 11 ImDv M1 V           
+	(Knight) ELurKigDaUud
+	(Marquis) AUGiiIish
+	(Viscount) AshKum
+
+3032 Matuyama             C540899-8 De He Po Ph Pi             { -1 } (F77+1) [9769] BDe  -  - 323 8  ImDv G0 V M0 V      
+	(Knight) GarPerPurNuShu
+	(Marquis) Kuur
+	(Viscount) ZasPuKa
+
+
+2536 Linissa              E200777-8 Na Va Pi                   { -2 } (A66-2) [7558] BD   -  - 710 12 ImDv G9 V           
+	(Knight) UukPiiIidGiiNiikGir
+	(Marquis) KaIinDi
+
+3035 Zhanora              D651754-7 Po                         { -2 } (966-4) [5535] B    S  - 101 7  ImDv G2 V M3 V      
+	(Knight) Shu
+
+3134 Toborit              C424664-8 Ni O:2931                  { -2 } (C52-4) [4436] B    -  - 322 10 ImDv M2 V           
+	(Knight) AmKirZuUgKiUsh
+
+3138 Nasaa                E425545-9 Ni                         { -2 } (942-4) [3337] B    -  - 320 13 ImDv G8 V           
+	(Knight) AlShim
+
+
+2936 Elafdt               E200320-8 Lo Va                      { -3 } (621-5) [1113] B    -  - 801 5  ImDv K9 V G0 V M0 V 
+	(Knight) UdDa
+
+3140 Zana                 E653546-7 Ni Po                      { -3 } (741-4) [4246] B    -  - 310 8  ImDv K0 V M2 V      
+	(Knight) AlKhiAkKiAmKa
+
+3238 Lamiina              E768330-7 Lo                         { -3 } (521-5) [1112] B    -  - 313 12 ImDv K0 V K1 V      
+	(Knight) ArKhashKha
+
+3239 Lannazol             D845110-7 Lo                         { -3 } (311-5) [1112] B    S  - 301 12 ImDv M3 V           
+	(Knight) Ul

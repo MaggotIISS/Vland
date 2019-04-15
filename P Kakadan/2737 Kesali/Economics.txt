@@ -1,40 +1,40 @@
 0	Compute Planetary Demand
  res = 0
- lab = 6
- inf = 4
+ lab = 13
+ inf = 8
  pop = 9
  cul = 0
- basedemand = 4
- demandroll = 10
- totaldemand = 9
- TOTAL DEMAND = 9
+ basedemand = 8
+ demandroll = 6
+ totaldemand = 6
+ TOTAL DEMAND = 6
 
 1	Compute Resource Trade
  Imports = Total Demand - Resources
- IMPORTS = 9
+ IMPORTS = 6
 
 2	Compute Base GWP
- re = 9.9
- lf = 0.5
- inf = 4
+ re = 6.6000000000000005
+ lf = 5000000.0
+ inf = 8
  cul = 0
- GWP = 19.8
+ GWP = 2.6400000000000003E8
 
 3	Compute Finished Goods Trade Multiplier
  FGTM = 0.0
 
 4	Compute Interstellar Demand Multiplier
- 2D roll of 12
- dm = 0
- change[10] = 0.06
- aggregatechange = 0.06
- prev = 1.02
- CURRENT = 1.08
+ 2D roll of 6
+ dm = 5
+ change[5] = 0.00
+ aggregatechange = 0.0
+ prev = 1.0
+ CURRENT = 1.0
 
 5	Compute final GWP
- basedemand = 4
+ basedemand = 8
  fgtm = 0.0
- totaldemand = 9
+ totaldemand = 6
  FINALGWP = 0.0
 
 6	Compute Tax Rate
@@ -46,18 +46,18 @@
 7	Compute Budget
  GB = TotalTax * GWP
  TotalTax = 0.35
- GWP = 19.8
+ GWP = 2.6400000000000003E8
  FGWP = 0.0
- GB = 6.93
+ GB = 9.24E7
 
 8	Compute Civilian Expenses
  Civilian Expenses = [(C+I+L)/100] * A * G * GB
  C = 0.0
- I = 4.0
- L = 3.0
+ I = 8.0
+ L = 11.0
  A = 1.0
- G = 1.4
- CIVILIAN EXPENSES = 27.72
+ G = 1.05
+ CIVILIAN EXPENSES = 2.7720000000000006E8
 
 9	Compute Military Expenses
  Military Expenses = M * A * G
@@ -65,14 +65,14 @@
  mothmaint = 4.0
  Military Maintenance = 16.0
  Admin Factor = 1.0
- Government Factor = 1.4
- MILITARY EXPENSES = 22.4
+ Government Factor = 1.05
+ MILITARY EXPENSES = 16.8
 
 10	Compute Expenses from Budget
  FINALGWP = 0.0
 ----MINUS----
- Govt. = 6.93
- Civilian = 27.72
- Military = 22.4
+ Govt. = 9.24E7
+ Civilian = 2.7720000000000006E8
+ Military = 16.8
  civi = 1.0
 
