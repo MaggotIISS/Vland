@@ -132,12 +132,57 @@ Vland/C Anarsi
 2409 Sardiika - A54467B-C
 	Defence CF = 2
 
+<hr/>1903-A423979-E
+Commodore Im
+	Prec 10
+	Plan  4
+	Tactics 1
 	C001-3U-730-7-E
+<hr/>1903-A423979-E
+Commodore Aiigga
+	Prec 10
+	Plan  1
+	Tactics 0
 	C002-3U-730-7-E
+<hr/>1903-A423979-E
+Commodore Ia
+	Prec 15
+	Plan  5
+	Tactics 0
 	C003-3U-730-7-E
+<hr/>2008-C550AAE-C
+Commodore Baaguiki
+	Prec 10
+	Plan  5
+	Tactics 1
 	C001-1U-840-8-C
+<hr/>2008-C550AAE-C
+Commodore Kerkiei
+	Prec 9
+	Plan  4
+	Tactics 2
 	C002-1U-840-8-C
+<hr/>2008-C550AAE-C
+Commodore Nadikshudin
+	Prec 13
+	Plan  5
+	Tactics -1
 	C003-1U-840-8-C
+<hr/>2008-C550AAE-C
+Commodore Dakad
+	Prec 11
+	Plan  5
+	Tactics 1
 	C004-1U-840-8-C
+<hr/>2205-B7479EA-C
+Commodore Aakhkurdi
+	Prec 16
+	Plan  4
+	Tactics -1
 	C001-1U-730-7-C
+<hr/>2205-B7479EA-C
+Commodore Eakkhushuu
+	Prec 9
+	Plan  5
+	Tactics 2
 	C002-1U-730-7-C

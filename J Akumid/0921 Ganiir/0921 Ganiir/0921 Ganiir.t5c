@@ -1,5 +1,6 @@
 //	0921 Ganiir
 ////////////////////////////////////////////////////////////////////////////////
+// Rearden
 FC
 0 = 
 1 = 
@@ -13,12 +14,12 @@ FC
 9 = 
 BC
 0 = 0921 Ganiir
-1 = C423320-B
-2 = SDBs X
-3 = Rons X
-4 = Def CF X
-5 = Troops X
-6 = Pop < 1 K
-7 = Belts 0
-8 = GGs 5
-9 = Worlds 16 G
+1 = 
+2 = Size
+3 = Quality
+4 = Armament
+5 = Mobility
+6 = Type
+7 = CF
+8 = TF
+9 = TL

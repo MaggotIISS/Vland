@@ -1,34 +1,34 @@
 Vland/P Kakadan/2737 Kesali
 B2009AB-E 
 
-Begins with Affection
-Partner is Lesser noble from own
+Begins with Love
+Partner is Lesser noble from other
 
 6 INTERESTS
-1 = Tech Level
+1 = Infrastructure
+	3
+2 = Military
 	4
-2 = Population
-	100000
-3 = Military
-	8
-4 = Resource Units
-	1600
+3 = Resource Units
+	800
+4 = Military
+	4
 5 = Resource Units
-	1600
-6 = Resource Units
-	1600
+	100
+6 = Military
+	16
 
-Tech Level	4
-Population	100000
-Military	8
-Infrastructure	0
-Resource Units	4800
+Tech Level	0
+Population	0
+Military	24
+Infrastructure	3
+Resource Units	900
 
 Progression	Progressive
-Planning	Very Long Term (51-100 yrs)
+Planning	Medium Term (6-10 yrs)
 Advancement	Advancing
-Growth	Competitive
-Militancy	Neutral
+Growth	Unaggressive
+Militancy	Peaceable
 Unity	Harmonious
-Tolerance	Neutral
+Tolerance	Friendly
 

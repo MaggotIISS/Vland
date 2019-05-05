@@ -101,9 +101,39 @@ Vland/A Voskhod
 
 
 
+<hr/>0110-B100877-C
+Commodore Iimgimenli
+	Prec 10
+	Plan  3
+	Tactics -2
 	C001-1U-630-6-C
+<hr/>0601-B100843-B
+Commodore Igmaadbaa
+	Prec 9
+	Plan  5
+	Tactics 0
 	C001-1U-630-6-B
+<hr/>0705-C727830-9
+Commodore Shuushkash
+	Prec 9
+	Plan  2
+	Tactics 0
 	C001-1U-630-6-9
+<hr/>0708-B3109ED-E
+Commodore Kharku
+	Prec 10
+	Plan  4
+	Tactics 0
 	C001-3U-730-7-E
+<hr/>0708-B3109ED-E
+Commodore Ekkhirnar
+	Prec 8
+	Plan  5
+	Tactics -2
 	C002-3U-730-7-E
+<hr/>0708-B3109ED-E
+Commodore Kishkiemsipkenu
+	Prec 14
+	Plan  4
+	Tactics 0
 	C003-3U-730-7-E

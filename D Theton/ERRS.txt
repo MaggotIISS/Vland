@@ -18,7 +18,6 @@
 3004 Shupin
 3006 Mukata
 3008 Shishaldin
-	NO 3008.utp
 3106 Arga
 3107 Theton
 3201 Thoegzknaedz

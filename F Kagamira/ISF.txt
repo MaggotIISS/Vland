@@ -60,9 +60,39 @@ Vland/F Kagamira
 
 
 
+<hr/>1011-A8C389E-C
+Commodore Rugiikhiilad
+	Prec 14
+	Plan  5
+	Tactics 0
 	C001-1U-630-6-C
+<hr/>1519-B577A83-E
+Commodore Ashrimbashnushii
+	Prec 16
+	Plan  2
+	Tactics -2
 	C001-3U-840-8-E
+<hr/>1519-B577A83-E
+Commodore U
+	Prec 14
+	Plan  1
+	Tactics 1
 	C002-3U-840-8-E
+<hr/>1519-B577A83-E
+Commodore Agshiludiiga
+	Prec 10
+	Plan  3
+	Tactics 1
 	C003-3U-840-8-E
+<hr/>1519-B577A83-E
+Commodore Khuiigshamkii
+	Prec 10
+	Plan  5
+	Tactics -1
 	C004-3U-840-8-E
+<hr/>1519-B577A83-E
+Commodore Aal
+	Prec 11
+	Plan  5
+	Tactics 1
 	C005-3U-840-8-E

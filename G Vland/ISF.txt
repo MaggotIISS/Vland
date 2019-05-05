@@ -145,28 +145,153 @@ Vland/G Vland
 
 
 
+<hr/>1716-B300859-B
+Commodore Emlinkhiugmuun
+	Prec 15
+	Plan  3
+	Tactics 0
 	C001-1U-630-6-B
+<hr/>1817-A430998-F
+Commodore Abdur
+	Prec 8
+	Plan  0
+	Tactics -2
 	C001-4U-730-7-F
+<hr/>1817-A430998-F
+Commodore Maishdi
+	Prec 10
+	Plan  1
+	Tactics 0
 	C002-4U-730-7-F
+<hr/>1817-A430998-F
+Commodore Ildar
+	Prec 8
+	Plan  3
+	Tactics -1
 	C003-4U-730-7-F
+<hr/>1919-B575A77-E
+Commodore Aggi
+	Prec 8
+	Plan  5
+	Tactics -2
 	C001-3U-840-8-E
+<hr/>1919-B575A77-E
+Commodore Egkii
+	Prec 11
+	Plan  5
+	Tactics -2
 	C002-3U-840-8-E
+<hr/>1919-B575A77-E
+Commodore Aa
+	Prec 8
+	Plan  5
+	Tactics 2
 	C003-3U-840-8-E
+<hr/>1919-B575A77-E
+Commodore Markhampummam
+	Prec 9
+	Plan  5
+	Tactics 2
 	C004-3U-840-8-E
+<hr/>1919-B575A77-E
+Commodore Ligimnashpada
+	Prec 13
+	Plan  3
+	Tactics 2
 	C005-3U-840-8-E
+<hr/>2013-C9C5984-B
+Commodore Zunmekan
+	Prec 6
+	Plan  2
+	Tactics 1
 	C001-1U-730-7-B
+<hr/>2013-C9C5984-B
+Commodore Emgargi
+	Prec 8
+	Plan  2
+	Tactics 1
 	C002-1U-730-7-B
+<hr/>2017-B769A78-B
+Commodore Uugkhakhima
+	Prec 15
+	Plan  2
+	Tactics 2
 	C001-1U-840-8-B
+<hr/>2017-B769A78-B
+Commodore Aakh
+	Prec 10
+	Plan  5
+	Tactics -2
 	C002-1U-840-8-B
+<hr/>2017-B769A78-B
+Commodore Alrargekha
+	Prec 11
+	Plan  5
+	Tactics 0
 	C003-1U-840-8-B
+<hr/>2017-B769A78-B
+Commodore Zi
+	Prec 13
+	Plan  4
+	Tactics -1
 	C004-1U-840-8-B
+<hr/>2111-C779A77-D
+Commodore Gugadurkikgu
+	Prec 13
+	Plan  3
+	Tactics 2
 	C001-2U-840-8-D
+<hr/>2111-C779A77-D
+Commodore Kiimdiisbiiigmu
+	Prec 10
+	Plan  3
+	Tactics 2
 	C002-2U-840-8-D
+<hr/>2111-C779A77-D
+Commodore Gashnishkharshadshad
+	Prec 10
+	Plan  2
+	Tactics 0
 	C003-2U-840-8-D
+<hr/>2111-C779A77-D
+Commodore Aim
+	Prec 12
+	Plan  3
+	Tactics -1
 	C004-2U-840-8-D
+<hr/>2111-C779A77-D
+Commodore Lagshaki
+	Prec 9
+	Plan  5
+	Tactics -1
 	C005-2U-840-8-D
+<hr/>2319-A7669BB-A
+Commodore Mashamkhialgu
+	Prec 12
+	Plan  2
+	Tactics 1
 	C001-1U-730-7-A
+<hr/>2319-A7669BB-A
+Commodore Ikmeiekh
+	Prec 14
+	Plan  3
+	Tactics -2
 	C002-1U-730-7-A
+<hr/>2412-E563A95-A
+Commodore Iim
+	Prec 8
+	Plan  5
+	Tactics 2
 	C001-1U-840-8-A
+<hr/>2412-E563A95-A
+Commodore Uuamaukh
+	Prec 10
+	Plan  5
+	Tactics 0
 	C002-1U-840-8-A
+<hr/>2412-E563A95-A
+Commodore Ikrir
+	Prec 6
+	Plan  3
+	Tactics -1
 	C003-1U-840-8-A

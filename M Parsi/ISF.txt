@@ -107,16 +107,81 @@ Vland/M Parsi
 0833 Karbarlah - D5878A8-6
 	Defence CF = 20
 
+<hr/>0132-C5509AB-A
+Commodore Ael
+	Prec 17
+	Plan  5
+	Tactics 0
 	C001-1U-730-7-A
+<hr/>0132-C5509AB-A
+Commodore Alkhaak
+	Prec 4
+	Plan  5
+	Tactics 1
 	C002-1U-730-7-A
+<hr/>0232-D9C7887-9
+Commodore Nimaumshail
+	Prec 7
+	Plan  5
+	Tactics 0
 	C001-1U-630-6-9
+<hr/>0431-B584A85-E
+Commodore Sikisdishii
+	Prec 4
+	Plan  5
+	Tactics -2
 	C001-3U-840-8-E
+<hr/>0431-B584A85-E
+Commodore Kaakamkapgidurshi
+	Prec 10
+	Plan  4
+	Tactics 2
 	C002-3U-840-8-E
+<hr/>0431-B584A85-E
+Commodore Muidkhir
+	Prec 9
+	Plan  4
+	Tactics 2
 	C003-3U-840-8-E
+<hr/>0431-B584A85-E
+Commodore Mimdu
+	Prec 13
+	Plan  5
+	Tactics 1
 	C004-3U-840-8-E
+<hr/>0431-B584A85-E
+Commodore Kha
+	Prec 9
+	Plan  5
+	Tactics 1
 	C005-3U-840-8-E
+<hr/>0740-B683A9B-D
+Commodore Ushdash
+	Prec 10
+	Plan  5
+	Tactics 1
 	C001-2U-840-8-D
+<hr/>0740-B683A9B-D
+Commodore Gieggainnim
+	Prec 10
+	Plan  4
+	Tactics 2
 	C002-2U-840-8-D
+<hr/>0740-B683A9B-D
+Commodore Idgigurdiik
+	Prec 15
+	Plan  4
+	Tactics -1
 	C003-2U-840-8-D
+<hr/>0740-B683A9B-D
+Commodore Uaus
+	Prec 12
+	Plan  3
+	Tactics -1
 	C004-2U-840-8-D
+<hr/>0740-B683A9B-D
+Commodore Aig
+	Prec 4
+	Plan  4
+	Tactics 2
 	C005-2U-840-8-D

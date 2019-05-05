@@ -146,25 +146,135 @@ Vland/B Vhodan
 
 
 
+<hr/>1007-C69A9CC-C
+Commodore Iklaaammuim
+	Prec 12
+	Plan  5
+	Tactics 1
 	C001-1U-730-7-C
+<hr/>1007-C69A9CC-C
+Commodore Gashmusamshishi
+	Prec 7
+	Plan  5
+	Tactics -1
 	C002-1U-730-7-C
+<hr/>1102-A547857-D
+Commodore Ag
+	Prec 7
+	Plan  5
+	Tactics 0
 	C001-2U-630-6-D
+<hr/>1102-A547857-D
+Commodore Guguuak
+	Prec 9
+	Plan  5
+	Tactics 1
 	C002-2U-630-6-D
+<hr/>1107-B4328DH-A
+Commodore Gilurkagim
+	Prec 10
+	Plan  5
+	Tactics 0
 	C001-1U-630-6-A
+<hr/>1108-C76A9AB-C
+Commodore Udkhe
+	Prec 10
+	Plan  5
+	Tactics -1
 	C001-1U-730-7-C
+<hr/>1108-C76A9AB-C
+Commodore Mirpiki
+	Prec 6
+	Plan  4
+	Tactics 0
 	C002-1U-730-7-C
+<hr/>1208-A758A8A-D
+Commodore Gurmaskhaap
+	Prec 4
+	Plan  5
+	Tactics 1
 	C001-2U-840-8-D
+<hr/>1208-A758A8A-D
+Commodore Biullash
+	Prec 13
+	Plan  5
+	Tactics -1
 	C002-2U-840-8-D
+<hr/>1208-A758A8A-D
+Commodore Ildamkamkiigkha
+	Prec 8
+	Plan  3
+	Tactics 0
 	C003-2U-840-8-D
+<hr/>1208-A758A8A-D
+Commodore Alaag
+	Prec 9
+	Plan  3
+	Tactics 0
 	C004-2U-840-8-D
+<hr/>1208-A758A8A-D
+Commodore Ekhgakhim
+	Prec 8
+	Plan  5
+	Tactics 0
 	C005-2U-840-8-D
+<hr/>1405-B89A8AA-C
+Commodore Eggigiashka
+	Prec 13
+	Plan  5
+	Tactics 2
 	C001-1U-630-6-C
+<hr/>1407-E539A77-C
+Commodore Duukliirkishu
+	Prec 10
+	Plan  2
+	Tactics 2
 	C001-1U-840-8-C
+<hr/>1407-E539A77-C
+Commodore Deakkhasuulzer
+	Prec 12
+	Plan  5
+	Tactics 2
 	C002-1U-840-8-C
+<hr/>1407-E539A77-C
+Commodore Aa
+	Prec 11
+	Plan  2
+	Tactics 0
 	C003-1U-840-8-C
+<hr/>1407-E539A77-C
+Commodore Kanu
+	Prec 9
+	Plan  4
+	Tactics -1
 	C004-1U-840-8-C
+<hr/>1408-B552A78-E
+Commodore Nai
+	Prec 9
+	Plan  5
+	Tactics 2
 	C001-3U-840-8-E
+<hr/>1408-B552A78-E
+Commodore Lakaammasuu
+	Prec 14
+	Plan  5
+	Tactics 2
 	C002-3U-840-8-E
+<hr/>1408-B552A78-E
+Commodore Alniiaamdashguu
+	Prec 4
+	Plan  1
+	Tactics -1
 	C003-3U-840-8-E
+<hr/>1408-B552A78-E
+Commodore Gumsirkhi
+	Prec 10
+	Plan  4
+	Tactics 0
 	C004-3U-840-8-E
+<hr/>1408-B552A78-E
+Commodore Ug
+	Prec 10
+	Plan  2
+	Tactics 1
 	C005-3U-840-8-E

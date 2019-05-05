@@ -43,9 +43,39 @@ Vland/J Akumid
 
 
 
+<hr/>0927-C7939CD-A
+Commodore Idgiipma
+	Prec 10
+	Plan  5
+	Tactics 1
 	C001-1U-730-7-A
+<hr/>0927-C7939CD-A
+Commodore Ki
+	Prec 12
+	Plan  5
+	Tactics 1
 	C002-1U-730-7-A
+<hr/>1028-C555A64-9
+Commodore Largaliagshauk
+	Prec 6
+	Plan  5
+	Tactics 1
 	C001-1U-840-8-9
+<hr/>1028-C555A64-9
+Commodore Ash
+	Prec 11
+	Plan  5
+	Tactics -2
 	C002-1U-840-8-9
+<hr/>1028-C555A64-9
+Commodore Biinualshamkee
+	Prec 15
+	Plan  3
+	Tactics 2
 	C003-1U-840-8-9
+<hr/>1624-C631854-A
+Commodore Agkirkaurkha
+	Prec 11
+	Plan  5
+	Tactics 0
 	C001-1U-630-6-A

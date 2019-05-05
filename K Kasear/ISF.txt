@@ -146,20 +146,105 @@ Vland/K Kasear
 
 
 
+<hr/>1730-B6748AA-A
+Commodore Dail
+	Prec 14
+	Plan  2
+	Tactics 1
 	C001-1U-630-6-A
+<hr/>1822-A5479AE-E
+Commodore Eumaamlushsaash
+	Prec 11
+	Plan  2
+	Tactics 1
 	C001-3U-730-7-E
+<hr/>1822-A5479AE-E
+Commodore Unkhuaashsaen
+	Prec 12
+	Plan  3
+	Tactics 2
 	C002-3U-730-7-E
+<hr/>1822-A5479AE-E
+Commodore Ikhkushmermashmarlush
+	Prec 11
+	Plan  4
+	Tactics 0
 	C003-3U-730-7-E
+<hr/>1923-C423965-C
+Commodore Kharkas
+	Prec 9
+	Plan  5
+	Tactics 2
 	C001-1U-730-7-C
+<hr/>1923-C423965-C
+Commodore I
+	Prec 9
+	Plan  5
+	Tactics -2
 	C002-1U-730-7-C
+<hr/>2225-C310A9A-E
+Commodore Alkhi
+	Prec 17
+	Plan  5
+	Tactics 0
 	A001-3U-800-600-E
+<hr/>2225-C310A9A-E
+Commodore Lunluka
+	Prec 9
+	Plan  5
+	Tactics -2
 	C002-3U-840-8-E
+<hr/>2225-C310A9A-E
+Commodore Dargaakli
+	Prec 11
+	Plan  4
+	Tactics 2
 	C003-3U-840-8-E
+<hr/>2225-C310A9A-E
+Commodore Aak
+	Prec 9
+	Plan  5
+	Tactics 1
 	C004-3U-840-8-E
+<hr/>2225-C310A9A-E
+Commodore Lunaaek
+	Prec 13
+	Plan  2
+	Tactics 2
 ???C001-3U-943-9(9)-E???
+<hr/>2328-D8D8A97-B
+Commodore Gipuush
+	Prec 11
+	Plan  3
+	Tactics -1
 	C001-1U-840-8-B
+<hr/>2328-D8D8A97-B
+Commodore Naaaishi
+	Prec 10
+	Plan  5
+	Tactics 1
 	C002-1U-840-8-B
+<hr/>2328-D8D8A97-B
+Commodore Iikhkaail
+	Prec 11
+	Plan  4
+	Tactics 0
 	C003-1U-840-8-B
+<hr/>2328-D8D8A97-B
+Commodore Argubemsherzaish
+	Prec 10
+	Plan  5
+	Tactics 0
 	C004-1U-840-8-B
+<hr/>2425-C54099B-A
+Commodore Ankur
+	Prec 9
+	Plan  5
+	Tactics 0
 	C001-1U-730-7-A
+<hr/>2425-C54099B-A
+Commodore Gaid
+	Prec 13
+	Plan  5
+	Tactics 0
 	C002-1U-730-7-A

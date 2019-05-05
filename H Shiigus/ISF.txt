@@ -157,23 +157,123 @@ Vland/H Shiigus
 
 
 
+<hr/>2515-B9D787C-A
+Commodore Aagakar
+	Prec 11
+	Plan  5
+	Tactics 2
 	C001-1U-630-6-A
+<hr/>2713-BA8AA97-C
+Commodore Uklagukumpiirkhe
+	Prec 10
+	Plan  4
+	Tactics -1
 	C001-1U-840-8-C
+<hr/>2713-BA8AA97-C
+Commodore Lugladimki
+	Prec 13
+	Plan  3
+	Tactics 0
 	C002-1U-840-8-C
+<hr/>2713-BA8AA97-C
+Commodore Eidgagmimgaadne
+	Prec 12
+	Plan  3
+	Tactics -1
 	C003-1U-840-8-C
+<hr/>2713-BA8AA97-C
+Commodore Kuande
+	Prec 12
+	Plan  5
+	Tactics 2
 	C004-1U-840-8-C
+<hr/>2816-B6569AD-9
+Commodore Akhshiirkhiirshimgigshur
+	Prec 12
+	Plan  5
+	Tactics 0
 	C001-1U-730-7-9
+<hr/>2816-B6569AD-9
+Commodore Aggidiid
+	Prec 11
+	Plan  5
+	Tactics 2
 	C002-1U-730-7-9
+<hr/>2914-B9B6999-D
+Commodore Giianbailkilu
+	Prec 13
+	Plan  2
+	Tactics 0
 	C001-2U-730-7-D
+<hr/>2914-B9B6999-D
+Commodore Umgiiiadgiger
+	Prec 9
+	Plan  3
+	Tactics 0
 	C002-2U-730-7-D
+<hr/>2914-B9B6999-D
+Commodore Egkarniudigi
+	Prec 15
+	Plan  5
+	Tactics -1
 	C003-2U-730-7-D
+<hr/>3011-E594A8A-A
+Commodore Ukkurkhii
+	Prec 14
+	Plan  1
+	Tactics -1
 	C001-1U-840-8-A
+<hr/>3011-E594A8A-A
+Commodore Akhdaaulmu
+	Prec 9
+	Plan  5
+	Tactics 2
 	C002-1U-840-8-A
+<hr/>3011-E594A8A-A
+Commodore Kheidguskhaashik
+	Prec 5
+	Plan  4
+	Tactics 0
 	C003-1U-840-8-A
+<hr/>3020-C100858-C
+Commodore Giiishmumdimii
+	Prec 8
+	Plan  3
+	Tactics 2
 	C001-1U-630-6-C
+<hr/>3212-B41097B-E
+Commodore Iigshirgashmigirke
+	Prec 12
+	Plan  2
+	Tactics 2
 	C001-3U-730-7-E
+<hr/>3212-B41097B-E
+Commodore Uulmiukrur
+	Prec 13
+	Plan  5
+	Tactics -2
 	C002-3U-730-7-E
+<hr/>3212-B41097B-E
+Commodore Kap
+	Prec 13
+	Plan  5
+	Tactics -2
 	C003-3U-730-7-E
+<hr/>3215-B64A998-E
+Commodore Uliimkheushaanna
+	Prec 4
+	Plan  5
+	Tactics -2
 	C001-3U-730-7-E
+<hr/>3215-B64A998-E
+Commodore Ukhla
+	Prec 6
+	Plan  2
+	Tactics 1
 	C002-3U-730-7-E
+<hr/>3215-B64A998-E
+Commodore Ishmiirkhaak
+	Prec 10
+	Plan  3
+	Tactics 2
 	C003-3U-730-7-E
