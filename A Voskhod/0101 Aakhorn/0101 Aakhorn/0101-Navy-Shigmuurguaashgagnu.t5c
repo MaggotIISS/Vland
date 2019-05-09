@@ -1,4 +1,4 @@
-//	3137 Alleman
+//	0101 Aakhorn
 ////////////////////////////////////////////////////////////////////////////////
 FC
 0 = 
@@ -12,13 +12,13 @@ FC
 8 = 
 9 = 
 BC
-0 = 3137 Alleman
-1 = A200555-F
-2 = SDBs X
+0 = 0101 Aakhorn
+1 = D556754-7
+2 = SDBs 1
 3 = Rons X
-4 = Def CF X
-5 = Troops X
-6 = Pop < 700 K
+4 = Def CF 5
+5 = Troops 1
+6 = Pop < 20 M
 7 = Belts 0
-8 = GGs 2
-9 = Worlds 13 G
+8 = GGs 4
+9 = Worlds 11 G

@@ -5,36 +5,36 @@
  pop = 9
  cul = 0
  basedemand = 8
- demandroll = 7
- totaldemand = 7
- TOTAL DEMAND = 7
+ demandroll = 9
+ totaldemand = 9
+ TOTAL DEMAND = 9
 
 1	Compute Resource Trade
  Imports = Total Demand - Resources
- IMPORTS = 7
+ IMPORTS = 9
 
 2	Compute Base GWP
- re = 7.7
+ re = 9.9
  lf = 5000000.0
  inf = 8
  cul = 0
- GWP = 3.08E8
+ GWP = 3.96E8
 
 3	Compute Finished Goods Trade Multiplier
  FGTM = 0.0
 
 4	Compute Interstellar Demand Multiplier
- 2D roll of 8
+ 2D roll of 2
  dm = 5
- change[7] = 0.02
- aggregatechange = 0.02
+ change[1] = -0.04
+ aggregatechange = -0.04
  prev = 1.0
- CURRENT = 1.02
+ CURRENT = 0.96
 
 5	Compute final GWP
  basedemand = 8
  fgtm = 0.0
- totaldemand = 7
+ totaldemand = 9
  FINALGWP = 0.0
 
 6	Compute Tax Rate
@@ -46,9 +46,9 @@
 7	Compute Budget
  GB = TotalTax * GWP
  TotalTax = 0.35
- GWP = 3.08E8
+ GWP = 3.96E8
  FGWP = 0.0
- GB = 1.078E8
+ GB = 1.386E8
 
 8	Compute Civilian Expenses
  Civilian Expenses = [(C+I+L)/100] * A * G * GB
@@ -57,7 +57,7 @@
  L = 11.0
  A = 1.0
  G = 1.05
- CIVILIAN EXPENSES = 3.234E8
+ CIVILIAN EXPENSES = 4.158E8
 
 9	Compute Military Expenses
  Military Expenses = M * A * G
@@ -71,8 +71,8 @@
 10	Compute Expenses from Budget
  FINALGWP = 0.0
 ----MINUS----
- Govt. = 1.078E8
- Civilian = 3.234E8
+ Govt. = 1.386E8
+ Civilian = 4.158E8
  Military = 16.8
  civi = 1.0
 

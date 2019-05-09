@@ -204,122 +204,122 @@ Vland/P Kakadan
 
 
 <hr/>2533-D697AFF-A
-Commodore Khaarkheasshiauug
+Commodore Ekhgiigkuiu
 	Prec 13
-	Plan  5
+	Plan  3
 	Tactics 1
 	C001-1U-840-8-A
 <hr/>2533-D697AFF-A
-Commodore Khiinliiisdi
-	Prec 14
-	Plan  4
+Commodore Ku
+	Prec 9
+	Plan  5
 	Tactics 0
 	C002-1U-840-8-A
 <hr/>2533-D697AFF-A
-Commodore Ukhzakaduu
-	Prec 6
-	Plan  4
+Commodore Ar
+	Prec 7
+	Plan  5
 	Tactics 0
 	C003-1U-840-8-A
 <hr/>2540-A7698B9-D
-Commodore Emkaa
+Commodore Ellagashshiikhe
 	Prec 8
-	Plan  2
+	Plan  4
 	Tactics 0
 	C001-2U-630-6-D
 <hr/>2540-A7698B9-D
-Commodore Gukhamkaadga
-	Prec 12
-	Plan  4
-	Tactics 2
+Commodore Na
+	Prec 8
+	Plan  3
+	Tactics 1
 	C002-2U-630-6-D
 <hr/>2631-E789ABE-A
-Commodore Annaiikmanlesa
-	Prec 13
-	Plan  4
-	Tactics 2
+Commodore Al
+	Prec 8
+	Plan  5
+	Tactics 1
 	C001-1U-840-8-A
 <hr/>2631-E789ABE-A
-Commodore Imle
-	Prec 6
-	Plan  3
-	Tactics -1
-	C002-1U-840-8-A
-<hr/>2631-E789ABE-A
-Commodore Akmarledesi
+Commodore Ash
 	Prec 10
 	Plan  4
 	Tactics 2
+	C002-1U-840-8-A
+<hr/>2631-E789ABE-A
+Commodore Idkiibishiiikgir
+	Prec 12
+	Plan  5
+	Tactics 0
 	C003-1U-840-8-A
 <hr/>2737-B2009AB-E
-Commodore Iishigiiszush
-	Prec 6
-	Plan  3
+Commodore Agkiuuk
+	Prec 8
+	Plan  5
 	Tactics -2
 	C001-3U-730-7-E
 <hr/>2737-B2009AB-E
-Commodore Ush
-	Prec 6
-	Plan  3
-	Tactics 0
+Commodore Uuiiggail
+	Prec 13
+	Plan  5
+	Tactics 2
 	C002-3U-730-7-E
 <hr/>2737-B2009AB-E
-Commodore Uubuig
-	Prec 13
-	Plan  4
-	Tactics -2
+Commodore Giaagdu
+	Prec 12
+	Plan  1
+	Tactics 1
 	C003-3U-730-7-E
 <hr/>2739-AAB5895-D
-Commodore Mashgumbaauskhii
-	Prec 14
-	Plan  4
-	Tactics 2
+Commodore Gig
+	Prec 7
+	Plan  3
+	Tactics -2
 	C001-2U-630-6-D
 <hr/>2739-AAB5895-D
-Commodore Iikshirkegur
-	Prec 6
-	Plan  3
-	Tactics 1
+Commodore Ardarshadgansuum
+	Prec 16
+	Plan  2
+	Tactics -1
 	C002-2U-630-6-D
 <hr/>2931-A200976-F
-Commodore La
+Commodore Mukhuiishgishael
 	Prec 14
 	Plan  5
-	Tactics 1
+	Tactics 2
 	C001-4U-730-7-F
 <hr/>2931-A200976-F
-Commodore E
-	Prec 15
-	Plan  4
+Commodore Miirkhar
+	Prec 6
+	Plan  5
 	Tactics 0
 	C002-4U-730-7-F
 <hr/>2931-A200976-F
-Commodore Shiiuumkur
-	Prec 7
-	Plan  5
-	Tactics -2
+Commodore Mumkaapmi
+	Prec 8
+	Plan  4
+	Tactics 1
 	C003-4U-730-7-F
 <hr/>3031-C202974-C
-Commodore Akkiul
-	Prec 16
-	Plan  3
+Commodore Guu
+	Prec 13
+	Plan  4
 	Tactics 0
 	C001-1U-730-7-C
 <hr/>3031-C202974-C
-Commodore Aad
-	Prec 12
-	Plan  3
-	Tactics 2
+Commodore Sharke
+	Prec 7
+	Plan  5
+	Tactics 0
 	C002-1U-730-7-C
 <hr/>3131-B5629CA-C
-Commodore Ik
-	Prec 14
+Commodore Keuz
+	Prec 5
 	Plan  4
 	Tactics 0
 	C001-1U-730-7-C
 <hr/>3131-B5629CA-C
-Commodore Kiugniikhship
-	Prec 10
-	Plan  4
-	Tactics -2
+Commodore Iiggaublasgima
+	Prec 5
+	Plan  5
+	Tactics 1
 	C002-1U-730-7-C

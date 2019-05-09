@@ -1,6 +1,5 @@
 //	2531 Kiddinu
 ////////////////////////////////////////////////////////////////////////////////
-// Rearden
 FC
 0 = 
 1 = 
@@ -14,12 +13,12 @@ FC
 9 = 
 BC
 0 = 2531 Kiddinu
-1 = 
-2 = Size
-3 = Quality
-4 = Armament
-5 = Mobility
-6 = Type
-7 = CF
-8 = TF
-9 = TL
+1 = B555553-C
+2 = SDBs X
+3 = Rons X
+4 = Def CF X
+5 = Troops X
+6 = Pop < 400 K
+7 = Belts 3
+8 = GGs 4
+9 = Worlds 11 G
